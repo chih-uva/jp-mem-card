@@ -1,0 +1,149 @@
+/* Load custom font */
+@font-face {
+    font-family: NerdFont;
+    src: url('./fonts/cnm_nerd.ttf') format('truetype'); /* Replace with your font file name */
+}
+
+@font-face {
+    font-family: 'ElegantFont';
+    src: url('./fonts/elegant.ttc') format('truetype'); /* Replace with your font file name */
+}
+
+
+body, html {
+    height: 100%;
+    font-family: 'NerdFont';
+    background-color: #c3b39c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'NerdFont';
+}
+
+/* Vertical Divider Lines */
+.divider {
+    width: 6pt;
+    height: 100%;
+    background-color: black;
+    position: relative;
+    flex-shrink: 1; /* Allows dividers to shrink if needed */
+}
+
+.left-divider {
+    margin-right: auto;
+}
+
+.right-divider {
+    margin-left: auto;
+}
+
+/* Content Area */
+.content {
+    width: 600px; /* Fixed width for middle column */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex-shrink: 0; /* Prevents shrinking */
+}
+
+/* Horizontal Divider Line */
+.separator-line {
+    width: 95%;
+    border: none;
+    border-top: 2px dashed black;
+    margin: 30px 0;
+}
+
+/* Vertical Empty Spacer*/
+.spacer {
+    height: 20px; /* Adjust to control the vertical space */
+}
+
+
+.title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    white-space: nowrap; /* Ensure the title is on a single line */
+}
+
+.subtitle {
+    font-size: 0.9rem;
+    margin-bottom: 30px;
+    transform: translateX(75%); /* Shift the element to the right by 10% of its width */
+}
+
+
+/* Main "Start" Button */
+.main-button {
+    font-size: 2.5rem;
+    font-family: NerdFont;
+    padding: 20px 0;
+    width: 85%; /* Larger width to match the design */
+    /* max-width: 400px;*/
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: 2px dashed black;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center text inside the button */
+}
+
+/* Options Buttons at the Bottom */
+.options {
+    display: flex;
+    justify-content: space-around;
+    width: 210%;
+    max-width: 400px;
+    margin-top: 20px;
+}
+
+.option-button {
+    width: 30%; /* Adjusted width */
+    padding: 15px 0; /* Increased padding to ensure text fits */
+    font-size: 1.2rem; /* Increased font size for better readability */
+    font-family: NerdFont;
+    cursor: pointer;
+    border: 2px dashed black;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Center text inside the button */
+}
+
+/* Scrollable Text Box */
+.scrollable-box {
+    width: 85%;
+    height: 450px; /* Adjust height as needed */
+    margin: 20px 0;
+    padding: 10px;
+    padding-left: 5pt; /* Adds a 5pt space on the left side */
+    overflow-y: auto; /* Enable vertical scrolling */
+    overflow-x: hidden; /* Disable horizontal scrolling */
+    border: 2px dashed black;
+    background-color: #c3b39c; /* Match page background color */
+    color: black; /* Text color */
+    cursor: pointer; /* Makes it look clickable */
+    box-sizing: border-box; /* Include padding and border in width and height */
+    word-wrap: normal; /* Normal word wrap behavior */
+    white-space: normal; /* Allow text to wrap normally */
+    word-break: keep-all; /* Prevent breaking words in the middle */
+    font-size: 1em; /* Base font size, adjust as needed */
+    line-height: 1.5; /* Improves readability */
+    text-align: left; /* Align text to the left */
+}
+
+
+
+
+

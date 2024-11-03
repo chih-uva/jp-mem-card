@@ -1,0 +1,42 @@
+[
+    {
+        "word": "遠回り",
+        "type": "Noun, Suru-verb",
+        "pronunciation": "とおまわり",
+        "explanation": "遠回り means taking a longer route to reach a destination. It can imply both a physical detour or a metaphorical one, such as taking longer to achieve a goal.",
+        "examples": [
+            {
+                "sentence": "彼はいつも遠回りして帰る。",
+                "translation": "He always takes the long way home."
+            },
+            {
+                "sentence": "成功への道は時々遠回りになることもある。",
+                "translation": "The road to success is sometimes a long way around."
+            },
+            {
+                "sentence": "遠回りしたけど、ようやく目的地に着いた。",
+                "translation": "It took a detour, but I finally arrived at my destination."
+            }
+        ]
+    },
+    {
+        "word": "手入れ",
+        "type": "Noun, Suru-verb",
+        "pronunciation": "ていれ",
+        "explanation": "手入れ refers to the act of maintaining or taking care of something, such as equipment, plants, or one's appearance. It involves regular upkeep to keep things in good condition.",
+        "examples": [
+            {
+                "sentence": "毎日、庭の手入れをしています。",
+                "translation": "I take care of the garden every day."
+            },
+            {
+                "sentence": "彼女は肌の手入れに時間をかけている。",
+                "translation": "She spends time taking care of her skin."
+            },
+            {
+                "sentence": "この機械は定期的に手入れが必要だ。",
+                "translation": "This machine needs regular maintenance."
+            }
+        ]
+    }
+]
