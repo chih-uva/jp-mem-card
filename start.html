@@ -16,23 +16,18 @@
 
 <body>
     <div class="divider left-divider"></div>
-    <div class="content">
-        
-        <!-- Main Vocabulary Button -->
-        <button class="main-button" id="vocabButton" onclick="showExplanation()">Loading...</button>
+    <div id="startPageContent">
 
-        <!-- Scrollable Text Box for Explanation (hidden initially) -->
-        <div class="scrollable-box" id="explanationBox" style="display: none;"></div>
-
-
-        
-
-        <!-- Navigation Buttons -->
-        <div class="options" style="margin-top: 20px;">
-            <button class="option-button" onclick="prevVocab()"> << </button>
-            <button class="option-button" onclick="home()">Home</button>
-            <button class="option-button" onclick="nextVocab()"> >> </button>
+        <div class="content">
+            <button class="main-button" id="vocabButton" onclick="showExplanation(); removeTopMargin()">Loading...</button>
+            <div class="scrollable-box" id="explanationBox" style="display: none;"></div>
+            <div class="options" style="margin-top: 20px;">
+                <button class="option-button" onclick="prevVocab()"> << </button>
+                <button class="option-button" onclick="home()">Home</button>
+                <button class="option-button" onclick="nextVocab()"> >> </button>
+            </div>
         </div>
+
     </div>
     <div class="divider right-divider"></div>
 </body>

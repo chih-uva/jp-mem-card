@@ -52,23 +52,23 @@ function showExplanation() {
         // Set the text content for the explanation box directly
         const currentEntry = vocabData[currentIndex];
         const explanationText = `
-            <span style="font-size: 1.5em; font-weight: bold;">${currentEntry.word}</span> (${currentEntry.pronunciation})<br>
-            <span style="font-size: 1.2em; font-weight: bold;">Type:</span> ${currentEntry.type}<br><br>
-            <span style="font-size: 1.2em; font-weight: bold;">Explanation:</span> ${currentEntry.explanation}<br><br>
-            <span style="font-size: 1.2em; font-weight: bold;">Examples:</span><br>
-            ${currentEntry.examples.map(ex => `- ${ex.sentence}<br> (${ex.translation})`).join('<br>')}
+        <span style="font-size: 1.5em; font-weight: bold;">${currentEntry.word}</span> (${currentEntry.pronunciation})<br>
+        <span style="font-size: 1.2em; font-weight: bold;">Type:</span> ${currentEntry.type}<br><br>
+        <span style="font-size: 1.2em; font-weight: bold;">Explanation:</span><br> ${currentEntry.explanation}<br><br>
+        <span style="font-size: 1.2em; font-weight: bold;">Examples:</span><br>
+        ${currentEntry.examples.map(ex => `${ex.sentence}<br> (${ex.translation})`).join('<br><br>')}
         `;
+
 
         // Set innerHTML instead of textContent for HTML formatting
         explanationBox.innerHTML = explanationText;
-// Use textContent for plain text display
+    
+        // Use textContent for plain text display
     } else {
         console.log('No explanation available');
         explanationBox.textContent = "No explanation available";
     }
 }
-
-
 
 // Add event listener to explanation box to toggle visibility on click
 document.getElementById('explanationBox').addEventListener('click', () => {
