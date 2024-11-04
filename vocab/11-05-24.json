@@ -1,0 +1,62 @@
+[
+  {
+    "word": "皮膚科",
+    "type": "Noun",
+    "pronunciation": "ひふか",
+    "explanation": "皮膚科 refers to the medical field of dermatology, which focuses on the diagnosis and treatment of skin diseases and disorders.",
+    "examples": [
+      {
+        "sentence": "彼は皮膚科の専門医です。",
+        "translation": "He is a specialist in dermatology."
+      },
+      {
+        "sentence": "皮膚科で肌の問題を診てもらいました。",
+        "translation": "I got my skin issues checked at the dermatology clinic."
+      },
+      {
+        "sentence": "皮膚科の治療を受けるために病院に行きます。",
+        "translation": "I will go to the hospital to receive treatment at the dermatology department."
+      }
+    ]
+  },
+  {
+    "word": "耳鼻科",
+    "type": "Noun",
+    "pronunciation": "じびか",
+    "explanation": "耳鼻科 refers to the medical specialty of otolaryngology, which focuses on the diagnosis and treatment of diseases and disorders related to the ears, nose, and throat.",
+    "examples": [
+      {
+        "sentence": "彼は耳鼻科の医師です。",
+        "translation": "He is an otolaryngologist."
+      },
+      {
+        "sentence": "耳鼻科の診察を受ける予定です。",
+        "translation": "I have an appointment for an otolaryngology examination."
+      },
+      {
+        "sentence": "耳鼻科の病院に行かなければなりません。",
+        "translation": "I have to go to the otolaryngology hospital."
+      }
+    ]
+  },
+  {
+    "word": "息苦しい",
+    "type": "Adjective",
+    "pronunciation": "いきぐるしい",
+    "explanation": "息苦しい means feeling suffocated or stifling, often in a physical or emotional sense. It describes a situation where one feels constrained, uncomfortable, or lacking space to breathe.",
+    "examples": [
+      {
+        "sentence": "密閉された部屋で息苦しい空気が漂っていた。",
+        "translation": "The air in the sealed room felt suffocating."
+      },
+      {
+        "sentence": "彼は息苦しい状況から逃れるために旅行に出かけた。",
+        "translation": "He went on a trip to escape from the stifling situation."
+      },
+      {
+        "sentence": "その狭い部屋は息苦しい感じがして、すぐに出たくなった。",
+        "translation": "The small room felt suffocating, and I wanted to leave immediately."
+      }
+    ]
+  }
+]

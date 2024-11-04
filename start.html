@@ -11,12 +11,19 @@
     
     <!-- Main JavaScript file for handling functionality -->
     <script src="./javascript/start.js" defer></script> 
+
+    <!-- Theme Loader -->
+    <script src="./javascript/themeLoader.js" defer></script>
+
     
 </head>
 
 <body>
     <div class="divider left-divider"></div>
+
     <div id="startPageContent">
+
+        <div id="listName" style="position: absolute; top: 1%; left: 25%; font-size: 0.6rem; font-weight: bold;"></div>
 
         <div class="content">
             <button class="main-button" id="vocabButton" onclick="showExplanation(); removeTopMargin()">Loading...</button>
@@ -29,6 +36,7 @@
         </div>
 
     </div>
+
     <div class="divider right-divider"></div>
 </body>
 </html>

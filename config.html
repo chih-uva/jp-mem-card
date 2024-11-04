@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configuration</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="./javascript/config.js" defer></script>
+
+    <script src="./javascript/themeLoader.js" defer></script>
+</head>
+
+<body>
+    <div class="divider left-divider"></div>
+
+    <div id="configPageContent">
+
+        <div class="content">
+            <!-- API Key Section -->
+            
+            <p class="aligned-text" style="width: 90%;  text-align: left;">
+                <label for="apiKey" style="display: block; font-weight: bold; margin-bottom: 15px;">Enter Your ChatGPT API Key</label>
+                <input type="text" id="apiKey" style="width: 100%; padding: 10px; border: 2px dashed black; box-sizing: border-box; background-color: lightgrey; margin-bottom: 35px;">
+            </p>
+
+            <!-- Theme Change Section -->
+            <p class="aligned-text" style="width: 90%; text-align: left;">
+                <label for="apiKey" style="display: block; font-weight: bold; margin-bottom: 15px;">Change Themes</label>
+
+                <select id="themeSelect" onchange="applyTheme(this.value)" style="width: 100%; padding: 10px; border: 2px dashed black; box-sizing: border-box; background-color: lightgrey;">
+                    <option value="default">Default</option>
+                    <option value="UMich">UMich</option>
+                    <option value="UVA">UVA</option>
+                </select>
+            </p>
+
+            <div class="spacer" id="homePageSpacing" style="height: 60px;"></div> 
+
+            <!-- Options Buttons (Cancel and Confirm) -->
+            <div class="options" style="margin-top: 20px;">
+                <button class="option-button" onclick="goToHome()">Cancel</button>
+                <button class="option-button" onclick="confirmSettings()">Confirm</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider right-divider"></div>
+</body>
+</html>

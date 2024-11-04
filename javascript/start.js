@@ -19,6 +19,15 @@ fetch(vocabFile)
         document.getElementById('vocabButton').textContent = "No vocabulary available"; // Show error message if fetch fails
     });
 
+// Display the list name (JSON file name) at the top
+document.addEventListener("DOMContentLoaded", function() {
+    const listNameElement = document.getElementById("listName");
+    if (listNameElement) {
+        const fileName = vocabFile.split('/').pop(); // Extracts the file name from the path
+        listNameElement.textContent = `displaying: ${fileName}`;
+    }
+});
+
 // Display the current vocabulary word on the main button
 function displayVocab() {
     const vocabButton = document.getElementById('vocabButton');
@@ -56,7 +65,7 @@ function showExplanation() {
         <span style="font-size: 1.2em; font-weight: bold;">Type:</span> ${currentEntry.type}<br><br>
         <span style="font-size: 1.2em; font-weight: bold;">Explanation:</span><br> ${currentEntry.explanation}<br><br>
         <span style="font-size: 1.2em; font-weight: bold;">Examples:</span><br>
-        ${currentEntry.examples.map(ex => `${ex.sentence}<br> (${ex.translation})`).join('<br><br>')}
+        ${currentEntry.examples.map(ex => `${ex.sentence}<br> ${ex.translation}`).join('<br>------<br>')}
         `;
 
 
@@ -94,3 +103,7 @@ function prevVocab() {
 function home() {
     window.location.href = 'index.html';
 }
+
+
+
+

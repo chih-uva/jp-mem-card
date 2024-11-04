@@ -1,0 +1,25 @@
+{
+    "themes": {
+        "default": {
+            "backgroundColor": "#c3b39c",
+            "textColor": "#000000",
+            "buttonBackgroundColor": "transparent",
+            "buttonBorderColor": "#000000",
+            "buttonTextColor": "#000000"
+        },
+        "UMich": {
+            "backgroundColor": "#00274C",
+            "textColor": "#FFCB05",
+            "buttonBackgroundColor": "transparent",
+            "buttonBorderColor": "#FFCB05",
+            "buttonTextColor": "#FFCB05"
+        },
+        "UVA": {
+            "backgroundColor": "#232D4B",
+            "textColor": "#E57200",
+            "buttonBackgroundColor": "transparent",
+            "buttonBorderColor": "#E57200",
+            "buttonTextColor": "white"
+        }
+    }
+}
