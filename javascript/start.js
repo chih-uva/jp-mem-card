@@ -1,6 +1,6 @@
 // Get the date parameter from the URL
 const urlParams = new URLSearchParams(window.location.search);
-const dateParam = urlParams.get('date') || 'example'; // default to 'example' if no date
+const dateParam = urlParams.get('date');
 console.log("URL date parameter:", dateParam);
 
 
@@ -12,9 +12,8 @@ let vocabData = [];
 let currentIndex = 0;
 
 // Fetch the most recent vocabulary JSON file from the server
-if (dateParam){}
-
-fetch('/latest-vocab')
+if (dateParam){
+    fetch(`/vocab/${dateParam}`)
     .then(response => {
         if (!response.ok) throw new Error('Network response was not ok');
         return response.json();
@@ -33,7 +32,28 @@ fetch('/latest-vocab')
         console.error('Error loading vocabulary:', error);
         document.getElementById('vocabButton').textContent = "No vocabulary available";
     });
+}   
+else{   
+    fetch('/latest-vocab')
+    .then(response => {
+        if (!response.ok) throw new Error('Network response was not ok');
+        return response.json();
+    })
+    .then(data => {
+        console.log('Fetched vocabulary data:', data); // Debug log to check fetched data
 
+        // Display the filename in the top left corner with the prefix "Now on:"
+        document.getElementById('listName').textContent = `Now on: ${data.filename}`;
+
+        // Set the vocabulary data and display the first entry
+        vocabData = data.content;
+        displayVocab();
+    })
+    .catch(error => {
+        console.error('Error loading vocabulary:', error);
+        document.getElementById('vocabButton').textContent = "No vocabulary available";
+    });
+}
 
 // Display the list name (JSON file name) at the top
 document.addEventListener("DOMContentLoaded", function() {

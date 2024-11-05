@@ -94,12 +94,47 @@ app.post('/save-vocabulary', (req, res) => {
                 res.status(500).send("Error saving vocabulary");
             } else {
                 console.log(`Vocabulary entry appended successfully to ${fileName}`);
-                res.status(500).send("Vocabulary saved successfully");
+                syncVocabHistory();
+                res.status(200).send("Vocabulary saved successfully");
             }
         });
     });
 });
 
+
+// Endpoint to get the JSON file of designated name in the ./vocab directory
+app.get('/vocab/:date', (req, res) => {
+    const { date } = req.params; // Get the date from the URL
+    const vocabDir = path.join(__dirname, '../vocab');
+    const fileName = `${date}.json`;
+    const filePath = path.join(vocabDir, fileName);
+    
+
+    // Log the requested file path
+    console.log(`Fetching vocabulary file: ${filePath}`);
+
+    // Check if the requested file exists and read its content
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            if (err.code === 'ENOENT') {
+                // File not found
+                console.error("File not found:", filePath);
+                return res.status(404).send(`File ${fileName} not found`);
+            } else {
+                // Other errors
+                console.error("Error reading file:", err);
+                return res.status(500).send("Error reading file");
+            }
+        }
+        try {
+            const jsonData = JSON.parse(data); // Parse JSON data
+            res.json({ filename: fileName, content: jsonData });
+        } catch (parseError) {
+            console.error("Error parsing JSON:", parseError);
+            res.status(500).send("Error parsing JSON file");
+        }
+    });
+});
 
 
 
@@ -115,8 +150,14 @@ app.get('/latest-vocab', (req, res) => {
 
         const jsonFiles = files
             .filter(file => file.endsWith('.json'))
-            .map(file => ({ file, mtime: fs.statSync(path.join(vocabDir, file)).mtime }))
-            .sort((a, b) => b.mtime - a.mtime);
+            .map(file => {
+                // Extract and parse date from filename assuming format is MM-DD-YY.json
+                const [month, day, year] = file.split('-');
+                const date = new Date(`20${year.split('.')[0]}`, month - 1, day); // Parsing as Date object
+                console.log(file, date)
+                return { file, date };
+            })
+            .sort((a, b) => b.date - a.date); // Sort by date in descending order
 
         if (jsonFiles.length === 0) {
             return res.status(404).send("No vocabulary files found.");
@@ -134,6 +175,9 @@ app.get('/latest-vocab', (req, res) => {
         });
     });
 });
+
+
+
 
 app.get('/vocab-history', (req, res) => {
     const filePath = path.join(__dirname, '../config/vocabHistory.json');

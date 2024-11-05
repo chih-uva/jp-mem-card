@@ -1,0 +1,42 @@
+[
+  {
+    "word": "散らかす",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "ちらかす",
+    "explanation": "散らかす means to scatter or to make a mess. It is used when things are disorganized or spread out in a disorderly manner.",
+    "examples": [
+      {
+        "sentence": "部屋が散らかしている。",
+        "translation": "The room is messy."
+      },
+      {
+        "sentence": "子供たちはおもちゃを散らかして遊んでいる。",
+        "translation": "The children are playing and have scattered their toys."
+      },
+      {
+        "sentence": "彼は仕事を散らかしてしまった。",
+        "translation": "He has made a mess of his work."
+      }
+    ]
+  },
+  {
+    "word": "溢れる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "あふれる",
+    "explanation": "溢れる means 'to overflow' or 'to spill over.' It describes a situation where a liquid or an emotion exceeds its container or limit.",
+    "examples": [
+      {
+        "sentence": "水が溢れそうです。",
+        "translation": "The water is about to overflow."
+      },
+      {
+        "sentence": "彼の心は喜びで溢れている。",
+        "translation": "His heart is overflowing with joy."
+      },
+      {
+        "sentence": "バケツが溢れた。",
+        "translation": "The bucket overflowed."
+      }
+    ]
+  }
+]

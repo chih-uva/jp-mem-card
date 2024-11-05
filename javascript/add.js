@@ -193,3 +193,8 @@ function displayTemporaryMessage(message, type) {
 function goToHome() {
     window.location.href = 'index.html';
 }
+
+// Function to redirect to the search page
+function searchDate() {
+    window.location.href = 'select.html'; // Redirect to select date page
+  }
