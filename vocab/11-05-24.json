@@ -58,5 +58,281 @@
         "translation": "The small room felt suffocating, and I wanted to leave immediately."
       }
     ]
+  },
+  {
+    "word": "ぐったり",
+    "type": "Adverb",
+    "pronunciation": "ぐったり",
+    "explanation": "ぐったり is an adverb that describes a state of being exhausted or worn out, often used to express physical fatigue or weakness.",
+    "examples": [
+      {
+        "sentence": "試験の後、彼はぐったりとベッドに倒れ込んだ。",
+        "translation": "After the exam, he collapsed onto the bed, exhausted."
+      },
+      {
+        "sentence": "暑い日には外で働いた後、犬はぐったりしている。",
+        "translation": "After working outside on a hot day, the dog is completely exhausted."
+      },
+      {
+        "sentence": "長い旅の後、彼女はぐったりと椅子に座っていた。",
+        "translation": "After a long journey, she sat in the chair, completely drained."
+      }
+    ]
+  },
+  {
+    "word": "がらがら",
+    "type": "Adjective, Onomatopoeia",
+    "pronunciation": "がらがら",
+    "explanation": "がらがら is an onomatopoeic word in Japanese that mimics the sound of something rattling or clattering. It is often used to describe a rattling or clattering noise made by objects or structures that are loose or unstable.",
+    "examples": [
+      {
+        "sentence": "電車ががらがらと揺れながら走っていた。",
+        "translation": "The train was rattling as it ran."
+      },
+      {
+        "sentence": "風で建物ががらがらと音を立てている。",
+        "translation": "The building is making a rattling noise in the wind."
+      },
+      {
+        "sentence": "彼女のバッグががらがらと音を立てながら床を歩いている。",
+        "translation": "Her bag is clattering as it walks on the floor."
+      }
+    ]
+  },
+  {
+    "word": "ぎっしり",
+    "type": "Adverb",
+    "pronunciation": "ぎっしり",
+    "explanation": "ぎっしり is an adverb in Japanese that describes something being tightly packed or closely packed together, often used to express something being filled to capacity or being densely packed.",
+    "examples": [
+      {
+        "sentence": "冷蔵庫の中は食材でぎっしりだ。",
+        "translation": "The inside of the refrigerator is packed full of ingredients."
+      },
+      {
+        "sentence": "その本棚は本でぎっしりだ。",
+        "translation": "The bookshelf is filled with books."
+      },
+      {
+        "sentence": "彼女のスケジュールは予定でぎっしりだ。",
+        "translation": "Her schedule is packed with appointments."
+      }
+    ]
+  },
+  {
+    "word": "起きる",
+    "type": "Intransitive verb",
+    "pronunciation": "おきる",
+    "explanation": "To occur, happen, take place. It is used to describe events or situations unfolding.",
+    "examples": [
+      {
+        "sentence": "事故は昨日、起きました。",
+        "translation": "The accident happened yesterday."
+      },
+      {
+        "sentence": "明日、大切な会議が起きます。",
+        "translation": "Tomorrow, an important meeting will take place."
+      },
+      {
+        "sentence": "夜中に地震が起きた。",
+        "translation": "An earthquake occurred in the middle of the night."
+      }
+    ]
+  },
+  {
+    "word": "万一",
+    "type": "Noun, Adverb",
+    "pronunciation": "まんいち",
+    "explanation": "A phrase that means 'in the unlikely event that...,' 'if by any chance...,' or 'just in case.' It is used to express a situation that is unexpected or undesirable.",
+    "examples": [
+      {
+        "sentence": "万一の事態に備えて、避難計画を立てておくべきだ。",
+        "translation": "We should have an evacuation plan in place just in case of an emergency."
+      },
+      {
+        "sentence": "万一の場合に備えて、予備の食料を用意しておく。",
+        "translation": "Prepare extra food just in case of an emergency."
+      },
+      {
+        "sentence": "万一のトラブルに備えて、携帯電話を常に持ち歩いている。",
+        "translation": "I always carry my mobile phone with me in case of any trouble."
+      }
+    ]
+  },
+  {
+    "word": "揺れ",
+    "type": "Noun",
+    "pronunciation": "ゆれ",
+    "explanation": "揺れ refers to the act of swaying or shaking, often used to describe the movement of objects or the feeling of instability.",
+    "examples": [
+      {
+        "sentence": "地震の揺れで建物が揺れた。",
+        "translation": "The building shook due to the earthquake."
+      },
+      {
+        "sentence": "木々が風に揺れていた。",
+        "translation": "The trees were swaying in the wind."
+      },
+      {
+        "sentence": "彼の声に揺れる感情を抑えきれなかった。",
+        "translation": "She couldn't contain the emotions that shook in response to his voice."
+      }
+    ]
+  },
+  {
+    "word": "ようとしても",
+    "type": "Expression",
+    "pronunciation": "ようとしても",
+    "explanation": "The expression ようとしても is used to convey the idea of trying to do something, but facing difficulties or obstacles that make it challenging or impossible to achieve the intended outcome.",
+    "examples": [
+      {
+        "sentence": "彼は一生懸命勉強しようとしても、なかなか成績が上がらない。",
+        "translation": "He tries hard to study, but his grades don't improve much."
+      },
+      {
+        "sentence": "毎日運動しようとしても、忙しくて難しい。",
+        "translation": "It's difficult to exercise every day even if I try."
+      }
+    ]
+  },
+  {
+    "word": "その他",
+    "type": "Noun",
+    "pronunciation": "そのた",
+    "explanation": "その他 refers to 'other' or 'the rest' and is used to indicate additional items or categories that are not specifically mentioned. It is commonly used in lists or when categorizing items.",
+    "examples": [
+      {
+        "sentence": "果物はリンゴ、バナナ、その他の種類があります。",
+        "translation": "There are apples, bananas, and other types of fruit."
+      },
+      {
+        "sentence": "このプロジェクトには、デザイン、開発、その他の作業が含まれます。",
+        "translation": "This project includes design, development, and other tasks."
+      },
+      {
+        "sentence": "会議では、予算、スケジュール、その他の問題について話し合いました。",
+        "translation": "In the meeting, we discussed the budget, schedule, and other issues."
+      }
+    ]
+  },
+  {
+    "word": "話し合う",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "はなしあう",
+    "explanation": "話し合う means to discuss or to talk something over with someone. It often implies a conversation aimed at reaching an understanding or agreement.",
+    "examples": [
+      {
+        "sentence": "私たちは問題について話し合う必要があります。",
+        "translation": "We need to discuss the issue."
+      },
+      {
+        "sentence": "彼らは計画を話し合っている。",
+        "translation": "They are discussing the plan."
+      },
+      {
+        "sentence": "会議で意見を話し合った。",
+        "translation": "We discussed our opinions in the meeting."
+      }
+    ]
+  },
+  {
+    "word": "うちに",
+    "type": "Expression",
+    "pronunciation": "うちに",
+    "explanation": "うちに is used to indicate a period during which something happens or is true. It can mean 'while' or 'before' depending on the context, suggesting that an action should be taken during a particular time frame or before something changes.",
+    "examples": [
+      {
+        "sentence": "雨が降らないうちに帰りましょう。",
+        "translation": "Let's go home before it starts raining."
+      },
+      {
+        "sentence": "若いうちにいろいろな経験をしたほうがいい。",
+        "translation": "It's better to have various experiences while you're young."
+      },
+      {
+        "sentence": "勉強しているうちに眠くなった。",
+        "translation": "I got sleepy while studying."
+      }
+    ]
+  },
+  {
+    "word": "てからないと",
+    "type": "Conjunction",
+    "pronunciation": "てからないと",
+    "explanation": "てからないと is used to express that one action must be completed before another can occur. It indicates a necessary sequence of actions.",
+    "examples": [
+      {
+        "sentence": "宿題をしてからないと遊びに行けない。",
+        "translation": "I can't go play until I finish my homework."
+      },
+      {
+        "sentence": "この仕事を終わらせてからないと帰れません。",
+        "translation": "I can't go home until I finish this work."
+      },
+      {
+        "sentence": "料理を作ってからないと食べられません。",
+        "translation": "We can't eat until we finish cooking."
+      }
+    ]
+  },
+  {
+    "word": "疑問文",
+    "type": "Noun",
+    "pronunciation": "ぎもんぶん",
+    "explanation": "疑問文 refers to an interrogative sentence or question in a text. It is a type of sentence that asks something and usually ends with a question mark in Japanese writing.",
+    "examples": [
+      {
+        "sentence": "彼は疑問文を使って、質問をしました。",
+        "translation": "He used an interrogative sentence to ask a question."
+      },
+      {
+        "sentence": "この文章を疑問文に変えてください。",
+        "translation": "Please change this sentence into a question."
+      },
+      {
+        "sentence": "英語には多くの疑問文の形式があります。",
+        "translation": "There are many forms of interrogative sentences in English."
+      }
+    ]
+  },
+  {
+    "word": "ピーナツ",
+    "type": "Noun",
+    "pronunciation": "ぴーなつ",
+    "explanation": "ピーナツ refers to peanuts, which are a type of legume commonly used in cooking and snacks. They are known for their nutty flavor and are often consumed roasted or used to make peanut butter.",
+    "examples": [
+      {
+        "sentence": "ピーナツバターをパンに塗って食べます。",
+        "translation": "I spread peanut butter on bread and eat it."
+      },
+      {
+        "sentence": "ピーナツはカロリーが高いので、食べ過ぎに注意が必要です。",
+        "translation": "Peanuts are high in calories, so it's important to be careful not to eat too many."
+      },
+      {
+        "sentence": "彼はピーナツアレルギーがあるので、食べることができません。",
+        "translation": "He has a peanut allergy, so he cannot eat them."
+      }
+    ]
+  },
+  {
+    "word": "コップ",
+    "type": "Noun",
+    "pronunciation": "こっぷ",
+    "explanation": "コップ refers to a cup or glass used for drinking. It is commonly made of glass, plastic, or ceramic and is used to hold beverages such as water, juice, or alcohol.",
+    "examples": [
+      {
+        "sentence": "このコップはとてもかわいいです。",
+        "translation": "This cup is very cute."
+      },
+      {
+        "sentence": "水をコップに注ぎます。",
+        "translation": "I pour water into the cup."
+      },
+      {
+        "sentence": "彼はコップを落として割ってしまった。",
+        "translation": "He dropped the cup and broke it."
+      }
+    ]
   }
 ]

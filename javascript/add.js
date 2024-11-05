@@ -42,11 +42,11 @@ async function fetchVocabularyJson(word) {
             'Authorization': `Bearer ${apiKey}`
         },
         body: JSON.stringify({
-            model: "gpt-3.5-turbo", // or "gpt-4-turbo"
+            model: "gpt-4o-mini", // or "gpt-4-turbo"
             messages: [
                 {
                     role: "system",
-                    content: "You are a helpful assistant that provides information on Japanese vocabulary in JSON format. Please respond strictly in JSON format without any Markdown or extraneous text."
+                    content: "You are a helpful assistant that provides information on Japanese vocabulary in JSON format. The JSON format will ask for the type of word. For verbs, make sure to distinguish u-verb, ru-verb, and suru-verb and whether it's transitive or not; for adjectives, make sure to mark whether it's i-adj or na-adj. Please respond strictly in JSON format without any Markdown or extraneous text."
                 },
                 {
                     role: "user",

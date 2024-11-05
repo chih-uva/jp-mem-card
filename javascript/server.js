@@ -20,10 +20,47 @@ app.post('/save-settings', (req, res) => {
             console.error("Error writing to config.json:", err);
             res.status(500).send("Error saving settings");
         } else {
-            res.status(200).send("Settings saved successfully!");
+            res.status(500).send("Settings saved successfully!");
         }
     });
 });
+
+
+// Module for syncing with the vocab history database
+const vocabDir = path.join(__dirname, '../vocab');
+const vocabHistoryPath = path.join(__dirname, '../config/vocabHistory.json');
+
+function syncVocabHistory() {
+    const vocabHistory = [];
+
+    fs.readdir(vocabDir, (err, files) => {
+        if (err) {
+            console.error("Error reading vocab directory:", err);
+            return;
+        }
+
+        files.forEach(file => {
+            if (file.endsWith('.json')) {
+                const filePath = path.join(vocabDir, file);
+                const dateAdded = file.slice(0, -5); // Remove ".json"
+                
+                const data = fs.readFileSync(filePath, 'utf8');
+                const vocabList = JSON.parse(data);
+
+                vocabList.forEach(entry => {
+                    vocabHistory.push({
+                        word: entry.word,
+                        dateAdded: dateAdded
+                    });
+                });
+            }
+        });
+
+        fs.writeFileSync(vocabHistoryPath, JSON.stringify(vocabHistory, null, 2));
+        console.log("Vocabulary history synced successfully.");
+    });
+}
+
 
 // New endpoint to save vocabulary data to a file in the "./vocab" directory
 app.post('/save-vocabulary', (req, res) => {
@@ -57,12 +94,62 @@ app.post('/save-vocabulary', (req, res) => {
                 res.status(500).send("Error saving vocabulary");
             } else {
                 console.log(`Vocabulary entry appended successfully to ${fileName}`);
-                res.status(200).send("Vocabulary saved successfully");
+                res.status(500).send("Vocabulary saved successfully");
             }
         });
     });
 });
 
+
+
+
+// Endpoint to get the most recent JSON file in the ./vocab directory
+app.get('/latest-vocab', (req, res) => {
+    const vocabDir = path.join(__dirname, '../vocab');
+
+    fs.readdir(vocabDir, (err, files) => {
+        if (err) {
+            console.error("Error reading vocab directory:", err);
+            return res.status(500).send("Error reading vocab directory");
+        }
+
+        const jsonFiles = files
+            .filter(file => file.endsWith('.json'))
+            .map(file => ({ file, mtime: fs.statSync(path.join(vocabDir, file)).mtime }))
+            .sort((a, b) => b.mtime - a.mtime);
+
+        if (jsonFiles.length === 0) {
+            return res.status(404).send("No vocabulary files found.");
+        }
+
+        const latestFile = jsonFiles[0].file;
+        const filePath = path.join(vocabDir, latestFile);
+
+        fs.readFile(filePath, 'utf8', (err, data) => {
+            if (err) {
+                console.error("Error reading file:", err);
+                return res.status(500).send("Error reading file");
+            }
+            res.json({ filename: latestFile, content: JSON.parse(data) });
+        });
+    });
+});
+
+app.get('/vocab-history', (req, res) => {
+    const filePath = path.join(__dirname, '../config/vocabHistory.json');
+    fs.readFile(filePath, 'utf8', (err, data) => {
+        if (err) {
+            console.error("Error reading vocab history:", err);
+            return res.status(500).send("Error reading vocab history");
+        }
+        res.json(JSON.parse(data));
+    });
+});
+
+
+
+// Syncing the files before starting the server
+syncVocabHistory();
 
 // Start the server
 app.listen(PORT, () => {

@@ -1,0 +1,162 @@
+[
+  {
+    "word": "論証",
+    "type": "Noun",
+    "pronunciation": "ろんしょう",
+    "explanation": "論証 refers to logical proof or demonstration, often used in academic or legal contexts to describe a structured argument that supports a theory or claim.",
+    "examples": [
+      {
+        "sentence": "彼はその理論を論証するために多くの資料を集めた。",
+        "translation": "He gathered a lot of materials to demonstrate that theory."
+      },
+      {
+        "sentence": "論証が不十分だと、信頼性が欠ける。",
+        "translation": "If the proof is insufficient, it lacks credibility."
+      },
+      {
+        "sentence": "論文には明確な論証が求められる。",
+        "translation": "Clear proof is required in the paper."
+      }
+    ]
+  },
+  {
+    "word": "懇談会",
+    "type": "Noun",
+    "pronunciation": "こんだんかい",
+    "explanation": "懇談会 refers to an informal discussion meeting, often held to exchange views or discuss issues in a relaxed setting.",
+    "examples": [
+      {
+        "sentence": "新入社員向けの懇談会が開かれた。",
+        "translation": "An informal meeting was held for new employees."
+      },
+      {
+        "sentence": "懇談会で意見を交わした。",
+        "translation": "They exchanged opinions in the meeting."
+      },
+      {
+        "sentence": "懇談会では議論が活発だった。",
+        "translation": "The discussion was lively at the meeting."
+      }
+    ]
+  },
+  {
+    "word": "沈黙",
+    "type": "Noun",
+    "pronunciation": "ちんもく",
+    "explanation": "沈黙 refers to silence or the state of not speaking, often implying a meaningful or deliberate pause.",
+    "examples": [
+      {
+        "sentence": "彼は質問に沈黙で応じた。",
+        "translation": "He responded to the question with silence."
+      },
+      {
+        "sentence": "沈黙が続くと不安になる。",
+        "translation": "When the silence continues, it creates anxiety."
+      },
+      {
+        "sentence": "沈黙の意味を考えた。",
+        "translation": "I thought about the meaning of the silence."
+      }
+    ]
+  },
+  {
+    "word": "検証する",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "けんしょうする",
+    "explanation": "To verify or examine, often used in scientific or investigative contexts to confirm the validity of a hypothesis or information.",
+    "examples": [
+      {
+        "sentence": "新しい仮説を検証する必要がある。",
+        "translation": "The new hypothesis needs to be verified."
+      },
+      {
+        "sentence": "このデータを検証してから発表します。",
+        "translation": "I will publish it after verifying this data."
+      },
+      {
+        "sentence": "実験結果を検証した。",
+        "translation": "I verified the experiment results."
+      }
+    ]
+  },
+  {
+    "word": "見解",
+    "type": "Noun",
+    "pronunciation": "けんかい",
+    "explanation": "見解 means 'view' or 'opinion' and is often used in formal contexts to refer to an individual's or an organization's stance or perspective on a subject.",
+    "examples": [
+      {
+        "sentence": "その問題に対する見解が異なる。",
+        "translation": "The views on the issue differ."
+      },
+      {
+        "sentence": "専門家の見解を聞いた。",
+        "translation": "I listened to the expert's opinion."
+      },
+      {
+        "sentence": "見解をはっきりと述べた。",
+        "translation": "He stated his view clearly."
+      }
+    ]
+  },
+  {
+    "word": "省察",
+    "type": "Noun",
+    "pronunciation": "せいさつ",
+    "explanation": "省察 refers to self-reflection or introspection, commonly used in philosophical contexts to describe a process of examining one’s thoughts or actions.",
+    "examples": [
+      {
+        "sentence": "人生について省察する時間を取った。",
+        "translation": "I took time to reflect on life."
+      },
+      {
+        "sentence": "省察を通じて自己理解を深める。",
+        "translation": "Deepen self-understanding through introspection."
+      },
+      {
+        "sentence": "省察は精神的成長に役立つ。",
+        "translation": "Self-reflection is useful for mental growth."
+      }
+    ]
+  },
+  {
+    "word": "理論的",
+    "type": "Na-adjective",
+    "pronunciation": "りろんてき",
+    "explanation": "理論的 means 'theoretical' and is used to describe something based on or related to theory rather than practice.",
+    "examples": [
+      {
+        "sentence": "彼の理論的な考え方は鋭い。",
+        "translation": "His theoretical thinking is sharp."
+      },
+      {
+        "sentence": "理論的には可能だが、実行は難しい。",
+        "translation": "It’s possible in theory, but hard to do in practice."
+      },
+      {
+        "sentence": "理論的な知識だけでは不十分だ。",
+        "translation": "Theoretical knowledge alone is insufficient."
+      }
+    ]
+  },
+  {
+    "word": "稀少",
+    "type": "Na-adjective",
+    "pronunciation": "きしょう",
+    "explanation": "稀少 refers to something rare or uncommon, often used to describe rare items, resources, or conditions.",
+    "examples": [
+      {
+        "sentence": "稀少な鉱石が発見された。",
+        "translation": "A rare mineral was discovered."
+      },
+      {
+        "sentence": "この地域では稀少な動植物が生息している。",
+        "translation": "Rare flora and fauna inhabit this region."
+      },
+      {
+        "sentence": "稀少な本を収集している。",
+        "translation": "He collects rare books."
+      }
+    ]
+  }
+]

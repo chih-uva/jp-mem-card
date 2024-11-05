@@ -184,6 +184,36 @@ body, html {
     text-align: left; /* Align text to the left */
 }
 
+/* Consistent calendar day button sizes */
+/* Unified styling for calendar day and placeholder buttons */
+#calendar button.day, #calendar button.placeholder {
+    width: 40px;
+    height: 40px;
+    margin: 0; /* Ensure no extra spacing */
+    padding: 0; /* Ensure no extra spacing */
+    font-size: 1em;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: none; /* Consistent border style */
+    box-sizing: border-box;
+}
+
+/* Specific styling for placeholder buttons */
+#calendar button.placeholder {
+    background-color: var(--background-color); /* Use a neutral color */
+    color: transparent; /* Hide text in placeholders */
+    cursor: default; /* Make it look inactive */
+    pointer-events: none; /* Disable clicking */
+}
+
+
+/* Consistent width and height for input and select elements */
+input[type="text"], select {
+    box-sizing: border-box;
+    height: 40px;
+}
+
 
 
 /* Adjustment for Phones*/
@@ -294,4 +324,52 @@ body, html {
     background-color: #f44336; /* Red for error */
 }
 
+/* Calendar Container*/
+#calendarContainer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.month {
+    display: inline-block;
+    margin: 10px;
+}
+
+.day.studied {
+    background-color: lightgreen;
+}
+
+.day.not-studied {
+    background-color: lightcoral;
+}
+
+.day {
+    border: none;
+    padding: 0px;
+    cursor: pointer;
+}
+
+/* Ensure the week row container has no margin or padding */
+.week-row {
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+.message-box {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #fff;
+    z-index: 1000;
+}
+
+.message-box.error {
+    background-color: #f44336;
+}
 

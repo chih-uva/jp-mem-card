@@ -6,9 +6,6 @@
     <title>Let's Study</title>
     <link rel="stylesheet" href="style.css">
     
-    <!-- Local version of Marked.js for markdown rendering -->
-    <script src="./marked.umd.min.js"></script>
-    
     <!-- Main JavaScript file for handling functionality -->
     <script src="./javascript/start.js" defer></script> 
 
@@ -24,8 +21,11 @@
     <div id="startPageContent">
 
         <div id="listName" style="position: absolute; top: 1%; left: 25%; font-size: 0.6rem; font-weight: bold;"></div>
+        
 
         <div class="content">
+            <div id="progressIndicator" style="text-align: center; font-size: 1.2rem; font-weight: bold; margin-bottom: 10px;">
+            </div>
             <button class="main-button" id="vocabButton" onclick="showExplanation(); removeTopMargin()">Loading...</button>
             <div class="scrollable-box" id="explanationBox" style="display: none;"></div>
             <div class="options" style="margin-top: 20px;">

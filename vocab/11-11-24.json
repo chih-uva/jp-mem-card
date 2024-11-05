@@ -1,0 +1,202 @@
+[
+  {
+    "word": "脱炭素",
+    "type": "Noun",
+    "pronunciation": "だつたんそ",
+    "explanation": "脱炭素 refers to decarbonization, the process of reducing carbon dioxide emissions to mitigate climate change.",
+    "examples": [
+      {
+        "sentence": "政府は脱炭素社会を目指して新たな政策を導入した。",
+        "translation": "The government introduced new policies aiming for a decarbonized society."
+      },
+      {
+        "sentence": "企業は脱炭素に向けた取り組みを強化しています。",
+        "translation": "Companies are strengthening their efforts towards decarbonization."
+      },
+      {
+        "sentence": "脱炭素の達成は持続可能な未来に不可欠です。",
+        "translation": "Achieving decarbonization is essential for a sustainable future."
+      }
+    ]
+  },
+  {
+    "word": "群集心理",
+    "type": "Noun",
+    "pronunciation": "ぐんしゅうしんり",
+    "explanation": "群集心理 refers to crowd psychology, the study of how individuals behave and are influenced within group settings.",
+    "examples": [
+      {
+        "sentence": "群集心理が暴動の原因となることがある。",
+        "translation": "Crowd psychology can sometimes lead to riots."
+      },
+      {
+        "sentence": "マーケティング戦略は群集心理を考慮して設計される。",
+        "translation": "Marketing strategies are designed considering crowd psychology."
+      },
+      {
+        "sentence": "イベント運営では群集心理の理解が重要です。",
+        "translation": "Understanding crowd psychology is important in event management."
+      }
+    ]
+  },
+  {
+    "word": "多変量解析",
+    "type": "Noun",
+    "pronunciation": "たへんりょうかいせき",
+    "explanation": "多変量解析 refers to multivariate analysis, a set of statistical techniques used to analyze data that involves multiple variables.",
+    "examples": [
+      {
+        "sentence": "多変量解析を用いてデータの傾向を明らかにした。",
+        "translation": "We used multivariate analysis to clarify the trends in the data."
+      },
+      {
+        "sentence": "研究では多変量解析が不可欠です。",
+        "translation": "Multivariate analysis is essential in the research."
+      },
+      {
+        "sentence": "多変量解析によって複雑なデータを解釈した。",
+        "translation": "The complex data was interpreted through multivariate analysis."
+      }
+    ]
+  },
+  {
+    "word": "統計力学",
+    "type": "Noun",
+    "pronunciation": "とうけいりきがく",
+    "explanation": "統計力学 refers to statistical mechanics, a branch of physics that applies statistical methods to study the behavior of systems with a large number of particles.",
+    "examples": [
+      {
+        "sentence": "統計力学は物質のマクロな性質を説明する。",
+        "translation": "Statistical mechanics explains the macroscopic properties of matter."
+      },
+      {
+        "sentence": "統計力学の理論は熱力学と密接に関連している。",
+        "translation": "The theory of statistical mechanics is closely related to thermodynamics."
+      },
+      {
+        "sentence": "研究者は統計力学を用いて気体の挙動を分析した。",
+        "translation": "The researcher used statistical mechanics to analyze the behavior of the gas."
+      }
+    ]
+  },
+  {
+    "word": "超弦理論",
+    "type": "Noun",
+    "pronunciation": "ちょうげんりろん",
+    "explanation": "超弦理論 refers to string theory, a theoretical framework in which point-like particles are replaced by one-dimensional objects called strings.",
+    "examples": [
+      {
+        "sentence": "超弦理論は物理学の統一理論の候補とされている。",
+        "translation": "String theory is considered a candidate for the unified theory of physics."
+      },
+      {
+        "sentence": "彼は超弦理論の研究に専念している。",
+        "translation": "He is devoted to the study of string theory."
+      },
+      {
+        "sentence": "超弦理論は宇宙の基本構造を解明しようとしている。",
+        "translation": "String theory seeks to elucidate the fundamental structure of the universe."
+      }
+    ]
+  },
+  {
+    "word": "浸透圧",
+    "type": "Noun",
+    "pronunciation": "しんとうあつ",
+    "explanation": "浸透圧 refers to osmotic pressure, the pressure required to prevent the flow of a solvent across a semipermeable membrane.",
+    "examples": [
+      {
+        "sentence": "浸透圧の変化は細胞の機能に影響を与える。",
+        "translation": "Changes in osmotic pressure affect the function of cells."
+      },
+      {
+        "sentence": "実験では浸透圧を正確に測定する必要がある。",
+        "translation": "In the experiment, it is necessary to accurately measure the osmotic pressure."
+      },
+      {
+        "sentence": "浸透圧のバランスを保つことが重要です。",
+        "translation": "Maintaining a balance of osmotic pressure is important."
+      }
+    ]
+  },
+  {
+    "word": "逆説",
+    "type": "Noun",
+    "pronunciation": "ぎゃくせつ",
+    "explanation": "逆説 refers to a paradox, a statement that contradicts itself but may reveal a deeper truth.",
+    "examples": [
+      {
+        "sentence": "「この文は偽である」は有名な逆説です。",
+        "translation": "The statement 'This sentence is false' is a famous paradox."
+      },
+      {
+        "sentence": "逆説的な結果に驚いた。",
+        "translation": "I was surprised by the paradoxical result."
+      },
+      {
+        "sentence": "逆説は哲学的な議論でよく用いられる。",
+        "translation": "Paradoxes are often used in philosophical discussions."
+      }
+    ]
+  },
+  {
+    "word": "仮定する",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "かていする",
+    "explanation": "仮定する means to assume or to suppose, often used in academic or theoretical contexts to establish premises for further reasoning.",
+    "examples": [
+      {
+        "sentence": "研究ではいくつかの仮定を仮定する必要がある。",
+        "translation": "In the research, it is necessary to make several assumptions."
+      },
+      {
+        "sentence": "彼は理論を展開するために基本的な仮定を仮定した。",
+        "translation": "He made basic assumptions to develop the theory."
+      },
+      {
+        "sentence": "仮定を仮定して問題を解決した。",
+        "translation": "He solved the problem by making an assumption."
+      }
+    ]
+  },
+  {
+    "word": "無秩序",
+    "type": "Adjective, Na-adj",
+    "pronunciation": "むちつじょ",
+    "explanation": "無秩序 means disorder or lack of order, often used to describe chaotic systems or situations lacking organization.",
+    "examples": [
+      {
+        "sentence": "無秩序な状態では効率的な作業が困難です。",
+        "translation": "In a state of disorder, efficient work is difficult."
+      },
+      {
+        "sentence": "無秩序な都市では犯罪が増加する傾向がある。",
+        "translation": "In disordered cities, there tends to be an increase in crime."
+      },
+      {
+        "sentence": "無秩序なデータは解析を複雑にする。",
+        "translation": "Disordered data complicates the analysis."
+      }
+    ]
+  },
+  {
+    "word": "計量経済学",
+    "type": "Noun",
+    "pronunciation": "けいりょうけいざいがく",
+    "explanation": "計量経済学 refers to econometrics, the application of statistical and mathematical models to economic data for testing hypotheses and forecasting future trends.",
+    "examples": [
+      {
+        "sentence": "計量経済学は経済理論の検証に使用される。",
+        "translation": "Econometrics is used to test economic theories."
+      },
+      {
+        "sentence": "彼女は計量経済学の専門家です。",
+        "translation": "She is an expert in econometrics."
+      },
+      {
+        "sentence": "計量経済学の手法を用いて市場の動向を分析した。",
+        "translation": "We analyzed market trends using econometric methods."
+      }
+    ]
+  }
+]

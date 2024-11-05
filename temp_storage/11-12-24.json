@@ -1,0 +1,179 @@
+[
+    {
+      "word": "脱皮",
+      "type": "Noun",
+      "pronunciation": "だっぴ",
+      "explanation": "脱皮 refers to the process of shedding the outer layer, commonly used in the context of insects or reptiles molting their skin.",
+      "examples": [
+        {
+          "sentence": "昆虫は成長するために定期的に脱皮します。",
+          "translation": "Insects molt regularly to grow."
+        },
+        {
+          "sentence": "ヘビの脱皮は環境の変化を示すことがあります。",
+          "translation": "A snake's molting can indicate environmental changes."
+        }
+      ]
+    },
+    {
+      "word": "植生",
+      "type": "Noun",
+      "pronunciation": "しょくせい",
+      "explanation": "植生 refers to the plant life or vegetation in a particular area, often used in ecological or geographical contexts.",
+      "examples": [
+        {
+          "sentence": "この地域の植生は湿潤な気候に適応しています。",
+          "translation": "The vegetation in this area is adapted to the humid climate."
+        },
+        {
+          "sentence": "植生の多様性は生態系の健康を示しています。",
+          "translation": "The diversity of vegetation indicates the health of the ecosystem."
+        }
+      ]
+    },
+    {
+      "word": "脆弱",
+      "type": "Na-Adjective",
+      "pronunciation": "ぜいじゃく",
+      "explanation": "脆弱 describes something that is fragile, vulnerable, or susceptible to damage.",
+      "examples": [
+        {
+          "sentence": "古い橋は脆弱で、強風に弱い。",
+          "translation": "The old bridge is fragile and weak against strong winds."
+        },
+        {
+          "sentence": "経済は外部ショックに対して脆弱です。",
+          "translation": "The economy is vulnerable to external shocks."
+        }
+      ]
+    },
+    {
+      "word": "逡巡",
+      "type": "Noun",
+      "pronunciation": "しゅんじゅん",
+      "explanation": "逡巡 refers to hesitation or indecision, often in the context of making a choice or decision.",
+      "examples": [
+        {
+          "sentence": "彼の逡巡は決断を遅らせた。",
+          "translation": "His hesitation delayed the decision."
+        },
+        {
+          "sentence": "逡巡の末、彼女は仕事を辞めることにした。",
+          "translation": "After much hesitation, she decided to quit her job."
+        }
+      ]
+    },
+    {
+      "word": "潜在",
+      "type": "Na-Adjective",
+      "pronunciation": "せんざい",
+      "explanation": "潜在 describes something that exists but is not yet developed or visible; potential.",
+      "examples": [
+        {
+          "sentence": "彼には潜在的な才能がある。",
+          "translation": "He has potential talents."
+        },
+        {
+          "sentence": "潜在需要を見込んで新製品を開発した。",
+          "translation": "We developed a new product anticipating potential demand."
+        }
+      ]
+    },
+    {
+      "word": "透過",
+      "type": "Noun",
+      "pronunciation": "とうか",
+      "explanation": "透過 refers to the transmission or passage through a medium, often used in scientific contexts.",
+      "examples": [
+        {
+          "sentence": "光の透過率を測定する実験を行った。",
+          "translation": "We conducted an experiment to measure the light transmission rate."
+        },
+        {
+          "sentence": "透明な素材は光を透過させます。",
+          "translation": "Transparent materials allow light to pass through."
+        }
+      ]
+    },
+    {
+      "word": "旋回する",
+      "type": "Suru-Verb",
+      "pronunciation": "せんかいする",
+      "explanation": "旋回する means to revolve or spin around a central point.",
+      "examples": [
+        {
+          "sentence": "鳥は高く旋回して風向きを確認した。",
+          "translation": "The bird circled high to check the wind direction."
+        },
+        {
+          "sentence": "ヘリコプターが空中で旋回している。",
+          "translation": "The helicopter is circling in the air."
+        }
+      ]
+    },
+    {
+      "word": "催促",
+      "type": "Noun",
+      "pronunciation": "さいそく",
+      "explanation": "催促 refers to urging or prompting someone to do something, often used in the context of requesting or reminding.",
+      "examples": [
+        {
+          "sentence": "彼は返事を催促されたが、まだ答えていない。",
+          "translation": "He was urged to reply but hasn't responded yet."
+        },
+        {
+          "sentence": "催促の電話がしつこくて困った。",
+          "translation": "The persistent reminder calls were troublesome."
+        }
+      ]
+    },
+    {
+      "word": "微生物",
+      "type": "Noun",
+      "pronunciation": "びせいぶつ",
+      "explanation": "微生物 refers to microorganisms, such as bacteria, viruses, and fungi, that are typically invisible to the naked eye.",
+      "examples": [
+        {
+          "sentence": "微生物は環境の循環に重要な役割を果たします。",
+          "translation": "Microorganisms play a vital role in environmental cycles."
+        },
+        {
+          "sentence": "実験室で微生物の培養を行った。",
+          "translation": "We cultured microorganisms in the laboratory."
+        }
+      ]
+    },
+    {
+      "word": "独奏",
+      "type": "Noun",
+      "pronunciation": "どくそう",
+      "explanation": "独奏 refers to a solo performance, typically in music, where a single performer plays without accompaniment.",
+      "examples": [
+        {
+          "sentence": "彼のピアノ独奏は聴衆を魅了した。",
+          "translation": "His piano solo captivated the audience."
+        },
+        {
+          "sentence": "独奏の練習に毎日時間を費やしている。",
+          "translation": "She spends time every day practicing her solo performance."
+        }
+      ]
+    },
+    {
+      "word": "昇進",
+      "type": "Noun",
+      "pronunciation": "しょうしん",
+      "explanation": "昇進 refers to a promotion within a company or organization, indicating a rise to a higher position or rank.",
+      "examples": [
+        {
+          "sentence": "彼は昨年、営業部長に昇進した。",
+          "translation": "He was promoted to Sales Manager last year."
+        },
+        {
+          "sentence": "昇進を目指してスキルを磨いている。",
+          "translation": "She is honing her skills aiming for a promotion."
+        }
+      ]
+    }
+  ]
+  

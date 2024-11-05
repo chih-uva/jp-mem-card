@@ -11,5 +11,5 @@ function addVocabulary() {
 }
 
 function selectDate() {
-  window.location.href = 'select-date.html'; // Redirect to select date page
+  window.location.href = 'select.html'; // Redirect to select date page
 }
