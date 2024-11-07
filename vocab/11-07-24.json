@@ -1,0 +1,382 @@
+[
+  {
+    "word": "小包",
+    "type": "Noun",
+    "pronunciation": "こづつみ",
+    "explanation": "小包 refers to a small package or parcel, typically used for shipping items or gifts. It can be sent through mail services and is often used for personal or commercial deliveries.",
+    "examples": [
+      {
+        "sentence": "友達に小包を送りました。",
+        "translation": "I sent a small package to my friend."
+      },
+      {
+        "sentence": "この小包は海外から届きました。",
+        "translation": "This package arrived from overseas."
+      },
+      {
+        "sentence": "小包の中には手紙が入っていました。",
+        "translation": "Inside the small package was a letter."
+      }
+    ]
+  },
+  {
+    "word": "帯",
+    "type": "Noun",
+    "pronunciation": "おび",
+    "explanation": "帯 refers to a traditional sash or belt worn with a kimono, used to secure the garment and often serves as a decorative element. It can also refer to a band or strip of material in other contexts.",
+    "examples": [
+      {
+        "sentence": "彼女は美しい帯を締めている。",
+        "translation": "She is wearing a beautiful obi."
+      },
+      {
+        "sentence": "帯は着物の重要なアクセサリーです。",
+        "translation": "The obi is an important accessory for the kimono."
+      },
+      {
+        "sentence": "この帯は祖母から受け継いだものです。",
+        "translation": "This obi was passed down from my grandmother."
+      }
+    ]
+  },
+  {
+    "word": "包帯",
+    "type": "Noun",
+    "pronunciation": "ほうたい",
+    "explanation": "包帯 refers to a bandage used to cover and protect a wound or injury. It is commonly used in medical settings to promote healing and prevent infection.",
+    "examples": [
+      {
+        "sentence": "彼は怪我をしたので、包帯を巻いてもらった。",
+        "translation": "He had a bandage wrapped around his injury."
+      },
+      {
+        "sentence": "包帯を使って傷を保護してください。",
+        "translation": "Please use a bandage to protect the wound."
+      },
+      {
+        "sentence": "緊急時には包帯が必要です。",
+        "translation": "A bandage is necessary in emergencies."
+      }
+    ]
+  },
+  {
+    "word": "救急車",
+    "type": "Noun",
+    "pronunciation": "きゅうきゅうしゃ",
+    "explanation": "救急車 refers to an ambulance, a vehicle specifically designed for transporting sick or injured people to a medical facility. It is equipped with medical equipment and staffed by medical personnel to provide emergency care during transit.",
+    "examples": [
+      {
+        "sentence": "事故が起きたので、救急車を呼びました。",
+        "translation": "Since there was an accident, I called an ambulance."
+      },
+      {
+        "sentence": "救急車は速やかに現場に到着しました。",
+        "translation": "The ambulance arrived at the scene quickly."
+      },
+      {
+        "sentence": "彼は救急車で病院に運ばれました。",
+        "translation": "He was taken to the hospital by ambulance."
+      }
+    ]
+  },
+  {
+    "word": "救う",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "すくう",
+    "explanation": "救う means 'to save' or 'to rescue'. It refers to the act of helping someone in danger or distress, often by providing assistance or protection.",
+    "examples": [
+      {
+        "sentence": "彼は溺れている人を救った。",
+        "translation": "He saved a person who was drowning."
+      },
+      {
+        "sentence": "この薬は患者を救うことができる。",
+        "translation": "This medicine can save the patient."
+      },
+      {
+        "sentence": "彼女は困っている友達を救おうとした。",
+        "translation": "She tried to save her friend who was in trouble."
+      }
+    ]
+  },
+  {
+    "word": "救出",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "きゅうしゅつ",
+    "explanation": "救出 refers to the act of rescuing or saving someone from danger or distress. It often involves efforts to bring someone to safety in emergency situations.",
+    "examples": [
+      {
+        "sentence": "消防士が火事から人々を救出しました。",
+        "translation": "The firefighters rescued people from the fire."
+      },
+      {
+        "sentence": "彼は海で溺れている子供を救出した。",
+        "translation": "He rescued a child who was drowning in the sea."
+      },
+      {
+        "sentence": "彼らは遭難者を救出するために急いで出発した。",
+        "translation": "They hurriedly departed to rescue the stranded people."
+      }
+    ]
+  },
+  {
+    "word": "救急箱",
+    "type": "Noun",
+    "pronunciation": "きゅうきゅうばこ",
+    "explanation": "救急箱 refers to a first aid kit or emergency box that contains medical supplies and equipment for treating injuries or illnesses in urgent situations.",
+    "examples": [
+      {
+        "sentence": "家には常に救急箱を用意しておくべきだ。",
+        "translation": "You should always have a first aid kit ready at home."
+      },
+      {
+        "sentence": "旅行のために、小さな救急箱を持って行こう。",
+        "translation": "Let's take a small first aid kit for the trip."
+      },
+      {
+        "sentence": "救急箱の中身を定期的にチェックすることが大切です。",
+        "translation": "It's important to regularly check the contents of the first aid kit."
+      }
+    ]
+  },
+  {
+    "word": "助かる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "たすかる",
+    "explanation": "助かる means 'to be saved' or 'to be rescued'. It is often used to express relief when someone is helped or when a situation improves.",
+    "examples": [
+      {
+        "sentence": "あなたのおかげで助かりました。",
+        "translation": "Thanks to you, I was saved."
+      },
+      {
+        "sentence": "この情報があって本当に助かる。",
+        "translation": "This information is really helpful."
+      },
+      {
+        "sentence": "彼は危険な状況から助かった。",
+        "translation": "He was rescued from a dangerous situation."
+      }
+    ]
+  },
+  {
+    "word": "助ける",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "たすける",
+    "explanation": "助ける means 'to help' or 'to assist.' It is used when someone provides aid or support to another person in need.",
+    "examples": [
+      {
+        "sentence": "彼は私を助けてくれた。",
+        "translation": "He helped me."
+      },
+      {
+        "sentence": "困っている人を助けることが大切です。",
+        "translation": "It is important to help those in need."
+      },
+      {
+        "sentence": "友達が試験勉強を助けてくれた。",
+        "translation": "My friend helped me study for the exam."
+      }
+    ]
+  },
+  {
+    "word": "助言",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "じょげん",
+    "explanation": "助言 refers to the act of giving advice or counsel. It involves offering suggestions or recommendations to help someone make a decision or solve a problem.",
+    "examples": [
+      {
+        "sentence": "彼は私に良い助言をしてくれた。",
+        "translation": "He gave me good advice."
+      },
+      {
+        "sentence": "専門家の助言を受けることが重要です。",
+        "translation": "It is important to receive advice from experts."
+      },
+      {
+        "sentence": "助言をたくさん聞くことが成功の鍵です。",
+        "translation": "Listening to a lot of advice is the key to success."
+      }
+    ]
+  },
+  {
+    "word": "救助",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "きゅうじょ",
+    "explanation": "救助 refers to the act of rescuing or saving someone from danger or distress. It is often used in the context of emergency situations where help is needed to protect lives or provide assistance.",
+    "examples": [
+      {
+        "sentence": "彼は遭難者を救助しました。",
+        "translation": "He rescued the stranded person."
+      },
+      {
+        "sentence": "消防士たちは火事の中から人々を救助した。",
+        "translation": "The firefighters rescued people from the fire."
+      },
+      {
+        "sentence": "救助活動は迅速に行われるべきです。",
+        "translation": "Rescue operations should be carried out swiftly."
+      }
+    ]
+  },
+  {
+    "word": "補助金",
+    "type": "Noun",
+    "pronunciation": "ほじょきん",
+    "explanation": "補助金 refers to a subsidy or financial assistance provided by the government or other organizations to support specific projects or initiatives, often aimed at promoting economic growth or social welfare.",
+    "examples": [
+      {
+        "sentence": "政府は新しいビジネスに補助金を提供した。",
+        "translation": "The government provided a subsidy to the new business."
+      },
+      {
+        "sentence": "彼は研究のための補助金を申請した。",
+        "translation": "He applied for a subsidy for his research."
+      },
+      {
+        "sentence": "この補助金は環境保護活動に使われる。",
+        "translation": "This subsidy will be used for environmental protection activities."
+      }
+    ]
+  },
+  {
+    "word": "助だち",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "たすけだち",
+    "explanation": "助だち refers to assistance or help provided to someone. It can denote both the act of helping and the person who assists, often in various contexts such as personal support or aid in tasks.",
+    "examples": [
+      {
+        "sentence": "友達が私の助だちをしてくれた。",
+        "translation": "My friend helped me."
+      },
+      {
+        "sentence": "彼は仕事の助だちを必要としている。",
+        "translation": "He needs assistance with his work."
+      },
+      {
+        "sentence": "このプロジェクトには多くの助だちが必要です。",
+        "translation": "This project requires a lot of help."
+      }
+    ]
+  },
+  {
+    "word": "病死",
+    "type": "Noun",
+    "pronunciation": "びょうし",
+    "explanation": "病死 refers to death caused by illness or disease. It signifies the end of life due to health-related issues rather than accidents or other causes.",
+    "examples": [
+      {
+        "sentence": "彼の祖父は病死しました。",
+        "translation": "His grandfather died of illness."
+      },
+      {
+        "sentence": "病死は時に予想外のこともあります。",
+        "translation": "Death from illness can sometimes be unexpected."
+      },
+      {
+        "sentence": "多くの人々が病死を避けるために健康に気を使っています。",
+        "translation": "Many people take care of their health to avoid dying from illness."
+      }
+    ]
+  },
+  {
+    "word": "亡くなる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "なくなる",
+    "explanation": "亡くなる means 'to pass away' or 'to die.' It is used to respectfully refer to the death of someone, often in a context where sensitivity is required.",
+    "examples": [
+      {
+        "sentence": "彼は昨年亡くなりました。",
+        "translation": "He passed away last year."
+      },
+      {
+        "sentence": "祖母が亡くなったとき、私はとても悲しかった。",
+        "translation": "I was very sad when my grandmother passed away."
+      },
+      {
+        "sentence": "彼女は病気で亡くなった。",
+        "translation": "She died from an illness."
+      }
+    ]
+  },
+  {
+    "word": "死亡",
+    "type": "Noun",
+    "pronunciation": "しぼう",
+    "explanation": "死亡 refers to death or the act of dying. It is commonly used in medical or formal contexts to indicate the end of life.",
+    "examples": [
+      {
+        "sentence": "彼の死亡が報告された。",
+        "translation": "His death was reported."
+      },
+      {
+        "sentence": "死亡原因は不明です。",
+        "translation": "The cause of death is unknown."
+      },
+      {
+        "sentence": "死亡通知が届いた。",
+        "translation": "A death notice arrived."
+      }
+    ]
+  },
+  {
+    "word": "亡命",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ぼうめい",
+    "explanation": "亡命 refers to the act of fleeing one's country, usually for political reasons. It involves seeking asylum or refuge in another country due to fear of persecution or danger in one's home country.",
+    "examples": [
+      {
+        "sentence": "彼は政治的な理由で亡命を決意した。",
+        "translation": "He decided to flee the country for political reasons."
+      },
+      {
+        "sentence": "亡命者は新しい生活を始めるために努力している。",
+        "translation": "The asylum seeker is striving to start a new life."
+      },
+      {
+        "sentence": "この国には多くの亡命者がいる。",
+        "translation": "There are many asylum seekers in this country."
+      }
+    ]
+  },
+  {
+    "word": "逃亡",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "とうぼう",
+    "explanation": "逃亡 refers to the act of fleeing or escaping, often from captivity or legal authority. It involves leaving a place to avoid being caught or punished.",
+    "examples": [
+      {
+        "sentence": "彼は警察から逃亡した。",
+        "translation": "He fled from the police."
+      },
+      {
+        "sentence": "逃亡者は捕まることを恐れている。",
+        "translation": "The fugitive is afraid of being caught."
+      },
+      {
+        "sentence": "逃亡の手助けをすることは違法です。",
+        "translation": "Assisting someone in fleeing is illegal."
+      }
+    ]
+  },
+  {
+    "word": "とうりだ",
+    "type": "Noun",
+    "pronunciation": "とうりだ",
+    "explanation": "とうりだ refers to a situation where something proceeds as expected or according to plan. It can indicate that outcomes are favorable or that events unfold as anticipated.",
+    "examples": [
+      {
+        "sentence": "彼の計画はとうりだに進んでいる。",
+        "translation": "His plan is proceeding as expected."
+      },
+      {
+        "sentence": "試験はとうりだと思っていたが、結果は違った。",
+        "translation": "I thought the exam would go as expected, but the results were different."
+      },
+      {
+        "sentence": "すべてがとうりだで進むことを願っている。",
+        "translation": "I hope everything proceeds as planned."
+      }
+    ]
+  }
+]

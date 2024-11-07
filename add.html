@@ -15,16 +15,16 @@
     <div id="addPageContent">
         <div class="content">
             <!-- Vocabulary Input Section -->
-            <p class="aligned-text" style="width: 90%; text-align: left;">
-                <label for="vocabInput" style="display: block; font-weight: bold; margin-bottom: 15px;">Add New Vocabulary</label>
+            <p class="aligned-text" style="width: 100%; text-align: left;">
+                <label for="vocabInput" style="display: block; font-weight: bold; margin-left: 5%; margin-bottom: 2%;">Add New Vocabulary</label>
                 <div style="display: flex; align-items: center;">
-                    <input type="text" id="vocabInput" placeholder="Enter vocabulary" style="width: 250px; height: 42px; padding: 4px; border: 2px dashed black; box-sizing: border-box; background-color: lightgrey;">
+                    <input type="text" id="vocabInput" placeholder="Enter vocabulary" style="width: 80%; height: 42px; padding: 4px; border: 2px dashed black; box-sizing: border-box; background-color: lightgrey;">
                     <button class="option-button" onclick="addVocabulary()" style="width: 30%; margin-left: 10px; height: 42px">Fetch</button>
                 </div>
             </p>
 
             <!-- Explanation Display Section -->
-            <div class="scrollable-box" id="explanationBox" style="width: 90%; max-height: 250px; overflow-y: auto; padding: 15px; border: 2px dashed black; margin-top: 20px;">
+            <div class="scrollable-box" id="explanationBox" style="max-height: 250px; overflow-y: auto; padding: 15px; border: 2px dashed black; margin-top: 20px;">
                 <!-- The formatted explanation from ChatGPT will be injected here -->
                 <p style="text-align: center; color: grey;">Vocabulary details will appear here after fetching from ChatGPT.</p>
             </div>
@@ -32,9 +32,9 @@
 
             <!-- Bottom Buttons: Home, Regenerate, Confirm -->
             <div class="options" style="margin-top: 20px; width: 80%;">
-                <button class="option-button" style="width: 30%;" onclick="goToHome()">Home</button>
-                <button class="option-button" style="width: 36%;" onclick="searchDate()">Search</button>
-                <button class="option-button" style="width: 30%;" onclick="confirmVocabulary()">Confirm</button>
+                <button class="option-button"  onclick="goToHome()">Home</button>
+                <button class="option-button"  onclick="searchDate()">Search</button>
+                <button class="option-button"  onclick="confirmVocabulary()">Confirm</button>
             </div>
         </div>
     </div>

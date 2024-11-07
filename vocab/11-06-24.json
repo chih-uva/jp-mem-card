@@ -38,5 +38,465 @@
         "translation": "The bucket overflowed."
       }
     ]
+  },
+  {
+    "word": "検索",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "けんさく",
+    "explanation": "検索 refers to the act of searching or looking for something, typically information or data, often using a search engine or database.",
+    "examples": [
+      {
+        "sentence": "インターネットで情報を検索しました。",
+        "translation": "I searched for information on the internet."
+      },
+      {
+        "sentence": "彼は新しいレストランを検索しています。",
+        "translation": "He is searching for a new restaurant."
+      },
+      {
+        "sentence": "検索結果がすぐに表示されました。",
+        "translation": "The search results were displayed immediately."
+      }
+    ]
+  },
+  {
+    "word": "審査員",
+    "type": "Noun",
+    "pronunciation": "しんさいん",
+    "explanation": "審査員 refers to a judge or examiner who evaluates and assesses the quality or merit of entries in competitions, contests, or examinations. They are responsible for making decisions based on specific criteria.",
+    "examples": [
+      {
+        "sentence": "審査員はすべての作品を公平に評価しました。",
+        "translation": "The judges evaluated all the works fairly."
+      },
+      {
+        "sentence": "コンテストには多くの審査員が参加しました。",
+        "translation": "Many judges participated in the contest."
+      },
+      {
+        "sentence": "彼は映画祭の審査員として招待された。",
+        "translation": "He was invited as a judge for the film festival."
+      }
+    ]
+  },
+  {
+    "word": "歯茎",
+    "type": "Noun",
+    "pronunciation": "はぐき",
+    "explanation": "歯茎 refers to the gums, which are the soft tissues in the mouth that surround and support the teeth. Healthy gums are important for overall oral health and hygiene.",
+    "examples": [
+      {
+        "sentence": "歯茎が腫れているので、歯医者に行くべきです。",
+        "translation": "Since my gums are swollen, I should go to the dentist."
+      },
+      {
+        "sentence": "毎日の歯磨きは歯茎の健康に大切です。",
+        "translation": "Daily brushing is important for the health of the gums."
+      },
+      {
+        "sentence": "歯茎の病気は、放置すると深刻な問題になる可能性があります。",
+        "translation": "Gum disease can lead to serious problems if left untreated."
+      }
+    ]
+  },
+  {
+    "word": "歯科",
+    "type": "Noun",
+    "pronunciation": "しか",
+    "explanation": "歯科 refers to the field of dentistry, focusing on the diagnosis, treatment, and prevention of dental diseases and conditions.",
+    "examples": [
+      {
+        "sentence": "彼は歯科医として働いています。",
+        "translation": "He works as a dentist."
+      },
+      {
+        "sentence": "歯科医院で定期的にチェックアップを受けることが大切です。",
+        "translation": "It is important to have regular check-ups at the dental clinic."
+      },
+      {
+        "sentence": "歯科治療は痛みを伴うことがあります。",
+        "translation": "Dental treatment can involve pain."
+      }
+    ]
+  },
+  {
+    "word": "歯石",
+    "type": "Noun",
+    "pronunciation": "はせき",
+    "explanation": "歯石 refers to dental calculus, which is a hard deposit that forms on teeth when plaque mineralizes. It can lead to dental issues if not removed regularly by a dentist.",
+    "examples": [
+      {
+        "sentence": "歯石は定期的に歯医者で取り除く必要があります。",
+        "translation": "Dental calculus needs to be removed regularly by a dentist."
+      },
+      {
+        "sentence": "歯石があると、虫歯や歯周病の原因になります。",
+        "translation": "Having dental calculus can lead to cavities and periodontal disease."
+      },
+      {
+        "sentence": "毎日の歯磨きで歯石を防ぐことができます。",
+        "translation": "You can prevent dental calculus by brushing your teeth daily."
+      }
+    ]
+  },
+  {
+    "word": "永久歯",
+    "type": "Noun",
+    "pronunciation": "えいきゅうし",
+    "explanation": "永久歯 refers to the permanent teeth that replace the primary teeth in humans, typically emerging during childhood and adolescence. These teeth are meant to last for a lifetime, barring any dental issues or injuries.",
+    "examples": [
+      {
+        "sentence": "子供の頃に乳歯が抜けて、永久歯が生えてきた。",
+        "translation": "When I was a child, my baby teeth fell out and my permanent teeth came in."
+      },
+      {
+        "sentence": "永久歯は一度失うと再生しない。",
+        "translation": "Permanent teeth do not regenerate once they are lost."
+      },
+      {
+        "sentence": "正しい歯磨きは永久歯を守るために重要です。",
+        "translation": "Proper brushing is important to protect permanent teeth."
+      }
+    ]
+  },
+  {
+    "word": "親知らず",
+    "type": "Noun",
+    "pronunciation": "おやしらず",
+    "explanation": "親知らず refers to the third molars, commonly known as wisdom teeth, which typically emerge in late adolescence or early adulthood. They are often removed due to impaction or lack of space in the jaw.",
+    "examples": [
+      {
+        "sentence": "彼は親知らずを抜くことになった。",
+        "translation": "He had to have his wisdom teeth removed."
+      },
+      {
+        "sentence": "親知らずが痛んで、歯医者に行った。",
+        "translation": "My wisdom tooth was hurting, so I went to the dentist."
+      },
+      {
+        "sentence": "多くの人は、親知らずが生えると痛みを感じる。",
+        "translation": "Many people experience pain when their wisdom teeth come in."
+      }
+    ]
+  },
+  {
+    "word": "苦痛",
+    "type": "Noun",
+    "pronunciation": "くつう",
+    "explanation": "苦痛 refers to pain or suffering, whether it be physical or emotional. It encompasses a wide range of discomforts and distressing feelings.",
+    "examples": [
+      {
+        "sentence": "彼は苦痛を感じている。",
+        "translation": "He is feeling pain."
+      },
+      {
+        "sentence": "その事故は彼女に大きな苦痛を与えた。",
+        "translation": "The accident caused her great suffering."
+      },
+      {
+        "sentence": "苦痛を和らげるために薬を飲んだ。",
+        "translation": "I took medicine to ease the pain."
+      }
+    ]
+  },
+  {
+    "word": "点検",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "てんけん",
+    "explanation": "点検 refers to the act of inspecting or checking something carefully to ensure that it is functioning properly or to detect any issues. It is commonly used in contexts related to machinery, vehicles, and safety procedures.",
+    "examples": [
+      {
+        "sentence": "車の点検を忘れずに行ってください。",
+        "translation": "Please do not forget to perform the car inspection."
+      },
+      {
+        "sentence": "定期的な点検が重要です。",
+        "translation": "Regular inspections are important."
+      },
+      {
+        "sentence": "工場では設備の点検が行われています。",
+        "translation": "Inspections of the equipment are being conducted at the factory."
+      }
+    ]
+  },
+  {
+    "word": "生える",
+    "type": "Verb, U-verb",
+    "pronunciation": "はえる",
+    "explanation": "生える means 'to grow' or 'to sprout' and is typically used to describe plants, hair, or other forms of natural growth. It indicates the process of coming up or emerging from a surface.",
+    "examples": [
+      {
+        "sentence": "草が生えてきた。",
+        "translation": "The grass has started to grow."
+      },
+      {
+        "sentence": "新しい髪が生え始めた。",
+        "translation": "New hair has begun to grow."
+      },
+      {
+        "sentence": "この木は春になると花が生える。",
+        "translation": "This tree blooms in spring."
+      }
+    ]
+  },
+  {
+    "word": "生え変わる",
+    "type": "U-verb",
+    "pronunciation": "はえかわる",
+    "explanation": "生え変わる refers to the process of something growing anew or changing, often used in the context of hair, teeth, or fur replacing old ones.",
+    "examples": [
+      {
+        "sentence": "冬の終わりに、動物の毛が生え変わる。",
+        "translation": "At the end of winter, animals shed their fur."
+      },
+      {
+        "sentence": "彼の髪は夏になると生え変わる。",
+        "translation": "His hair changes in the summer."
+      },
+      {
+        "sentence": "子供の乳歯は生え変わる時期がある。",
+        "translation": "There is a time when children's baby teeth are replaced."
+      }
+    ]
+  },
+  {
+    "word": "止血",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しけつ",
+    "explanation": "止血 refers to the act of stopping bleeding, often used in medical contexts. It involves various techniques or methods to control hemorrhage and prevent blood loss.",
+    "examples": [
+      {
+        "sentence": "傷が深いので、止血が必要です。",
+        "translation": "The wound is deep, so we need to stop the bleeding."
+      },
+      {
+        "sentence": "彼は止血の方法を習った。",
+        "translation": "He learned the methods for stopping bleeding."
+      },
+      {
+        "sentence": "止血に成功しました。",
+        "translation": "We succeeded in stopping the bleeding."
+      }
+    ]
+  },
+  {
+    "word": "赤血球",
+    "type": "Noun",
+    "pronunciation": "あかけっきゅう",
+    "explanation": "赤血球 refers to red blood cells, which are responsible for transporting oxygen in the blood. They are a crucial component of the circulatory system and play a vital role in maintaining overall health.",
+    "examples": [
+      {
+        "sentence": "赤血球は体内で酸素を運ぶ役割を果たしています。",
+        "translation": "Red blood cells play a role in transporting oxygen within the body."
+      },
+      {
+        "sentence": "貧血は赤血球の数が不足している状態です。",
+        "translation": "Anemia is a condition where there is a deficiency of red blood cells."
+      },
+      {
+        "sentence": "赤血球の健康を保つためには、鉄分を摂取することが重要です。",
+        "translation": "To maintain the health of red blood cells, it is important to intake iron."
+      }
+    ]
+  },
+  {
+    "word": "血色",
+    "type": "Noun",
+    "pronunciation": "けっしょく",
+    "explanation": "血色 refers to the color of one's blood or complexion, often used to describe someone's health or vitality, particularly in relation to the color of their skin.",
+    "examples": [
+      {
+        "sentence": "彼は最近、血色が良くなった。",
+        "translation": "He has recently improved in complexion."
+      },
+      {
+        "sentence": "血色が悪いと、体調が悪いことが多い。",
+        "translation": "When the complexion is poor, it often indicates bad health."
+      },
+      {
+        "sentence": "彼女の血色はいつも良い。",
+        "translation": "Her complexion is always good."
+      }
+    ]
+  },
+  {
+    "word": "血液型",
+    "type": "Noun",
+    "pronunciation": "けつえきがた",
+    "explanation": "血液型 refers to a person's blood type, which is classified into categories such as A, B, AB, and O. Blood type is important in medicine, particularly for blood transfusions and compatibility issues.",
+    "examples": [
+      {
+        "sentence": "彼の血液型はO型です。",
+        "translation": "His blood type is type O."
+      },
+      {
+        "sentence": "血液型によって性格が異なるという話があります。",
+        "translation": "There is a story that personality differs by blood type."
+      },
+      {
+        "sentence": "輸血をする前に血液型を確認します。",
+        "translation": "We check the blood type before a transfusion."
+      }
+    ]
+  },
+  {
+    "word": "てからでなければ",
+    "type": "Phrase",
+    "pronunciation": "てからでなければ",
+    "explanation": "てからでなければ is a phrase used to indicate that something cannot happen unless a certain condition is met, typically used to express that an action must occur after another action has been completed.",
+    "examples": [
+      {
+        "sentence": "宿題を終わらせてからでなければ、遊んではいけません。",
+        "translation": "You can't play unless you finish your homework first."
+      },
+      {
+        "sentence": "ご飯を食べてからでなければ、出かけられません。",
+        "translation": "I can't go out unless I eat first."
+      },
+      {
+        "sentence": "カギを返してからでなければ、部屋には入れません。",
+        "translation": "You can't enter the room unless you return the key first."
+      }
+    ]
+  },
+  {
+    "word": "てからでないと",
+    "type": "Phrase",
+    "pronunciation": "てからでないと",
+    "explanation": "てからでないと is a Japanese expression used to indicate that a certain condition must be fulfilled before something else can occur. It emphasizes the necessity of completing one action before proceeding to another.",
+    "examples": [
+      {
+        "sentence": "宿題を終えてからでないと遊びに行けません。",
+        "translation": "I can't go out to play until I finish my homework."
+      },
+      {
+        "sentence": "食事をしてからでないと、出発できない。",
+        "translation": "We can't leave until we have eaten."
+      },
+      {
+        "sentence": "彼に連絡してからでないと、決定できない。",
+        "translation": "I can't make a decision until I contact him."
+      }
+    ]
+  },
+  {
+    "word": "治る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "なおる",
+    "explanation": "治る means 'to get better' or 'to heal', referring to the recovery from an illness or injury. It is used when something is restored to a normal state or condition.",
+    "examples": [
+      {
+        "sentence": "風邪が治りました。",
+        "translation": "I have recovered from my cold."
+      },
+      {
+        "sentence": "彼の怪我はもう治っている。",
+        "translation": "His injury has already healed."
+      },
+      {
+        "sentence": "この薬を飲めば、すぐに治るでしょう。",
+        "translation": "If you take this medicine, you should get better soon."
+      }
+    ]
+  },
+  {
+    "word": "激しい",
+    "type": "i-adj",
+    "pronunciation": "はげしい",
+    "explanation": "激しい means 'intense' or 'violent,' and is used to describe strong emotions, actions, or conditions. It conveys a sense of forcefulness or extremity in various contexts.",
+    "examples": [
+      {
+        "sentence": "激しい雨が降っている。",
+        "translation": "It is raining heavily."
+      },
+      {
+        "sentence": "彼は激しい怒りを感じた。",
+        "translation": "He felt intense anger."
+      },
+      {
+        "sentence": "激しい競争が繰り広げられている。",
+        "translation": "Intense competition is unfolding."
+      }
+    ]
+  },
+  {
+    "word": "てからじゃなきゃ",
+    "type": "Phrase",
+    "pronunciation": "てからじゃなきゃ",
+    "explanation": "てからじゃなきゃ is a colloquial expression that means 'unless (something) is done after (another action)' or 'not until (something) is done.' It emphasizes the importance of completing one action before another can take place.",
+    "examples": [
+      {
+        "sentence": "宿題を終えてからじゃなきゃ遊べない。",
+        "translation": "You can't play until you finish your homework."
+      },
+      {
+        "sentence": "ご飯を食べてからじゃなきゃ出かけられない。",
+        "translation": "I can't go out until I've eaten."
+      },
+      {
+        "sentence": "勉強してからじゃなきゃ試験を受けられない。",
+        "translation": "You can't take the exam unless you study first."
+      }
+    ]
+  },
+  {
+    "word": "～ところだ",
+    "type": "Phrase",
+    "pronunciation": "ところだ",
+    "explanation": "～ところだ is a phrase used to indicate a certain point in time or a condition, often translated as 'just about to', 'in the process of', or 'about to do something'. It conveys the idea of being on the verge of an action or situation.",
+    "examples": [
+      {
+        "sentence": "今、出かけるところだ。",
+        "translation": "I am just about to go out."
+      },
+      {
+        "sentence": "彼は勉強しているところです。",
+        "translation": "He is in the process of studying."
+      },
+      {
+        "sentence": "食事を終えたところで、電話が鳴った。",
+        "translation": "Just as I finished my meal, the phone rang."
+      }
+    ]
+  },
+  {
+    "word": "飛び立つ",
+    "type": "Verb, U-verb",
+    "pronunciation": "とびたつ",
+    "explanation": "飛び立つ means 'to take off' or 'to fly away,' typically used in the context of birds or aircraft leaving the ground and ascending into the air.",
+    "examples": [
+      {
+        "sentence": "鳥が空高く飛び立った。",
+        "translation": "The bird flew away high into the sky."
+      },
+      {
+        "sentence": "飛行機が無事に飛び立った。",
+        "translation": "The airplane took off safely."
+      },
+      {
+        "sentence": "彼は新しい冒険に向けて飛び立つ準備をしている。",
+        "translation": "He is preparing to take off for a new adventure."
+      }
+    ]
+  },
+  {
+    "word": "幸福感",
+    "type": "Noun",
+    "pronunciation": "こうふくかん",
+    "explanation": "幸福感 refers to a feeling or sense of happiness and contentment. It encompasses the emotional state of being joyful and fulfilled in life.",
+    "examples": [
+      {
+        "sentence": "彼は幸福感に満ちた生活を送っています。",
+        "translation": "He leads a life filled with a sense of happiness."
+      },
+      {
+        "sentence": "幸福感を感じる瞬間は大切です。",
+        "translation": "Moments of feeling happiness are important."
+      },
+      {
+        "sentence": "彼女の微笑みから幸福感が伝わってきた。",
+        "translation": "Her smile conveyed a sense of happiness."
+      }
+    ]
   }
 ]
