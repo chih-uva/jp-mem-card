@@ -1,6 +1,6 @@
 // Get the date parameter from the URL
 const urlParams = new URLSearchParams(window.location.search);
-const dateParam = urlParams.get('date');
+var dateParam = urlParams.get('date');
 console.log("URL date parameter:", dateParam);
 
 
@@ -44,7 +44,8 @@ else{
 
         // Display the filename in the top left corner with the prefix "Now on:"
         document.getElementById('listName').textContent = `Now on: ${data.filename}`;
-
+        dateParam=data.filename.slice(0, -5)
+        console.log(dateParam)
         // Set the vocabulary data and display the first entry
         vocabData = data.content;
         displayVocab();
@@ -138,4 +139,24 @@ function prevVocab() {
 
 function home() {
     window.location.href = 'index.html';
+}
+
+function deleteEntry() {
+    const wordToDelete = vocabData[currentIndex].word;
+    const old_Index = currentIndex;
+    const url = dateParam ? `/vocab/${dateParam}/${wordToDelete}` : `/latest-vocab/${wordToDelete}`;
+    fetch(url, {method: 'DELETE' })
+        .then(response => {
+            if (!response.ok) throw new Error('Failed to delete the entry');
+            return response.json();
+        })
+        .then(data => {
+            currentIndex=old_Index;
+            vocabData.splice(currentIndex, 1); // Update the local data
+            displayVocab(); // Re-render the vocabulary list
+        })
+        .catch(error => {
+            console.error('Error deleting entry:', error);
+        });
+    prevVocab();
 }
