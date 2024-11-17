@@ -199,3 +199,23 @@ syncVocabHistory();
 app.listen(PORT, () => {
     console.log(`Server is running on http://localhost:${PORT}`);
 });
+
+app.delete('/vocab/:date/:entryId', (req, res) => {
+    const { date, entryId } = req.params;
+    
+    const filePath = path.join(__dirname, '../vocab', `${date}.json`);
+    if (!fs.existsSync(filePath)) {
+        return res.status(404).json({ error: 'Vocabulary file not found' });
+    }
+    const fileData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+    const index = fileData.findIndex(entry => entry.word === entryId);
+    console.log(`index:${index}`);
+    if (index === -1) {
+        return res.status(404).json({ error: 'Entry not found' });
+    }
+
+    fileData.splice(index, 1);
+    fs.writeFileSync(filePath, JSON.stringify(fileData, null, 2));
+
+    res.status(200).json({ message: 'Entry deleted successfully' });
+});

@@ -1,7 +1,7 @@
 {
   "name": "jp-mem-card",
   "version": "1.0.0",
-  "description": "",
+  "description": "JP-Mem-Card is a web-based application designed to help users learn and manage Japanese vocabulary through a flashcard-style interface. Users can add new vocabulary, customize themes, and store data locally.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
