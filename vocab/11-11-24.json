@@ -198,5 +198,365 @@
         "translation": "We analyzed market trends using econometric methods."
       }
     ]
+  },
+  {
+    "word": "転がる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "ころがる",
+    "explanation": "転がる means 'to roll' or 'to tumble' and refers to the action of something rolling over or moving in a circular motion. It is used for objects that can roll or for describing the motion of people and animals when they fall or roll over.",
+    "examples": [
+      {
+        "sentence": "ボールが転がる。",
+        "translation": "The ball rolls."
+      },
+      {
+        "sentence": "子供たちは丘の上から転がった。",
+        "translation": "The children rolled down the hill."
+      },
+      {
+        "sentence": "猫が床の上で転がって遊んでいる。",
+        "translation": "The cat is rolling around on the floor playing."
+      }
+    ]
+  },
+  {
+    "word": "転げ落ちる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "ころげおちる",
+    "explanation": "転げ落ちる means to tumble down or fall over, typically used to describe a sudden and uncontrolled descent from a higher position.",
+    "examples": [
+      {
+        "sentence": "彼は階段から転げ落ちた。",
+        "translation": "He tumbled down the stairs."
+      },
+      {
+        "sentence": "子供たちは丘から転げ落ちて笑っていた。",
+        "translation": "The children were tumbling down the hill and laughing."
+      },
+      {
+        "sentence": "そのボールは坂から転げ落ちた。",
+        "translation": "The ball rolled down the slope."
+      }
+    ]
+  },
+  {
+    "word": "転がす",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "ころがす",
+    "explanation": "転がす means to roll something over or to cause something to roll. It is often used in contexts where an object is being set in motion by rolling it.",
+    "examples": [
+      {
+        "sentence": "ボールを転がすのが好きです。",
+        "translation": "I like to roll the ball."
+      },
+      {
+        "sentence": "子供たちは公園で石を転がして遊んでいる。",
+        "translation": "The children are playing by rolling stones in the park."
+      },
+      {
+        "sentence": "彼は車を駐車場に転がした。",
+        "translation": "He rolled the car into the parking lot."
+      }
+    ]
+  },
+  {
+    "word": "貧血",
+    "type": "Noun",
+    "pronunciation": "ひんけつ",
+    "explanation": "貧血 refers to a medical condition characterized by a deficiency of red blood cells or hemoglobin in the blood, leading to reduced oxygen transport in the body. It can cause symptoms such as fatigue, weakness, and pale skin.",
+    "examples": [
+      {
+        "sentence": "彼は貧血のため、すぐに疲れてしまう。",
+        "translation": "He gets tired quickly due to anemia."
+      },
+      {
+        "sentence": "貧血を改善するために、鉄分を多く含む食事を心がけている。",
+        "translation": "I am trying to eat a diet rich in iron to improve my anemia."
+      },
+      {
+        "sentence": "医者は彼女に貧血の検査を受けるように勧めた。",
+        "translation": "The doctor recommended that she get tested for anemia."
+      }
+    ]
+  },
+  {
+    "word": "躓い",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "つまずい",
+    "explanation": "躓い refers to stumbling or tripping over something, often resulting in a loss of balance. It can be used both literally and metaphorically to describe making a mistake or encountering an obstacle.",
+    "examples": [
+      {
+        "sentence": "彼は石につまずいて転んでしまった。",
+        "translation": "He stumbled over a stone and fell."
+      },
+      {
+        "sentence": "私はその問題につまずいてしまった。",
+        "translation": "I stumbled upon that problem."
+      },
+      {
+        "sentence": "彼女はつまずかないように注意して歩いた。",
+        "translation": "She walked carefully to avoid stumbling."
+      }
+    ]
+  },
+  {
+    "word": "溢れる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "あふれる",
+    "explanation": "溢れる means 'to overflow' or 'to brim over'. It describes the action of something spilling over the edge or exceeding its capacity, whether it be a liquid or an emotion.",
+    "examples": [
+      {
+        "sentence": "水が溢れそうです。",
+        "translation": "The water is about to overflow."
+      },
+      {
+        "sentence": "彼の心は喜びで溢れていた。",
+        "translation": "His heart was overflowing with joy."
+      },
+      {
+        "sentence": "グラスが溢れないように注意してください。",
+        "translation": "Please be careful not to let the glass overflow."
+      }
+    ]
+  },
+  {
+    "word": "サイコロ",
+    "type": "Noun",
+    "pronunciation": "さいころ",
+    "explanation": "サイコロ refers to a die, a small cube with numbers or symbols on each side used in games of chance. It is commonly used in various board games and gambling activities.",
+    "examples": [
+      {
+        "sentence": "サイコロを振って、出た目の数を足します。",
+        "translation": "Roll the die and add the number shown."
+      },
+      {
+        "sentence": "友達と一緒にサイコロゲームを楽しみました。",
+        "translation": "I enjoyed a dice game with my friends."
+      },
+      {
+        "sentence": "サイコロが出たら、ゲームが始まります。",
+        "translation": "When the die is rolled, the game starts."
+      }
+    ]
+  },
+  {
+    "word": "譲",
+    "type": "U-verb, Transitive",
+    "pronunciation": "ゆずる",
+    "explanation": "譲 refers to the act of giving up or yielding something to someone else, such as a seat or a right. It implies a sense of generosity or politeness in transferring ownership or priority.",
+    "examples": [
+      {
+        "sentence": "電車で席を譲りました。",
+        "translation": "I gave up my seat on the train."
+      },
+      {
+        "sentence": "彼は自分の権利を譲った。",
+        "translation": "He yielded his rights."
+      },
+      {
+        "sentence": "お年寄りに道を譲るべきです。",
+        "translation": "You should yield the way to the elderly."
+      }
+    ]
+  },
+  {
+    "word": "一の位",
+    "type": "Noun",
+    "pronunciation": "いちのくらい",
+    "explanation": "一の位 refers to the 'ones place' in the context of numbers, specifically the position that represents the units or the smallest value in a whole number. It is used in arithmetic and mathematics to denote the rightmost digit of a number.",
+    "examples": [
+      {
+        "sentence": "123の一の位は3です。",
+        "translation": "The ones place of 123 is 3."
+      },
+      {
+        "sentence": "一の位が偶数の場合、数は偶数です。",
+        "translation": "If the ones place is an even number, the number is even."
+      },
+      {
+        "sentence": "数を分解すると、一の位、一の十位、百の位がある。",
+        "translation": "When breaking down a number, there are the ones place, tens place, and hundreds place."
+      }
+    ]
+  },
+  {
+    "word": "上位を締める",
+    "type": "Verb, Suru-verb",
+    "pronunciation": "じょういをしめる",
+    "explanation": "上位を締める means to occupy a higher position or rank in a competitive context. It often refers to holding or securing a top spot in rankings or standings.",
+    "examples": [
+      {
+        "sentence": "彼は大会で上位を締めた。",
+        "translation": "He secured a top position in the tournament."
+      },
+      {
+        "sentence": "この製品は市場で上位を締めることが期待されている。",
+        "translation": "This product is expected to hold a top position in the market."
+      },
+      {
+        "sentence": "彼女は常に競技で上位を締める選手だ。",
+        "translation": "She is always a top-ranking player in competitions."
+      }
+    ]
+  },
+  {
+    "word": "地位",
+    "type": "Noun",
+    "pronunciation": "ちい",
+    "explanation": "地位 refers to a person's social or professional status or position within a hierarchy. It often implies respect, authority, or importance within a particular context or society.",
+    "examples": [
+      {
+        "sentence": "彼は会社で高い地位にいます。",
+        "translation": "He holds a high position in the company."
+      },
+      {
+        "sentence": "地位が高い人ほど責任も大きい。",
+        "translation": "People in high positions have greater responsibilities."
+      },
+      {
+        "sentence": "彼女は社会的地位を得るために努力している。",
+        "translation": "She is working hard to attain social status."
+      }
+    ]
+  },
+  {
+    "word": "位置",
+    "type": "Noun",
+    "pronunciation": "いち",
+    "explanation": "位置 refers to a location, position, or placement of something in a particular space. It is used to describe where something is situated or located.",
+    "examples": [
+      {
+        "sentence": "この店の位置は駅の近くです。",
+        "translation": "The location of this store is near the station."
+      },
+      {
+        "sentence": "彼の位置を確認してください。",
+        "translation": "Please confirm his position."
+      },
+      {
+        "sentence": "地図で目的地の位置を探しました。",
+        "translation": "I looked for the location of the destination on the map."
+      }
+    ]
+  },
+  {
+    "word": "置き忘れる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "おきわすれる",
+    "explanation": "置き忘れる means to forget to put something down or to leave something behind. It is used when someone unintentionally leaves an item in a place without intending to do so.",
+    "examples": [
+      {
+        "sentence": "駅で財布を置き忘れた。",
+        "translation": "I forgot my wallet at the station."
+      },
+      {
+        "sentence": "彼はいつも本を置き忘れる。",
+        "translation": "He always forgets to put down his books."
+      },
+      {
+        "sentence": "カフェに携帯電話を置き忘れてしまった。",
+        "translation": "I accidentally left my mobile phone at the café."
+      }
+    ]
+  },
+  {
+    "word": "ブランコ",
+    "type": "Noun",
+    "pronunciation": "ぶらんこ",
+    "explanation": "ブランコ refers to a swing, a type of playground equipment suspended from a frame that allows a person to swing back and forth while seated. It is commonly found in parks and playgrounds, providing enjoyment for children and sometimes adults as well.",
+    "examples": [
+      {
+        "sentence": "子供たちは公園のブランコで遊んでいる。",
+        "translation": "The children are playing on the swing in the park."
+      },
+      {
+        "sentence": "ブランコに乗るのが大好きです。",
+        "translation": "I love riding on the swing."
+      },
+      {
+        "sentence": "あのブランコはとても古い。",
+        "translation": "That swing is very old."
+      }
+    ]
+  },
+  {
+    "word": "横転",
+    "type": "Noun",
+    "pronunciation": "おうてん",
+    "explanation": "横転 refers to a situation where a vehicle or object rolls over on its side, often used in the context of accidents or tipping over.",
+    "examples": [
+      {
+        "sentence": "その車は横転してしまった。",
+        "translation": "The car overturned."
+      },
+      {
+        "sentence": "横転事故が多発している。",
+        "translation": "Overturn accidents are occurring frequently."
+      },
+      {
+        "sentence": "彼は横転したバイクを見つけた。",
+        "translation": "He found an overturned motorcycle."
+      }
+    ]
+  },
+  {
+    "word": "横断歩道",
+    "type": "Noun",
+    "pronunciation": "おうだんほどう",
+    "explanation": "横断歩道 refers to a pedestrian crossing or crosswalk, a designated area for pedestrians to cross the street safely. It is often marked with white stripes on the road and may have accompanying traffic signals.",
+    "examples": [
+      {
+        "sentence": "信号が青の時に横断歩道を渡りましょう。",
+        "translation": "Let's cross the pedestrian crossing when the signal is green."
+      },
+      {
+        "sentence": "横断歩道では車に気をつけてください。",
+        "translation": "Please be careful of cars at the pedestrian crossing."
+      },
+      {
+        "sentence": "人々は横断歩道で待っていた。",
+        "translation": "People were waiting at the pedestrian crossing."
+      }
+    ]
+  },
+  {
+    "word": "近づく",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "ちかづく",
+    "explanation": "近づく means 'to approach' or 'to get closer.' It is used to describe the action of moving closer to someone or something.",
+    "examples": [
+      {
+        "sentence": "彼は私に近づいてきた。",
+        "translation": "He approached me."
+      },
+      {
+        "sentence": "鳥が近づくと、子供たちは静かになった。",
+        "translation": "When the birds got closer, the children became quiet."
+      },
+      {
+        "sentence": "その建物に近づくと、圧倒される。",
+        "translation": "When I get closer to that building, I feel overwhelmed."
+      }
+    ]
+  },
+  {
+    "word": "〜ついでに",
+    "type": "Phrase",
+    "pronunciation": "ついでに",
+    "explanation": "〜ついでに is a phrase used to indicate that one is doing something as a secondary action or convenience while already doing something else. It often implies taking advantage of an opportunity to do something additional.",
+    "examples": [
+      {
+        "sentence": "買い物のついでに、郵便局に寄ってきた。",
+        "translation": "I stopped by the post office while I was out shopping."
+      },
+      {
+        "sentence": "散歩のついでに、友達に会いに行った。",
+        "translation": "I went to see my friend while I was out for a walk."
+      },
+      {
+        "sentence": "仕事のついでに、図書館に行って本を借りた。",
+        "translation": "I went to the library to borrow a book while I was at work."
+      }
+    ]
   }
 ]

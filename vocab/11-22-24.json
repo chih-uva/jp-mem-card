@@ -1,0 +1,762 @@
+[
+  {
+    "word": "取引",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "とりひき",
+    "explanation": "取引 refers to a transaction or deal, often in the context of business or trade. It involves the exchange of goods, services, or money between parties.",
+    "examples": [
+      {
+        "sentence": "この会社は国際的な取引を行っています。",
+        "translation": "This company conducts international transactions."
+      },
+      {
+        "sentence": "取引が成立するまで、契約書にサインしません。",
+        "translation": "I won't sign the contract until the deal is finalized."
+      },
+      {
+        "sentence": "市場での取引は活発です。",
+        "translation": "Transactions in the market are active."
+      }
+    ]
+  },
+  {
+    "word": "取引先",
+    "type": "Noun",
+    "pronunciation": "とりひきさき",
+    "explanation": "取引先 refers to a business partner or a client with whom a company has transactions. It is commonly used in the context of business relationships and dealings.",
+    "examples": [
+      {
+        "sentence": "私たちの取引先は海外の企業です。",
+        "translation": "Our business partner is a foreign company."
+      },
+      {
+        "sentence": "新しい取引先と契約を結びました。",
+        "translation": "We signed a contract with a new client."
+      },
+      {
+        "sentence": "取引先との関係を大切にしています。",
+        "translation": "We value our relationship with our clients."
+      }
+    ]
+  },
+  {
+    "word": "協力する",
+    "type": "Suru-verb",
+    "pronunciation": "きょうりょくする",
+    "explanation": "協力する means to collaborate or cooperate with others towards a common goal. It emphasizes working together and sharing responsibilities to achieve a desired outcome.",
+    "examples": [
+      {
+        "sentence": "私たちはプロジェクトのために協力しています。",
+        "translation": "We are collaborating for the project."
+      },
+      {
+        "sentence": "彼らは新しい研究のために協力することに決めた。",
+        "translation": "They decided to collaborate for the new research."
+      },
+      {
+        "sentence": "地域の問題を解決するために、みんなで協力しなければならない。",
+        "translation": "We must all collaborate to solve regional issues."
+      }
+    ]
+  },
+  {
+    "word": "広告",
+    "type": "Noun",
+    "pronunciation": "こうこく",
+    "explanation": "広告 refers to an advertisement or announcement intended to promote a product, service, or event. It is commonly used in various media to attract public attention and inform potential customers.",
+    "examples": [
+      {
+        "sentence": "新しい広告がテレビで流れています。",
+        "translation": "A new advertisement is airing on television."
+      },
+      {
+        "sentence": "彼は広告業界で働いています。",
+        "translation": "He works in the advertising industry."
+      },
+      {
+        "sentence": "この広告はとても目を引きます。",
+        "translation": "This advertisement is very eye-catching."
+      }
+    ]
+  },
+  {
+    "word": "協力会社",
+    "type": "Noun",
+    "pronunciation": "きょうりょくがいしゃ",
+    "explanation": "協力会社 refers to a company that collaborates or cooperates with another, often in a business context. It denotes a partner organization that works together towards a common goal or project.",
+    "examples": [
+      {
+        "sentence": "私たちは協力会社と一緒にプロジェクトを進めています。",
+        "translation": "We are progressing the project together with our partner company."
+      },
+      {
+        "sentence": "この協力会社は技術的な支援を提供しています。",
+        "translation": "This partner company provides technical support."
+      },
+      {
+        "sentence": "協力会社との関係を強化することが重要です。",
+        "translation": "It is important to strengthen the relationship with partner companies."
+      }
+    ]
+  },
+  {
+    "word": "子会社",
+    "type": "Noun",
+    "pronunciation": "こがいしゃ",
+    "explanation": "子会社 refers to a subsidiary company that is controlled by a parent company through ownership of a majority of its shares. It operates as a separate entity but is financially dependent on the parent company.",
+    "examples": [
+      {
+        "sentence": "彼の会社は多くの子会社を持っている。",
+        "translation": "His company has many subsidiaries."
+      },
+      {
+        "sentence": "子会社の設立は新しいビジネス戦略の一部です。",
+        "translation": "The establishment of a subsidiary is part of a new business strategy."
+      },
+      {
+        "sentence": "子会社の業績が親会社に大きな影響を与える。",
+        "translation": "The performance of the subsidiary greatly affects the parent company."
+      }
+    ]
+  },
+  {
+    "word": "運送会社",
+    "type": "Noun",
+    "pronunciation": "うんそうがいしゃ",
+    "explanation": "運送会社 refers to a transportation company or courier service that specializes in the shipping and delivery of goods and packages.",
+    "examples": [
+      {
+        "sentence": "運送会社に荷物を送ってもらいました。",
+        "translation": "I had the shipping company send my package."
+      },
+      {
+        "sentence": "彼は運送会社で働いています。",
+        "translation": "He works at a transportation company."
+      },
+      {
+        "sentence": "運送会社は迅速な配達を提供します。",
+        "translation": "The transportation company offers fast delivery."
+      }
+    ]
+  },
+  {
+    "word": "しんどい",
+    "type": "i-adj",
+    "pronunciation": "しんどい",
+    "explanation": "しんどい means 'tiring' or 'exhausting' and is often used to describe physical or mental fatigue. It can also imply a sense of difficulty or hardship.",
+    "examples": [
+      {
+        "sentence": "今日は仕事がたくさんあって、しんどい。",
+        "translation": "I have a lot of work today, and it's tiring."
+      },
+      {
+        "sentence": "この運動は少ししんどいけど、頑張ります。",
+        "translation": "This exercise is a bit exhausting, but I'll do my best."
+      },
+      {
+        "sentence": "長時間の旅行はしんどい。",
+        "translation": "A long journey is exhausting."
+      }
+    ]
+  },
+  {
+    "word": "完走",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かんそう",
+    "explanation": "完走 refers to the act of completing a race or a long-distance run. It implies reaching the finish line, often in the context of athletic competitions such as marathons.",
+    "examples": [
+      {
+        "sentence": "彼はマラソンを完走した。",
+        "translation": "He completed the marathon."
+      },
+      {
+        "sentence": "完走することが目標です。",
+        "translation": "The goal is to finish the race."
+      },
+      {
+        "sentence": "完走の証としてメダルがもらえる。",
+        "translation": "You receive a medal as proof of completing the race."
+      }
+    ]
+  },
+  {
+    "word": "通勤",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "つうきん",
+    "explanation": "通勤 refers to the act of commuting to work or school. It involves traveling from one's home to a workplace or educational institution on a regular basis, typically using public transportation or a personal vehicle.",
+    "examples": [
+      {
+        "sentence": "毎日、通勤に1時間かかります。",
+        "translation": "It takes me an hour to commute every day."
+      },
+      {
+        "sentence": "彼は自転車で通勤しています。",
+        "translation": "He commutes by bicycle."
+      },
+      {
+        "sentence": "通勤ラッシュはとても混雑しています。",
+        "translation": "The rush hour commute is very crowded."
+      }
+    ]
+  },
+  {
+    "word": "定期券",
+    "type": "Noun",
+    "pronunciation": "ていきけん",
+    "explanation": "定期券 (ていきけん) refers to a commuter pass or a regular ticket that allows a person to travel frequently between designated stations over a specified period, usually at a discounted rate.",
+    "examples": [
+      {
+        "sentence": "毎月、定期券を購入しています。",
+        "translation": "I buy a commuter pass every month."
+      },
+      {
+        "sentence": "定期券を使うと、電車代が節約できます。",
+        "translation": "Using a commuter pass saves money on train fares."
+      },
+      {
+        "sentence": "彼は仕事に行くために定期券を持っています。",
+        "translation": "He has a commuter pass to go to work."
+      }
+    ]
+  },
+  {
+    "word": "法人",
+    "type": "Noun",
+    "pronunciation": "ほうじん",
+    "explanation": "法人 refers to a legal entity or corporation that has its own rights and responsibilities, distinct from its members or owners. It is recognized by law as a person that can own property, enter contracts, and be sued.",
+    "examples": [
+      {
+        "sentence": "この法人は教育分野で活動しています。",
+        "translation": "This corporation operates in the education sector."
+      },
+      {
+        "sentence": "法人を設立するためには、いくつかの手続きが必要です。",
+        "translation": "Establishing a corporation requires several procedures."
+      },
+      {
+        "sentence": "法人税は企業の利益に対して課される税金です。",
+        "translation": "Corporate tax is a tax imposed on the profits of corporations."
+      }
+    ]
+  },
+  {
+    "word": "紐",
+    "type": "Noun",
+    "pronunciation": "ひも",
+    "explanation": "紐 refers to a string, cord, or rope used for tying or binding objects together. It can be made from various materials and is commonly used in everyday tasks such as securing items or clothing.",
+    "examples": [
+      {
+        "sentence": "この紐を使って箱を閉じます。",
+        "translation": "I will use this string to close the box."
+      },
+      {
+        "sentence": "靴の紐がほどけた。",
+        "translation": "The shoelaces came undone."
+      },
+      {
+        "sentence": "彼は紐で荷物を縛った。",
+        "translation": "He tied the luggage with a cord."
+      }
+    ]
+  },
+  {
+    "word": "結える",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "ゆうえる",
+    "explanation": "結える means to tie, bind, or connect something together. It is often used in contexts where items are linked or tied, such as tying a knot or connecting two elements.",
+    "examples": [
+      {
+        "sentence": "彼はリボンを結えて、プレゼントを包んだ。",
+        "translation": "He tied the ribbon and wrapped the present."
+      },
+      {
+        "sentence": "この二つのアイデアを結えて、新しいプロジェクトを提案します。",
+        "translation": "I will connect these two ideas and propose a new project."
+      },
+      {
+        "sentence": "彼女は髪を結えて、すっきりとした印象を与えた。",
+        "translation": "She tied her hair up, giving a neat impression."
+      }
+    ]
+  },
+  {
+    "word": "不甲斐",
+    "type": "Noun",
+    "pronunciation": "ふがい",
+    "explanation": "不甲斐 refers to a sense of inadequacy or being disappointing, often in relation to one's abilities or performance. It conveys a feeling of regret or dissatisfaction with oneself or others for not meeting expectations.",
+    "examples": [
+      {
+        "sentence": "彼は自分の不甲斐なさを悔いている。",
+        "translation": "He regrets his own inadequacy."
+      },
+      {
+        "sentence": "不甲斐ない結果にがっかりした。",
+        "translation": "I was disappointed with the inadequate results."
+      },
+      {
+        "sentence": "彼女は不甲斐ない自分を変えたいと思っている。",
+        "translation": "She wants to change her disappointing self."
+      }
+    ]
+  },
+  {
+    "word": "紹介",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しょうかい",
+    "explanation": "紹介 refers to the act of introducing someone or something to another person or group. It is commonly used in social and professional contexts to facilitate connections or relationships.",
+    "examples": [
+      {
+        "sentence": "彼を友達に紹介しました。",
+        "translation": "I introduced him to my friends."
+      },
+      {
+        "sentence": "この本を学生に紹介するつもりです。",
+        "translation": "I intend to introduce this book to the students."
+      },
+      {
+        "sentence": "彼女は私に新しい仕事を紹介してくれた。",
+        "translation": "She introduced me to a new job."
+      }
+    ]
+  },
+  {
+    "word": "仲介料",
+    "type": "Noun",
+    "pronunciation": "ちゅうかいりょう",
+    "explanation": "仲介料 refers to the commission or fee paid to an intermediary or agent for facilitating a transaction or service, commonly used in real estate or business deals.",
+    "examples": [
+      {
+        "sentence": "不動産の仲介料は通常、契約金額の数パーセントです。",
+        "translation": "The real estate commission is usually a few percent of the contract amount."
+      },
+      {
+        "sentence": "仲介料を支払うことで、専門的なサービスを受けることができます。",
+        "translation": "By paying the brokerage fee, you can receive professional services."
+      },
+      {
+        "sentence": "彼は仲介料を安くするために交渉しました。",
+        "translation": "He negotiated to lower the brokerage fee."
+      }
+    ]
+  },
+  {
+    "word": "新婚",
+    "type": "Noun",
+    "pronunciation": "しんこん",
+    "explanation": "新婚 refers to a newly married couple or the state of being newly married. It describes the period immediately following marriage, which is often characterized by excitement and adjustment to married life.",
+    "examples": [
+      {
+        "sentence": "彼らは新婚旅行に行く予定です。",
+        "translation": "They plan to go on a honeymoon."
+      },
+      {
+        "sentence": "新婚の二人はとても幸せそうです。",
+        "translation": "The newlyweds look very happy."
+      },
+      {
+        "sentence": "新婚生活は楽しいですが、時には大変です。",
+        "translation": "Married life is fun, but it can be challenging at times."
+      }
+    ]
+  },
+  {
+    "word": "金婚式",
+    "type": "Noun",
+    "pronunciation": "きんこんしき",
+    "explanation": "金婚式 refers to the celebration of a couple's 50th wedding anniversary. It is a significant milestone in a marriage, often marked by gatherings and festivities to honor the couple's long-lasting union.",
+    "examples": [
+      {
+        "sentence": "彼らは金婚式を盛大に祝った。",
+        "translation": "They celebrated their golden wedding anniversary grandly."
+      },
+      {
+        "sentence": "金婚式のために家族が集まった。",
+        "translation": "The family gathered for the golden wedding anniversary."
+      },
+      {
+        "sentence": "金婚式は特別な日です。",
+        "translation": "The golden wedding anniversary is a special day."
+      }
+    ]
+  },
+  {
+    "word": "結末",
+    "type": "Noun",
+    "pronunciation": "けつまつ",
+    "explanation": "結末 refers to the conclusion or ending of a story, event, or situation. It signifies the final outcome or resolution of a narrative.",
+    "examples": [
+      {
+        "sentence": "この小説の結末はとても感動的です。",
+        "translation": "The ending of this novel is very moving."
+      },
+      {
+        "sentence": "映画の結末について語り合った。",
+        "translation": "We discussed the ending of the movie."
+      },
+      {
+        "sentence": "物語の結末は予想外だった。",
+        "translation": "The conclusion of the story was unexpected."
+      }
+    ]
+  },
+  {
+    "word": "美容室",
+    "type": "Noun",
+    "pronunciation": "びようしつ",
+    "explanation": "美容室 refers to a beauty salon or hair salon where various beauty treatments and hair styling services are provided.",
+    "examples": [
+      {
+        "sentence": "美容室で髪を切ってもらいました。",
+        "translation": "I got my hair cut at the beauty salon."
+      },
+      {
+        "sentence": "友達と美容室に行く予定です。",
+        "translation": "I plan to go to the beauty salon with my friend."
+      },
+      {
+        "sentence": "美容室ではメイクアップもできます。",
+        "translation": "You can also get makeup done at the beauty salon."
+      }
+    ]
+  },
+  {
+    "word": "成人式",
+    "type": "Noun",
+    "pronunciation": "せいじんしき",
+    "explanation": "成人式 refers to a coming-of-age ceremony held in Japan to celebrate young people who have turned 20, marking their transition into adulthood. It is typically celebrated on the second Monday of January.",
+    "examples": [
+      {
+        "sentence": "彼は成人式の日に新しいスーツを着ました。",
+        "translation": "He wore a new suit on his coming-of-age ceremony."
+      },
+      {
+        "sentence": "成人式では、多くの人が伝統的な着物を着ます。",
+        "translation": "Many people wear traditional kimono at the coming-of-age ceremony."
+      },
+      {
+        "sentence": "成人式は日本の文化にとって重要なイベントです。",
+        "translation": "The coming-of-age ceremony is an important event in Japanese culture."
+      }
+    ]
+  },
+  {
+    "word": "お祝い",
+    "type": "Noun",
+    "pronunciation": "おいわい",
+    "explanation": "お祝い refers to a celebration or congratulatory event, typically associated with significant occasions such as birthdays, weddings, or holidays. It can also refer to gifts given during such celebrations.",
+    "examples": [
+      {
+        "sentence": "彼の結婚式にお祝いを持って行きました。",
+        "translation": "I brought a gift to his wedding."
+      },
+      {
+        "sentence": "誕生日のお祝いを家族と一緒にしました。",
+        "translation": "I celebrated my birthday with my family."
+      },
+      {
+        "sentence": "新年のお祝いを友達と楽しみました。",
+        "translation": "I enjoyed the New Year celebration with friends."
+      }
+    ]
+  },
+  {
+    "word": "髪結さん",
+    "type": "Noun",
+    "pronunciation": "かみゆさん",
+    "explanation": "髪結さん refers to a hairdresser or someone who specializes in hairstyling, particularly in traditional Japanese contexts where elaborate hairstyles are crafted, often for special occasions such as weddings or festivals.",
+    "examples": [
+      {
+        "sentence": "髪結さんにお願いして、特別な日のために髪を整えてもらった。",
+        "translation": "I asked the hairdresser to style my hair for a special day."
+      },
+      {
+        "sentence": "髪結さんは和装に合う髪型を得意としている。",
+        "translation": "The hairdresser specializes in hairstyles that match traditional Japanese attire."
+      },
+      {
+        "sentence": "彼女は毎月髪結さんに行って、髪を整えている。",
+        "translation": "She goes to the hairdresser every month to get her hair done."
+      }
+    ]
+  },
+  {
+    "word": "髪結",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かみゆい",
+    "explanation": "髪結 refers to the act of styling or arranging hair. It encompasses various techniques and methods used to manage and beautify hair, often seen in traditional Japanese contexts or hairstyles.",
+    "examples": [
+      {
+        "sentence": "彼女は毎朝、髪結をします。",
+        "translation": "She styles her hair every morning."
+      },
+      {
+        "sentence": "髪結の技術を学ぶために、学校に通っています。",
+        "translation": "I am attending school to learn the techniques of hair styling."
+      },
+      {
+        "sentence": "この髪結は特別なイベントのために行われました。",
+        "translation": "This hair styling was done for a special event."
+      }
+    ]
+  },
+  {
+    "word": "着物",
+    "type": "Noun",
+    "pronunciation": "きもの",
+    "explanation": "着物 refers to a traditional Japanese garment characterized by long sleeves and a wrap-around design, typically made of silk. It is often worn on formal occasions and is an important part of Japanese culture and heritage.",
+    "examples": [
+      {
+        "sentence": "彼女は結婚式に着物を着て行った。",
+        "translation": "She wore a kimono to the wedding."
+      },
+      {
+        "sentence": "着物は日本の伝統的な服装です。",
+        "translation": "The kimono is a traditional Japanese clothing."
+      },
+      {
+        "sentence": "着物を着ると、特別な気分になります。",
+        "translation": "Wearing a kimono makes me feel special."
+      }
+    ]
+  },
+  {
+    "word": "出会う",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "であう",
+    "explanation": "出会う means 'to meet' or 'to encounter,' often by chance. It refers to the act of coming across someone or something unexpectedly.",
+    "examples": [
+      {
+        "sentence": "友達と駅で出会った。",
+        "translation": "I met my friend at the station."
+      },
+      {
+        "sentence": "旅行中に素晴らしい人々に出会った。",
+        "translation": "I encountered wonderful people during my trip."
+      },
+      {
+        "sentence": "彼に出会うことができて嬉しい。",
+        "translation": "I'm happy to have been able to meet him."
+      }
+    ]
+  },
+  {
+    "word": "獣",
+    "type": "Noun",
+    "pronunciation": "けもの",
+    "explanation": "獣 refers to a beast or animal, particularly one that is wild or untamed. It can denote any type of creature that is not domesticated, often used in a biological or ecological context.",
+    "examples": [
+      {
+        "sentence": "森には様々な獣が住んでいます。",
+        "translation": "Various beasts inhabit the forest."
+      },
+      {
+        "sentence": "彼は獣のように強い。",
+        "translation": "He is strong like a beast."
+      },
+      {
+        "sentence": "獣を観察するのは興味深い。",
+        "translation": "Observing beasts is fascinating."
+      }
+    ]
+  },
+  {
+    "word": "独身",
+    "type": "Noun",
+    "pronunciation": "どくしん",
+    "explanation": "独身 refers to the state of being single or unmarried. It describes a person who is not currently in a marital relationship or partnership.",
+    "examples": [
+      {
+        "sentence": "彼は独身で、自由な生活を楽しんでいる。",
+        "translation": "He is single and enjoying a free lifestyle."
+      },
+      {
+        "sentence": "独身の友達が多いです。",
+        "translation": "I have many friends who are single."
+      },
+      {
+        "sentence": "独身生活は時々寂しい。",
+        "translation": "Single life can be lonely sometimes."
+      }
+    ]
+  },
+  {
+    "word": "独立",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "どくりつ",
+    "explanation": "独立 refers to the state of being independent or self-sufficient. It can also refer to the act of becoming independent, such as a country gaining independence or an individual achieving personal autonomy.",
+    "examples": [
+      {
+        "sentence": "彼は独立した生活を送りたいと思っている。",
+        "translation": "He wants to lead an independent life."
+      },
+      {
+        "sentence": "国が独立を宣言した。",
+        "translation": "The country declared its independence."
+      },
+      {
+        "sentence": "独立するには多くの準備が必要だ。",
+        "translation": "A lot of preparation is necessary to become independent."
+      }
+    ]
+  },
+  {
+    "word": "独り言",
+    "type": "Noun",
+    "pronunciation": "ひとりごと",
+    "explanation": "独り言 refers to the act of talking to oneself, often reflecting one's thoughts or feelings aloud. It can be a way to process emotions or simply express oneself in solitude.",
+    "examples": [
+      {
+        "sentence": "彼はいつも独り言を言っている。",
+        "translation": "He always talks to himself."
+      },
+      {
+        "sentence": "独り言はストレス解消になることがある。",
+        "translation": "Talking to oneself can sometimes relieve stress."
+      },
+      {
+        "sentence": "彼女は独り言を言いながら料理をしている。",
+        "translation": "She talks to herself while cooking."
+      }
+    ]
+  },
+  {
+    "word": "身近",
+    "type": "Na-adjective",
+    "pronunciation": "みぢか",
+    "explanation": "身近 refers to something that is close to oneself or familiar, often used to describe people, places, or things that are easily accessible or relatable.",
+    "examples": [
+      {
+        "sentence": "身近な人に相談することが大切です。",
+        "translation": "It's important to consult with someone close to you."
+      },
+      {
+        "sentence": "彼の身近な環境は穏やかです。",
+        "translation": "His immediate environment is peaceful."
+      },
+      {
+        "sentence": "身近な問題を解決することから始めましょう。",
+        "translation": "Let's start by addressing the issues that are close to us."
+      }
+    ]
+  },
+  {
+    "word": "身につける",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "みにつける",
+    "explanation": "身につける means to acquire, to learn, or to put on (clothing, skills, knowledge). It is used to express the action of becoming familiar with or mastering something, or to physically wear something.",
+    "examples": [
+      {
+        "sentence": "新しいスキルを身につけるために、毎日練習しています。",
+        "translation": "I practice every day to acquire new skills."
+      },
+      {
+        "sentence": "彼はこの仕事に必要な知識を身につけた。",
+        "translation": "He acquired the necessary knowledge for this job."
+      },
+      {
+        "sentence": "彼女は素敵なドレスを身につけてパーティーに行った。",
+        "translation": "She wore a beautiful dress to the party."
+      }
+    ]
+  },
+  {
+    "word": "ネックレス身につける",
+    "type": "Verb",
+    "pronunciation": "ねっくれすみにつける",
+    "explanation": "ネックレス身につける refers to the action of putting on or wearing a necklace. It signifies the act of adorning oneself with a piece of jewelry, specifically a necklace.",
+    "examples": [
+      {
+        "sentence": "彼女はパーティーのために新しいネックレスを身につけた。",
+        "translation": "She wore a new necklace for the party."
+      },
+      {
+        "sentence": "毎朝、出かける前にネックレスを身につける。",
+        "translation": "I put on my necklace every morning before going out."
+      },
+      {
+        "sentence": "このネックレスは特別な意味を持っているので、いつも身につけている。",
+        "translation": "This necklace has a special meaning, so I always wear it."
+      }
+    ]
+  },
+  {
+    "word": "指輪を嵌める",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "ゆびわをはめる",
+    "explanation": "指輪を嵌める means 'to put on a ring' or 'to wear a ring.' It refers to the action of placing a ring onto a finger.",
+    "examples": [
+      {
+        "sentence": "彼女は指輪を嵌めるのが好きです。",
+        "translation": "She likes to wear rings."
+      },
+      {
+        "sentence": "結婚式の日に、彼は彼女に指輪を嵌めた。",
+        "translation": "On their wedding day, he put a ring on her finger."
+      },
+      {
+        "sentence": "この指輪は簡単に嵌められます。",
+        "translation": "This ring can be easily put on."
+      }
+    ]
+  },
+  {
+    "word": "身分証明書",
+    "type": "Noun",
+    "pronunciation": "みぶんしょうめいしょ",
+    "explanation": "身分証明書 refers to an identification card or document that verifies a person's identity, such as a driver's license or passport. It is often used in official situations to confirm one's personal information.",
+    "examples": [
+      {
+        "sentence": "身分証明書を忘れたので、入場できませんでした。",
+        "translation": "I couldn't enter because I forgot my identification card."
+      },
+      {
+        "sentence": "新しい身分証明書を申請しました。",
+        "translation": "I applied for a new identification card."
+      },
+      {
+        "sentence": "身分証明書が必要な場合があります。",
+        "translation": "There may be cases where an identification card is necessary."
+      }
+    ]
+  },
+  {
+    "word": "親元",
+    "type": "Noun",
+    "pronunciation": "おやもと",
+    "explanation": "親元 refers to the parental home or the place where one's parents live. It often implies a sense of being cared for or supported by one's parents, especially in the context of living with them or returning to them for support.",
+    "examples": [
+      {
+        "sentence": "大学を卒業した後、彼は親元に戻った。",
+        "translation": "After graduating from university, he returned to his parents' home."
+      },
+      {
+        "sentence": "親元を離れて一人暮らしを始めた。",
+        "translation": "I started living alone, away from my parents' home."
+      },
+      {
+        "sentence": "子供たちは親元で育てられた。",
+        "translation": "The children were raised in their parents' home."
+      }
+    ]
+  },
+  {
+    "word": "OB",
+    "type": "Noun",
+    "pronunciation": "オービー",
+    "explanation": "OB is an abbreviation for 'Old Boy', referring to a former member of a school, particularly in the context of alumni who have graduated from an educational institution. It is often used in Japan to denote former students, especially in sports or other organizations.",
+    "examples": [
+      {
+        "sentence": "彼は大学のOBとして、後輩たちを指導している。",
+        "translation": "He is mentoring juniors as an alumnus of the university."
+      },
+      {
+        "sentence": "毎年、OB会が開かれる。",
+        "translation": "An alumni meeting is held every year."
+      },
+      {
+        "sentence": "OBのネットワークは非常に強い。",
+        "translation": "The alumni network is very strong."
+      }
+    ]
+  }
+]

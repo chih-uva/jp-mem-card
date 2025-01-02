@@ -1,0 +1,522 @@
+[
+  {
+    "word": "代わる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "かわる",
+    "explanation": "代わる means 'to take the place of' or 'to be replaced by.' It indicates a change in position or status, often implying that one thing has substituted another.",
+    "examples": [
+      {
+        "sentence": "彼が代わることになった。",
+        "translation": "He has been replaced."
+      },
+      {
+        "sentence": "この仕事は私が代わります。",
+        "translation": "I will take over this job."
+      },
+      {
+        "sentence": "新しいモデルが古いものに代わった。",
+        "translation": "The new model has replaced the old one."
+      }
+    ]
+  },
+  {
+    "word": "交代する",
+    "type": "Suru-verb",
+    "pronunciation": "こうたいする",
+    "explanation": "交代する means to take turns or to substitute for someone. It often refers to a change in roles or responsibilities, such as in work shifts or team sports.",
+    "examples": [
+      {
+        "sentence": "私たちは交代で仕事をします。",
+        "translation": "We take turns working."
+      },
+      {
+        "sentence": "彼が試合に交代しました。",
+        "translation": "He substituted in the match."
+      },
+      {
+        "sentence": "次の交代は午後3時です。",
+        "translation": "The next shift is at 3 PM."
+      }
+    ]
+  },
+  {
+    "word": "明らかにする",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "あきらかにする",
+    "explanation": "明らかにする means 'to make clear' or 'to clarify.' It is used to express the action of revealing or elucidating information or a situation that was previously ambiguous or unclear.",
+    "examples": [
+      {
+        "sentence": "彼は事実を明らかにした。",
+        "translation": "He made the facts clear."
+      },
+      {
+        "sentence": "調査によって真実が明らかにされる。",
+        "translation": "The investigation will clarify the truth."
+      },
+      {
+        "sentence": "この報告書は問題を明らかにするために書かれた。",
+        "translation": "This report was written to make the issues clear."
+      }
+    ]
+  },
+  {
+    "word": "外にある面",
+    "type": "Noun",
+    "pronunciation": "そとにあるめん",
+    "explanation": "外にある面 refers to a surface or aspect that is located outside. It can be used in various contexts, such as describing the exterior of an object or the outer side of a concept.",
+    "examples": [
+      {
+        "sentence": "この建物の外にある面はとても美しい。",
+        "translation": "The surface located outside of this building is very beautiful."
+      },
+      {
+        "sentence": "外にある面を掃除する必要があります。",
+        "translation": "It is necessary to clean the surface that is outside."
+      },
+      {
+        "sentence": "外にある面を観察してみてください。",
+        "translation": "Please try to observe the surface that is outside."
+      }
+    ]
+  },
+  {
+    "word": "食事代",
+    "type": "Noun",
+    "pronunciation": "しょくじだい",
+    "explanation": "食事代 refers to the cost or expense associated with meals. It is commonly used in contexts where one discusses the payment for food, such as in restaurants or during events.",
+    "examples": [
+      {
+        "sentence": "食事代は別に払います。",
+        "translation": "I will pay for the meal separately."
+      },
+      {
+        "sentence": "彼が食事代を払ってくれた。",
+        "translation": "He paid for the meal."
+      },
+      {
+        "sentence": "この食事代は高すぎると思う。",
+        "translation": "I think this meal cost is too high."
+      }
+    ]
+  },
+  {
+    "word": "家の表",
+    "type": "Noun",
+    "pronunciation": "いえのひょう",
+    "explanation": "家の表 refers to the facade or exterior of a house. It can denote the front part of a house that is visible from the street, often considered in terms of aesthetics and design.",
+    "examples": [
+      {
+        "sentence": "家の表が美しいと、近所の人々に好印象を与える。",
+        "translation": "A beautiful house facade leaves a good impression on the neighbors."
+      },
+      {
+        "sentence": "彼は家の表をペンキで塗り替えた。",
+        "translation": "He repainted the facade of his house."
+      },
+      {
+        "sentence": "家の表は、その家のスタイルを反映している。",
+        "translation": "The facade of the house reflects the style of the home."
+      }
+    ]
+  },
+  {
+    "word": "表示",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ひょうじ",
+    "explanation": "表示 refers to the act of displaying or indicating something, often used in contexts such as showing information on a screen or presenting data in a visual format.",
+    "examples": [
+      {
+        "sentence": "このボタンを押すと、表示が変わります。",
+        "translation": "When you press this button, the display changes."
+      },
+      {
+        "sentence": "彼はグラフでデータの表示を行った。",
+        "translation": "He displayed the data in a graph."
+      },
+      {
+        "sentence": "表示されている情報を確認してください。",
+        "translation": "Please check the information displayed."
+      }
+    ]
+  },
+  {
+    "word": "第",
+    "type": "Noun",
+    "pronunciation": "だい",
+    "explanation": "第 is a prefix used in Japanese to denote ordinal numbers, such as 'first', 'second', 'third', etc. It is often used in contexts such as ranking or ordering.",
+    "examples": [
+      {
+        "sentence": "第1章は非常に面白い。",
+        "translation": "Chapter 1 is very interesting."
+      },
+      {
+        "sentence": "彼は第2位に入賞した。",
+        "translation": "He placed second."
+      },
+      {
+        "sentence": "試験の第3問は難しかった。",
+        "translation": "The third question of the exam was difficult."
+      }
+    ]
+  },
+  {
+    "word": "回数券",
+    "type": "Noun",
+    "pronunciation": "かいすうけん",
+    "explanation": "回数券 refers to a prepaid ticket or voucher that allows the holder to make a specified number of uses of a service, such as train rides or bus trips. It is often used for convenience and cost savings when using public transportation or other services.",
+    "examples": [
+      {
+        "sentence": "駅で回数券を買いました。",
+        "translation": "I bought a prepaid ticket at the station."
+      },
+      {
+        "sentence": "回数券を使うと、割引が受けられます。",
+        "translation": "You can get a discount by using a prepaid ticket."
+      },
+      {
+        "sentence": "この回数券はバスと電車の両方で使えます。",
+        "translation": "This prepaid ticket can be used for both buses and trains."
+      }
+    ]
+  },
+  {
+    "word": "回す",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "まわす",
+    "explanation": "回す means to turn or rotate something. It is often used in contexts where one is rotating an object or changing its position by turning it around an axis.",
+    "examples": [
+      {
+        "sentence": "ハンドルを回してください。",
+        "translation": "Please turn the handle."
+      },
+      {
+        "sentence": "彼はコインを回して遊んでいる。",
+        "translation": "He is playing by spinning a coin."
+      },
+      {
+        "sentence": "このボタンを回すと音楽が流れます。",
+        "translation": "When you turn this button, music will play."
+      }
+    ]
+  },
+  {
+    "word": "回る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "まわる",
+    "explanation": "回る means 'to turn' or 'to rotate.' It describes the action of something spinning around a point or moving in a circular direction.",
+    "examples": [
+      {
+        "sentence": "車が回るのを見た。",
+        "translation": "I saw the car turn."
+      },
+      {
+        "sentence": "地球は太陽の周りを回っている。",
+        "translation": "The Earth revolves around the Sun."
+      },
+      {
+        "sentence": "彼は椅子の上で回って遊んでいる。",
+        "translation": "He is playing by spinning around on the chair."
+      }
+    ]
+  },
+  {
+    "word": "回転",
+    "type": "Noun",
+    "pronunciation": "かいてん",
+    "explanation": "回転 refers to the act of rotating or turning around a central point. It can describe physical rotation of objects, as well as metaphorical concepts of change or movement.",
+    "examples": [
+      {
+        "sentence": "この車は360度回転することができます。",
+        "translation": "This car can rotate 360 degrees."
+      },
+      {
+        "sentence": "地球は自転している。",
+        "translation": "The Earth rotates on its axis."
+      },
+      {
+        "sentence": "このテーマパークの乗り物は回転が速い。",
+        "translation": "The rides at this theme park rotate quickly."
+      }
+    ]
+  },
+  {
+    "word": "駒",
+    "type": "Noun",
+    "pronunciation": "こま",
+    "explanation": "駒 refers to a piece used in various board games, particularly shogi (Japanese chess) and go. It can also mean a horse in a general context, especially in traditional Japanese culture.",
+    "examples": [
+      {
+        "sentence": "将棋の駒を並べるのが好きです。",
+        "translation": "I like to arrange the pieces for shogi."
+      },
+      {
+        "sentence": "この駒は特別な意味を持っています。",
+        "translation": "This piece has a special meaning."
+      },
+      {
+        "sentence": "駒を進めると、相手にプレッシャーをかけられる。",
+        "translation": "Advancing the piece can put pressure on the opponent."
+      }
+    ]
+  },
+  {
+    "word": "こま",
+    "type": "Noun",
+    "pronunciation": "こま",
+    "explanation": "こま refers to a spinning top, a traditional toy in Japan that is spun on its point and can balance on its tip. It is often made of wood and can be found in various shapes and sizes.",
+    "examples": [
+      {
+        "sentence": "子供たちは公園でこまを回して遊んでいる。",
+        "translation": "The children are playing by spinning tops in the park."
+      },
+      {
+        "sentence": "このこまは手作りで、とても高品質です。",
+        "translation": "This top is handmade and of very high quality."
+      },
+      {
+        "sentence": "こまを回すのは、古い日本の遊びの一つです。",
+        "translation": "Spinning tops is one of the traditional games in Japan."
+      }
+    ]
+  },
+  {
+    "word": "記入する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "きにゅうする",
+    "explanation": "記入する refers to the act of filling out or entering information in a form or document. It involves providing specific details in designated areas, such as writing your name, address, or other required information.",
+    "examples": [
+      {
+        "sentence": "申込書に必要事項を記入してください。",
+        "translation": "Please fill in the necessary information on the application form."
+      },
+      {
+        "sentence": "彼はレポートに自分の名前を記入した。",
+        "translation": "He filled in his name on the report."
+      },
+      {
+        "sentence": "新しい住所を記入するのを忘れないでください。",
+        "translation": "Don't forget to fill in your new address."
+      }
+    ]
+  },
+  {
+    "word": "記される",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "しるされる",
+    "explanation": "記される is the passive form of the verb 記す (shirusu), which means 'to write' or 'to record.' In this context, 記される indicates that something is being written down or recorded by someone else.",
+    "examples": [
+      {
+        "sentence": "彼の名前はその本に記されている。",
+        "translation": "His name is recorded in that book."
+      },
+      {
+        "sentence": "この事実は歴史に記されるだろう。",
+        "translation": "This fact will be recorded in history."
+      },
+      {
+        "sentence": "重要なメッセージが文書に記されている。",
+        "translation": "An important message is written in the document."
+      }
+    ]
+  },
+  {
+    "word": "回向院",
+    "type": "Noun",
+    "pronunciation": "えこういん",
+    "explanation": "回向院 (えこういん) refers to a specific type of temple or place of worship in Japan, often associated with memorial services and prayers for the deceased. It is a place where offerings and prayers are made to benefit the departed souls.",
+    "examples": [
+      {
+        "sentence": "彼は回向院で祖父のために祈りを捧げた。",
+        "translation": "He offered prayers for his grandfather at the Eko-in."
+      },
+      {
+        "sentence": "回向院で行われる法要は非常に重要です。",
+        "translation": "The memorial service held at the Eko-in is very important."
+      },
+      {
+        "sentence": "多くの人々が回向院を訪れて故人を偲びます。",
+        "translation": "Many people visit the Eko-in to remember their loved ones."
+      }
+    ]
+  },
+  {
+    "word": "暗記",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "あんき",
+    "explanation": "暗記 refers to the act of memorizing or committing something to memory. It often involves learning information such as vocabulary, facts, or formulas for later recall.",
+    "examples": [
+      {
+        "sentence": "彼は漢字を暗記するのが得意です。",
+        "translation": "He is good at memorizing kanji."
+      },
+      {
+        "sentence": "試験のために多くの情報を暗記しなければならなかった。",
+        "translation": "I had to memorize a lot of information for the exam."
+      },
+      {
+        "sentence": "暗記は学習において重要なスキルです。",
+        "translation": "Memorization is an important skill in learning."
+      }
+    ]
+  },
+  {
+    "word": "創立記念日",
+    "type": "Noun",
+    "pronunciation": "そうりつきねんび",
+    "explanation": "創立記念日 refers to the anniversary of the establishment or founding of an organization, company, or institution. It is a day to commemorate the founding event and is often celebrated with various activities or ceremonies.",
+    "examples": [
+      {
+        "sentence": "会社の創立記念日を祝うイベントが開催される。",
+        "translation": "An event will be held to celebrate the company's founding anniversary."
+      },
+      {
+        "sentence": "彼らは学校の創立記念日を大々的に祝った。",
+        "translation": "They celebrated the school's founding anniversary grandly."
+      },
+      {
+        "sentence": "創立記念日には特別な行事が行われる。",
+        "translation": "Special events are held on the founding anniversary."
+      }
+    ]
+  },
+  {
+    "word": "減る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "へる",
+    "explanation": "減る means 'to decrease' or 'to diminish'. It is used to indicate that something is becoming smaller in quantity, size, or degree.",
+    "examples": [
+      {
+        "sentence": "この町の人口が減っている。",
+        "translation": "The population of this town is decreasing."
+      },
+      {
+        "sentence": "彼の体重が減った。",
+        "translation": "He has lost weight."
+      },
+      {
+        "sentence": "時間が減ると、仕事が増える。",
+        "translation": "When time decreases, the work increases."
+      }
+    ]
+  },
+  {
+    "word": "A〜に対して、B",
+    "type": "Phrase",
+    "pronunciation": "A〜にたいして、B",
+    "explanation": "The phrase A〜に対して、B is used to express a contrast or relationship between two subjects, where A is the subject being referred to and B provides a contrasting or related statement. It is often used to highlight differences or to make comparisons.",
+    "examples": [
+      {
+        "sentence": "彼は私に対して、いつも優しい。",
+        "translation": "He is always kind to me."
+      },
+      {
+        "sentence": "彼女は仕事に対して真剣だ。",
+        "translation": "She is serious about her work."
+      },
+      {
+        "sentence": "この政策は若者に対して、特に影響が大きい。",
+        "translation": "This policy has a particularly large impact on young people."
+      }
+    ]
+  },
+  {
+    "word": "〜反面",
+    "type": "Noun",
+    "pronunciation": "はんめん",
+    "explanation": "〜反面 is a conjunction used to indicate a contrast or an opposing aspect of something. It can be translated as 'on the other hand' or 'while' in English, highlighting both sides of a situation or argument.",
+    "examples": [
+      {
+        "sentence": "彼は仕事が忙しい反面、収入が増えた。",
+        "translation": "While he is busy with work, his income has increased."
+      },
+      {
+        "sentence": "この製品は安い反面、品質があまり良くない。",
+        "translation": "This product is cheap, but on the other hand, the quality is not very good."
+      },
+      {
+        "sentence": "新しいシステムは便利な反面、使いこなすのが難しい。",
+        "translation": "The new system is convenient, but on the other hand, it's difficult to master."
+      }
+    ]
+  },
+  {
+    "word": "〜(の)は〜からだ",
+    "type": "Phrase",
+    "pronunciation": "〜(の)は〜からだ",
+    "explanation": "The phrase 〜(の)は〜からだ is used to indicate the reason or cause for something. It emphasizes that the subject (the part before は) is the reason that leads to the conclusion or statement that follows からだ.",
+    "examples": [
+      {
+        "sentence": "彼の成功は努力からだ。",
+        "translation": "His success is due to his hard work."
+      },
+      {
+        "sentence": "この問題は時間が足りないからだ。",
+        "translation": "This problem is because there is not enough time."
+      },
+      {
+        "sentence": "彼女の笑顔は幸せからだ。",
+        "translation": "Her smile is due to her happiness."
+      }
+    ]
+  },
+  {
+    "word": "〜(の)は〜からだ",
+    "type": "Phrase",
+    "pronunciation": "〜(の)は〜からだ",
+    "explanation": "The phrase 〜(の)は〜からだ is used to explain a reason or cause, often indicating that a certain quality or state is due to a specific factor. It is commonly used in casual conversation to provide justification or explanation for something mentioned before.",
+    "examples": [
+      {
+        "sentence": "この料理はおいしいのは新鮮な材料からだ。",
+        "translation": "The reason this dish is delicious is because of the fresh ingredients."
+      },
+      {
+        "sentence": "彼が遅れたのは交通渋滞からだ。",
+        "translation": "The reason he was late is because of the traffic jam."
+      },
+      {
+        "sentence": "彼女が元気なのは、毎日運動しているからだ。",
+        "translation": "The reason she is energetic is that she exercises every day."
+      }
+    ]
+  },
+  {
+    "word": "痒い",
+    "type": "i-adj",
+    "pronunciation": "かゆい",
+    "explanation": "痒い describes the sensation of itchiness or irritation on the skin. It is used to express discomfort that triggers the urge to scratch.",
+    "examples": [
+      {
+        "sentence": "虫に刺されたところが痒い。",
+        "translation": "The spot where I was bitten by a bug is itchy."
+      },
+      {
+        "sentence": "この服は素材が痒いので着たくない。",
+        "translation": "I don't want to wear this dress because the material is itchy."
+      },
+      {
+        "sentence": "痒いところを掻くのは気持ちいい。",
+        "translation": "Scratching an itchy spot feels good."
+      }
+    ]
+  },
+  {
+    "word": "相手",
+    "type": "Noun",
+    "pronunciation": "あいて",
+    "explanation": "相手 refers to a partner, opponent, or counterpart in a situation, such as in conversation, games, or relationships. It can denote someone with whom one interacts or competes.",
+    "examples": [
+      {
+        "sentence": "彼は私の良い相手です。",
+        "translation": "He is a good partner for me."
+      },
+      {
+        "sentence": "試合の相手は強いチームだった。",
+        "translation": "The opponent in the match was a strong team."
+      },
+      {
+        "sentence": "相手の話をよく聞くことが大切です。",
+        "translation": "It is important to listen carefully to the other person's words."
+      }
+    ]
+  }
+]

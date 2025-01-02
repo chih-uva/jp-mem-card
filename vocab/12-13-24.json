@@ -1,0 +1,402 @@
+[
+  {
+    "word": "平社員",
+    "type": "Noun",
+    "pronunciation": "ひらしゃいん",
+    "explanation": "平社員 refers to a regular employee or staff member in a company, typically without any managerial or executive responsibilities. It denotes a position that is not in the upper management tier.",
+    "examples": [
+      {
+        "sentence": "彼は平社員として働いています。",
+        "translation": "He works as a regular employee."
+      },
+      {
+        "sentence": "平社員の仕事は重要です。",
+        "translation": "The work of regular employees is important."
+      },
+      {
+        "sentence": "平社員でも意見を言うことができます。",
+        "translation": "Even regular employees can voice their opinions."
+      }
+    ]
+  },
+  {
+    "word": "均一",
+    "type": "Noun, Adjective",
+    "pronunciation": "きんいち",
+    "explanation": "均一 refers to uniformity or consistency in quality, appearance, or measurement. It describes something that is the same or equivalent across different instances or items.",
+    "examples": [
+      {
+        "sentence": "製品の品質は均一でなければならない。",
+        "translation": "The quality of the products must be uniform."
+      },
+      {
+        "sentence": "均一な温度で料理をすることが大切です。",
+        "translation": "It is important to cook at a uniform temperature."
+      },
+      {
+        "sentence": "均一に塗ることで、仕上がりがきれいになります。",
+        "translation": "By applying it uniformly, the finish becomes beautiful."
+      }
+    ]
+  },
+  {
+    "word": "均一",
+    "type": "Noun, Adjective",
+    "pronunciation": "きんいつ",
+    "explanation": "均一 refers to uniformity or consistency in quality, size, or appearance. It describes a state where things are the same or evenly distributed.",
+    "examples": [
+      {
+        "sentence": "彼の仕事は均一な品質を保っています。",
+        "translation": "His work maintains a uniform quality."
+      },
+      {
+        "sentence": "均一に焼き上げるために、オーブンの温度を調整します。",
+        "translation": "I adjust the oven temperature to bake evenly."
+      },
+      {
+        "sentence": "この材料は均一に混ざっています。",
+        "translation": "These ingredients are mixed uniformly."
+      }
+    ]
+  },
+  {
+    "word": "効率",
+    "type": "Noun",
+    "pronunciation": "こうりつ",
+    "explanation": "効率 refers to efficiency or effectiveness, particularly in terms of the ratio of output to input in various contexts such as work, processes, and systems. It indicates how effectively resources are used to produce desired results.",
+    "examples": [
+      {
+        "sentence": "この方法は作業の効率を高める。",
+        "translation": "This method improves work efficiency."
+      },
+      {
+        "sentence": "効率的な時間管理が成功の鍵です。",
+        "translation": "Efficient time management is the key to success."
+      },
+      {
+        "sentence": "私たちは効率を最大化するために努力しています。",
+        "translation": "We are working to maximize efficiency."
+      }
+    ]
+  },
+  {
+    "word": "外面",
+    "type": "Noun",
+    "pronunciation": "そとづら",
+    "explanation": "外面 refers to the outward appearance or facade of something or someone, often implying a superficial aspect that may not reflect the true nature or character.",
+    "examples": [
+      {
+        "sentence": "彼の外面はとても良いが、内面はそうではない。",
+        "translation": "His outward appearance is very good, but his inner self is not."
+      },
+      {
+        "sentence": "外面を気にする人が多い。",
+        "translation": "Many people care about their outward appearance."
+      },
+      {
+        "sentence": "外面を整えることは大切だ。",
+        "translation": "It is important to take care of your outward appearance."
+      }
+    ]
+  },
+  {
+    "word": "捕手",
+    "type": "Noun",
+    "pronunciation": "ほしゅ",
+    "explanation": "捕手 refers to a catcher in baseball, the player positioned behind home plate who receives pitches and plays a crucial role in defense and strategy during the game.",
+    "examples": [
+      {
+        "sentence": "彼はチームの捕手として活躍している。",
+        "translation": "He is active as the team's catcher."
+      },
+      {
+        "sentence": "捕手は投手とのコミュニケーションが重要です。",
+        "translation": "The catcher has to communicate well with the pitcher."
+      },
+      {
+        "sentence": "捕手の役割は非常に重要です。",
+        "translation": "The role of the catcher is very important."
+      }
+    ]
+  },
+  {
+    "word": "成る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "なる",
+    "explanation": "成る means 'to become' or 'to turn into'. It indicates a change of state or condition, often used to express transformation or development into something else.",
+    "examples": [
+      {
+        "sentence": "彼は医者に成った。",
+        "translation": "He became a doctor."
+      },
+      {
+        "sentence": "子供が大人に成る。",
+        "translation": "Children grow up to become adults."
+      },
+      {
+        "sentence": "夢が成るといいですね。",
+        "translation": "I hope your dreams come true."
+      }
+    ]
+  },
+  {
+    "word": "斜めに",
+    "type": "Adverb",
+    "pronunciation": "ななめに",
+    "explanation": "斜めに means 'diagonally' or 'slantingly' and is used to describe the direction or position of something that is not vertical or horizontal, but at an angle.",
+    "examples": [
+      {
+        "sentence": "本棚は斜めに置かれている。",
+        "translation": "The bookshelf is placed diagonally."
+      },
+      {
+        "sentence": "彼は斜めに走り出した。",
+        "translation": "He started running at an angle."
+      },
+      {
+        "sentence": "斜めにカットされた木材を使います。",
+        "translation": "We will use wood that has been cut diagonally."
+      }
+    ]
+  },
+  {
+    "word": "支える",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "ささえる",
+    "explanation": "支える means to support or to hold up something. It can refer to physical support as well as emotional or financial support.",
+    "examples": [
+      {
+        "sentence": "彼は家族を支えるために働いている。",
+        "translation": "He works to support his family."
+      },
+      {
+        "sentence": "その柱が屋根を支えている。",
+        "translation": "That pillar supports the roof."
+      },
+      {
+        "sentence": "友達が私を支えてくれた。",
+        "translation": "My friend supported me."
+      }
+    ]
+  },
+  {
+    "word": "接する",
+    "type": "Verb, Suru-verb",
+    "pronunciation": "せっする",
+    "explanation": "接する means to come into contact with, to touch, or to be in relation to someone or something. It is often used to describe interactions or connections between people or objects.",
+    "examples": [
+      {
+        "sentence": "彼は多くの人々と接する仕事をしています。",
+        "translation": "He has a job that involves interacting with many people."
+      },
+      {
+        "sentence": "この事件は彼に直接接する問題です。",
+        "translation": "This issue is a problem that directly concerns him."
+      },
+      {
+        "sentence": "私たちは彼らと接する機会があまりありません。",
+        "translation": "We don't have many opportunities to interact with them."
+      }
+    ]
+  },
+  {
+    "word": "接客業",
+    "type": "Noun",
+    "pronunciation": "せっきゃくぎょう",
+    "explanation": "接客業 refers to the service industry that involves direct interaction with customers, such as in restaurants, hotels, and retail. It encompasses various roles focused on providing services to enhance customer satisfaction.",
+    "examples": [
+      {
+        "sentence": "彼は接客業で働いています。",
+        "translation": "He works in the service industry."
+      },
+      {
+        "sentence": "接客業ではコミュニケーション能力が重要です。",
+        "translation": "Communication skills are essential in the service industry."
+      },
+      {
+        "sentence": "この店は接客業に力を入れています。",
+        "translation": "This store is focused on improving its customer service."
+      }
+    ]
+  },
+  {
+    "word": "触れる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "ふれる",
+    "explanation": "触れる means 'to touch' or 'to come into contact with'. It can refer to physical touch or a more abstract sense of experiencing or coming into contact with something.",
+    "examples": [
+      {
+        "sentence": "彼は私の肩に触れた。",
+        "translation": "He touched my shoulder."
+      },
+      {
+        "sentence": "この本は多くの人々に触れることができる。",
+        "translation": "This book can reach many people."
+      },
+      {
+        "sentence": "心に触れる言葉を聞いた。",
+        "translation": "I heard words that touched my heart."
+      }
+    ]
+  },
+  {
+    "word": "運番業",
+    "type": "Noun",
+    "pronunciation": "うんばんぎょう",
+    "explanation": "運番業 refers to a system of assigning numbers or codes related to transportation, often used in logistics and delivery services. It is essential for tracking and organizing shipments and ensuring efficient operations.",
+    "examples": [
+      {
+        "sentence": "運番業のおかげで、荷物の追跡が容易になった。",
+        "translation": "Thanks to the tracking system, it has become easy to trace packages."
+      },
+      {
+        "sentence": "彼は運番業の仕事をしています。",
+        "translation": "He works in the transportation numbering industry."
+      },
+      {
+        "sentence": "運番業は物流の効率を高める。",
+        "translation": "The transportation numbering system enhances the efficiency of logistics."
+      }
+    ]
+  },
+  {
+    "word": "電源",
+    "type": "Noun",
+    "pronunciation": "でんげん",
+    "explanation": "電源 refers to a power source, such as electricity or batteries, that provides energy to operate devices or machinery. It is essential for the functioning of electronic devices.",
+    "examples": [
+      {
+        "sentence": "パソコンの電源を入れてください。",
+        "translation": "Please turn on the power for the computer."
+      },
+      {
+        "sentence": "この機械は電源が入っていない。",
+        "translation": "This machine is not powered on."
+      },
+      {
+        "sentence": "電源を切ると、すべてのデータが消えてしまいます。",
+        "translation": "If you turn off the power, all data will be lost."
+      }
+    ]
+  },
+  {
+    "word": "良好",
+    "type": "Na-adjective",
+    "pronunciation": "りょうこう",
+    "explanation": "良好 means 'good' or 'favorable' and is used to describe something in a positive or satisfactory condition, such as health, conditions, or situations.",
+    "examples": [
+      {
+        "sentence": "彼の健康状態は良好です。",
+        "translation": "His health condition is good."
+      },
+      {
+        "sentence": "このプロジェクトの進捗は良好です。",
+        "translation": "The progress of this project is favorable."
+      },
+      {
+        "sentence": "良好な関係を築くことが大切です。",
+        "translation": "It is important to build a good relationship."
+      }
+    ]
+  },
+  {
+    "word": "悪気",
+    "type": "Noun",
+    "pronunciation": "あくぎ",
+    "explanation": "悪気 refers to ill will or malice, indicating a negative intention or feeling towards someone or something. It often implies a sense of hostility or unkindness in thoughts or actions.",
+    "examples": [
+      {
+        "sentence": "彼は悪気はなかったと言ったが、私にはそうは思えなかった。",
+        "translation": "He said he meant no harm, but I didn't believe that."
+      },
+      {
+        "sentence": "悪気のない冗談が時には人を傷つけることがある。",
+        "translation": "Sometimes, jokes without ill intent can hurt people."
+      },
+      {
+        "sentence": "彼女の悪気を感じ取ることができなかった。",
+        "translation": "I couldn't sense her ill will."
+      }
+    ]
+  },
+  {
+    "word": "悪寒",
+    "type": "Noun",
+    "pronunciation": "おかん",
+    "explanation": "悪寒 refers to a feeling of coldness or chills, often associated with fever or illness. It describes a sensation of cold that can be uncomfortable and is typically a symptom of a condition such as the flu or other infections.",
+    "examples": [
+      {
+        "sentence": "彼は悪寒を感じている。",
+        "translation": "He is feeling chills."
+      },
+      {
+        "sentence": "悪寒がするので、病院に行くべきだ。",
+        "translation": "I should go to the hospital because I'm feeling chills."
+      },
+      {
+        "sentence": "風邪をひくと悪寒がすることがある。",
+        "translation": "It's common to feel chills when you catch a cold."
+      }
+    ]
+  },
+  {
+    "word": "書き込む",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "かきこむ",
+    "explanation": "書き込む means to write in or to fill in something, such as a form, notebook, or document. It emphasizes the action of adding written content to a specified location.",
+    "examples": [
+      {
+        "sentence": "彼はフォームに必要な情報を書き込んだ。",
+        "translation": "He filled in the necessary information on the form."
+      },
+      {
+        "sentence": "ノートに授業の内容を書き込むのを忘れた。",
+        "translation": "I forgot to write down the content of the class in my notebook."
+      },
+      {
+        "sentence": "このプログラムを使ってデータベースに情報を書き込むことができます。",
+        "translation": "You can use this program to write information into the database."
+      }
+    ]
+  },
+  {
+    "word": "非難",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ひなん",
+    "explanation": "非難 refers to the act of blaming or criticizing someone for their actions or behavior. It involves expressing disapproval or condemnation towards a person's conduct.",
+    "examples": [
+      {
+        "sentence": "彼は彼女の行動を非難した。",
+        "translation": "He criticized her actions."
+      },
+      {
+        "sentence": "非難の声が上がった。",
+        "translation": "Voices of criticism arose."
+      },
+      {
+        "sentence": "彼らはその政策を非難するべきだ。",
+        "translation": "They should criticize that policy."
+      }
+    ]
+  },
+  {
+    "word": "怠い",
+    "type": "I-adjective",
+    "pronunciation": "だるい",
+    "explanation": "怠い describes a feeling of lethargy or sluggishness, often referring to a state of tiredness or lack of energy. It can express a sensation where one feels heavy or unwilling to engage in activity.",
+    "examples": [
+      {
+        "sentence": "今日は怠いので、何もしたくない。",
+        "translation": "I feel sluggish today, so I don't want to do anything."
+      },
+      {
+        "sentence": "長時間座っていると、体が怠くなる。",
+        "translation": "Sitting for a long time makes my body feel heavy."
+      },
+      {
+        "sentence": "怠いときは、少し休むのがいい。",
+        "translation": "When you feel sluggish, it's good to take a little break."
+      }
+    ]
+  }
+]

@@ -1,0 +1,782 @@
+[
+  {
+    "word": "～というより",
+    "type": "Phrase",
+    "pronunciation": "～というより",
+    "explanation": "～というより is a Japanese phrase used to indicate that something is more accurately described by a different term or concept. It translates to 'rather than' or 'more than saying.' It is often used to clarify or correct a previous statement.",
+    "examples": [
+      {
+        "sentence": "彼は友達というより、兄のような存在です。",
+        "translation": "He is more like a brother than a friend."
+      },
+      {
+        "sentence": "この料理は美味しいというより、絶品です。",
+        "translation": "This dish is not just delicious, it's exquisite."
+      },
+      {
+        "sentence": "彼女は優しいというより、思いやりがある。",
+        "translation": "She is not just kind, she is compassionate."
+      }
+    ]
+  },
+  {
+    "word": "思いやり",
+    "type": "Noun",
+    "pronunciation": "おもいやり",
+    "explanation": "思いやり refers to compassion or consideration for others' feelings and circumstances. It embodies the quality of being empathetic and caring towards others.",
+    "examples": [
+      {
+        "sentence": "彼はいつも思いやりのある行動をする。",
+        "translation": "He always acts with consideration for others."
+      },
+      {
+        "sentence": "思いやりの心を持つことは大切です。",
+        "translation": "It is important to have a heart of compassion."
+      },
+      {
+        "sentence": "思いやりのある言葉が、彼女を励ました。",
+        "translation": "Words of compassion encouraged her."
+      }
+    ]
+  },
+  {
+    "word": "地球儀",
+    "type": "Noun",
+    "pronunciation": "ちきゅうぎ",
+    "explanation": "地球儀 refers to a globe or a model of the Earth, often used for educational purposes to represent geographical features and countries. It is a three-dimensional representation of the planet's surface.",
+    "examples": [
+      {
+        "sentence": "部屋に地球儀を置いています。",
+        "translation": "I have a globe in my room."
+      },
+      {
+        "sentence": "地球儀を使って国の位置を学びました。",
+        "translation": "I learned the locations of countries using the globe."
+      },
+      {
+        "sentence": "子供たちは地球儀を見ながら地理を勉強しています。",
+        "translation": "The children are studying geography while looking at the globe."
+      }
+    ]
+  },
+  {
+    "word": "球技",
+    "type": "Noun",
+    "pronunciation": "きゅうぎ",
+    "explanation": "球技 refers to ball games or sports that involve the use of a ball. This term encompasses various sports such as soccer, basketball, volleyball, and baseball, where players interact with a ball as the main object of play.",
+    "examples": [
+      {
+        "sentence": "彼は球技が得意です。",
+        "translation": "He is good at ball games."
+      },
+      {
+        "sentence": "学校の授業で球技を楽しんでいます。",
+        "translation": "I enjoy playing ball games in school classes."
+      },
+      {
+        "sentence": "球技大会に参加する予定です。",
+        "translation": "I plan to participate in the ball game tournament."
+      }
+    ]
+  },
+  {
+    "word": "打球",
+    "type": "Noun",
+    "pronunciation": "だきゅう",
+    "explanation": "打球 refers to a batted ball in sports, particularly baseball or softball. It describes the action of hitting the ball and the ball's trajectory as it is struck by the bat.",
+    "examples": [
+      {
+        "sentence": "彼は打球を打つのが得意です。",
+        "translation": "He is good at hitting the ball."
+      },
+      {
+        "sentence": "打球が外野に飛んで行った。",
+        "translation": "The batted ball flew to the outfield."
+      },
+      {
+        "sentence": "彼女は打球を見逃さなかった。",
+        "translation": "She didn't miss the batted ball."
+      }
+    ]
+  },
+  {
+    "word": "打点",
+    "type": "Noun",
+    "pronunciation": "だてん",
+    "explanation": "打点 refers to the act of scoring points or achieving a goal, often used in the context of sports or games. It can also refer to specific points in time or space where something occurs or is measured.",
+    "examples": [
+      {
+        "sentence": "試合での打点が勝敗に大きく影響した。",
+        "translation": "The scoring points in the game had a significant impact on the outcome."
+      },
+      {
+        "sentence": "打点を記録するために、選手たちは集中してプレーした。",
+        "translation": "The players focused on their performance to record scoring points."
+      },
+      {
+        "sentence": "この試合では、彼の打点が特に目立った。",
+        "translation": "In this match, his scoring points were particularly notable."
+      }
+    ]
+  },
+  {
+    "word": "殴る",
+    "type": "U-verb, Transitive",
+    "pronunciation": "なぐる",
+    "explanation": "殴る means 'to hit' or 'to strike', typically with a fist. It is used to describe the action of physically assaulting someone or something.",
+    "examples": [
+      {
+        "sentence": "彼は敵を殴った。",
+        "translation": "He hit the enemy."
+      },
+      {
+        "sentence": "子供が友達を殴るのは良くない。",
+        "translation": "It's not good for children to hit their friends."
+      },
+      {
+        "sentence": "彼女はボクシングの練習でサンドバッグを殴っている。",
+        "translation": "She is hitting the punching bag during boxing practice."
+      }
+    ]
+  },
+  {
+    "word": "叩く",
+    "type": "U-verb, Transitive",
+    "pronunciation": "たたく",
+    "explanation": "叩く means 'to hit' or 'to strike', often used in the context of hitting something with a hand or an object. It can also mean to play a musical instrument like drums by striking it.",
+    "examples": [
+      {
+        "sentence": "彼はドラムを叩いています。",
+        "translation": "He is playing the drums."
+      },
+      {
+        "sentence": "テーブルを叩いて音を出しました。",
+        "translation": "He struck the table to make a sound."
+      },
+      {
+        "sentence": "彼女は彼の背中を叩いて、元気づけた。",
+        "translation": "She patted his back to encourage him."
+      }
+    ]
+  },
+  {
+    "word": "強打",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "きょうだ",
+    "explanation": "強打 refers to a strong blow or hit, and it can also denote the action of striking something with force. As a suru-verb, it can describe the act of delivering a strong hit or blow.",
+    "examples": [
+      {
+        "sentence": "彼はボールを強打した。",
+        "translation": "He struck the ball hard."
+      },
+      {
+        "sentence": "強打によってドアが壊れた。",
+        "translation": "The door was broken by a strong blow."
+      },
+      {
+        "sentence": "彼は強打で試合に勝った。",
+        "translation": "He won the match with a powerful hit."
+      }
+    ]
+  },
+  {
+    "word": "代打",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "だいだ",
+    "explanation": "代打 refers to a pinch hitter in baseball, a player who is substituted in to bat for another player. It can also imply taking over a role or responsibility temporarily.",
+    "examples": [
+      {
+        "sentence": "試合の終盤で彼が代打として出場した。",
+        "translation": "He came in as a pinch hitter in the final stages of the game."
+      },
+      {
+        "sentence": "彼女は急遽、代打を務めることになった。",
+        "translation": "She had to step in as a substitute."
+      },
+      {
+        "sentence": "代打でホームランを打った選手が話題になった。",
+        "translation": "The player who hit a home run as a pinch hitter became the talk of the town."
+      }
+    ]
+  },
+  {
+    "word": "投手",
+    "type": "Noun",
+    "pronunciation": "とうしゅ",
+    "explanation": "投手 refers to a pitcher in baseball, the player responsible for throwing the ball to the batter. The role is crucial in the game as it involves strategy and skill to prevent the opposing team from scoring.",
+    "examples": [
+      {
+        "sentence": "彼はプロの投手として活躍している。",
+        "translation": "He is active as a professional pitcher."
+      },
+      {
+        "sentence": "投手は試合の流れを大きく左右する。",
+        "translation": "The pitcher greatly influences the flow of the game."
+      },
+      {
+        "sentence": "彼女は高校野球の投手として有名だ。",
+        "translation": "She is famous as a high school baseball pitcher."
+      }
+    ]
+  },
+  {
+    "word": "投書",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "とうしょ",
+    "explanation": "投書 refers to the act of submitting a letter or article to a publication, often expressing opinions or concerns. It involves sending written communication to be considered for publication.",
+    "examples": [
+      {
+        "sentence": "彼は新聞に投書をした。",
+        "translation": "He submitted a letter to the newspaper."
+      },
+      {
+        "sentence": "投書欄には多くの意見が寄せられている。",
+        "translation": "Many opinions have been submitted to the letter column."
+      },
+      {
+        "sentence": "この問題について投書するつもりです。",
+        "translation": "I intend to submit a letter regarding this issue."
+      }
+    ]
+  },
+  {
+    "word": "重点",
+    "type": "Noun",
+    "pronunciation": "じゅうてん",
+    "explanation": "重点 refers to an important point or focus in a discussion, plan, or area of interest. It signifies what should be prioritized or emphasized.",
+    "examples": [
+      {
+        "sentence": "このプロジェクトの重点は期限を守ることです。",
+        "translation": "The focus of this project is to meet deadlines."
+      },
+      {
+        "sentence": "教育の重点を見直す必要があります。",
+        "translation": "We need to reassess the priorities in education."
+      },
+      {
+        "sentence": "会議では、重点を明確にすることが大切です。",
+        "translation": "It's important to clarify the key points in the meeting."
+      }
+    ]
+  },
+  {
+    "word": "満",
+    "type": "Adjective, Na-adj",
+    "pronunciation": "まん",
+    "explanation": "満 means 'full' or 'satisfied'. It is used to describe a state of completeness or contentment, often in relation to physical fullness or emotional fulfillment.",
+    "examples": [
+      {
+        "sentence": "彼は満足そうな顔をしている。",
+        "translation": "He has a satisfied look on his face."
+      },
+      {
+        "sentence": "お腹が満たされた。",
+        "translation": "My stomach is full."
+      },
+      {
+        "sentence": "彼女の夢が満たされた。",
+        "translation": "Her dreams have been fulfilled."
+      }
+    ]
+  },
+  {
+    "word": "不利点",
+    "type": "Noun",
+    "pronunciation": "ふりてん",
+    "explanation": "不利点 refers to a disadvantage or a drawback in a situation, indicating a point that makes something less favorable compared to others.",
+    "examples": [
+      {
+        "sentence": "この計画には多くの不利点があります。",
+        "translation": "There are many disadvantages to this plan."
+      },
+      {
+        "sentence": "不利点を理解することは、より良い判断を下すために重要です。",
+        "translation": "Understanding the disadvantages is important for making better decisions."
+      },
+      {
+        "sentence": "競争において不利点を克服することが求められます。",
+        "translation": "Overcoming disadvantages in competition is necessary."
+      }
+    ]
+  },
+  {
+    "word": "長所",
+    "type": "Noun",
+    "pronunciation": "ちょうしょ",
+    "explanation": "長所 refers to a person's strengths or positive qualities. It highlights the advantageous traits that contribute to one's abilities or character.",
+    "examples": [
+      {
+        "sentence": "彼の長所は、優れたコミュニケーション能力です。",
+        "translation": "His strength is his excellent communication skills."
+      },
+      {
+        "sentence": "長所を活かして、仕事を進めてください。",
+        "translation": "Please utilize your strengths to proceed with the work."
+      },
+      {
+        "sentence": "自分の長所を理解することは重要です。",
+        "translation": "It is important to understand your own strengths."
+      }
+    ]
+  },
+  {
+    "word": "短所",
+    "type": "Noun",
+    "pronunciation": "たんしょ",
+    "explanation": "短所 refers to a weakness or flaw in a person's character or abilities. It highlights the negative aspects as opposed to strengths or advantages.",
+    "examples": [
+      {
+        "sentence": "彼には短所がいくつかある。",
+        "translation": "He has several shortcomings."
+      },
+      {
+        "sentence": "短所を克服することが大切だ。",
+        "translation": "It is important to overcome one's weaknesses."
+      },
+      {
+        "sentence": "彼女の短所は、時々気が散りやすいことだ。",
+        "translation": "Her weakness is that she can be easily distracted at times."
+      }
+    ]
+  },
+  {
+    "word": "引き分け",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ひきわけ",
+    "explanation": "引き分け refers to a draw or tie in a game or match, where neither side wins. It is commonly used in sports and competitions to indicate that the results were equal.",
+    "examples": [
+      {
+        "sentence": "試合は引き分けに終わった。",
+        "translation": "The match ended in a draw."
+      },
+      {
+        "sentence": "引き分けの場合、両チームにポイントが与えられる。",
+        "translation": "In the case of a tie, both teams are awarded points."
+      },
+      {
+        "sentence": "彼らは長い戦いの末、引き分けに持ち込んだ。",
+        "translation": "After a long battle, they ended up in a tie."
+      }
+    ]
+  },
+  {
+    "word": "感情的",
+    "type": "Na-adj",
+    "pronunciation": "かんじょうてき",
+    "explanation": "感情的 describes something that is emotional or relates to feelings. It can refer to a person's behavior, reactions, or expressions that are influenced by emotions rather than logic.",
+    "examples": [
+      {
+        "sentence": "彼は感情的になりやすい。",
+        "translation": "He tends to become emotional easily."
+      },
+      {
+        "sentence": "感情的な映画を見て泣いてしまった。",
+        "translation": "I cried while watching an emotional movie."
+      },
+      {
+        "sentence": "その問題に対して感情的な反応は避けるべきだ。",
+        "translation": "We should avoid emotional reactions to that issue."
+      }
+    ]
+  },
+  {
+    "word": "安心感",
+    "type": "Noun",
+    "pronunciation": "あんしんかん",
+    "explanation": "安心感 refers to a sense of relief or reassurance, a feeling of safety and security. It is often associated with the absence of anxiety or worry.",
+    "examples": [
+      {
+        "sentence": "彼と一緒にいると、安心感があります。",
+        "translation": "I feel a sense of relief when I am with him."
+      },
+      {
+        "sentence": "この家には安心感がある。",
+        "translation": "This house has a sense of safety."
+      },
+      {
+        "sentence": "彼女の言葉は私に安心感を与えてくれた。",
+        "translation": "Her words gave me a sense of reassurance."
+      }
+    ]
+  },
+  {
+    "word": "感動",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かんどう",
+    "explanation": "感動 refers to deep emotion or being moved emotionally. It can also imply a strong impression or feeling that one experiences in response to something beautiful or touching.",
+    "examples": [
+      {
+        "sentence": "彼の話に感動しました。",
+        "translation": "I was moved by his story."
+      },
+      {
+        "sentence": "映画を見て感動的な気持ちになった。",
+        "translation": "I felt emotional after watching the movie."
+      },
+      {
+        "sentence": "感動を与える音楽が好きです。",
+        "translation": "I like music that gives me deep emotions."
+      }
+    ]
+  },
+  {
+    "word": "感じる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "かんじる",
+    "explanation": "感じる means 'to feel' or 'to sense'. It is used to express an emotional or physical sensation, perception, or awareness of something.",
+    "examples": [
+      {
+        "sentence": "彼は幸せを感じている。",
+        "translation": "He is feeling happy."
+      },
+      {
+        "sentence": "この音楽を聞いて、何か特別なものを感じる。",
+        "translation": "Listening to this music makes me feel something special."
+      },
+      {
+        "sentence": "寒さを感じ始めた。",
+        "translation": "I started to feel the cold."
+      }
+    ]
+  },
+  {
+    "word": "感心",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かんしん",
+    "explanation": "感心 refers to the feeling of admiration or being impressed by something. It can also denote the act of being moved by someone's actions or qualities.",
+    "examples": [
+      {
+        "sentence": "彼の努力に感心しました。",
+        "translation": "I was impressed by his efforts."
+      },
+      {
+        "sentence": "彼女の才能に感心しています。",
+        "translation": "I am impressed by her talent."
+      },
+      {
+        "sentence": "その話を聞いて感心した。",
+        "translation": "I was moved by hearing that story."
+      }
+    ]
+  },
+  {
+    "word": "感想",
+    "type": "Noun",
+    "pronunciation": "かんそう",
+    "explanation": "感想 refers to thoughts, impressions, or reflections about something, often expressed after experiencing an event, reading a book, or viewing a performance. It captures personal feelings and evaluations.",
+    "examples": [
+      {
+        "sentence": "映画を見た後の感想を教えてください。",
+        "translation": "Please tell me your thoughts after watching the movie."
+      },
+      {
+        "sentence": "彼の感想はとても興味深かった。",
+        "translation": "His impressions were very interesting."
+      },
+      {
+        "sentence": "感想文を書くのが宿題です。",
+        "translation": "Writing a reflection paper is the homework."
+      }
+    ]
+  },
+  {
+    "word": "情け",
+    "type": "Noun",
+    "pronunciation": "なさけ",
+    "explanation": "情け refers to compassion, sympathy, or kindness towards others. It signifies a deep emotional understanding and concern for someone's situation or feelings.",
+    "examples": [
+      {
+        "sentence": "彼は情け深い人だ。",
+        "translation": "He is a compassionate person."
+      },
+      {
+        "sentence": "情けをかけて助けてあげてください。",
+        "translation": "Please show kindness and help them."
+      },
+      {
+        "sentence": "情け無用の態度は良くない。",
+        "translation": "A lack of compassion is not good."
+      }
+    ]
+  },
+  {
+    "word": "深い",
+    "type": "i-adj",
+    "pronunciation": "ふかい",
+    "explanation": "深い means 'deep' in Japanese. It can refer to physical depth, such as that of water or a hole, as well as metaphorical depth, such as emotions or thoughts.",
+    "examples": [
+      {
+        "sentence": "この川はとても深いです。",
+        "translation": "This river is very deep."
+      },
+      {
+        "sentence": "彼の考えは深いです。",
+        "translation": "His thoughts are profound."
+      },
+      {
+        "sentence": "深い眠りに落ちました。",
+        "translation": "I fell into a deep sleep."
+      }
+    ]
+  },
+  {
+    "word": "情け深い",
+    "type": "I-adjective",
+    "pronunciation": "なさけぶかい",
+    "explanation": "情け深い describes a person who is compassionate and kind-hearted, showing a deep sense of sympathy and empathy towards others.",
+    "examples": [
+      {
+        "sentence": "彼は情け深い人なので、困っている友達を助けることが多い。",
+        "translation": "He is a compassionate person, so he often helps his friends in need."
+      },
+      {
+        "sentence": "情け深い行動が、多くの人々に感謝される。",
+        "translation": "Compassionate actions are appreciated by many people."
+      },
+      {
+        "sentence": "情け深い性格のおかげで、彼女には多くの友達がいる。",
+        "translation": "Thanks to her compassionate nature, she has many friends."
+      }
+    ]
+  },
+  {
+    "word": "友情",
+    "type": "Noun",
+    "pronunciation": "ゆうじょう",
+    "explanation": "友情 refers to friendship or the bond between friends. It signifies a deep emotional connection and mutual affection between individuals.",
+    "examples": [
+      {
+        "sentence": "彼とは長い友情を築いてきた。",
+        "translation": "I have built a long-lasting friendship with him."
+      },
+      {
+        "sentence": "友情は人生においてとても大切なものです。",
+        "translation": "Friendship is very important in life."
+      },
+      {
+        "sentence": "友情は時には試練に耐えることが必要です。",
+        "translation": "Friendship sometimes requires enduring trials."
+      }
+    ]
+  },
+  {
+    "word": "風情",
+    "type": "Noun",
+    "pronunciation": "ふぜい",
+    "explanation": "風情 refers to a certain atmosphere, elegance, or charm of a setting, often related to aesthetics and cultural appreciation. It conveys a sense of beauty and grace in a particular context.",
+    "examples": [
+      {
+        "sentence": "この場所には古い風情があります。",
+        "translation": "This place has an old charm."
+      },
+      {
+        "sentence": "彼の服装には風情がある。",
+        "translation": "His outfit has a certain elegance."
+      },
+      {
+        "sentence": "日本庭園は風情が豊かです。",
+        "translation": "Japanese gardens are rich in atmosphere."
+      }
+    ]
+  },
+  {
+    "word": "〜一方で",
+    "type": "Phrase",
+    "pronunciation": "いっぽうで",
+    "explanation": "〜一方で is a conjunction used to indicate a contrast or a different perspective. It can be translated as 'on the other hand' or 'while'. It is often used to present two opposing ideas or situations.",
+    "examples": [
+      {
+        "sentence": "彼は忙しい一方で、趣味の時間も大切にしている。",
+        "translation": "He is busy, but on the other hand, he values his hobby time."
+      },
+      {
+        "sentence": "経済は成長している一方で、貧富の差が広がっている。",
+        "translation": "The economy is growing, while the gap between rich and poor is widening."
+      },
+      {
+        "sentence": "この製品は高品質である一方で、値段が高い。",
+        "translation": "This product is high quality, but on the other hand, it is expensive."
+      }
+    ]
+  },
+  {
+    "word": "山あり谷あり",
+    "type": "Noun",
+    "pronunciation": "やまありたにあり",
+    "explanation": "山あり谷あり is an idiomatic expression that translates to 'there are ups and downs' or 'there are mountains and valleys.' It conveys the idea that life has its highs and lows, or that there are good times and bad times.",
+    "examples": [
+      {
+        "sentence": "人生は山あり谷ありだ。",
+        "translation": "Life has its ups and downs."
+      },
+      {
+        "sentence": "彼の仕事には山あり谷ありがある。",
+        "translation": "His job has its highs and lows."
+      },
+      {
+        "sentence": "成功には山あり谷ありがつきものだ。",
+        "translation": "Success comes with its ups and downs."
+      }
+    ]
+  },
+  {
+    "word": "おもてなし心",
+    "type": "Noun",
+    "pronunciation": "おもてなしごころ",
+    "explanation": "おもてなし心 refers to the spirit of hospitality and selfless service towards others, embodying the values of kindness, respect, and attentiveness in interactions with guests or customers.",
+    "examples": [
+      {
+        "sentence": "日本の文化にはおもてなし心が根付いています。",
+        "translation": "The spirit of hospitality is deeply rooted in Japanese culture."
+      },
+      {
+        "sentence": "彼はおもてなし心を持って、訪問者を迎えました。",
+        "translation": "He welcomed the visitors with a spirit of hospitality."
+      },
+      {
+        "sentence": "おもてなし心を大切にすることが、良いサービスを生む。",
+        "translation": "Valuing the spirit of hospitality leads to great service."
+      }
+    ]
+  },
+  {
+    "word": "きちんと",
+    "type": "Adverb",
+    "pronunciation": "きちんと",
+    "explanation": "きちんと is an adverb that means 'properly' or 'neatly'. It describes doing something in a correct, organized, or careful manner.",
+    "examples": [
+      {
+        "sentence": "彼はきちんとした服装で会議に出席した。",
+        "translation": "He attended the meeting in a neat outfit."
+      },
+      {
+        "sentence": "宿題をきちんとやりなさい。",
+        "translation": "Make sure to do your homework properly."
+      },
+      {
+        "sentence": "部屋をきちんと片付けてください。",
+        "translation": "Please tidy up the room neatly."
+      }
+    ]
+  },
+  {
+    "word": "少子高齢化",
+    "type": "Noun",
+    "pronunciation": "しょうしこうれいか",
+    "explanation": "少子高齢化 refers to the phenomenon of declining birth rates and an increasing elderly population in a society. This term is often used to describe demographic changes that can have significant social and economic impacts.",
+    "examples": [
+      {
+        "sentence": "日本は少子高齢化が進んでいる。",
+        "translation": "Japan is experiencing declining birth rates and an aging population."
+      },
+      {
+        "sentence": "少子高齢化に対処するための政策が必要だ。",
+        "translation": "Policies are needed to address the issue of declining birth rates and aging populations."
+      },
+      {
+        "sentence": "少子高齢化は労働力不足を引き起こす可能性がある。",
+        "translation": "Declining birth rates and an aging population may lead to labor shortages."
+      }
+    ]
+  },
+  {
+    "word": "出生率",
+    "type": "Noun",
+    "pronunciation": "しゅっしょうりつ",
+    "explanation": "出生率 refers to the birth rate, which is the number of live births per 1,000 people in a population over a specific period of time. It is a key demographic statistic used to understand population growth or decline.",
+    "examples": [
+      {
+        "sentence": "日本の出生率は低下しています。",
+        "translation": "Japan's birth rate is declining."
+      },
+      {
+        "sentence": "出生率の上昇は経済に良い影響を与えると考えられています。",
+        "translation": "An increase in the birth rate is thought to have a positive impact on the economy."
+      },
+      {
+        "sentence": "出生率が高い国では、若い人口が多いです。",
+        "translation": "Countries with high birth rates tend to have younger populations."
+      }
+    ]
+  },
+  {
+    "word": "実際に",
+    "type": "Adverb",
+    "pronunciation": "じっさいに",
+    "explanation": "実際に means 'actually' or 'in reality,' and is used to emphasize that something occurs or is true in real life, rather than in theory or expectation.",
+    "examples": [
+      {
+        "sentence": "実際に行ってみると、思っていたよりも楽しかった。",
+        "translation": "Actually going there was more fun than I expected."
+      },
+      {
+        "sentence": "彼の話は実際にあった出来事に基づいている。",
+        "translation": "His story is based on actual events."
+      },
+      {
+        "sentence": "実際にこの問題を解決するのは難しい。",
+        "translation": "In reality, solving this problem is difficult."
+      }
+    ]
+  },
+  {
+    "word": "きついかわりに",
+    "type": "Phrase",
+    "pronunciation": "きついかわりに",
+    "explanation": "きついかわりに is an expression used to indicate that something is strict or intense, but as a trade-off, there is a benefit or positive aspect to it. It is often used to contrast a difficult situation with a positive outcome.",
+    "examples": [
+      {
+        "sentence": "この仕事はきついかわりに、給料が高いです。",
+        "translation": "This job is tough, but the salary is high."
+      },
+      {
+        "sentence": "彼の講義はきついかわりに、非常にためになります。",
+        "translation": "His lectures are tough, but they are very beneficial."
+      },
+      {
+        "sentence": "トレーニングはきついかわりに、体が引き締まります。",
+        "translation": "The training is hard, but it helps tone the body."
+      }
+    ]
+  },
+  {
+    "word": "つらい",
+    "type": "i-adjective",
+    "pronunciation": "つらい",
+    "explanation": "つらい describes a state of being difficult or painful, often used to express emotional or physical suffering. It conveys a sense of hardship or distress.",
+    "examples": [
+      {
+        "sentence": "この仕事はつらいけれど、頑張ります。",
+        "translation": "This job is tough, but I will do my best."
+      },
+      {
+        "sentence": "彼の話を聞いて、つらい気持ちになった。",
+        "translation": "Hearing his story made me feel painful."
+      },
+      {
+        "sentence": "つらい時期を乗り越えなければならない。",
+        "translation": "I must overcome this difficult period."
+      }
+    ]
+  },
+  {
+    "word": "にこにこ",
+    "type": "Adverb",
+    "pronunciation": "にこにこ",
+    "explanation": "にこにこ is an onomatopoeic expression used to describe a smiling or cheerful demeanor. It conveys a sense of happiness or contentment, often associated with a cheerful smile.",
+    "examples": [
+      {
+        "sentence": "彼はにこにこしながら私に話しかけた。",
+        "translation": "He spoke to me with a cheerful smile."
+      },
+      {
+        "sentence": "子供たちはにこにこしながら遊んでいる。",
+        "translation": "The children are playing with cheerful smiles."
+      },
+      {
+        "sentence": "彼女はにこにこしているので、みんなが楽しくなった。",
+        "translation": "She was smiling cheerfully, which made everyone happy."
+      }
+    ]
+  }
+]

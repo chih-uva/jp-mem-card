@@ -1,0 +1,742 @@
+[
+  {
+    "word": "筍",
+    "type": "Noun",
+    "pronunciation": "たけのこ",
+    "explanation": "筍 refers to bamboo shoots, which are the edible young sprouts of bamboo plants. They are commonly used in Japanese cuisine and are known for their crunchy texture and unique flavor.",
+    "examples": [
+      {
+        "sentence": "筍ご飯は春の味覚です。",
+        "translation": "Bamboo shoot rice is a taste of spring."
+      },
+      {
+        "sentence": "彼は筍を使った料理が得意です。",
+        "translation": "He is good at cooking dishes that use bamboo shoots."
+      },
+      {
+        "sentence": "新鮮な筍を見つけました。",
+        "translation": "I found fresh bamboo shoots."
+      }
+    ]
+  },
+  {
+    "word": "海の幸",
+    "type": "Noun",
+    "pronunciation": "うみのさち",
+    "explanation": "海の幸 refers to seafood or marine products, including fish, shellfish, and other edible items obtained from the sea. It is often used to describe fresh and delicious dishes made from these ingredients.",
+    "examples": [
+      {
+        "sentence": "海の幸を使った料理はとても美味しい。",
+        "translation": "Dishes made with seafood are very delicious."
+      },
+      {
+        "sentence": "このレストランでは海の幸を楽しむことができる。",
+        "translation": "You can enjoy seafood at this restaurant."
+      },
+      {
+        "sentence": "彼は海の幸が大好きで、毎週魚市場に行く。",
+        "translation": "He loves seafood and goes to the fish market every week."
+      }
+    ]
+  },
+  {
+    "word": "恵まれる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "めぐまれる",
+    "explanation": "恵まれる means 'to be blessed' or 'to be provided with' and often refers to receiving good fortune, support, or resources.",
+    "examples": [
+      {
+        "sentence": "彼は恵まれた家庭に育った。",
+        "translation": "He was raised in a blessed family."
+      },
+      {
+        "sentence": "私たちは多くの支援に恵まれている。",
+        "translation": "We are blessed with a lot of support."
+      },
+      {
+        "sentence": "恵まれた環境で学ぶことができて幸運だ。",
+        "translation": "I am fortunate to be able to learn in a blessed environment."
+      }
+    ]
+  },
+  {
+    "word": "笑う門",
+    "type": "Noun",
+    "pronunciation": "わらうかど",
+    "explanation": "笑う門 is a phrase that translates to 'the gate of laughter' and refers to the idea that happiness and good fortune come to a home where laughter is present. It emphasizes the positive atmosphere created by joy and laughter.",
+    "examples": [
+      {
+        "sentence": "笑う門には福来るという言葉があります。",
+        "translation": "There is a saying that good fortune comes to the house of laughter."
+      },
+      {
+        "sentence": "彼の家はいつも笑う門が開いている。",
+        "translation": "His home is always welcoming laughter."
+      },
+      {
+        "sentence": "笑う門を持つことは幸せの象徴です。",
+        "translation": "Having a gate of laughter is a symbol of happiness."
+      }
+    ]
+  },
+  {
+    "word": "福祉",
+    "type": "Noun",
+    "pronunciation": "ふくし",
+    "explanation": "福祉 refers to welfare or well-being, particularly in the context of social services, support systems, and the general health and happiness of individuals and communities.",
+    "examples": [
+      {
+        "sentence": "彼は福祉の仕事に従事しています。",
+        "translation": "He is engaged in welfare work."
+      },
+      {
+        "sentence": "福祉制度は社会の重要な要素です。",
+        "translation": "The welfare system is an important element of society."
+      },
+      {
+        "sentence": "地域の福祉を向上させるために、さまざまな取り組みが行われています。",
+        "translation": "Various initiatives are being undertaken to improve community welfare."
+      }
+    ]
+  },
+  {
+    "word": "味わう",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "あじわう",
+    "explanation": "味わう means 'to taste' or 'to savor' and refers to the act of experiencing flavor or enjoyment from food, drink, or experiences.",
+    "examples": [
+      {
+        "sentence": "この料理は本当に美味しいので、じっくり味わってください。",
+        "translation": "This dish is really delicious, so please savor it."
+      },
+      {
+        "sentence": "彼はワインを味わうのが好きだ。",
+        "translation": "He likes to savor wine."
+      },
+      {
+        "sentence": "新しい文化を味わうために旅行に行きたい。",
+        "translation": "I want to travel to experience a new culture."
+      }
+    ]
+  },
+  {
+    "word": "じっくり",
+    "type": "Adverb",
+    "pronunciation": "じっくり",
+    "explanation": "じっくり means 'carefully' or 'thoroughly.' It describes doing something in a deliberate and unhurried manner, taking the time to ensure quality and attention to detail.",
+    "examples": [
+      {
+        "sentence": "じっくり考えてから決めましょう。",
+        "translation": "Let's decide after thinking carefully."
+      },
+      {
+        "sentence": "彼はじっくりと本を読んでいる。",
+        "translation": "He is reading the book thoroughly."
+      },
+      {
+        "sentence": "じっくり話を聞いてあげてください。",
+        "translation": "Please listen to them carefully."
+      }
+    ]
+  },
+  {
+    "word": "不幸中の幸い",
+    "type": "Noun",
+    "pronunciation": "ふこうちゅうのさいわい",
+    "explanation": "不幸中の幸い is a Japanese phrase that means 'a blessing in disguise' or 'a silver lining,' referring to a situation where something positive arises from an unfortunate circumstance.",
+    "examples": [
+      {
+        "sentence": "彼は事故に遭ったが、不幸中の幸いで軽傷です。",
+        "translation": "He had an accident, but fortunately, he was only slightly injured."
+      },
+      {
+        "sentence": "不幸中の幸いとして、彼女は新しい友達を作った。",
+        "translation": "As a blessing in disguise, she made new friends."
+      },
+      {
+        "sentence": "不幸中の幸いで、彼はその問題を早く解決できた。",
+        "translation": "As a silver lining, he was able to solve the problem quickly."
+      }
+    ]
+  },
+  {
+    "word": "関所",
+    "type": "Noun",
+    "pronunciation": "せきしょ",
+    "explanation": "関所 refers to a checkpoint or barrier, historically used for security and control purposes, particularly during the Edo period in Japan. It was a place where travelers were checked for permits and goods were inspected.",
+    "examples": [
+      {
+        "sentence": "江戸時代には、関所が多く存在していた。",
+        "translation": "During the Edo period, there were many checkpoints."
+      },
+      {
+        "sentence": "関所を通るには、身分証明書が必要だった。",
+        "translation": "It was necessary to have identification to pass through the checkpoint."
+      },
+      {
+        "sentence": "この関所は観光名所として知られている。",
+        "translation": "This checkpoint is known as a tourist attraction."
+      }
+    ]
+  },
+  {
+    "word": "教育関係の仕事",
+    "type": "Noun",
+    "pronunciation": "きょういくかんけいのしごと",
+    "explanation": "教育関係の仕事 refers to jobs related to education, including various roles such as teaching, administration, and support services within educational institutions.",
+    "examples": [
+      {
+        "sentence": "彼は教育関係の仕事をしています。",
+        "translation": "He works in a job related to education."
+      },
+      {
+        "sentence": "教育関係の仕事はやりがいがあります。",
+        "translation": "Jobs related to education are fulfilling."
+      },
+      {
+        "sentence": "大学で教育関係の仕事について学びました。",
+        "translation": "I studied about jobs related to education at university."
+      }
+    ]
+  },
+  {
+    "word": "関係者",
+    "type": "Noun",
+    "pronunciation": "かんけいしゃ",
+    "explanation": "関係者 refers to a person who is involved or has a connection to a particular situation, event, or organization. It is commonly used in contexts such as business, events, and official matters to indicate stakeholders or relevant parties.",
+    "examples": [
+      {
+        "sentence": "関係者以外立入禁止です。",
+        "translation": "No entry except for authorized personnel."
+      },
+      {
+        "sentence": "会議には関係者が全員出席した。",
+        "translation": "All stakeholders attended the meeting."
+      },
+      {
+        "sentence": "このプロジェクトには多くの関係者がいます。",
+        "translation": "There are many parties involved in this project."
+      }
+    ]
+  },
+  {
+    "word": "和む",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "なごむ",
+    "explanation": "和む means to become calm or relaxed, often referring to a soothing or peaceful state. It can describe the feeling of being at ease or the atmosphere becoming more gentle and harmonious.",
+    "examples": [
+      {
+        "sentence": "この音楽を聞くと心が和みます。",
+        "translation": "Listening to this music calms my heart."
+      },
+      {
+        "sentence": "彼の優しい言葉に和んだ。",
+        "translation": "I felt relaxed by his gentle words."
+      },
+      {
+        "sentence": "公園で過ごす時間はいつも私を和ませる。",
+        "translation": "Spending time in the park always soothes me."
+      }
+    ]
+  },
+  {
+    "word": "揃える",
+    "type": "Verb, Transitive, Ru-verb",
+    "pronunciation": "そろえる",
+    "explanation": "揃える means to arrange, to put together, or to make uniform. It is used when you want to gather items in one place or organize them in a specific way.",
+    "examples": [
+      {
+        "sentence": "彼は全ての資料を揃えた。",
+        "translation": "He gathered all the documents."
+      },
+      {
+        "sentence": "新しい服を揃えるのが楽しみだ。",
+        "translation": "I am looking forward to putting together new clothes."
+      },
+      {
+        "sentence": "チームを揃えてミーティングを始めましょう。",
+        "translation": "Let's gather the team and start the meeting."
+      }
+    ]
+  },
+  {
+    "word": "袖",
+    "type": "Noun",
+    "pronunciation": "そで",
+    "explanation": "袖 refers to the part of a garment that covers the arm, typically found in shirts, blouses, and jackets. It can vary in length and style, and is an important aspect of clothing design.",
+    "examples": [
+      {
+        "sentence": "彼女は新しいドレスの袖を選びました。",
+        "translation": "She chose the sleeves for her new dress."
+      },
+      {
+        "sentence": "このシャツの袖はとても長い。",
+        "translation": "The sleeves of this shirt are very long."
+      },
+      {
+        "sentence": "冬には暖かい袖付きのコートが必要です。",
+        "translation": "In winter, a warm coat with sleeves is necessary."
+      }
+    ]
+  },
+  {
+    "word": "輸出",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ゆしゅつ",
+    "explanation": "輸出 refers to the act of exporting goods or services from one country to another. It is a key component of international trade and involves various processes such as shipping, customs clearance, and compliance with regulations.",
+    "examples": [
+      {
+        "sentence": "日本は自動車の輸出が盛んです。",
+        "translation": "Japan is active in exporting automobiles."
+      },
+      {
+        "sentence": "輸出が増えると、経済に良い影響を与えます。",
+        "translation": "When exports increase, it has a positive impact on the economy."
+      },
+      {
+        "sentence": "彼は輸出業に従事しています。",
+        "translation": "He is engaged in the export business."
+      }
+    ]
+  },
+  {
+    "word": "輸入",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ゆにゅう",
+    "explanation": "輸入 refers to the act of importing goods or services from another country. It involves bringing products into a country from abroad for sale or trade.",
+    "examples": [
+      {
+        "sentence": "日本は多くのエネルギーを輸入しています。",
+        "translation": "Japan imports a lot of energy."
+      },
+      {
+        "sentence": "輸入品の品質は監視されています。",
+        "translation": "The quality of imported goods is monitored."
+      },
+      {
+        "sentence": "輸入を増やすために新しい政策が導入されました。",
+        "translation": "New policies have been introduced to increase imports."
+      }
+    ]
+  },
+  {
+    "word": "耐える",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "たえる",
+    "explanation": "耐える means to endure or withstand something difficult or challenging. It implies the ability to tolerate hardship or pain without giving up.",
+    "examples": [
+      {
+        "sentence": "彼は辛い時期を耐えてきた。",
+        "translation": "He has endured difficult times."
+      },
+      {
+        "sentence": "この材料は高温に耐えることができる。",
+        "translation": "This material can withstand high temperatures."
+      },
+      {
+        "sentence": "私たちは試練を耐え忍ぶ必要がある。",
+        "translation": "We need to endure the trials."
+      }
+    ]
+  },
+  {
+    "word": "貯まらない",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "たまらない",
+    "explanation": "貯まらない is the negative form of the verb 貯まる, which means 'to accumulate' or 'to save up.' In this form, it indicates that something is not accumulating or is not able to be saved up.",
+    "examples": [
+      {
+        "sentence": "お金が全然貯まらない。",
+        "translation": "I can't save any money at all."
+      },
+      {
+        "sentence": "時間が貯まらないので、計画を立てるのが難しい。",
+        "translation": "It's difficult to make plans because time isn't accumulating."
+      },
+      {
+        "sentence": "彼は努力しているが、成果が貯まらない。",
+        "translation": "He is making an effort, but the results are not accumulating."
+      }
+    ]
+  },
+  {
+    "word": "開始する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "かいしする",
+    "explanation": "開始する means 'to start' or 'to begin' and is used for initiating actions or events. It is a transitive verb, meaning it requires a direct object to act upon.",
+    "examples": [
+      {
+        "sentence": "会議を開始する前に、全員が揃っているか確認してください。",
+        "translation": "Please check if everyone is present before starting the meeting."
+      },
+      {
+        "sentence": "映画は午後6時に開始します。",
+        "translation": "The movie will start at 6 PM."
+      },
+      {
+        "sentence": "新しいプロジェクトを開始することが決まりました。",
+        "translation": "It has been decided to start a new project."
+      }
+    ]
+  },
+  {
+    "word": "苦手",
+    "type": "Noun",
+    "pronunciation": "にがて",
+    "explanation": "苦手 refers to something that one is not good at or has difficulty with. It can describe a lack of skill or an aversion to a particular subject or activity.",
+    "examples": [
+      {
+        "sentence": "私は数学が苦手です。",
+        "translation": "I am not good at math."
+      },
+      {
+        "sentence": "彼は人前で話すのが苦手だ。",
+        "translation": "He has difficulty speaking in front of others."
+      },
+      {
+        "sentence": "苦手な食べ物を食べるのは辛い。",
+        "translation": "It's tough to eat foods that I am not good at liking."
+      }
+    ]
+  },
+  {
+    "word": "増やし",
+    "type": "U-verb, Transitive",
+    "pronunciation": "ふやし",
+    "explanation": "増やし is the stem form of the verb 増やす (ふやす), which means 'to increase' or 'to add'. It is used to describe the action of making something larger in quantity or number.",
+    "examples": [
+      {
+        "sentence": "彼は貯金を増やしている。",
+        "translation": "He is increasing his savings."
+      },
+      {
+        "sentence": "この方法で売上を増やすことができます。",
+        "translation": "You can increase sales using this method."
+      },
+      {
+        "sentence": "植物を育てることで、庭をもっと増やしたい。",
+        "translation": "I want to increase the garden by growing more plants."
+      }
+    ]
+  },
+  {
+    "word": "〜さえ〜ば",
+    "type": "Expression",
+    "pronunciation": "〜さえ〜ば",
+    "explanation": "〜さえ〜ば is a conditional expression used to indicate that if a certain condition is met, then a specific result will follow. It emphasizes the minimal requirement needed for a situation to occur, often translating to 'if only' or 'as long as'.",
+    "examples": [
+      {
+        "sentence": "お金さえあれば、幸せになれる。",
+        "translation": "If only I have money, I can be happy."
+      },
+      {
+        "sentence": "君さえ来てくれれば、パーティーは成功する。",
+        "translation": "As long as you come, the party will be a success."
+      },
+      {
+        "sentence": "努力さえすれば、夢は叶う。",
+        "translation": "If you just make an effort, your dreams will come true."
+      }
+    ]
+  },
+  {
+    "word": "退屈",
+    "type": "Noun, I-adjective",
+    "pronunciation": "たいくつ",
+    "explanation": "退屈 refers to the state of being bored or tedious. It describes feelings of disinterest and lack of engagement in activities.",
+    "examples": [
+      {
+        "sentence": "この映画は退屈で眠くなった。",
+        "translation": "This movie was boring and made me sleepy."
+      },
+      {
+        "sentence": "退屈な授業は学生の注意を引きづらい。",
+        "translation": "Boring classes are hard to capture students' attention."
+      },
+      {
+        "sentence": "退屈な日々が続いている。",
+        "translation": "Boring days continue."
+      }
+    ]
+  },
+  {
+    "word": "出来事",
+    "type": "Noun",
+    "pronunciation": "できごと",
+    "explanation": "出来事 refers to an event or occurrence. It describes something that has happened, often implying significance or importance.",
+    "examples": [
+      {
+        "sentence": "今日は特別な出来事がありました。",
+        "translation": "There was a special event today."
+      },
+      {
+        "sentence": "その出来事は彼の人生を変えました。",
+        "translation": "That event changed his life."
+      },
+      {
+        "sentence": "出来事の詳細を教えてください。",
+        "translation": "Please tell me the details of the event."
+      }
+    ]
+  },
+  {
+    "word": "フリーマーケット",
+    "type": "Noun",
+    "pronunciation": "ふりーまーけっと",
+    "explanation": "フリーマーケット refers to a flea market, where individuals sell second-hand goods, handmade items, and various other products directly to consumers. It is a popular event for buying and selling used items at affordable prices.",
+    "examples": [
+      {
+        "sentence": "週末にフリーマーケットに行く予定です。",
+        "translation": "I plan to go to the flea market on the weekend."
+      },
+      {
+        "sentence": "フリーマーケットで素敵なアンティークを見つけました。",
+        "translation": "I found a lovely antique at the flea market."
+      },
+      {
+        "sentence": "彼はフリーマーケットで古本を売っています。",
+        "translation": "He is selling used books at the flea market."
+      }
+    ]
+  },
+  {
+    "word": "温暖化",
+    "type": "Noun",
+    "pronunciation": "おんだんか",
+    "explanation": "温暖化 refers to global warming, a long-term increase in the average temperature of the Earth's atmosphere. It is often attributed to human activities such as burning fossil fuels, deforestation, and industrial processes.",
+    "examples": [
+      {
+        "sentence": "温暖化が進むと、海面上昇が懸念されます。",
+        "translation": "As global warming progresses, rising sea levels are a concern."
+      },
+      {
+        "sentence": "政府は温暖化対策を強化しています。",
+        "translation": "The government is strengthening measures against global warming."
+      },
+      {
+        "sentence": "温暖化の影響で、動植物の生態系が変化しています。",
+        "translation": "The impact of global warming is changing the ecosystems of plants and animals."
+      }
+    ]
+  },
+  {
+    "word": "意識が生まれる",
+    "type": "U-verb",
+    "pronunciation": "いしきがうまれる",
+    "explanation": "意識が生まれる means \"to be born to consciousness\" or \"to become aware\". This phrase is often used in discussions about awareness, realization, or the emergence of consciousness.",
+    "examples": [
+      {
+        "sentence": "彼は事故の後に意識が生まれた。",
+        "translation": "He became conscious after the accident."
+      },
+      {
+        "sentence": "彼女の意識が生まれる瞬間を見た。",
+        "translation": "I witnessed the moment her awareness emerged."
+      },
+      {
+        "sentence": "新しいアイデアが彼の中で意識が生まれた。",
+        "translation": "A new idea was born in his consciousness."
+      }
+    ]
+  },
+  {
+    "word": "〜のだ",
+    "type": "Phrase",
+    "pronunciation": "〜のだ",
+    "explanation": "〜のだ is a grammatical construction used to explain a reason or to provide additional information about a situation. It can indicate that something is the case or to emphasize the speaker's explanation.",
+    "examples": [
+      {
+        "sentence": "彼は忙しいのだ。",
+        "translation": "He is busy."
+      },
+      {
+        "sentence": "これは私の本なのだ。",
+        "translation": "This is my book."
+      },
+      {
+        "sentence": "どうして遅れたのだ？",
+        "translation": "Why were you late?"
+      }
+    ]
+  },
+  {
+    "word": "砂漠化",
+    "type": "Noun",
+    "pronunciation": "さばくか",
+    "explanation": "砂漠化 refers to the process of desertification, where fertile land becomes increasingly arid and unproductive, often due to various factors such as climate change, deforestation, and inappropriate agricultural practices.",
+    "examples": [
+      {
+        "sentence": "砂漠化が進んでいる地域では、農業が困難になっている。",
+        "translation": "In areas where desertification is progressing, agriculture has become difficult."
+      },
+      {
+        "sentence": "政府は砂漠化対策に力を入れている。",
+        "translation": "The government is focusing on measures against desertification."
+      },
+      {
+        "sentence": "砂漠化の問題は、世界中で深刻な影響を及ぼしている。",
+        "translation": "The issue of desertification is having serious impacts worldwide."
+      }
+    ]
+  },
+  {
+    "word": "〜を守る",
+    "type": "Transitive verb, U-verb",
+    "pronunciation": "をまもる",
+    "explanation": "〜を守る means 'to protect' or 'to guard.' It refers to the act of keeping something safe from harm or danger, such as rules, rights, or physical objects.",
+    "examples": [
+      {
+        "sentence": "彼は家族を守るために戦った。",
+        "translation": "He fought to protect his family."
+      },
+      {
+        "sentence": "法律を守ることは重要です。",
+        "translation": "It is important to obey the law."
+      },
+      {
+        "sentence": "私たちは自然を守るために努力しています。",
+        "translation": "We are working to protect nature."
+      }
+    ]
+  },
+  {
+    "word": "運動",
+    "type": "Noun",
+    "pronunciation": "うんどう",
+    "explanation": "運動 refers to physical exercise, movement, or activity aimed at improving fitness or health. It can also refer to organized activities like sports or other physical training.",
+    "examples": [
+      {
+        "sentence": "毎朝、運動をすることが大切です。",
+        "translation": "It's important to exercise every morning."
+      },
+      {
+        "sentence": "彼は運動が得意です。",
+        "translation": "He is good at sports."
+      },
+      {
+        "sentence": "運動不足は健康に悪影響を及ぼす。",
+        "translation": "Lack of exercise can negatively affect health."
+      }
+    ]
+  },
+  {
+    "word": "呼びかける",
+    "type": "Verb, Ru-verb",
+    "pronunciation": "よびかける",
+    "explanation": "呼びかける means to call out to someone or to address someone, often used in the context of inviting attention or making an appeal.",
+    "examples": [
+      {
+        "sentence": "彼は観客に呼びかけた。",
+        "translation": "He called out to the audience."
+      },
+      {
+        "sentence": "私たちは友人に呼びかけて集まった。",
+        "translation": "We called our friends together."
+      },
+      {
+        "sentence": "先生は生徒に注意を呼びかけた。",
+        "translation": "The teacher called the students' attention."
+      }
+    ]
+  },
+  {
+    "word": "開かれる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "あかれる",
+    "explanation": "開かれる is the passive form of the verb 開く (あく), which means 'to open.' It describes a state where something is opened, often without specifying an agent.",
+    "examples": [
+      {
+        "sentence": "会議は午前10時に開かれる予定です。",
+        "translation": "The meeting is scheduled to be opened at 10 AM."
+      },
+      {
+        "sentence": "新しい店舗は来週開かれる。",
+        "translation": "The new store will be opened next week."
+      },
+      {
+        "sentence": "イベントは公園で開かれることになっています。",
+        "translation": "The event will be held in the park."
+      }
+    ]
+  },
+  {
+    "word": "ひらかれる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "ひらかれる",
+    "explanation": "ひらかれる is the passive form of the verb ひらく, meaning 'to open' or 'to be opened'. It is often used to describe events or opportunities that become available or are initiated.",
+    "examples": [
+      {
+        "sentence": "新しい学校が来月ひらかれる。",
+        "translation": "A new school will be opened next month."
+      },
+      {
+        "sentence": "会議は来週ひらかれる予定です。",
+        "translation": "The meeting is scheduled to be held next week."
+      },
+      {
+        "sentence": "この展覧会は毎年ひらかれています。",
+        "translation": "This exhibition is held every year."
+      }
+    ]
+  },
+  {
+    "word": "大気汚染",
+    "type": "Noun",
+    "pronunciation": "たいきおせん",
+    "explanation": "大気汚染 refers to the contamination of the atmosphere by harmful substances, which can include pollutants from vehicles, factories, and other sources. It is a significant environmental issue affecting health and ecosystems.",
+    "examples": [
+      {
+        "sentence": "大気汚染は健康に悪影響を与える。",
+        "translation": "Air pollution has a negative impact on health."
+      },
+      {
+        "sentence": "都市部では大気汚染が深刻な問題だ。",
+        "translation": "Air pollution is a serious problem in urban areas."
+      },
+      {
+        "sentence": "政府は大気汚染を減らすための対策を講じている。",
+        "translation": "The government is taking measures to reduce air pollution."
+      }
+    ]
+  },
+  {
+    "word": "生分解性の",
+    "type": "Adjective, na-adj",
+    "pronunciation": "せいぶんかいせいの",
+    "explanation": "生分解性の describes materials that can be broken down by biological processes, typically referring to substances that decompose naturally and do not pollute the environment.",
+    "examples": [
+      {
+        "sentence": "この袋は生分解性の素材で作られています。",
+        "translation": "This bag is made from biodegradable material."
+      },
+      {
+        "sentence": "生分解性のプラスチックは環境に優しい。",
+        "translation": "Biodegradable plastic is environmentally friendly."
+      },
+      {
+        "sentence": "彼は生分解性の製品を選ぶことを心がけている。",
+        "translation": "He makes an effort to choose biodegradable products."
+      }
+    ]
+  },
+  {
+    "word": "電池",
+    "type": "Noun",
+    "pronunciation": "でんち",
+    "explanation": "電池 refers to a battery, a device that stores energy and provides electrical power to various devices and appliances. It is commonly used in electronic devices, toys, and other equipment that require portable power.",
+    "examples": [
+      {
+        "sentence": "このリモコンは電池が切れています。",
+        "translation": "The batteries in this remote control are dead."
+      },
+      {
+        "sentence": "新しい電池を買わなければならない。",
+        "translation": "I need to buy new batteries."
+      },
+      {
+        "sentence": "電池を充電するのを忘れないでください。",
+        "translation": "Please don't forget to charge the battery."
+      }
+    ]
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "word": "念の為",
+    "type": "Noun",
+    "pronunciation": "ねんのため",
+    "explanation": "念の為 means 'just in case' or 'for precaution'. It is used to indicate that something is done as a precautionary measure, even if it may not be strictly necessary.",
+    "examples": [
+      {
+        "sentence": "念の為、傘を持って行った。",
+        "translation": "I took an umbrella just in case."
+      },
+      {
+        "sentence": "念の為に、もう一度確認しておきましょう。",
+        "translation": "Let's double-check, just in case."
+      },
+      {
+        "sentence": "彼に念の為に連絡してみた。",
+        "translation": "I contacted him just in case."
+      }
+    ]
+  },
+  {
+    "word": "活躍",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かつやく",
+    "explanation": "活躍 refers to active participation or the performance of an individual in a particular field or activity. It signifies being active and making a significant contribution or achieving success.",
+    "examples": [
+      {
+        "sentence": "彼はスポーツの世界で活躍しています。",
+        "translation": "He is active in the world of sports."
+      },
+      {
+        "sentence": "多くの若者たちがボランティア活動で活躍している。",
+        "translation": "Many young people are making a difference through volunteer activities."
+      },
+      {
+        "sentence": "この映画で彼女は初めて主役として活躍した。",
+        "translation": "In this movie, she played a leading role for the first time."
+      }
+    ]
+  },
+  {
+    "word": "恋しい",
+    "type": "I-adjective",
+    "pronunciation": "こいしい",
+    "explanation": "恋しい is an adjective that expresses a feeling of longing or yearning for someone or something that is absent. It conveys a sense of nostalgia or desire for a loved one or a cherished place.",
+    "examples": [
+      {
+        "sentence": "彼のことが恋しい。",
+        "translation": "I miss him."
+      },
+      {
+        "sentence": "故郷の景色が恋しい。",
+        "translation": "I long for the scenery of my hometown."
+      },
+      {
+        "sentence": "あなたが恋しいです。",
+        "translation": "I miss you."
+      }
+    ]
+  },
+  {
+    "word": "恋する",
+    "type": "Suru-verb",
+    "pronunciation": "こいする",
+    "explanation": "恋する means 'to fall in love' or 'to love someone' and is an expression used to describe romantic feelings towards another person.",
+    "examples": [
+      {
+        "sentence": "彼に恋しています。",
+        "translation": "I am in love with him."
+      },
+      {
+        "sentence": "彼女は初めて恋した。",
+        "translation": "She fell in love for the first time."
+      },
+      {
+        "sentence": "恋することは素晴らしい経験です。",
+        "translation": "Falling in love is a wonderful experience."
+      }
+    ]
+  },
+  {
+    "word": "愛情",
+    "type": "Noun",
+    "pronunciation": "あいじょう",
+    "explanation": "愛情 refers to affection, love, or deep emotional attachment towards someone or something. It encompasses feelings of warmth, care, and attachment.",
+    "examples": [
+      {
+        "sentence": "彼女は子供に対して深い愛情を持っている。",
+        "translation": "She has deep affection for her children."
+      },
+      {
+        "sentence": "愛情は人間関係を築く上で重要です。",
+        "translation": "Affection is important in building human relationships."
+      },
+      {
+        "sentence": "ペットに対する愛情は計り知れない。",
+        "translation": "The affection for pets is immeasurable."
+      }
+    ]
+  },
+  {
+    "word": "愛情を与える",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "あいじょうをあたえる",
+    "explanation": "愛情を与える refers to the act of giving affection or love to someone. It implies an emotional connection and the act of expressing care and love towards another person.",
+    "examples": [
+      {
+        "sentence": "彼は子供に愛情を与えることを大切にしている。",
+        "translation": "He values giving affection to his children."
+      },
+      {
+        "sentence": "親は子に愛情を与えるべきだ。",
+        "translation": "Parents should give affection to their children."
+      },
+      {
+        "sentence": "友人に愛情を与えることで、信頼関係が深まる。",
+        "translation": "By giving affection to friends, the bond of trust deepens."
+      }
+    ]
+  },
+  {
+    "word": "愛用",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "あいよう",
+    "explanation": "愛用 refers to the act of using something regularly or habitually, often implying a sense of affection or preference for that item.",
+    "examples": [
+      {
+        "sentence": "彼はこのカメラを愛用している。",
+        "translation": "He regularly uses this camera."
+      },
+      {
+        "sentence": "私の愛用のバッグはとても便利です。",
+        "translation": "My favorite bag is very convenient."
+      },
+      {
+        "sentence": "この本は多くの人に愛用されています。",
+        "translation": "This book is used by many people."
+      }
+    ]
+  },
+  {
+    "word": "信じる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "しんじる",
+    "explanation": "信じる means 'to believe' or 'to trust.' It is used when expressing faith in someone or something, often relating to opinions, promises, or concepts.",
+    "examples": [
+      {
+        "sentence": "彼を信じています。",
+        "translation": "I believe in him."
+      },
+      {
+        "sentence": "この理論を信じることができません。",
+        "translation": "I can't believe this theory."
+      },
+      {
+        "sentence": "友達を信じるのは大切です。",
+        "translation": "It is important to trust your friends."
+      }
+    ]
+  },
+  {
+    "word": "信じられる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "しんじられる",
+    "explanation": "信じられる is the potential form of the verb 信じる (to believe), meaning 'can be believed' or 'is believable.' It expresses the ability for something to be accepted as true or real.",
+    "examples": [
+      {
+        "sentence": "彼の話は信じられる。",
+        "translation": "His story can be believed."
+      },
+      {
+        "sentence": "この証拠は信じられるものだ。",
+        "translation": "This evidence is something that can be believed."
+      },
+      {
+        "sentence": "彼女の言葉は信じられない。",
+        "translation": "Her words cannot be believed."
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しんよう",
+    "explanation": "信用 refers to trust or confidence, often in a person or system. As a suru-verb, it can also mean to trust or to have faith in someone or something.",
+    "examples": [
+      {
+        "sentence": "彼に信用を置いています。",
+        "translation": "I have trust in him."
+      },
+      {
+        "sentence": "信用を得るのは難しい。",
+        "translation": "Gaining trust is difficult."
+      },
+      {
+        "sentence": "その会社は顧客からの信用を大切にしています。",
+        "translation": "The company values the trust from its customers."
+      }
+    ]
+  },
+  {
+    "word": "理想",
+    "type": "Noun",
+    "pronunciation": "りそう",
+    "explanation": "理想 refers to an ideal or a principle that one aspires to. It represents a standard of perfection that individuals aim to achieve or a concept of what is deemed to be the best or most suitable.",
+    "examples": [
+      {
+        "sentence": "彼の理想は、平和な世界を作ることです。",
+        "translation": "His ideal is to create a peaceful world."
+      },
+      {
+        "sentence": "私たちは理想の生活を追い求めています。",
+        "translation": "We are in pursuit of an ideal life."
+      },
+      {
+        "sentence": "このプロジェクトの理想は、全ての人に利益をもたらすことです。",
+        "translation": "The ideal of this project is to benefit all people."
+      }
+    ]
+  },
+  {
+    "word": "叶える",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "かなえる",
+    "explanation": "叶える means 'to grant' or 'to fulfill' a wish, desire, or dream. It is used when making something that someone hopes for a reality.",
+    "examples": [
+      {
+        "sentence": "彼の願いを叶えるために頑張ります。",
+        "translation": "I will do my best to fulfill his wish."
+      },
+      {
+        "sentence": "夢を叶えるために努力しています。",
+        "translation": "I am working hard to make my dream come true."
+      },
+      {
+        "sentence": "彼女は全ての約束を叶えた。",
+        "translation": "She fulfilled all her promises."
+      }
+    ]
+  },
+  {
+    "word": "愛想",
+    "type": "Noun",
+    "pronunciation": "あいそ",
+    "explanation": "愛想 refers to a pleasant or amiable demeanor, often used to describe a person's friendliness or sociability. It can also imply a certain charm or warmth in interactions with others.",
+    "examples": [
+      {
+        "sentence": "彼は愛想が良くて、みんなに好かれています。",
+        "translation": "He is friendly and liked by everyone."
+      },
+      {
+        "sentence": "愛想の良い店員さんがいるカフェに行きたい。",
+        "translation": "I want to go to a café with friendly staff."
+      },
+      {
+        "sentence": "彼女の愛想が悪いと、客が離れてしまう。",
+        "translation": "If she is unfriendly, customers will leave."
+      }
+    ]
+  },
+  {
+    "word": "伝言",
+    "type": "Noun",
+    "pronunciation": "でんごん",
+    "explanation": "伝言 refers to a message or communication passed from one person to another, often conveyed verbally or in written form. It is commonly used in the context of relaying important information or instructions.",
+    "examples": [
+      {
+        "sentence": "彼に伝言をお願いします。",
+        "translation": "Please give him a message."
+      },
+      {
+        "sentence": "伝言板にメモを残した。",
+        "translation": "I left a note on the message board."
+      },
+      {
+        "sentence": "伝言を受け取ったら、すぐに連絡してください。",
+        "translation": "Please contact me as soon as you receive the message."
+      }
+    ]
+  },
+  {
+    "word": "食欲",
+    "type": "Noun",
+    "pronunciation": "しょくよく",
+    "explanation": "食欲 refers to the appetite or desire to eat food. It indicates the physical sensation or emotional desire that motivates someone to consume food.",
+    "examples": [
+      {
+        "sentence": "彼は食欲がなくて、何も食べていない。",
+        "translation": "He has no appetite and hasn't eaten anything."
+      },
+      {
+        "sentence": "食欲があるときは、たくさん食べられる。",
+        "translation": "When I have an appetite, I can eat a lot."
+      },
+      {
+        "sentence": "食欲を増すために、いい匂いの料理を作る。",
+        "translation": "To increase my appetite, I make delicious-smelling dishes."
+      }
+    ]
+  },
+  {
+    "word": "用件",
+    "type": "Noun",
+    "pronunciation": "ようけん",
+    "explanation": "用件 refers to a matter or business that needs to be addressed or discussed, typically in a formal context such as meetings or official communications.",
+    "examples": [
+      {
+        "sentence": "彼は会議の用件を伝えに来た。",
+        "translation": "He came to convey the matters of the meeting."
+      },
+      {
+        "sentence": "用件があれば、いつでも連絡してください。",
+        "translation": "If you have any matters to discuss, please contact me anytime."
+      },
+      {
+        "sentence": "この用件は急ぎです。",
+        "translation": "This matter is urgent."
+      }
+    ]
+  },
+  {
+    "word": "Vて＋きた",
+    "type": "Grammar construction",
+    "pronunciation": "てきた",
+    "explanation": "The construction Vて＋きた indicates that an action has been completed and has relevance to the present situation. It expresses movement towards the speaker's current position in time or space and often suggests a change or development that has occurred as a result of the action.",
+    "examples": [
+      {
+        "sentence": "日本に来てから、たくさんの友達ができた。",
+        "translation": "Since coming to Japan, I've made many friends."
+      },
+      {
+        "sentence": "この映画を見てきたので、感想を話したい。",
+        "translation": "I want to share my thoughts since I've seen this movie."
+      },
+      {
+        "sentence": "彼はずっと勉強してきたので、試験に合格した。",
+        "translation": "He passed the exam because he has been studying hard."
+      }
+    ]
+  },
+  {
+    "word": "Vて＋いく",
+    "type": "Grammar Construction",
+    "pronunciation": "ていく",
+    "explanation": "The construction Vて＋いく is used to express the idea of an action starting now and continuing into the future, or to indicate the movement away from the speaker while performing an action. It is often used to convey a sense of progression or change over time.",
+    "examples": [
+      {
+        "sentence": "勉強を始めて、少しずつ上達していく。",
+        "translation": "I will start studying and gradually improve."
+      },
+      {
+        "sentence": "彼は新しいプロジェクトに取り組んでいく。",
+        "translation": "He will work on the new project."
+      },
+      {
+        "sentence": "この計画は、未来に向かって進んでいく。",
+        "translation": "This plan will move forward into the future."
+      }
+    ]
+  },
+  {
+    "word": "さらに",
+    "type": "Adverb",
+    "pronunciation": "さらにな",
+    "explanation": "さらに is an adverb meaning 'furthermore' or 'moreover'. It is used to add information or emphasize an additional point in a statement.",
+    "examples": [
+      {
+        "sentence": "この製品は安価で、さらに品質も良いです。",
+        "translation": "This product is inexpensive, and furthermore, its quality is good."
+      },
+      {
+        "sentence": "彼は優秀な学生で、さらにスポーツも得意です。",
+        "translation": "He is an excellent student, and moreover, he is good at sports."
+      },
+      {
+        "sentence": "この問題は難しいですが、さらに時間が必要です。",
+        "translation": "This problem is difficult, and additionally, more time is needed."
+      }
+    ]
+  }
+]

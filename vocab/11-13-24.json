@@ -1,0 +1,142 @@
+[
+  {
+    "word": "石橋を叩いて渡る",
+    "type": "Idiomatic expression",
+    "pronunciation": "いしばしをたたいてわたる",
+    "explanation": "石橋を叩いて渡る is an idiomatic expression that means to take precautions or to be careful before proceeding with something, similar to the English phrase 'to look before you leap.' It literally translates to 'to tap a stone bridge before crossing it.'",
+    "examples": [
+      {
+        "sentence": "新しいプロジェクトを始める前に、石橋を叩いて渡るべきだ。",
+        "translation": "You should be cautious before starting a new project."
+      },
+      {
+        "sentence": "彼はいつも石橋を叩いて渡るタイプだ。",
+        "translation": "He is the type who always takes precautions before acting."
+      },
+      {
+        "sentence": "大きな決断をする前には、石橋を叩いて渡ることが大切だ。",
+        "translation": "It's important to be careful before making big decisions."
+      }
+    ]
+  },
+  {
+    "word": "注目",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ちゅうもく",
+    "explanation": "注目 refers to attention or notice given to something. As a suru-verb, it can also mean to pay attention or to focus on something.",
+    "examples": [
+      {
+        "sentence": "彼の演説には多くの注目が集まった。",
+        "translation": "His speech attracted a lot of attention."
+      },
+      {
+        "sentence": "新しいプロジェクトに注目している。",
+        "translation": "I am paying attention to the new project."
+      },
+      {
+        "sentence": "注目されている映画を見に行くつもりだ。",
+        "translation": "I plan to go see the movie that is gaining attention."
+      }
+    ]
+  },
+  {
+    "word": "流される",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "ながされる",
+    "explanation": "流される means 'to be washed away' or 'to drift away.' It describes a state where something is carried by a current, such as water or air, indicating a lack of control over the movement.",
+    "examples": [
+      {
+        "sentence": "大雨で川の水が流されることがある。",
+        "translation": "Sometimes the river water gets washed away due to heavy rain."
+      },
+      {
+        "sentence": "彼の考えは人々の意見に流されることが多い。",
+        "translation": "His thoughts often get influenced by other people's opinions."
+      },
+      {
+        "sentence": "流される運命を受け入れなければならない。",
+        "translation": "We must accept the fate of being swept away."
+      }
+    ]
+  },
+  {
+    "word": "多数決",
+    "type": "Noun",
+    "pronunciation": "たすうけつ",
+    "explanation": "多数決 refers to the method of decision-making where the option that receives the majority of votes is chosen. It is commonly used in group settings such as meetings or elections to determine the preferred choice among multiple options.",
+    "examples": [
+      {
+        "sentence": "会議では多数決で意見を決めました。",
+        "translation": "In the meeting, we decided on an opinion by majority vote."
+      },
+      {
+        "sentence": "多数決によって、次のプロジェクトが承認されました。",
+        "translation": "The next project was approved by majority vote."
+      },
+      {
+        "sentence": "彼らは多数決を用いて、旅行の行き先を決めました。",
+        "translation": "They used a majority vote to decide the destination for the trip."
+      }
+    ]
+  },
+  {
+    "word": "負け戦",
+    "type": "Noun",
+    "pronunciation": "まけいくさ",
+    "explanation": "負け戦 refers to a losing battle or a conflict that one is destined to lose. It often implies a struggle that is futile or without hope of victory.",
+    "examples": [
+      {
+        "sentence": "彼は負け戦を選ぶことはなかった。",
+        "translation": "He never chose a losing battle."
+      },
+      {
+        "sentence": "負け戦のような気がする。",
+        "translation": "I feel like this is a losing battle."
+      },
+      {
+        "sentence": "このプロジェクトは負け戦だと考えています。",
+        "translation": "I believe this project is a losing battle."
+      }
+    ]
+  },
+  {
+    "word": "戦いを制する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "たたかいをせいする",
+    "explanation": "戦いを制する means to dominate or prevail in a fight or battle. It emphasizes achieving victory over an opponent or overcoming obstacles in a conflict.",
+    "examples": [
+      {
+        "sentence": "彼は戦いを制して勝利を手にした。",
+        "translation": "He dominated the battle and achieved victory."
+      },
+      {
+        "sentence": "その戦略は敵を打ち負かすために戦いを制するのに役立った。",
+        "translation": "That strategy helped to dominate the fight against the enemy."
+      },
+      {
+        "sentence": "歴史の中で多くの国が戦いを制した。",
+        "translation": "Many countries have prevailed in battles throughout history."
+      }
+    ]
+  },
+  {
+    "word": "欲しがる",
+    "type": "U-verb, Transitive",
+    "pronunciation": "ほしがる",
+    "explanation": "欲しがる is a verb that means 'to want' or 'to desire' something. It is used when expressing the desire for something by someone other than the speaker, typically indicating that the subject has a longing for a particular object or situation.",
+    "examples": [
+      {
+        "sentence": "彼は新しい車を欲しがっている。",
+        "translation": "He wants a new car."
+      },
+      {
+        "sentence": "子供たちはおもちゃを欲しがる。",
+        "translation": "The children want toys."
+      },
+      {
+        "sentence": "彼女はもっと時間を欲しがっている。",
+        "translation": "She wants more time."
+      }
+    ]
+  }
+]

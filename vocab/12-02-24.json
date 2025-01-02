@@ -1,0 +1,682 @@
+[
+  {
+    "word": "元日",
+    "type": "Noun",
+    "pronunciation": "がんじつ",
+    "explanation": "元日 refers to New Year's Day in Japan, celebrated on January 1st. It marks the beginning of the new year and is a time for various traditions and celebrations.",
+    "examples": [
+      {
+        "sentence": "元日は家族と一緒に過ごします。",
+        "translation": "I spend New Year's Day with my family."
+      },
+      {
+        "sentence": "元日に初詣に行くのが習慣です。",
+        "translation": "It is customary to visit a shrine on New Year's Day."
+      },
+      {
+        "sentence": "元日には特別な料理を食べます。",
+        "translation": "We eat special dishes on New Year's Day."
+      }
+    ]
+  },
+  {
+    "word": "元旦",
+    "type": "Noun",
+    "pronunciation": "がんたん",
+    "explanation": "元旦 refers to New Year's Day in Japan. It is the first day of the year according to the Gregorian calendar and is typically celebrated with various traditional customs and practices.",
+    "examples": [
+      {
+        "sentence": "元旦には家族と一緒に初詣に行きます。",
+        "translation": "On New Year's Day, I go to the first shrine visit with my family."
+      },
+      {
+        "sentence": "元旦を祝うために特別な料理を作ります。",
+        "translation": "I prepare special dishes to celebrate New Year's Day."
+      },
+      {
+        "sentence": "元旦は多くの人が新年の挨拶を交わします。",
+        "translation": "On New Year's Day, many people exchange New Year greetings."
+      }
+    ]
+  },
+  {
+    "word": "年賀状",
+    "type": "Noun",
+    "pronunciation": "ねんがじょう",
+    "explanation": "年賀状 refers to a traditional Japanese New Year's card that is sent to friends, family, and business associates to express New Year greetings and wishes. It is a significant part of Japanese culture during the New Year season.",
+    "examples": [
+      {
+        "sentence": "毎年、年賀状を友達に送ります。",
+        "translation": "Every year, I send New Year's cards to my friends."
+      },
+      {
+        "sentence": "年賀状には、家族の写真を添えることが多い。",
+        "translation": "It is common to attach a family photo to the New Year's card."
+      },
+      {
+        "sentence": "彼は年賀状を受け取るのが楽しみだ。",
+        "translation": "He looks forward to receiving New Year's cards."
+      }
+    ]
+  },
+  {
+    "word": "飾り",
+    "type": "Noun",
+    "pronunciation": "かざり",
+    "explanation": "飾り refers to an ornament or decoration, something that is used to enhance the appearance of an object or space. It can be made from various materials and is often used in celebrations or to beautify environments.",
+    "examples": [
+      {
+        "sentence": "この部屋には美しい飾りがたくさんあります。",
+        "translation": "This room has many beautiful decorations."
+      },
+      {
+        "sentence": "クリスマスの飾りを買いに行きました。",
+        "translation": "I went to buy Christmas ornaments."
+      },
+      {
+        "sentence": "彼女は髪に飾りをつけています。",
+        "translation": "She has an ornament in her hair."
+      }
+    ]
+  },
+  {
+    "word": "個性的",
+    "type": "Na-adjective",
+    "pronunciation": "こせいてき",
+    "explanation": "個性的 describes something that has a unique or distinctive character or personality. It is often used to express individuality and originality in traits, styles, or expressions.",
+    "examples": [
+      {
+        "sentence": "彼の服装はとても個性的だ。",
+        "translation": "His outfit is very unique."
+      },
+      {
+        "sentence": "このアート作品は個性的なスタイルを持っている。",
+        "translation": "This artwork has a distinctive style."
+      },
+      {
+        "sentence": "彼女は個性的な考え方を持っている。",
+        "translation": "She has a unique way of thinking."
+      }
+    ]
+  },
+  {
+    "word": "個室",
+    "type": "Noun",
+    "pronunciation": "こしつ",
+    "explanation": "個室 refers to a private room, often used for activities such as dining, studying, or resting, where privacy is ensured.",
+    "examples": [
+      {
+        "sentence": "このレストランには個室があります。",
+        "translation": "This restaurant has private rooms."
+      },
+      {
+        "sentence": "個室で会議を行う予定です。",
+        "translation": "We plan to hold the meeting in a private room."
+      },
+      {
+        "sentence": "ホテルの個室はとても快適です。",
+        "translation": "The hotel’s private room is very comfortable."
+      }
+    ]
+  },
+  {
+    "word": "個性的",
+    "type": "Na-adjective",
+    "pronunciation": "こせいてき",
+    "explanation": "個性的 describes something that has a unique or individual characteristic, often referring to a person's personality, style, or creative expression. It highlights the distinctiveness that sets someone or something apart from others.",
+    "examples": [
+      {
+        "sentence": "彼は個性的な服装をしている。",
+        "translation": "He has a unique style of clothing."
+      },
+      {
+        "sentence": "このアート作品はとても個性的だ。",
+        "translation": "This artwork is very unique."
+      },
+      {
+        "sentence": "彼女の個性的な考え方に感心した。",
+        "translation": "I was impressed by her unique way of thinking."
+      }
+    ]
+  },
+  {
+    "word": "性質",
+    "type": "Noun",
+    "pronunciation": "せいしつ",
+    "explanation": "性質 refers to the inherent characteristics or qualities of something, such as nature, disposition, or attribute. It describes how something behaves or the traits that define it.",
+    "examples": [
+      {
+        "sentence": "彼の性質はとても優しい。",
+        "translation": "His nature is very gentle."
+      },
+      {
+        "sentence": "この材料の性質を理解することが重要です。",
+        "translation": "It is important to understand the properties of this material."
+      },
+      {
+        "sentence": "性質によって、動物は異なる行動を示します。",
+        "translation": "Animals exhibit different behaviors based on their characteristics."
+      }
+    ]
+  },
+  {
+    "word": "相性",
+    "type": "Noun",
+    "pronunciation": "あいしょう",
+    "explanation": "相性 refers to compatibility or affinity between people or things, often used in contexts such as relationships or personality types. It indicates how well two entities work together or get along.",
+    "examples": [
+      {
+        "sentence": "彼らは相性が良いと思います。",
+        "translation": "I think they have good compatibility."
+      },
+      {
+        "sentence": "この色とこのデザインは相性が悪い。",
+        "translation": "This color and this design are not compatible."
+      },
+      {
+        "sentence": "相性診断をしてみた。",
+        "translation": "I tried a compatibility test."
+      }
+    ]
+  },
+  {
+    "word": "各国",
+    "type": "Noun",
+    "pronunciation": "かっこく",
+    "explanation": "各国 means 'each country' or 'various countries,' referring to the different nations or states in the world.",
+    "examples": [
+      {
+        "sentence": "各国の文化を学ぶことは重要です。",
+        "translation": "It is important to learn about the cultures of various countries."
+      },
+      {
+        "sentence": "各国が協力して問題を解決する必要があります。",
+        "translation": "Countries need to cooperate to solve problems."
+      },
+      {
+        "sentence": "各国のリーダーが会議に集まった。",
+        "translation": "Leaders from various countries gathered for the conference."
+      }
+    ]
+  },
+  {
+    "word": "各自",
+    "type": "Noun",
+    "pronunciation": "かくじ",
+    "explanation": "各自 refers to each individual or each person in a group, emphasizing the separation or individuality of members within that group.",
+    "examples": [
+      {
+        "sentence": "各自の意見を尊重しましょう。",
+        "translation": "Let's respect each person's opinion."
+      },
+      {
+        "sentence": "会議では、各自が準備した資料を持参してください。",
+        "translation": "In the meeting, please bring the materials each of you prepared."
+      },
+      {
+        "sentence": "各自の役割が明確に分かれている。",
+        "translation": "Each person's role is clearly defined."
+      }
+    ]
+  },
+  {
+    "word": "冷え性",
+    "type": "Noun",
+    "pronunciation": "ひえしょう",
+    "explanation": "冷え性 refers to a condition characterized by an abnormally low body temperature or a tendency to feel cold, especially in the hands and feet. It is often associated with poor circulation and can be exacerbated by stress or environmental factors.",
+    "examples": [
+      {
+        "sentence": "冷え性のため、冬は特に辛い。",
+        "translation": "Due to my cold sensitivity, winter is especially tough."
+      },
+      {
+        "sentence": "彼女は冷え性を改善するために温かい飲み物を多く摂る。",
+        "translation": "She drinks a lot of warm beverages to improve her cold sensitivity."
+      },
+      {
+        "sentence": "冷え性が気になる人は、適度な運動を心がけると良い。",
+        "translation": "People concerned about cold sensitivity should try to maintain moderate exercise."
+      }
+    ]
+  },
+  {
+    "word": "水性",
+    "type": "Noun",
+    "pronunciation": "すいせい",
+    "explanation": "水性 refers to something that is water-based or has properties related to water. It is often used to describe paints, inks, and other substances that are soluble or diluted in water.",
+    "examples": [
+      {
+        "sentence": "水性ペンキは水で薄めることができます。",
+        "translation": "Water-based paint can be thinned with water."
+      },
+      {
+        "sentence": "この水性インクはすぐに乾きます。",
+        "translation": "This water-based ink dries quickly."
+      },
+      {
+        "sentence": "水性の洗剤は環境に優しい選択です。",
+        "translation": "Water-based detergents are an environmentally friendly choice."
+      }
+    ]
+  },
+  {
+    "word": "結構",
+    "type": "Noun, Adjective, I-adj",
+    "pronunciation": "けっこう",
+    "explanation": "結構 means 'sufficient', 'fairly', or 'quite'. It can be used to express a positive degree of something, indicating that it is good enough or acceptable.",
+    "examples": [
+      {
+        "sentence": "この料理は結構美味しいです。",
+        "translation": "This dish is quite delicious."
+      },
+      {
+        "sentence": "結構な人数が集まりました。",
+        "translation": "A fairly large number of people gathered."
+      },
+      {
+        "sentence": "彼の提案は結構いいと思います。",
+        "translation": "I think his suggestion is quite good."
+      }
+    ]
+  },
+  {
+    "word": "冷え性",
+    "type": "Noun",
+    "pronunciation": "ひえしょう",
+    "explanation": "冷え性 refers to a condition characterized by an increased sensitivity to cold, often resulting in cold hands and feet. It is commonly associated with poor circulation and can affect overall comfort and health, especially in colder climates.",
+    "examples": [
+      {
+        "sentence": "彼女は冷え性のため、冬は特に辛い。",
+        "translation": "She finds winter especially tough due to her sensitivity to cold."
+      },
+      {
+        "sentence": "冷え性を改善するために、温かい飲み物を飲むことが勧められています。",
+        "translation": "It is recommended to drink warm beverages to improve sensitivity to cold."
+      },
+      {
+        "sentence": "冷え性の人には、厚着や足湯が効果的です。",
+        "translation": "Thick clothing and foot baths are effective for people with sensitivity to cold."
+      }
+    ]
+  },
+  {
+    "word": "リーダー格",
+    "type": "Noun",
+    "pronunciation": "りーだーかく",
+    "explanation": "リーダー格 refers to a person who holds a leadership position or has leadership qualities. It signifies someone who is recognized as a leader within a group or organization.",
+    "examples": [
+      {
+        "sentence": "彼はプロジェクトのリーダー格として選ばれた。",
+        "translation": "He was chosen as the leader of the project."
+      },
+      {
+        "sentence": "リーダー格の人がチームをまとめている。",
+        "translation": "The person in a leadership position is bringing the team together."
+      },
+      {
+        "sentence": "彼女はリーダー格の資質を持っている。",
+        "translation": "She possesses the qualities of a leader."
+      }
+    ]
+  },
+  {
+    "word": "伸ばす",
+    "type": "U-verb, Transitive",
+    "pronunciation": "のばす",
+    "explanation": "伸ばす means to extend, stretch, or grow something. It can refer to physical actions like stretching an object or metaphorical actions like extending a deadline or growing hair.",
+    "examples": [
+      {
+        "sentence": "彼は髪を伸ばしている。",
+        "translation": "He is growing his hair."
+      },
+      {
+        "sentence": "腕を伸ばして、体をストレッチしてください。",
+        "translation": "Please stretch your body by extending your arms."
+      },
+      {
+        "sentence": "締め切りを伸ばすことはできません。",
+        "translation": "We cannot extend the deadline."
+      }
+    ]
+  },
+  {
+    "word": "おのおの",
+    "type": "Noun",
+    "pronunciation": "おのおの",
+    "explanation": "おのおの means 'each' or 'every' and is used to refer to individuals or items separately within a group. It emphasizes individuality or distinctness among the members of a set.",
+    "examples": [
+      {
+        "sentence": "おのおのが自分の意見を持っている。",
+        "translation": "Each person has their own opinion."
+      },
+      {
+        "sentence": "おのおのの役割を果たすことが大切だ。",
+        "translation": "It is important to fulfill each person's role."
+      },
+      {
+        "sentence": "会議ではおのおのが意見を述べた。",
+        "translation": "During the meeting, each person expressed their opinion."
+      }
+    ]
+  },
+  {
+    "word": "各々",
+    "type": "Noun",
+    "pronunciation": "おのおの",
+    "explanation": "各々 means 'each' or 'every' and is used to refer to individual items or people within a group, emphasizing the individuality of each member.",
+    "examples": [
+      {
+        "sentence": "各々の意見を尊重しなければならない。",
+        "translation": "We must respect each person's opinion."
+      },
+      {
+        "sentence": "各々が自分の役割を果たすことが重要です。",
+        "translation": "It is important for each person to fulfill their role."
+      },
+      {
+        "sentence": "会議では各々の参加者が発言しました。",
+        "translation": "In the meeting, each participant spoke up."
+      }
+    ]
+  },
+  {
+    "word": "各々",
+    "type": "Noun",
+    "pronunciation": "おのおの",
+    "explanation": "各々 means 'each' or 'individually' and is used to refer to individual items or people in a group, emphasizing that each one is considered separately.",
+    "examples": [
+      {
+        "sentence": "人は各々考え方違います。",
+        "translation": "Each person has a different way of thinking."
+      },
+      {
+        "sentence": "各々の意見を尊重しましょう。",
+        "translation": "Let's respect each person's opinion."
+      },
+      {
+        "sentence": "各々の役割を果たすことが重要です。",
+        "translation": "It is important to fulfill each person's role."
+      }
+    ]
+  },
+  {
+    "word": "合否",
+    "type": "Noun",
+    "pronunciation": "ごうひ",
+    "explanation": "合否 refers to the result of an examination or selection process, specifically indicating whether one has passed (合) or failed (否). It is commonly used in academic and job application contexts to denote the outcome of assessments.",
+    "examples": [
+      {
+        "sentence": "試験の合否が発表された。",
+        "translation": "The results of the exam have been announced."
+      },
+      {
+        "sentence": "合否通知を待っている。",
+        "translation": "I am waiting for the acceptance/rejection notice."
+      },
+      {
+        "sentence": "彼は合否が気になって仕方がない。",
+        "translation": "He can't help but worry about the results."
+      }
+    ]
+  },
+  {
+    "word": "リーダー格",
+    "type": "Noun",
+    "pronunciation": "リーダーかく",
+    "explanation": "リーダー格 refers to the status or position of being a leader or the qualities that characterize a leader. It implies authority, responsibility, and the capacity to guide others.",
+    "examples": [
+      {
+        "sentence": "彼はチームのリーダー格として活動している。",
+        "translation": "He is active as the leader of the team."
+      },
+      {
+        "sentence": "リーダー格の人物がいないと、プロジェクトはうまく進まない。",
+        "translation": "Without a leader, the project does not progress well."
+      },
+      {
+        "sentence": "リーダー格の資質を持った人材を探しています。",
+        "translation": "We are looking for individuals with leadership qualities."
+      }
+    ]
+  },
+  {
+    "word": "資格",
+    "type": "Noun",
+    "pronunciation": "しかく",
+    "explanation": "資格 refers to a qualification or a certification that one obtains to prove their competence in a certain field or profession. It indicates that an individual meets specific standards or requirements necessary for a job or activity.",
+    "examples": [
+      {
+        "sentence": "彼は英語の資格を持っています。",
+        "translation": "He has a qualification in English."
+      },
+      {
+        "sentence": "新しい仕事には特別な資格が必要です。",
+        "translation": "The new job requires special qualifications."
+      },
+      {
+        "sentence": "資格を取得するために勉強しています。",
+        "translation": "I am studying to obtain a qualification."
+      }
+    ]
+  },
+  {
+    "word": "性格",
+    "type": "Noun",
+    "pronunciation": "せいかく",
+    "explanation": "性格 refers to a person's character or personality traits. It encompasses the patterns of thought, feeling, and behavior that make an individual unique.",
+    "examples": [
+      {
+        "sentence": "彼の性格はとても優しい。",
+        "translation": "His personality is very kind."
+      },
+      {
+        "sentence": "性格は育てられるものだ。",
+        "translation": "Personality is something that can be cultivated."
+      },
+      {
+        "sentence": "性格診断を受けてみた。",
+        "translation": "I took a personality test."
+      }
+    ]
+  },
+  {
+    "word": "昼食",
+    "type": "Noun",
+    "pronunciation": "ちゅうしょく",
+    "explanation": "昼食 refers to the meal eaten in the middle of the day, typically known as lunch. It is an important part of daily meals in Japanese culture and can vary greatly in terms of content and preparation.",
+    "examples": [
+      {
+        "sentence": "今日は昼食に何を食べますか？",
+        "translation": "What are you going to eat for lunch today?"
+      },
+      {
+        "sentence": "彼は昼食を食べながら仕事をしています。",
+        "translation": "He is working while having lunch."
+      },
+      {
+        "sentence": "昼食にカレーを作りました。",
+        "translation": "I made curry for lunch."
+      }
+    ]
+  },
+  {
+    "word": "幼い",
+    "type": "I-adjective",
+    "pronunciation": "おさない",
+    "explanation": "幼い means 'young' or 'childish' and is used to describe something that is in an early stage of development or a person who is immature or youthful.",
+    "examples": [
+      {
+        "sentence": "彼はまだ幼いです。",
+        "translation": "He is still very young."
+      },
+      {
+        "sentence": "幼い頃の思い出がとても大切です。",
+        "translation": "Memories from my childhood are very precious."
+      },
+      {
+        "sentence": "その幼い考え方は大人になっても変わらないことがあります。",
+        "translation": "That childish way of thinking can sometimes persist into adulthood."
+      }
+    ]
+  },
+  {
+    "word": "幼児",
+    "type": "Noun",
+    "pronunciation": "ようじ",
+    "explanation": "幼児 refers to a young child or toddler, typically between the ages of one and five years old. This term emphasizes the early developmental stage of a child's life.",
+    "examples": [
+      {
+        "sentence": "幼児は言葉を学ぶのが早いです。",
+        "translation": "Toddlers learn words quickly."
+      },
+      {
+        "sentence": "公園で幼児たちが遊んでいる。",
+        "translation": "Young children are playing in the park."
+      },
+      {
+        "sentence": "この本は幼児向けに書かれている。",
+        "translation": "This book is written for young children."
+      }
+    ]
+  },
+  {
+    "word": "幼馴染",
+    "type": "Noun",
+    "pronunciation": "おさななじみ",
+    "explanation": "幼馴染 refers to a childhood friend, someone with whom one has grown up and shared experiences since early childhood.",
+    "examples": [
+      {
+        "sentence": "彼とは幼馴染なので、何でも話せる。",
+        "translation": "Since he is my childhood friend, I can talk about anything."
+      },
+      {
+        "sentence": "幼馴染と再会するのはとても楽しい。",
+        "translation": "Reuniting with a childhood friend is very enjoyable."
+      },
+      {
+        "sentence": "私の幼馴染は今、海外に住んでいます。",
+        "translation": "My childhood friend is currently living abroad."
+      }
+    ]
+  },
+  {
+    "word": "乳児",
+    "type": "Noun",
+    "pronunciation": "にゅうじ",
+    "explanation": "乳児 refers to an infant or a baby, typically a child who is not yet able to walk or talk. This term is used to describe very young children, often from birth to one year old.",
+    "examples": [
+      {
+        "sentence": "乳児は母乳を飲むことが大切です。",
+        "translation": "It is important for infants to drink breast milk."
+      },
+      {
+        "sentence": "彼女は乳児を抱っこしている。",
+        "translation": "She is holding the infant."
+      },
+      {
+        "sentence": "乳児の成長はとても早い。",
+        "translation": "The growth of an infant is very rapid."
+      }
+    ]
+  },
+  {
+    "word": "粉乳",
+    "type": "Noun",
+    "pronunciation": "ほんにゅう",
+    "explanation": "粉乳 refers to milk powder, a dairy product made by evaporating milk to dryness. It is commonly used in cooking, baking, and as a nutritional supplement.",
+    "examples": [
+      {
+        "sentence": "粉乳を使って、クリームソースを作ります。",
+        "translation": "I will make a cream sauce using milk powder."
+      },
+      {
+        "sentence": "赤ちゃんのために粉乳を買いました。",
+        "translation": "I bought milk powder for the baby."
+      },
+      {
+        "sentence": "粉乳は長期間保存できるので便利です。",
+        "translation": "Milk powder is convenient because it can be stored for a long time."
+      }
+    ]
+  },
+  {
+    "word": "小児科",
+    "type": "Noun",
+    "pronunciation": "しょうにか",
+    "explanation": "小児科 refers to the branch of medicine that deals with the medical care of infants, children, and adolescents. It encompasses a wide range of health issues affecting children and provides preventive health services.",
+    "examples": [
+      {
+        "sentence": "私の子供は小児科に通っています。",
+        "translation": "My child goes to the pediatric clinic."
+      },
+      {
+        "sentence": "小児科医は子供の健康を守る専門家です。",
+        "translation": "Pediatricians are specialists who protect children's health."
+      },
+      {
+        "sentence": "この病院には優れた小児科があります。",
+        "translation": "This hospital has an excellent pediatric department."
+      }
+    ]
+  },
+  {
+    "word": "外科",
+    "type": "Noun",
+    "pronunciation": "げか",
+    "explanation": "外科 refers to the medical specialty concerned with the surgical treatment of diseases, injuries, and deformities. It encompasses procedures that involve cutting, removing, or repairing tissues and organs.",
+    "examples": [
+      {
+        "sentence": "彼は外科医として働いています。",
+        "translation": "He works as a surgeon."
+      },
+      {
+        "sentence": "外科手術は時に危険を伴います。",
+        "translation": "Surgical procedures can sometimes be risky."
+      },
+      {
+        "sentence": "外科的治療が必要です。",
+        "translation": "Surgical treatment is necessary."
+      }
+    ]
+  },
+  {
+    "word": "眼科",
+    "type": "Noun",
+    "pronunciation": "がんか",
+    "explanation": "眼科 refers to the branch of medicine that deals with the diagnosis and treatment of eye disorders and diseases. It is a specialized field focusing on visual health and eye care.",
+    "examples": [
+      {
+        "sentence": "彼は眼科に行って視力を検査しました。",
+        "translation": "He went to the ophthalmology department to have his vision checked."
+      },
+      {
+        "sentence": "眼科医は目の病気を治療します。",
+        "translation": "Ophthalmologists treat eye diseases."
+      },
+      {
+        "sentence": "定期的に眼科で検査を受けることが重要です。",
+        "translation": "It is important to have regular check-ups at the ophthalmology clinic."
+      }
+    ]
+  },
+  {
+    "word": "歯科",
+    "type": "Noun",
+    "pronunciation": "しか",
+    "explanation": "歯科 refers to the field of dentistry, including the study, diagnosis, and treatment of dental issues and oral health.",
+    "examples": [
+      {
+        "sentence": "彼は歯科医として働いています。",
+        "translation": "He works as a dentist."
+      },
+      {
+        "sentence": "歯科医院で定期的に検診を受けることが大切です。",
+        "translation": "It is important to have regular check-ups at the dental clinic."
+      },
+      {
+        "sentence": "歯科治療は痛いと思われがちですが、適切な麻酔があれば安心です。",
+        "translation": "Dental treatment is often thought to be painful, but with proper anesthesia, it can be comfortable."
+      }
+    ]
+  }
+]

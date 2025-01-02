@@ -378,5 +378,165 @@
         "translation": "I hope everything proceeds as planned."
       }
     ]
+  },
+  {
+    "word": "とおりに",
+    "type": "Noun, Adverb",
+    "pronunciation": "とおりに",
+    "explanation": "とおりに means 'in accordance with' or 'as' something is done. It is used to indicate that an action is done in the same way as another action or condition.",
+    "examples": [
+      {
+        "sentence": "彼が言ったとおりにやりました。",
+        "translation": "I did it as he said."
+      },
+      {
+        "sentence": "説明書のとおりに作業を進めてください。",
+        "translation": "Please proceed with the work as described in the instruction manual."
+      },
+      {
+        "sentence": "約束したとおりに、彼は来た。",
+        "translation": "He came as he promised."
+      }
+    ]
+  },
+  {
+    "word": "気を取られる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "きをとられる",
+    "explanation": "気を取られる means to be distracted or to have one's attention diverted. It often refers to situations where someone is unable to concentrate due to external factors.",
+    "examples": [
+      {
+        "sentence": "彼の話に気を取られて、宿題を忘れてしまった。",
+        "translation": "I got distracted by his story and forgot my homework."
+      },
+      {
+        "sentence": "音楽に気を取られて、時間を忘れてしまった。",
+        "translation": "I was so distracted by the music that I lost track of time."
+      },
+      {
+        "sentence": "会議中にスマホが鳴って、みんな気を取られた。",
+        "translation": "During the meeting, the phone rang and everyone got distracted."
+      }
+    ]
+  },
+  {
+    "word": "行う",
+    "type": "Verb, Suru-verb",
+    "pronunciation": "おこなう",
+    "explanation": "行う means to carry out, to perform, or to conduct an action or event. It is often used in contexts where an action is being executed or a task is being completed.",
+    "examples": [
+      {
+        "sentence": "会議を行います。",
+        "translation": "We will hold a meeting."
+      },
+      {
+        "sentence": "彼は研究を行っています。",
+        "translation": "He is conducting research."
+      },
+      {
+        "sentence": "このイベントは毎年行われます。",
+        "translation": "This event is held every year."
+      }
+    ]
+  },
+  {
+    "word": "亡者",
+    "type": "Noun",
+    "pronunciation": "もうじゃ",
+    "explanation": "亡者 refers to a deceased person or spirit, often used in a context relating to the dead or the afterlife in Japanese culture.",
+    "examples": [
+      {
+        "sentence": "亡者の魂が安らかでありますように。",
+        "translation": "May the souls of the deceased rest in peace."
+      },
+      {
+        "sentence": "彼は亡者のことを考えながら詩を書いた。",
+        "translation": "He wrote poetry while thinking about the deceased."
+      },
+      {
+        "sentence": "この地域では亡者が出ると信じられている。",
+        "translation": "It is believed that spirits of the deceased appear in this area."
+      }
+    ]
+  },
+  {
+    "word": "金の亡者",
+    "type": "Noun",
+    "pronunciation": "きんのもうじゃ",
+    "explanation": "金の亡者 refers to a person who is excessively greedy for money, often to the point of being unscrupulous or immoral. It literally translates to 'money ghost' or 'money fiend.'",
+    "examples": [
+      {
+        "sentence": "彼は金の亡者のように働いている。",
+        "translation": "He works like a money fiend."
+      },
+      {
+        "sentence": "この会社は金の亡者に支配されている。",
+        "translation": "This company is controlled by money-hungry people."
+      },
+      {
+        "sentence": "金の亡者になることは、幸せをもたらさない。",
+        "translation": "Becoming a money fiend does not bring happiness."
+      }
+    ]
+  },
+  {
+    "word": "本場",
+    "type": "Noun",
+    "pronunciation": "ほんば",
+    "explanation": "本場 refers to the authentic place or origin of something, particularly in the context of food, culture, or traditional practices. It signifies the original or best representation of a specific item or experience.",
+    "examples": [
+      {
+        "sentence": "この料理は本場の味がする。",
+        "translation": "This dish tastes like the authentic version."
+      },
+      {
+        "sentence": "彼は本場のフランスでパティシエとして働いていた。",
+        "translation": "He worked as a pastry chef in the authentic setting of France."
+      },
+      {
+        "sentence": "本場のラーメンを食べに行きたい。",
+        "translation": "I want to go eat ramen from its authentic place."
+      }
+    ]
+  },
+  {
+    "word": "としても",
+    "type": "Phrase",
+    "pronunciation": "としても",
+    "explanation": "としても is a conjunction used to indicate a hypothetical situation or condition, often translated as 'even if' or 'even though'. It is used to express a concession or to introduce a condition that does not change the outcome of the main clause.",
+    "examples": [
+      {
+        "sentence": "彼が来ないとしても、私は行きます。",
+        "translation": "Even if he doesn't come, I will go."
+      },
+      {
+        "sentence": "雨が降るとしても、ピクニックをします。",
+        "translation": "Even if it rains, we will have a picnic."
+      },
+      {
+        "sentence": "彼女が忙しいとしても、連絡するつもりです。",
+        "translation": "Even if she is busy, I intend to contact her."
+      }
+    ]
+  },
+  {
+    "word": "犬小屋",
+    "type": "Noun",
+    "pronunciation": "いぬごや",
+    "explanation": "犬小屋 refers to a doghouse, a small shelter for a dog, typically made of wood or plastic, where the dog can stay protected from the weather.",
+    "examples": [
+      {
+        "sentence": "犬小屋を新しく作った。",
+        "translation": "I built a new doghouse."
+      },
+      {
+        "sentence": "彼の犬は犬小屋の中で寝ている。",
+        "translation": "His dog is sleeping inside the doghouse."
+      },
+      {
+        "sentence": "犬小屋には暖かいマットを敷いてあげた。",
+        "translation": "I put a warm mat inside the doghouse."
+      }
+    ]
   }
 ]

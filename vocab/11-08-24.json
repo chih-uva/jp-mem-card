@@ -1,0 +1,602 @@
+[
+  {
+    "word": "重力波",
+    "type": "Noun",
+    "pronunciation": "じゅうりょくは",
+    "explanation": "重力波 refers to gravitational waves, which are ripples in spacetime caused by certain movements of mass, such as merging black holes or neutron stars. They were first predicted by Albert Einstein in 1916 and were confirmed by observation in 2015, marking a significant discovery in astrophysics.",
+    "examples": [
+      {
+        "sentence": "重力波は宇宙の新しい探査手段となる。",
+        "translation": "Gravitational waves will become a new means of exploring the universe."
+      },
+      {
+        "sentence": "科学者たちは重力波の観測を続けている。",
+        "translation": "Scientists continue to observe gravitational waves."
+      },
+      {
+        "sentence": "重力波の発見は、物理学の歴史において重要な出来事である。",
+        "translation": "The discovery of gravitational waves is an important event in the history of physics."
+      }
+    ]
+  },
+  {
+    "word": "角(かど)",
+    "type": "Noun",
+    "pronunciation": "かど",
+    "explanation": "角 refers to a corner or an edge, often used to describe the intersection of two lines or surfaces, such as the corner of a room or a street.",
+    "examples": [
+      {
+        "sentence": "その角を曲がると、駅があります。",
+        "translation": "If you turn at that corner, there is a station."
+      },
+      {
+        "sentence": "この部屋の角に植物を置きました。",
+        "translation": "I placed a plant in the corner of this room."
+      },
+      {
+        "sentence": "道の角に小さなカフェがあります。",
+        "translation": "There is a small café at the corner of the street."
+      }
+    ]
+  },
+  {
+    "word": "角(つの)",
+    "type": "Noun",
+    "pronunciation": "つの",
+    "explanation": "角 refers to 'horn' in Japanese, which is a hard, pointed projection found on the heads of various animals, such as cattle and goats. It can also refer to a corner or angle in certain contexts.",
+    "examples": [
+      {
+        "sentence": "牛の角は非常に強い。",
+        "translation": "The horns of a cow are very strong."
+      },
+      {
+        "sentence": "この角はとても鋭いです。",
+        "translation": "This corner is very sharp."
+      },
+      {
+        "sentence": "彼は角を曲がって家に入った。",
+        "translation": "He turned the corner and entered the house."
+      }
+    ]
+  },
+  {
+    "word": "角度",
+    "type": "Noun",
+    "pronunciation": "かくど",
+    "explanation": "角度 means 'angle' in Japanese and refers to the measure of the turn between two lines or surfaces that meet at a point. It is commonly used in mathematics, physics, and various technical fields.",
+    "examples": [
+      {
+        "sentence": "この三角形の角度は90度です。",
+        "translation": "The angle of this triangle is 90 degrees."
+      },
+      {
+        "sentence": "カメラの角度を変えてください。",
+        "translation": "Please change the angle of the camera."
+      },
+      {
+        "sentence": "角度を測るために定規を使います。",
+        "translation": "I use a ruler to measure the angle."
+      }
+    ]
+  },
+  {
+    "word": "名曲",
+    "type": "Noun",
+    "pronunciation": "めいきょく",
+    "explanation": "名曲 refers to a famous or renowned piece of music, often a classical composition or a well-loved song that is recognized for its artistic quality.",
+    "examples": [
+      {
+        "sentence": "彼の名曲は今でも多くの人に愛されています。",
+        "translation": "His famous song is still loved by many people today."
+      },
+      {
+        "sentence": "この映画のために作られた名曲は、すぐにヒットしました。",
+        "translation": "The famous song created for this movie became a hit immediately."
+      },
+      {
+        "sentence": "彼女のアルバムにはいくつかの名曲が収録されています。",
+        "translation": "Her album includes several famous pieces."
+      }
+    ]
+  },
+  {
+    "word": "曲がる",
+    "type": "Verb, U-verb",
+    "pronunciation": "まがる",
+    "explanation": "曲がる means 'to bend' or 'to turn'. It is used to describe the action of changing direction or the shape of something. It can refer to physical objects, paths, or even abstract concepts like opinions.",
+    "examples": [
+      {
+        "sentence": "角を曲がると、駅があります。",
+        "translation": "When you turn the corner, there is a station."
+      },
+      {
+        "sentence": "この道は曲がっています。",
+        "translation": "This road is curved."
+      },
+      {
+        "sentence": "彼は意見を曲げることはない。",
+        "translation": "He won't bend his opinion."
+      }
+    ]
+  },
+  {
+    "word": "曲げる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "まげる",
+    "explanation": "曲げる means 'to bend' or 'to curve' something. It is used when altering the shape of an object by applying force to it.",
+    "examples": [
+      {
+        "sentence": "彼は鉄の棒を曲げることができる。",
+        "translation": "He can bend a metal rod."
+      },
+      {
+        "sentence": "この紙を曲げてください。",
+        "translation": "Please bend this paper."
+      },
+      {
+        "sentence": "彼女は指を曲げて見せた。",
+        "translation": "She bent her fingers to show."
+      }
+    ]
+  },
+  {
+    "word": "三つ折り",
+    "type": "Noun",
+    "pronunciation": "みつおり",
+    "explanation": "三つ折り refers to a type of folding technique where a sheet of paper or material is folded into three equal parts. This method is commonly used for brochures, documents, and various art forms.",
+    "examples": [
+      {
+        "sentence": "このチラシは三つ折りにされています。",
+        "translation": "This flyer is folded into three parts."
+      },
+      {
+        "sentence": "三つ折りのパンフレットを作成しました。",
+        "translation": "I created a tri-fold brochure."
+      },
+      {
+        "sentence": "彼は三つ折りの技術を学びました。",
+        "translation": "He learned the technique of tri-folding."
+      }
+    ]
+  },
+  {
+    "word": "家路",
+    "type": "Noun",
+    "pronunciation": "いえじ",
+    "explanation": "家路 refers to the way home or the path one takes to return home. It often conveys a sense of returning to a place of comfort and familiarity after being away.",
+    "examples": [
+      {
+        "sentence": "仕事が終わったら、家路につきます。",
+        "translation": "After work is finished, I will head home."
+      },
+      {
+        "sentence": "彼は疲れて家路を急いだ。",
+        "translation": "He hurried home, feeling tired."
+      },
+      {
+        "sentence": "家路を歩きながら、彼女は明日の計画を考えていた。",
+        "translation": "While walking home, she was thinking about tomorrow's plans."
+      }
+    ]
+  },
+  {
+    "word": "水路",
+    "type": "Noun",
+    "pronunciation": "すいろ",
+    "explanation": "水路 refers to a waterway or canal that is used for the transportation of water or boats. It can also refer to a channel for irrigation or drainage.",
+    "examples": [
+      {
+        "sentence": "この水路は農業用の水を供給しています。",
+        "translation": "This waterway supplies water for agriculture."
+      },
+      {
+        "sentence": "古い水路は今でも使われています。",
+        "translation": "The old canal is still in use."
+      },
+      {
+        "sentence": "水路の近くで魚を釣るのが好きです。",
+        "translation": "I like to fish near the waterway."
+      }
+    ]
+  },
+  {
+    "word": "夕方",
+    "type": "Noun",
+    "pronunciation": "ゆうがた",
+    "explanation": "夕方 refers to the time of day between late afternoon and early evening, typically around sunset. It is often associated with the winding down of daily activities and the onset of evening.",
+    "examples": [
+      {
+        "sentence": "夕方になると、空が美しい色になります。",
+        "translation": "In the evening, the sky turns beautiful colors."
+      },
+      {
+        "sentence": "夕方は散歩するのに最適な時間です。",
+        "translation": "The evening is the perfect time for a walk."
+      },
+      {
+        "sentence": "夕方に友達と会う約束をしました。",
+        "translation": "I made plans to meet my friends in the evening."
+      }
+    ]
+  },
+  {
+    "word": "仕事が終わって家路に着く",
+    "type": "Phrase",
+    "pronunciation": "しごとがおわっていえじにつく",
+    "explanation": "仕事が終わって家路に着く means 'to finish work and head home.' It describes the transition from completing one's job to returning to one's residence, emphasizing the end of a workday.",
+    "examples": [
+      {
+        "sentence": "彼は仕事が終わって家路に着いた。",
+        "translation": "He finished work and headed home."
+      },
+      {
+        "sentence": "仕事が終わって家路に着くのが楽しみです。",
+        "translation": "I look forward to finishing work and heading home."
+      },
+      {
+        "sentence": "彼女は仕事が終わって家路に着く途中で友達に会った。",
+        "translation": "She met a friend on her way home after finishing work."
+      }
+    ]
+  },
+  {
+    "word": "折る",
+    "type": "U-verb, Transitive",
+    "pronunciation": "おる",
+    "explanation": "折る means 'to fold' or 'to break' and refers to the action of bending or breaking something, typically along a line or in a specific manner.",
+    "examples": [
+      {
+        "sentence": "彼は紙を折るのが得意です。",
+        "translation": "He is good at folding paper."
+      },
+      {
+        "sentence": "彼女は枝を折ってしまった。",
+        "translation": "She accidentally broke a branch."
+      },
+      {
+        "sentence": "この折り紙はどうやって折るの？",
+        "translation": "How do you fold this origami?"
+      }
+    ]
+  },
+  {
+    "word": "折れる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "おれる",
+    "explanation": "折れる means 'to break' or 'to bend' and is used to describe something that has become fractured or has lost its original shape, often due to force or pressure.",
+    "examples": [
+      {
+        "sentence": "この木は風で折れた。",
+        "translation": "This tree broke in the wind."
+      },
+      {
+        "sentence": "彼は気持ちが折れてしまった。",
+        "translation": "He became emotionally broken."
+      },
+      {
+        "sentence": "このプラスチックは簡単に折れる。",
+        "translation": "This plastic easily bends."
+      }
+    ]
+  },
+  {
+    "word": "通る",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "とおる",
+    "explanation": "通る means 'to pass through' or 'to go through'. It refers to the action of moving along a path or route, typically indicating a successful passage or acceptance of something.",
+    "examples": [
+      {
+        "sentence": "車が道を通る。",
+        "translation": "The car passes through the road."
+      },
+      {
+        "sentence": "彼はその問題を通った。",
+        "translation": "He passed that question."
+      },
+      {
+        "sentence": "このトンネルは地下鉄が通っています。",
+        "translation": "The subway runs through this tunnel."
+      }
+    ]
+  },
+  {
+    "word": "通路",
+    "type": "Noun",
+    "pronunciation": "つうろ",
+    "explanation": "通路 refers to a passageway or corridor that allows movement from one place to another, often found in buildings, streets, or other structures. It is a space designed for people to walk through.",
+    "examples": [
+      {
+        "sentence": "この通路は非常に狭いです。",
+        "translation": "This passageway is very narrow."
+      },
+      {
+        "sentence": "通路の両側には花が植えられています。",
+        "translation": "Flowers are planted on both sides of the passageway."
+      },
+      {
+        "sentence": "会議室に行くには、この通路を進んでください。",
+        "translation": "Please proceed down this passageway to get to the conference room."
+      }
+    ]
+  },
+  {
+    "word": "穴かんむり",
+    "type": "Noun",
+    "pronunciation": "あなかんむり",
+    "explanation": "穴かんむり refers to a radical used in kanji characters that resembles a lid or cover over a hole. It is commonly associated with characters related to holes or cavities.",
+    "examples": [
+      {
+        "sentence": "穴かんむりの漢字は、何かが閉じられていることを示す。",
+        "translation": "Kanji with the '穴かんむり' radical indicates something being covered or closed."
+      },
+      {
+        "sentence": "この漢字は穴かんむりが含まれています。",
+        "translation": "This kanji includes the '穴かんむり' radical."
+      },
+      {
+        "sentence": "穴かんむりは、主に穴に関連する意味を持つ漢字に使われる。",
+        "translation": "The '穴かんむり' is used in kanji that primarily have meanings related to holes."
+      }
+    ]
+  },
+  {
+    "word": "突風",
+    "type": "Noun",
+    "pronunciation": "とっぷう",
+    "explanation": "突風 refers to a sudden, strong gust of wind. It can occur unexpectedly and often has the potential to cause damage or disrupt activities.",
+    "examples": [
+      {
+        "sentence": "突風が吹いて、木の枝が折れた。",
+        "translation": "A gust of wind blew, and a branch broke."
+      },
+      {
+        "sentence": "今日は突風が予想されています。",
+        "translation": "Strong winds are expected today."
+      },
+      {
+        "sentence": "突風のため、アウトドアイベントが中止された。",
+        "translation": "The outdoor event was canceled due to the gusty winds."
+      }
+    ]
+  },
+  {
+    "word": "追いかける",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "おいかける",
+    "explanation": "追いかける means 'to chase' or 'to pursue'. It is used when someone is trying to catch up to or follow someone or something that is moving away.",
+    "examples": [
+      {
+        "sentence": "彼は犬を追いかけている。",
+        "translation": "He is chasing the dog."
+      },
+      {
+        "sentence": "私たちはバスを追いかけたが、間に合わなかった。",
+        "translation": "We chased after the bus, but we couldn't make it."
+      },
+      {
+        "sentence": "彼女は夢を追いかけ続ける。",
+        "translation": "She continues to chase her dreams."
+      }
+    ]
+  },
+  {
+    "word": "追突",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ついとつ",
+    "explanation": "追突 refers to a rear-end collision, typically in the context of vehicles colliding from behind. It involves one vehicle hitting another that is either stopped or moving at a slower speed.",
+    "examples": [
+      {
+        "sentence": "彼は信号待ちの車に追突した。",
+        "translation": "He rear-ended the car that was waiting at the traffic light."
+      },
+      {
+        "sentence": "追突事故が多発している。",
+        "translation": "Rear-end collisions are occurring frequently."
+      },
+      {
+        "sentence": "運転中は注意して、追突を避けるべきだ。",
+        "translation": "You should be careful while driving to avoid rear-end collisions."
+      }
+    ]
+  },
+  {
+    "word": "もり(魚)",
+    "type": "Noun",
+    "pronunciation": "もり",
+    "explanation": "もり refers to a type of fish, specifically 'moray eel' in English. It is commonly found in warm seas and is known for its elongated body and sharp teeth.",
+    "examples": [
+      {
+        "sentence": "もりは非常に美味しい魚です。",
+        "translation": "Moray eel is a very delicious fish."
+      },
+      {
+        "sentence": "ダイバーはもりを見つけました。",
+        "translation": "The diver found a moray eel."
+      },
+      {
+        "sentence": "料理人は新鮮なもりを使って刺身を作った。",
+        "translation": "The chef made sashimi using fresh moray eel."
+      }
+    ]
+  },
+  {
+    "word": "追試",
+    "type": "Noun",
+    "pronunciation": "ついし",
+    "explanation": "追試 refers to a retake or supplementary examination, usually given to students who did not pass the original exam. It provides an opportunity to improve their grades or understanding of the subject matter.",
+    "examples": [
+      {
+        "sentence": "彼は追試を受けるために勉強しています。",
+        "translation": "He is studying to take the supplementary exam."
+      },
+      {
+        "sentence": "追試は通常、元の試験の後に行われます。",
+        "translation": "The retake exam is usually conducted after the original exam."
+      },
+      {
+        "sentence": "彼女は追試で合格できる自信がある。",
+        "translation": "She is confident that she can pass the supplementary exam."
+      }
+    ]
+  },
+  {
+    "word": "衝突",
+    "type": "Noun",
+    "pronunciation": "しょうとつ",
+    "explanation": "衝突 refers to a collision or conflict, often used to describe physical impacts between objects or clashes between ideas, opinions, or groups.",
+    "examples": [
+      {
+        "sentence": "二台の車が衝突した。",
+        "translation": "The two cars collided."
+      },
+      {
+        "sentence": "衝突を避けるために、彼は意見を変えた。",
+        "translation": "He changed his opinion to avoid a conflict."
+      },
+      {
+        "sentence": "この問題は衝突を引き起こす可能性がある。",
+        "translation": "This issue has the potential to cause a collision."
+      }
+    ]
+  },
+  {
+    "word": "打つかる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "あたる",
+    "explanation": "打つかる refers to the action of hitting or striking against something, often used in contexts where an object collides or comes into contact with another object. It can imply a sense of impact or confrontation.",
+    "examples": [
+      {
+        "sentence": "彼は壁に打つかってしまった。",
+        "translation": "He ended up hitting the wall."
+      },
+      {
+        "sentence": "ボールが窓に打つかる音がした。",
+        "translation": "I heard the sound of the ball hitting the window."
+      },
+      {
+        "sentence": "車が他の車に打つかってしまった。",
+        "translation": "The car collided with another car."
+      }
+    ]
+  },
+  {
+    "word": "ようやく",
+    "type": "Adverb",
+    "pronunciation": "ようやく",
+    "explanation": "ようやく means 'finally' or 'at last', indicating that something has happened after a long wait or effort.",
+    "examples": [
+      {
+        "sentence": "ようやく試験が終わった。",
+        "translation": "Finally, the exam is over."
+      },
+      {
+        "sentence": "彼はようやく仕事を見つけた。",
+        "translation": "He finally found a job."
+      },
+      {
+        "sentence": "ようやく雨が止んだ。",
+        "translation": "At last, the rain has stopped."
+      }
+    ]
+  },
+  {
+    "word": "〜によって",
+    "type": "Phrase",
+    "pronunciation": "〜によって",
+    "explanation": "〜によって is a Japanese phrase used to indicate the means or method by which an action is performed. It can also denote the cause or reason for something. This phrase is often used in various contexts, such as discussing methods, causes, or changes due to certain factors.",
+    "examples": [
+      {
+        "sentence": "成功は努力によって得られる。",
+        "translation": "Success is achieved through effort."
+      },
+      {
+        "sentence": "この問題は調査によって解決されました。",
+        "translation": "This issue was resolved by investigation."
+      },
+      {
+        "sentence": "彼の意見によって、計画が変更された。",
+        "translation": "The plan was changed based on his opinion."
+      }
+    ]
+  },
+  {
+    "word": "〜によって",
+    "type": "Noun",
+    "pronunciation": "によって",
+    "explanation": "〜によって is a Japanese phrase that indicates the means or method by which something is done, often translated as 'by', 'due to', or 'depending on'. It is used to express causation or the agent of an action.",
+    "examples": [
+      {
+        "sentence": "この問題はデータによって解決されます。",
+        "translation": "This problem will be solved by the data."
+      },
+      {
+        "sentence": "彼の成功は努力によって得られた。",
+        "translation": "His success was achieved through effort."
+      },
+      {
+        "sentence": "結果は状況によって異なります。",
+        "translation": "The results vary depending on the situation."
+      }
+    ]
+  },
+  {
+    "word": "込み方",
+    "type": "Noun",
+    "pronunciation": "こみかた",
+    "explanation": "込み方 refers to the way of being crowded or the manner in which something is packed or filled. It can also imply the method of combining or including things together.",
+    "examples": [
+      {
+        "sentence": "この込み方では、電車がいつも満員です。",
+        "translation": "With this way of being crowded, the train is always full."
+      },
+      {
+        "sentence": "彼はその込み方を使って、すべてのデータを整理しました。",
+        "translation": "He used that method to organize all the data."
+      },
+      {
+        "sentence": "それぞれの込み方に応じて、対応が必要です。",
+        "translation": "Responses are necessary depending on each way of being crowded."
+      }
+    ]
+  },
+  {
+    "word": "（〜ば）〜ほど",
+    "type": "Expression",
+    "pronunciation": "ば ほど",
+    "explanation": "（〜ば）〜ほど is a comparative expression used to indicate that as one condition increases or is fulfilled, another condition also increases or becomes more pronounced. It highlights a proportional relationship between two statements.",
+    "examples": [
+      {
+        "sentence": "勉強すればするほど、知識が増えます。",
+        "translation": "The more you study, the more knowledge you gain."
+      },
+      {
+        "sentence": "お金を使えば使うほど、貯金が減ります。",
+        "translation": "The more money you spend, the less savings you have."
+      },
+      {
+        "sentence": "運動すればするほど、健康になります。",
+        "translation": "The more you exercise, the healthier you become."
+      }
+    ]
+  },
+  {
+    "word": "物凄く",
+    "type": "Adverb",
+    "pronunciation": "ものすごく",
+    "explanation": "物凄く is an adverb that means 'extremely' or 'incredibly.' It is used to emphasize the degree of an adjective or a verb, indicating a high level of intensity.",
+    "examples": [
+      {
+        "sentence": "彼は物凄く速く走る。",
+        "translation": "He runs extremely fast."
+      },
+      {
+        "sentence": "この映画は物凄く面白い。",
+        "translation": "This movie is incredibly interesting."
+      },
+      {
+        "sentence": "物凄く寒い日だった。",
+        "translation": "It was an extremely cold day."
+      }
+    ]
+  }
+]

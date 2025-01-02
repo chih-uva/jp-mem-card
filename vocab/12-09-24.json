@@ -1,0 +1,22 @@
+[
+  {
+    "word": "生きがい",
+    "type": "Noun",
+    "pronunciation": "いきがい",
+    "explanation": "生きがい refers to a reason for living or a sense of purpose in life. It is something that gives meaning and fulfillment to a person's existence.",
+    "examples": [
+      {
+        "sentence": "彼にとっての生きがいは、家族と過ごすことです。",
+        "translation": "For him, the reason for living is spending time with his family."
+      },
+      {
+        "sentence": "彼女は仕事を通じて生きがいを感じています。",
+        "translation": "She feels a sense of purpose through her work."
+      },
+      {
+        "sentence": "多くの人々は趣味を生きがいにしています。",
+        "translation": "Many people find their reason for living in their hobbies."
+      }
+    ]
+  }
+]

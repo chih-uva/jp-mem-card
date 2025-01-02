@@ -1,0 +1,102 @@
+[
+  {
+    "word": "物置にしまう",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "ものおきにしまう",
+    "explanation": "物置にしまう means to put something away in a storage shed or storage space. It involves the action of storing items properly to keep them organized and out of the way.",
+    "examples": [
+      {
+        "sentence": "工具を物置にしまいました。",
+        "translation": "I put the tools away in the storage shed."
+      },
+      {
+        "sentence": "冬物を物置にしまう準備をしています。",
+        "translation": "I am preparing to put away the winter clothes in the storage."
+      },
+      {
+        "sentence": "彼は毎晩、遊んだおもちゃを物置にしまう。",
+        "translation": "He puts away the toys he played with into the storage every night."
+      }
+    ]
+  },
+  {
+    "word": "ソファを退ける",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "そふぁをどける",
+    "explanation": "ソファを退ける means to move or remove a sofa from its place. It implies physically shifting the sofa to another location or clearing it from the way.",
+    "examples": [
+      {
+        "sentence": "彼はソファを退けて掃除を始めた。",
+        "translation": "He moved the sofa and started cleaning."
+      },
+      {
+        "sentence": "部屋を広く見せるために、ソファを退けた。",
+        "translation": "I moved the sofa to make the room look bigger."
+      },
+      {
+        "sentence": "彼女はソファを退けて、新しい家具を置いた。",
+        "translation": "She moved the sofa to place new furniture."
+      }
+    ]
+  },
+  {
+    "word": "溢す",
+    "type": "U-verb, Transitive",
+    "pronunciation": "あふす",
+    "explanation": "溢す means to spill or overflow something. It refers to the action of causing a liquid to flow over the edge of a container, often unintentionally.",
+    "examples": [
+      {
+        "sentence": "水をこぼしてしまったので、床が溢れている。",
+        "translation": "The floor is overflowing because I spilled water."
+      },
+      {
+        "sentence": "彼はコップからジュースを溢した。",
+        "translation": "He spilled juice from the cup."
+      },
+      {
+        "sentence": "感情が溢れ出る瞬間があった。",
+        "translation": "There was a moment when my emotions overflowed."
+      }
+    ]
+  },
+  {
+    "word": "退く",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "しりぞく",
+    "explanation": "退く means to retreat, withdraw, or step back. It is often used in contexts where someone or something is moving away from a position or situation.",
+    "examples": [
+      {
+        "sentence": "彼は戦闘から退いた。",
+        "translation": "He withdrew from the battle."
+      },
+      {
+        "sentence": "敵が退くまで、私たちは待った。",
+        "translation": "We waited until the enemy retreated."
+      },
+      {
+        "sentence": "彼女は不快な状況から退くことにした。",
+        "translation": "She decided to step back from the uncomfortable situation."
+      }
+    ]
+  },
+  {
+    "word": "退ける",
+    "type": "Transitive verb, Ru-verb",
+    "pronunciation": "しりぞける",
+    "explanation": "退ける means 'to push away' or 'to reject.' It is used to describe the action of dismissing or turning aside something or someone.",
+    "examples": [
+      {
+        "sentence": "彼はその提案を退けた。",
+        "translation": "He rejected the proposal."
+      },
+      {
+        "sentence": "問題を退けることはできない。",
+        "translation": "We cannot push aside the issue."
+      },
+      {
+        "sentence": "彼女は批判を退けた。",
+        "translation": "She dismissed the criticism."
+      }
+    ]
+  }
+]

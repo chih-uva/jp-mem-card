@@ -1,0 +1,422 @@
+[
+  {
+    "word": "苦心",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "くしん",
+    "explanation": "苦心 refers to the act of hard work or effort, often in a context of struggling to achieve something. It conveys a sense of laboring over a difficult problem or task.",
+    "examples": [
+      {
+        "sentence": "彼は苦心して問題を解決した。",
+        "translation": "He solved the problem after much effort."
+      },
+      {
+        "sentence": "このプロジェクトは苦心の末に完成した。",
+        "translation": "This project was completed after a lot of hard work."
+      },
+      {
+        "sentence": "彼女は苦心の結果、成功を収めた。",
+        "translation": "She achieved success as a result of her hard efforts."
+      }
+    ]
+  },
+  {
+    "word": "苦労",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "くろう",
+    "explanation": "苦労 refers to hardship or suffering, often implying effort and struggle in achieving something. As a suru-verb, it can describe the act of going through difficulties or working hard, especially in a challenging situation.",
+    "examples": [
+      {
+        "sentence": "彼は苦労して仕事を見つけた。",
+        "translation": "He found a job after much hardship."
+      },
+      {
+        "sentence": "このプロジェクトには多くの苦労が伴った。",
+        "translation": "This project involved a lot of difficulties."
+      },
+      {
+        "sentence": "彼女は家庭のために苦労している。",
+        "translation": "She is working hard for her family."
+      }
+    ]
+  },
+  {
+    "word": "苦痛",
+    "type": "Noun",
+    "pronunciation": "くつう",
+    "explanation": "苦痛 refers to pain or suffering, often used to describe physical or emotional distress. It signifies a state of discomfort or anguish that can be temporary or chronic.",
+    "examples": [
+      {
+        "sentence": "彼は苦痛を感じている。",
+        "translation": "He is feeling pain."
+      },
+      {
+        "sentence": "苦痛が続く場合は医者に相談してください。",
+        "translation": "If the pain persists, please consult a doctor."
+      },
+      {
+        "sentence": "彼女は心の苦痛を抱えている。",
+        "translation": "She is carrying emotional pain."
+      }
+    ]
+  },
+  {
+    "word": "苦味",
+    "type": "Noun",
+    "pronunciation": "にがみ",
+    "explanation": "苦味 refers to a bitter taste, often associated with certain foods and beverages. It is one of the basic tastes perceived by the human tongue and can indicate the presence of certain compounds that may be toxic or unpalatable.",
+    "examples": [
+      {
+        "sentence": "このコーヒーは苦味が強い。",
+        "translation": "This coffee has a strong bitterness."
+      },
+      {
+        "sentence": "苦味を感じる食材には注意が必要です。",
+        "translation": "Caution is needed with ingredients that have a bitter taste."
+      },
+      {
+        "sentence": "彼は苦味のある料理が好きではない。",
+        "translation": "He does not like dishes that are bitter."
+      }
+    ]
+  },
+  {
+    "word": "苦しむ",
+    "type": "Verb, U-verb",
+    "pronunciation": "くるしむ",
+    "explanation": "苦しむ means 'to suffer' or 'to be in pain.' It describes a state of experiencing physical or emotional distress.",
+    "examples": [
+      {
+        "sentence": "彼は病気で苦しんでいる。",
+        "translation": "He is suffering from an illness."
+      },
+      {
+        "sentence": "彼女は孤独で苦しんでいた。",
+        "translation": "She was suffering from loneliness."
+      },
+      {
+        "sentence": "私たちは環境問題に苦しんでいる。",
+        "translation": "We are suffering from environmental issues."
+      }
+    ]
+  },
+  {
+    "word": "苦しめる",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "くるしめる",
+    "explanation": "苦しめる means 'to cause pain or suffering to someone; to torment or afflict.' It is a transitive verb, indicating that it requires a direct object, typically the person or thing that is suffering.",
+    "examples": [
+      {
+        "sentence": "彼は彼女を苦しめることを楽しんでいる。",
+        "translation": "He enjoys causing her pain."
+      },
+      {
+        "sentence": "この病気は多くの人を苦しめている。",
+        "translation": "This illness afflicts many people."
+      },
+      {
+        "sentence": "彼の言葉が私を苦しめた。",
+        "translation": "His words tormented me."
+      }
+    ]
+  },
+  {
+    "word": "苦情",
+    "type": "Noun",
+    "pronunciation": "くじょう",
+    "explanation": "苦情 refers to a complaint or grievance. It is often used in contexts where someone is expressing dissatisfaction or reporting an issue that needs to be addressed.",
+    "examples": [
+      {
+        "sentence": "彼はサービスに対して苦情を言った。",
+        "translation": "He made a complaint about the service."
+      },
+      {
+        "sentence": "苦情を受け付けています。",
+        "translation": "We are accepting complaints."
+      },
+      {
+        "sentence": "その苦情はすぐに解決されるべきだ。",
+        "translation": "That complaint should be resolved quickly."
+      }
+    ]
+  },
+  {
+    "word": "悩む",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "なやむ",
+    "explanation": "悩む means to be troubled or to worry about something. It conveys a sense of distress or concern over a situation or decision.",
+    "examples": [
+      {
+        "sentence": "彼は仕事のことで悩んでいる。",
+        "translation": "He is troubled by work-related issues."
+      },
+      {
+        "sentence": "悩む時間がもったいないので、早く決めるべきだ。",
+        "translation": "It's a waste of time to worry, so you should decide quickly."
+      },
+      {
+        "sentence": "彼女は恋愛について悩んでいる。",
+        "translation": "She is worried about her love life."
+      }
+    ]
+  },
+  {
+    "word": "苦悩",
+    "type": "Noun",
+    "pronunciation": "くのう",
+    "explanation": "苦悩 refers to deep anguish or suffering, often related to mental or emotional distress. It describes a state of internal conflict or torment that one experiences in challenging situations.",
+    "examples": [
+      {
+        "sentence": "彼は過去の苦悩を忘れられない。",
+        "translation": "He cannot forget the anguish of his past."
+      },
+      {
+        "sentence": "苦悩の中で彼女は強さを見つけた。",
+        "translation": "She found strength amidst her suffering."
+      },
+      {
+        "sentence": "多くの人々が苦悩を抱えている。",
+        "translation": "Many people are suffering from anguish."
+      }
+    ]
+  },
+  {
+    "word": "悩ます",
+    "type": "U-verb, Transitive",
+    "pronunciation": "なやます",
+    "explanation": "悩ます means to cause someone to worry or distress. It is used to describe actions that trouble or vex someone, often referring to emotional or mental struggles.",
+    "examples": [
+      {
+        "sentence": "彼の言葉が私を悩ます。",
+        "translation": "His words worry me."
+      },
+      {
+        "sentence": "この問題が彼を悩ませている。",
+        "translation": "This problem is troubling him."
+      },
+      {
+        "sentence": "彼女はそのニュースに悩まされている。",
+        "translation": "She is distressed by the news."
+      }
+    ]
+  },
+  {
+    "word": "困る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "こまる",
+    "explanation": "困る means to be troubled, bothered, or to have difficulty with something. It expresses a state of being in a predicament or experiencing distress due to a situation.",
+    "examples": [
+      {
+        "sentence": "問題が解決できず困っています。",
+        "translation": "I am troubled because I can't solve the problem."
+      },
+      {
+        "sentence": "彼女は選択肢が多すぎて困っている。",
+        "translation": "She is having difficulty because she has too many options."
+      },
+      {
+        "sentence": "困ったときは、友達に相談してください。",
+        "translation": "When you're in trouble, please consult a friend."
+      }
+    ]
+  },
+  {
+    "word": "困難を乗り越える",
+    "type": "Phrase, Verb",
+    "pronunciation": "こんなんをのりこえる",
+    "explanation": "困難を乗り越える means to overcome difficulties or challenges. It signifies the act of successfully managing and surpassing obstacles in life.",
+    "examples": [
+      {
+        "sentence": "彼は多くの困難を乗り越えて成功しました。",
+        "translation": "He succeeded after overcoming many difficulties."
+      },
+      {
+        "sentence": "困難を乗り越えるためには、努力が必要です。",
+        "translation": "To overcome difficulties, effort is necessary."
+      },
+      {
+        "sentence": "私たちは一緒に困難を乗り越えられると信じています。",
+        "translation": "We believe that we can overcome difficulties together."
+      }
+    ]
+  },
+  {
+    "word": "難所",
+    "type": "Noun",
+    "pronunciation": "なんしょ",
+    "explanation": "難所 refers to a difficult or challenging place, often used to describe a tough section in a journey, climb, or obstacle course. It denotes a location that presents significant difficulty or danger.",
+    "examples": [
+      {
+        "sentence": "この登山道にはいくつかの難所があります。",
+        "translation": "There are several difficult sections on this climbing route."
+      },
+      {
+        "sentence": "彼は難所を乗り越えるために特訓している。",
+        "translation": "He is training hard to overcome the challenging areas."
+      },
+      {
+        "sentence": "難所を通過するのは簡単ではない。",
+        "translation": "Passing through the difficult areas is not easy."
+      }
+    ]
+  },
+  {
+    "word": "株式",
+    "type": "Noun",
+    "pronunciation": "かぶしき",
+    "explanation": "株式 refers to stocks or shares in a company, representing ownership and the right to claim a portion of the company's profits. It is a fundamental concept in finance and investment.",
+    "examples": [
+      {
+        "sentence": "彼は株式市場で投資を始めた。",
+        "translation": "He started investing in the stock market."
+      },
+      {
+        "sentence": "株式の価値は時々変動する。",
+        "translation": "The value of stocks fluctuates from time to time."
+      },
+      {
+        "sentence": "多くの人が株式を通じて資産を増やしている。",
+        "translation": "Many people are increasing their wealth through stocks."
+      }
+    ]
+  },
+  {
+    "word": "和らげる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "やわらげる",
+    "explanation": "和らげる means to soften or alleviate something, such as pain, tension, or harshness. It implies making a situation or feeling less severe or intense.",
+    "examples": [
+      {
+        "sentence": "この薬は痛みを和らげる。",
+        "translation": "This medicine alleviates the pain."
+      },
+      {
+        "sentence": "彼の言葉が緊張を和らげた。",
+        "translation": "His words softened the tension."
+      },
+      {
+        "sentence": "音楽は心を和らげる。",
+        "translation": "Music alleviates the heart."
+      }
+    ]
+  },
+  {
+    "word": "スラスラ",
+    "type": "Adverb",
+    "pronunciation": "すらすら",
+    "explanation": "スラスラ is an adverb that describes the smoothness or fluency of an action, often used to indicate that something is done easily and without hesitation or difficulty.",
+    "examples": [
+      {
+        "sentence": "彼は問題をスラスラ解いた。",
+        "translation": "He solved the problems smoothly."
+      },
+      {
+        "sentence": "日本語がスラスラ話せるようになりたい。",
+        "translation": "I want to be able to speak Japanese fluently."
+      },
+      {
+        "sentence": "彼女はスラスラと文章を書いた。",
+        "translation": "She wrote the text effortlessly."
+      }
+    ]
+  },
+  {
+    "word": "苦り切った表情",
+    "type": "Noun",
+    "pronunciation": "にがりきったひょうじょう",
+    "explanation": "苦り切った表情 refers to a facial expression that shows extreme bitterness or distress, often indicating a strong negative emotion such as disappointment or discomfort.",
+    "examples": [
+      {
+        "sentence": "彼は苦り切った表情を浮かべていた。",
+        "translation": "He was wearing a bitter expression."
+      },
+      {
+        "sentence": "そのニュースを聞いたとき、彼女は苦り切った表情を見せた。",
+        "translation": "When she heard the news, she showed a bitter expression."
+      },
+      {
+        "sentence": "苦り切った表情をしている人を見ると、心配になる。",
+        "translation": "Seeing someone with a bitter expression makes me worried."
+      }
+    ]
+  },
+  {
+    "word": "怒られる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "おこられる",
+    "explanation": "怒られる is the passive form of the verb '怒る' (to get angry) and means 'to be scolded' or 'to be angry at'. It indicates that someone is receiving the action of being scolded by another person.",
+    "examples": [
+      {
+        "sentence": "先生に怒られた。",
+        "translation": "I was scolded by the teacher."
+      },
+      {
+        "sentence": "友達に怒られると、少し悲しい。",
+        "translation": "I feel a bit sad when I am scolded by my friend."
+      },
+      {
+        "sentence": "彼はいつも親に怒られている。",
+        "translation": "He is always being scolded by his parents."
+      }
+    ]
+  },
+  {
+    "word": "悲劇",
+    "type": "Noun",
+    "pronunciation": "ひげき",
+    "explanation": "悲劇 refers to a tragedy, typically in literature or drama, that involves suffering and sorrow, often leading to a disastrous conclusion for the protagonist.",
+    "examples": [
+      {
+        "sentence": "この映画は悲劇的な結末を迎えた。",
+        "translation": "This movie had a tragic ending."
+      },
+      {
+        "sentence": "シェイクスピアの作品には多くの悲劇が含まれている。",
+        "translation": "Shakespeare's works include many tragedies."
+      },
+      {
+        "sentence": "彼の人生は悲劇そのものであった。",
+        "translation": "His life was a tragedy itself."
+      }
+    ]
+  },
+  {
+    "word": "渋滞",
+    "type": "Noun",
+    "pronunciation": "じゅうたい",
+    "explanation": "渋滞 refers to a traffic jam or congestion, where vehicles are unable to move freely due to heavy traffic or obstacles on the road.",
+    "examples": [
+      {
+        "sentence": "今日は渋滞で遅れました。",
+        "translation": "I was delayed today due to traffic congestion."
+      },
+      {
+        "sentence": "この時間帯は渋滞がひどい。",
+        "translation": "Traffic jams are severe during this time."
+      },
+      {
+        "sentence": "渋滞を避けるために早めに出発します。",
+        "translation": "I will leave early to avoid the traffic jam."
+      }
+    ]
+  },
+  {
+    "word": "稼ぐ",
+    "type": "U-verb, Transitive",
+    "pronunciation": "かせぐ",
+    "explanation": "稼ぐ refers to the act of earning or making money, often through work or investment. It implies generating income or profits from a particular activity.",
+    "examples": [
+      {
+        "sentence": "彼はアルバイトでお金を稼いでいる。",
+        "translation": "He is earning money through a part-time job."
+      },
+      {
+        "sentence": "私たちはこのプロジェクトで利益を稼ぐことを目指しています。",
+        "translation": "We aim to earn profits from this project."
+      },
+      {
+        "sentence": "彼女は株式投資でかなりの額を稼いだ。",
+        "translation": "She earned a considerable amount through stock investment."
+      }
+    ]
+  }
+]

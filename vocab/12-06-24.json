@@ -1,0 +1,502 @@
+[
+  {
+    "word": "記入",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "きにゅう",
+    "explanation": "記入 refers to the act of filling out or writing down information, usually on a form or document. It involves providing specific details as required.",
+    "examples": [
+      {
+        "sentence": "申込書に必要事項を記入してください。",
+        "translation": "Please fill out the required information on the application form."
+      },
+      {
+        "sentence": "彼は毎日、日記に出来事を記入している。",
+        "translation": "He writes down events in his diary every day."
+      },
+      {
+        "sentence": "このフォームに記入するのを忘れないでください。",
+        "translation": "Don't forget to fill out this form."
+      }
+    ]
+  },
+  {
+    "word": "済む",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "すむ",
+    "explanation": "済む means 'to finish' or 'to be settled.' It indicates that something has been completed or resolved, often used in contexts where an action has been concluded or a situation has been resolved.",
+    "examples": [
+      {
+        "sentence": "仕事が済んだら、帰ります。",
+        "translation": "I'll go home once the work is done."
+      },
+      {
+        "sentence": "問題は済んだので、心配しないでください。",
+        "translation": "The issue is resolved, so please don't worry."
+      },
+      {
+        "sentence": "この手続きはすぐに済みます。",
+        "translation": "This procedure will be finished quickly."
+      }
+    ]
+  },
+  {
+    "word": "済ます",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "すます",
+    "explanation": "済ます means to finish, to complete, or to settle something. It is often used when referring to completing a task or resolving an issue.",
+    "examples": [
+      {
+        "sentence": "宿題を済ませました。",
+        "translation": "I finished my homework."
+      },
+      {
+        "sentence": "彼は仕事を済ませて帰った。",
+        "translation": "He finished his work and went home."
+      },
+      {
+        "sentence": "問題を済ませるには、早めに対処することが大切だ。",
+        "translation": "To settle the issue, it is important to address it early."
+      }
+    ]
+  },
+  {
+    "word": "黒板",
+    "type": "Noun",
+    "pronunciation": "こくばん",
+    "explanation": "黒板 refers to a blackboard, which is a surface used for writing or drawing with chalk, commonly found in classrooms and educational settings.",
+    "examples": [
+      {
+        "sentence": "先生は黒板に問題を書きました。",
+        "translation": "The teacher wrote the problem on the blackboard."
+      },
+      {
+        "sentence": "学生たちは黒板を見ながらノートを取ります。",
+        "translation": "The students take notes while looking at the blackboard."
+      },
+      {
+        "sentence": "黒板を使って授業を行います。",
+        "translation": "We conduct the class using the blackboard."
+      }
+    ]
+  },
+  {
+    "word": "政",
+    "type": "Noun",
+    "pronunciation": "まつりごと",
+    "explanation": "政 refers to governance or political affairs, encompassing the management and organization of state matters and public policy. It indicates the activities related to ruling and administration.",
+    "examples": [
+      {
+        "sentence": "彼は政に関心を持っています。",
+        "translation": "He is interested in politics."
+      },
+      {
+        "sentence": "政の運営は時に難しいことがあります。",
+        "translation": "The management of politics can sometimes be difficult."
+      },
+      {
+        "sentence": "政の決定は国民に影響を与える。",
+        "translation": "Political decisions affect the citizens."
+      }
+    ]
+  },
+  {
+    "word": "治まる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "おさまる",
+    "explanation": "治まる refers to the state of becoming calm, settled, or resolved, often used in contexts where a situation or condition stabilizes after being chaotic or turbulent.",
+    "examples": [
+      {
+        "sentence": "嵐が過ぎて、やっと静かに治まった。",
+        "translation": "After the storm passed, it finally became quiet."
+      },
+      {
+        "sentence": "問題が治まるまで、様子を見ましょう。",
+        "translation": "Let's wait and see until the problem settles down."
+      },
+      {
+        "sentence": "感情が治まるのに時間がかかることもある。",
+        "translation": "Sometimes it takes time for emotions to settle."
+      }
+    ]
+  },
+  {
+    "word": "治める",
+    "type": "Verb, Transitive, Ru-verb",
+    "pronunciation": "おさめる",
+    "explanation": "治める means to govern, manage, or put something in order. It often refers to the act of controlling or regulating something, such as a country, situation, or feelings.",
+    "examples": [
+      {
+        "sentence": "彼は国を治めるために選ばれた。",
+        "translation": "He was chosen to govern the country."
+      },
+      {
+        "sentence": "彼女は自分の感情を治めるのが得意だ。",
+        "translation": "She is good at managing her emotions."
+      },
+      {
+        "sentence": "地域の問題を治めるために会議が開かれた。",
+        "translation": "A meeting was held to address the local issues."
+      }
+    ]
+  },
+  {
+    "word": "治る",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "なおる",
+    "explanation": "治る means 'to heal' or 'to recover' from an illness or injury. It indicates a change of state in which a person becomes healthy again after being sick.",
+    "examples": [
+      {
+        "sentence": "風邪が治るまで、休んでください。",
+        "translation": "Please rest until your cold is healed."
+      },
+      {
+        "sentence": "彼の怪我はすぐに治った。",
+        "translation": "His injury healed quickly."
+      },
+      {
+        "sentence": "この薬を飲めば、症状が治る。",
+        "translation": "If you take this medicine, the symptoms will improve."
+      }
+    ]
+  },
+  {
+    "word": "治す",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "なおす",
+    "explanation": "治す means to cure, heal, or fix something. It is often used in the context of treating an illness or repairing an object.",
+    "examples": [
+      {
+        "sentence": "彼は風邪を治しました。",
+        "translation": "He cured his cold."
+      },
+      {
+        "sentence": "この機械を治すのは難しい。",
+        "translation": "It's difficult to fix this machine."
+      },
+      {
+        "sentence": "彼女は傷を治すために薬を塗った。",
+        "translation": "She applied medicine to heal the wound."
+      }
+    ]
+  },
+  {
+    "word": "経る",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "へる",
+    "explanation": "経る means to pass, to go through, or to elapse, often referring to time or experiences that one has gone through.",
+    "examples": [
+      {
+        "sentence": "年月が経るにつれて、価値観も変わった。",
+        "translation": "As the years passed, my values changed."
+      },
+      {
+        "sentence": "彼は多くの試練を経て、成功を収めた。",
+        "translation": "He achieved success after going through many trials."
+      },
+      {
+        "sentence": "時間が経ると、忘れてしまうこともある。",
+        "translation": "As time passes, there are things that I may forget."
+      }
+    ]
+  },
+  {
+    "word": "経験",
+    "type": "Noun",
+    "pronunciation": "けいけん",
+    "explanation": "経験 refers to experience or knowledge gained through involvement in or exposure to a particular activity or event. It denotes practical contact with and observation of facts or events.",
+    "examples": [
+      {
+        "sentence": "彼は多くの経験を持っています。",
+        "translation": "He has a lot of experience."
+      },
+      {
+        "sentence": "旅行は人生の経験を豊かにする。",
+        "translation": "Travel enriches life experiences."
+      },
+      {
+        "sentence": "その仕事には特別な経験が必要です。",
+        "translation": "That job requires special experience."
+      }
+    ]
+  },
+  {
+    "word": "赤頭巾",
+    "type": "Noun",
+    "pronunciation": "あかずきん",
+    "explanation": "赤頭巾 (あかずきん) refers to a character from the Japanese version of Little Red Riding Hood, often depicted wearing a red hood. The story emphasizes themes of innocence and caution in the face of danger.",
+    "examples": [
+      {
+        "sentence": "赤頭巾はおばあさんの家に向かっています。",
+        "translation": "Little Red Riding Hood is heading to her grandmother's house."
+      },
+      {
+        "sentence": "物語の中で、赤頭巾は狼に出会います。",
+        "translation": "In the story, Little Red Riding Hood encounters the wolf."
+      },
+      {
+        "sentence": "赤頭巾は優しい少女として描かれています。",
+        "translation": "Little Red Riding Hood is depicted as a kind girl."
+      }
+    ]
+  },
+  {
+    "word": "ヘンゼルとグレーテル",
+    "type": "Noun",
+    "pronunciation": "へんぜるとぐれーてる",
+    "explanation": "ヘンゼルとグレーテル (Hansel and Gretel) is a famous German fairy tale about two children who get lost in the woods and encounter a witch living in a house made of candy. The story is widely known and has been adapted into various forms of media.",
+    "examples": [
+      {
+        "sentence": "ヘンゼルとグレーテルは子供の頃に読んだお気に入りの物語です。",
+        "translation": "Hansel and Gretel is my favorite story from childhood."
+      },
+      {
+        "sentence": "この映画はヘンゼルとグレーテルの物語を基にしています。",
+        "translation": "This movie is based on the story of Hansel and Gretel."
+      },
+      {
+        "sentence": "ヘンゼルとグレーテルの教訓は、危険な誘惑に気をつけることです。",
+        "translation": "The lesson of Hansel and Gretel is to be wary of dangerous temptations."
+      }
+    ]
+  },
+  {
+    "word": "消費",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しょうひ",
+    "explanation": "消費 refers to the act of consuming or using up resources, such as goods, services, or energy. It often pertains to the expenditure of money or resources in daily life.",
+    "examples": [
+      {
+        "sentence": "私たちは毎月の消費を見直す必要があります。",
+        "translation": "We need to review our monthly consumption."
+      },
+      {
+        "sentence": "消費が増えると経済が活性化します。",
+        "translation": "When consumption increases, the economy becomes more active."
+      },
+      {
+        "sentence": "この会社は消費者のニーズに応える製品を提供しています。",
+        "translation": "This company offers products that meet consumer needs."
+      }
+    ]
+  },
+  {
+    "word": "分配",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ぶんぱい",
+    "explanation": "分配 refers to the act of distributing or allocating something among multiple recipients. It involves dividing a quantity or resource into parts and giving each part to a person or group.",
+    "examples": [
+      {
+        "sentence": "彼は利益を公平に分配した。",
+        "translation": "He distributed the profits fairly."
+      },
+      {
+        "sentence": "資源の分配が不均等だ。",
+        "translation": "The distribution of resources is uneven."
+      },
+      {
+        "sentence": "プロジェクトの予算を分配する必要がある。",
+        "translation": "It is necessary to allocate the budget for the project."
+      }
+    ]
+  },
+  {
+    "word": "棒になる",
+    "type": "U-verb",
+    "pronunciation": "ぼうになる",
+    "explanation": "棒になる means 'to become a stick' or 'to become a rod'. It describes the transformation into a stick-like form or state, often used metaphorically to indicate rigidity or a stiff demeanor.",
+    "examples": [
+      {
+        "sentence": "彼は緊張して、まるで棒になったように動けなかった。",
+        "translation": "He was so nervous that he couldn't move, as if he had turned into a stick."
+      },
+      {
+        "sentence": "この木は乾燥すると棒になる。",
+        "translation": "This wood becomes like a stick when it dries out."
+      },
+      {
+        "sentence": "彼女の表情は、驚いて棒になった。",
+        "translation": "Her expression became stiff with surprise."
+      }
+    ]
+  },
+  {
+    "word": "根拠",
+    "type": "Noun",
+    "pronunciation": "こんきょ",
+    "explanation": "根拠 refers to the basis or foundation for something, such as evidence or justification for an opinion or argument. It indicates the reasons or grounds that support a claim or belief.",
+    "examples": [
+      {
+        "sentence": "彼の意見には根拠がある。",
+        "translation": "His opinion has a basis."
+      },
+      {
+        "sentence": "この研究の根拠は十分だ。",
+        "translation": "The basis for this research is sufficient."
+      },
+      {
+        "sentence": "根拠のない噂は信じてはいけない。",
+        "translation": "You shouldn't believe baseless rumors."
+      }
+    ]
+  },
+  {
+    "word": "もとになる",
+    "type": "Suru-verb",
+    "pronunciation": "もとになる",
+    "explanation": "もとになる means 'to be based on' or 'to originate from'. It indicates that something is the foundation or source for something else.",
+    "examples": [
+      {
+        "sentence": "この情報は彼の研究にもとになっています。",
+        "translation": "This information is based on his research."
+      },
+      {
+        "sentence": "彼女の成功は努力にもとになっている。",
+        "translation": "Her success is based on her efforts."
+      },
+      {
+        "sentence": "この伝説は古い文献にもとになっている。",
+        "translation": "This legend is based on ancient documents."
+      }
+    ]
+  },
+  {
+    "word": "痛み止め",
+    "type": "Noun",
+    "pronunciation": "いたみどめ",
+    "explanation": "痛み止め refers to a painkiller or analgesic, a medication used to relieve pain. It can be used for various types of pain, including headaches, muscle aches, and chronic pain.",
+    "examples": [
+      {
+        "sentence": "頭が痛いので、痛み止めを飲みました。",
+        "translation": "I took a painkiller because I have a headache."
+      },
+      {
+        "sentence": "この痛み止めは効果があると言われています。",
+        "translation": "This painkiller is said to be effective."
+      },
+      {
+        "sentence": "痛み止めを使っても痛みが治まらない。",
+        "translation": "Even with painkillers, the pain does not subside."
+      }
+    ]
+  },
+  {
+    "word": "足の裏",
+    "type": "Noun",
+    "pronunciation": "あしのうら",
+    "explanation": "足の裏 refers to the sole of the foot, the bottom part that makes contact with the ground. It is important for balance and walking, and can be sensitive to touch.",
+    "examples": [
+      {
+        "sentence": "足の裏が痛いです。",
+        "translation": "The sole of my foot hurts."
+      },
+      {
+        "sentence": "マッサージは足の裏にとても良い。",
+        "translation": "Massage is very good for the soles of the feet."
+      },
+      {
+        "sentence": "彼は足の裏を気にしている。",
+        "translation": "He is concerned about the soles of his feet."
+      }
+    ]
+  },
+  {
+    "word": "返済",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "へんさい",
+    "explanation": "返済 refers to the act of repaying or returning borrowed money or a debt. It involves fulfilling a financial obligation by paying back the amount owed.",
+    "examples": [
+      {
+        "sentence": "彼は借金の返済を始めた。",
+        "translation": "He started repaying his debt."
+      },
+      {
+        "sentence": "返済期限は来週です。",
+        "translation": "The repayment deadline is next week."
+      },
+      {
+        "sentence": "返済方法について相談しましょう。",
+        "translation": "Let's discuss the repayment method."
+      }
+    ]
+  },
+  {
+    "word": "格好",
+    "type": "Noun",
+    "pronunciation": "かっこう",
+    "explanation": "格好 refers to appearance, shape, or form. It is often used to describe someone's style or how they look in clothing or other contexts.",
+    "examples": [
+      {
+        "sentence": "彼女はいつもおしゃれな格好をしています。",
+        "translation": "She always dresses stylishly."
+      },
+      {
+        "sentence": "この家具は格好が良いですね。",
+        "translation": "This furniture looks good, doesn't it?"
+      },
+      {
+        "sentence": "その格好はとてもカジュアルです。",
+        "translation": "That outfit is very casual."
+      }
+    ]
+  },
+  {
+    "word": "噂",
+    "type": "Noun",
+    "pronunciation": "うわさ",
+    "explanation": "噂 refers to a rumor or gossip, often involving unverified or unofficial information about a person or event. It can spread quickly and may not always be based on fact.",
+    "examples": [
+      {
+        "sentence": "彼についての噂が広がっている。",
+        "translation": "Rumors about him are spreading."
+      },
+      {
+        "sentence": "噂は時に真実よりも面白い。",
+        "translation": "Sometimes rumors are more interesting than the truth."
+      },
+      {
+        "sentence": "その噂は完全に嘘だ。",
+        "translation": "That rumor is completely false."
+      }
+    ]
+  },
+  {
+    "word": "ありがたいこと",
+    "type": "Noun",
+    "pronunciation": "ありがたいこと",
+    "explanation": "ありがたいこと refers to something that is appreciated or considered fortunate, often expressing gratitude for a beneficial situation or event.",
+    "examples": [
+      {
+        "sentence": "彼の助けはありがたいことだ。",
+        "translation": "His help is something to be grateful for."
+      },
+      {
+        "sentence": "ありがたいことに、無事に帰ってこれた。",
+        "translation": "Fortunately, I was able to return safely."
+      },
+      {
+        "sentence": "この機会はありがたいことだと思います。",
+        "translation": "I think this opportunity is something to be grateful for."
+      }
+    ]
+  },
+  {
+    "word": "竹刀",
+    "type": "Noun",
+    "pronunciation": "しない",
+    "explanation": "竹刀 refers to a bamboo sword used in Kendo, a traditional Japanese martial art. It is typically made of bamboo and is used for practice and competition.",
+    "examples": [
+      {
+        "sentence": "彼は竹刀を使って稽古をしています。",
+        "translation": "He is practicing using a bamboo sword."
+      },
+      {
+        "sentence": "竹刀はKendoの重要な道具です。",
+        "translation": "The bamboo sword is an essential tool in Kendo."
+      },
+      {
+        "sentence": "試合では竹刀を持って戦います。",
+        "translation": "In the match, we fight with bamboo swords."
+      }
+    ]
+  }
+]

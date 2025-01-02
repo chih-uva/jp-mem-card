@@ -1,0 +1,622 @@
+[
+  {
+    "word": "笑む",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "えむ",
+    "explanation": "笑む means to smile or to beam with a smile. It is often used to describe a gentle or soft smile, conveying warmth or friendliness.",
+    "examples": [
+      {
+        "sentence": "彼は優しく笑んで私を見た。",
+        "translation": "He looked at me with a gentle smile."
+      },
+      {
+        "sentence": "子供たちは楽しそうに笑んでいた。",
+        "translation": "The children were smiling happily."
+      },
+      {
+        "sentence": "その話を聞いて、彼女は自然に笑んだ。",
+        "translation": "Upon hearing that story, she smiled naturally."
+      }
+    ]
+  },
+  {
+    "word": "笑う",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "わらう",
+    "explanation": "笑う means 'to laugh' or 'to smile.' It describes the action of expressing joy or amusement through facial expressions and sounds.",
+    "examples": [
+      {
+        "sentence": "彼は面白い話をして、皆が笑った。",
+        "translation": "He told a funny story, and everyone laughed."
+      },
+      {
+        "sentence": "子供たちが公園で楽しそうに笑っている。",
+        "translation": "The children are happily laughing in the park."
+      },
+      {
+        "sentence": "その冗談を聞いて、彼女は大声で笑った。",
+        "translation": "She laughed out loud at the joke."
+      }
+    ]
+  },
+  {
+    "word": "大笑い",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "おおわらい",
+    "explanation": "大笑い refers to a loud or hearty laugh, often used to describe uncontrollable laughter. It can also refer to the act of laughing loudly or heartily.",
+    "examples": [
+      {
+        "sentence": "彼のジョークで大笑いした。",
+        "translation": "I had a big laugh at his joke."
+      },
+      {
+        "sentence": "みんなで映画を見て大笑いしました。",
+        "translation": "We all watched the movie and had a hearty laugh."
+      },
+      {
+        "sentence": "彼女の話を聞いて、大笑いし続けた。",
+        "translation": "I kept laughing out loud while listening to her story."
+      }
+    ]
+  },
+  {
+    "word": "笑い声",
+    "type": "Noun",
+    "pronunciation": "わらいごえ",
+    "explanation": "笑い声 refers to the sound or voice of laughter. It represents the audible expression of amusement or joy and is often associated with happiness and social interaction.",
+    "examples": [
+      {
+        "sentence": "彼の笑い声はとても心地よい。",
+        "translation": "His laughter is very pleasant."
+      },
+      {
+        "sentence": "子供たちの笑い声が公園に響いている。",
+        "translation": "The children's laughter echoes in the park."
+      },
+      {
+        "sentence": "映画を見て、彼女は笑い声をあげた。",
+        "translation": "She burst into laughter while watching the movie."
+      }
+    ]
+  },
+  {
+    "word": "微笑む",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "ほほえむ",
+    "explanation": "微笑む means 'to smile' or 'to beam' and refers to the act of showing happiness or pleasure through a facial expression. It is an intransitive verb, meaning it does not take a direct object.",
+    "examples": [
+      {
+        "sentence": "彼は優しい微笑みを浮かべた。",
+        "translation": "He wore a gentle smile."
+      },
+      {
+        "sentence": "子供たちは楽しそうに微笑んでいた。",
+        "translation": "The children were smiling happily."
+      },
+      {
+        "sentence": "その話を聞いて、彼女は微笑んだ。",
+        "translation": "She smiled upon hearing that story."
+      }
+    ]
+  },
+  {
+    "word": "笑顔",
+    "type": "Noun",
+    "pronunciation": "えがお",
+    "explanation": "笑顔 refers to a smiling face or a smile, often conveying happiness, friendliness, or approachability. It is an expression that can brighten someone's mood and is commonly used in social interactions.",
+    "examples": [
+      {
+        "sentence": "彼女はいつも笑顔で挨拶してくれる。",
+        "translation": "She always greets me with a smile."
+      },
+      {
+        "sentence": "子供たちは笑顔で遊んでいる。",
+        "translation": "The children are playing with smiles on their faces."
+      },
+      {
+        "sentence": "笑顔は人々を幸せにする。",
+        "translation": "A smile makes people happy."
+      }
+    ]
+  },
+  {
+    "word": "爆笑",
+    "type": "Noun",
+    "pronunciation": "ばくしょう",
+    "explanation": "爆笑 refers to a loud, hearty laugh or a burst of laughter. It is often used to describe a situation that is extremely funny or amusing.",
+    "examples": [
+      {
+        "sentence": "そのジョークには爆笑しました。",
+        "translation": "I burst out laughing at that joke."
+      },
+      {
+        "sentence": "映画を見て爆笑することができた。",
+        "translation": "I was able to laugh heartily while watching the movie."
+      },
+      {
+        "sentence": "彼の話はいつも爆笑を誘う。",
+        "translation": "His stories always elicit hearty laughter."
+      }
+    ]
+  },
+  {
+    "word": "怒りを買う",
+    "type": "Verb, Transitive, Suru-verb",
+    "pronunciation": "いかりをかう",
+    "explanation": "怒りを買う means 'to incur anger' or 'to provoke someone's anger.' It involves actions that lead to someone becoming angry or upset.",
+    "examples": [
+      {
+        "sentence": "彼の言葉は多くの人々に怒りを買った。",
+        "translation": "His words provoked anger in many people."
+      },
+      {
+        "sentence": "不公平な扱いが彼女の怒りを買った。",
+        "translation": "The unfair treatment incurred her anger."
+      },
+      {
+        "sentence": "この決定は市民の怒りを買うだろう。",
+        "translation": "This decision will likely provoke the anger of the citizens."
+      }
+    ]
+  },
+  {
+    "word": "喜怒哀楽",
+    "type": "Noun",
+    "pronunciation": "きどあいらく",
+    "explanation": "喜怒哀楽 refers to the four basic human emotions: joy (喜), anger (怒), sorrow (哀), and pleasure (楽). It encapsulates the range of emotional experiences that people go through.",
+    "examples": [
+      {
+        "sentence": "彼は喜怒哀楽を豊かに表現する人です。",
+        "translation": "He is a person who expresses a rich range of emotions."
+      },
+      {
+        "sentence": "映画は喜怒哀楽がうまく描かれている。",
+        "translation": "The movie portrays a rich spectrum of emotions."
+      },
+      {
+        "sentence": "私たちは喜怒哀楽を通じて人間として成長する。",
+        "translation": "We grow as humans through our experiences of joy, anger, sorrow, and pleasure."
+      }
+    ]
+  },
+  {
+    "word": "激しい",
+    "type": "Adjective, I-adj",
+    "pronunciation": "はげしい",
+    "explanation": "激しい means 'intense' or 'violent.' It is used to describe something that is extreme in degree or force, such as emotions, weather, or actions.",
+    "examples": [
+      {
+        "sentence": "激しい雨が降っている。",
+        "translation": "It is pouring rain."
+      },
+      {
+        "sentence": "彼は激しい競争に挑んでいる。",
+        "translation": "He is facing intense competition."
+      },
+      {
+        "sentence": "激しい議論が続いている。",
+        "translation": "An intense debate is ongoing."
+      }
+    ]
+  },
+  {
+    "word": "大喜び",
+    "type": "Noun",
+    "pronunciation": "おおよろこび",
+    "explanation": "大喜び refers to great joy or delight. It expresses a state of extreme happiness or excitement, often in response to good news or a positive event.",
+    "examples": [
+      {
+        "sentence": "彼は合格の知らせに大喜びした。",
+        "translation": "He was overjoyed by the news of his acceptance."
+      },
+      {
+        "sentence": "子供たちはクリスマスのプレゼントに大喜びだった。",
+        "translation": "The children were overjoyed with the Christmas presents."
+      },
+      {
+        "sentence": "そのサプライズパーティーは彼女を大喜びさせた。",
+        "translation": "The surprise party made her extremely happy."
+      }
+    ]
+  },
+  {
+    "word": "思わず",
+    "type": "Adverb",
+    "pronunciation": "おもわず",
+    "explanation": "思わず is an adverb that means 'unintentionally' or 'involuntarily.' It describes an action that is done without conscious thought or intention, often as a spontaneous reaction to a situation.",
+    "examples": [
+      {
+        "sentence": "思わず笑ってしまった。",
+        "translation": "I couldn't help but laugh."
+      },
+      {
+        "sentence": "彼の話を聞いて、思わず涙が出た。",
+        "translation": "Hearing his story made me cry involuntarily."
+      },
+      {
+        "sentence": "思わず手を叩いてしまった。",
+        "translation": "I clapped my hands without thinking."
+      }
+    ]
+  },
+  {
+    "word": "残業",
+    "type": "Noun",
+    "pronunciation": "ざんぎょう",
+    "explanation": "残業 refers to the act of working overtime, beyond the regular working hours. It is commonly associated with corporate culture in Japan, where employees may need to stay late to complete tasks or meet deadlines.",
+    "examples": [
+      {
+        "sentence": "彼は毎日残業をしています。",
+        "translation": "He works overtime every day."
+      },
+      {
+        "sentence": "残業が多いとストレスがたまります。",
+        "translation": "Working a lot of overtime builds up stress."
+      },
+      {
+        "sentence": "残業を減らすために、効率よく働きましょう。",
+        "translation": "Let’s work efficiently to reduce overtime."
+      }
+    ]
+  },
+  {
+    "word": "残雪",
+    "type": "Noun",
+    "pronunciation": "ざんせつ",
+    "explanation": "残雪 refers to the snow that remains on the ground after the main snowfall has melted, often seen in late winter or early spring. It signifies the lingering presence of winter even as warmer weather approaches.",
+    "examples": [
+      {
+        "sentence": "山の残雪が美しい。",
+        "translation": "The remaining snow on the mountain is beautiful."
+      },
+      {
+        "sentence": "残雪が溶けると、春がやってくる。",
+        "translation": "When the remaining snow melts, spring comes."
+      },
+      {
+        "sentence": "残雪を見ながら散歩するのが好きです。",
+        "translation": "I enjoy walking while looking at the remaining snow."
+      }
+    ]
+  },
+  {
+    "word": "残す",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "のこす",
+    "explanation": "残す means to leave behind, to save, or to remain. It is often used when referring to leaving something for future use or for someone else.",
+    "examples": [
+      {
+        "sentence": "食べ物を残してはいけません。",
+        "translation": "You shouldn't leave food behind."
+      },
+      {
+        "sentence": "彼は重要なメッセージを残しました。",
+        "translation": "He left an important message."
+      },
+      {
+        "sentence": "この本を残して、次の人に渡すつもりです。",
+        "translation": "I plan to leave this book for the next person."
+      }
+    ]
+  },
+  {
+    "word": "残る",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "のこる",
+    "explanation": "残る means 'to remain' or 'to be left over'. It refers to something that is left behind or continues to exist after other parts have been removed or have changed.",
+    "examples": [
+      {
+        "sentence": "食べ物が残っている。",
+        "translation": "There is food left over."
+      },
+      {
+        "sentence": "彼の言葉が心に残った。",
+        "translation": "His words remained in my heart."
+      },
+      {
+        "sentence": "仕事が残っているので、帰れません。",
+        "translation": "I can't go home because there is work left to do."
+      }
+    ]
+  },
+  {
+    "word": "専念",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "せんねん",
+    "explanation": "専念 refers to the act of concentrating or dedicating oneself to a particular task or pursuit. It involves focusing one's efforts and attention fully on something without distraction.",
+    "examples": [
+      {
+        "sentence": "彼は研究に専念している。",
+        "translation": "He is dedicated to his research."
+      },
+      {
+        "sentence": "彼女は仕事に専念することに決めた。",
+        "translation": "She decided to concentrate on her work."
+      },
+      {
+        "sentence": "子供の教育に専念する親が多い。",
+        "translation": "Many parents dedicate themselves to their children's education."
+      }
+    ]
+  },
+  {
+    "word": "念願",
+    "type": "Noun",
+    "pronunciation": "ねんがん",
+    "explanation": "念願 refers to a long-cherished wish or desire, something that one has been hoping for or aspiring to achieve for a long time.",
+    "examples": [
+      {
+        "sentence": "彼の念願は世界旅行をすることだった。",
+        "translation": "His long-cherished wish was to travel around the world."
+      },
+      {
+        "sentence": "念願が叶った瞬間、涙がこぼれた。",
+        "translation": "When my wish came true, tears fell."
+      },
+      {
+        "sentence": "その念願を実現するために努力している。",
+        "translation": "I am working hard to realize that dream."
+      }
+    ]
+  },
+  {
+    "word": "素直",
+    "type": "Na-adjective",
+    "pronunciation": "すなお",
+    "explanation": "素直 describes a person who is honest, straightforward, and obedient. It conveys a sense of being open and receptive, often in the context of accepting opinions or advice without resistance.",
+    "examples": [
+      {
+        "sentence": "彼は素直な性格で、誰にでも優しい。",
+        "translation": "He has a straightforward personality and is kind to everyone."
+      },
+      {
+        "sentence": "素直に謝ることが大切だ。",
+        "translation": "It's important to apologize sincerely."
+      },
+      {
+        "sentence": "子供は素直な反応を示すことが多い。",
+        "translation": "Children often show straightforward reactions."
+      }
+    ]
+  },
+  {
+    "word": "信念",
+    "type": "Noun",
+    "pronunciation": "しんねん",
+    "explanation": "信念 refers to a belief or conviction that one holds strongly. It often signifies a deep-seated principle or ideology that guides a person's actions and decisions.",
+    "examples": [
+      {
+        "sentence": "彼の信念は彼の行動に影響を与えている。",
+        "translation": "His beliefs influence his actions."
+      },
+      {
+        "sentence": "信念を持って生きることが大切だ。",
+        "translation": "It is important to live with conviction."
+      },
+      {
+        "sentence": "彼女は自分の信念に従って決断を下した。",
+        "translation": "She made her decision based on her beliefs."
+      }
+    ]
+  },
+  {
+    "word": "貫く",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "つらぬく",
+    "explanation": "貫く means to pierce through or to carry through. It can refer to physically piercing an object or metaphorically maintaining a principle or belief steadfastly.",
+    "examples": [
+      {
+        "sentence": "彼は信念を貫いて生きている。",
+        "translation": "He lives by sticking to his beliefs."
+      },
+      {
+        "sentence": "矢が的を貫いた。",
+        "translation": "The arrow pierced through the target."
+      },
+      {
+        "sentence": "この道を貫くと海に出る。",
+        "translation": "If you go straight along this road, you will reach the sea."
+      }
+    ]
+  },
+  {
+    "word": "一応",
+    "type": "Noun, Adverb",
+    "pronunciation": "いちおう",
+    "explanation": "一応 is used to indicate that something is done as a formality or just in case, even if it is not strictly necessary. It can convey a sense of doing something tentatively or as a precaution.",
+    "examples": [
+      {
+        "sentence": "一応、確認しておきます。",
+        "translation": "I will check it just in case."
+      },
+      {
+        "sentence": "一応、彼に連絡してみた。",
+        "translation": "I contacted him just to be safe."
+      },
+      {
+        "sentence": "一応、準備をしておいた方がいい。",
+        "translation": "It's better to be prepared, just in case."
+      }
+    ]
+  },
+  {
+    "word": "入念",
+    "type": "Noun, Na-adjective",
+    "pronunciation": "にゅうねん",
+    "explanation": "入念 refers to being meticulous or careful, emphasizing thoroughness and attention to detail. It is often used to describe actions or preparations that require careful consideration and precision.",
+    "examples": [
+      {
+        "sentence": "彼は入念に計画を立てた。",
+        "translation": "He made the plan meticulously."
+      },
+      {
+        "sentence": "入念なチェックが必要です。",
+        "translation": "A careful check is necessary."
+      },
+      {
+        "sentence": "彼女は入念に準備をしている。",
+        "translation": "She is preparing with great care."
+      }
+    ]
+  },
+  {
+    "word": "悔しい",
+    "type": "i-adj",
+    "pronunciation": "くやしい",
+    "explanation": "悔しい describes a feeling of regret or frustration, often experienced when one feels they have missed an opportunity or made a mistake. It conveys a sense of disappointment and longing for a different outcome.",
+    "examples": [
+      {
+        "sentence": "試合に負けて悔しい。",
+        "translation": "I feel frustrated about losing the match."
+      },
+      {
+        "sentence": "悔しい思いをしている。",
+        "translation": "I am feeling regretful."
+      },
+      {
+        "sentence": "彼女は悔しい気持ちを抱えている。",
+        "translation": "She is harboring feelings of regret."
+      }
+    ]
+  },
+  {
+    "word": "悔し泣き",
+    "type": "Noun",
+    "pronunciation": "くやしなき",
+    "explanation": "悔し泣き refers to the act of crying out of regret or frustration. It is often associated with feelings of sorrow or disappointment when one realizes a mistake or faces a loss.",
+    "examples": [
+      {
+        "sentence": "試合に負けて悔し泣きした。",
+        "translation": "I cried out of regret after losing the match."
+      },
+      {
+        "sentence": "彼女は悔し泣きしながら、自分の失敗を悔いていた。",
+        "translation": "She was crying out of regret while lamenting her mistakes."
+      },
+      {
+        "sentence": "悔し泣きすることは、時には心の整理に役立つ。",
+        "translation": "Crying out of regret can sometimes help in processing one's feelings."
+      }
+    ]
+  },
+  {
+    "word": "号泣",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ごうきゅう",
+    "explanation": "号泣 refers to the act of crying out loud or weeping uncontrollably, often expressing deep sorrow or emotion. It is a dramatic form of crying that conveys intense feelings.",
+    "examples": [
+      {
+        "sentence": "彼は号泣して、悲しみを表現した。",
+        "translation": "He cried out loud to express his sorrow."
+      },
+      {
+        "sentence": "映画の最後のシーンで、観客は号泣していた。",
+        "translation": "The audience was weeping loudly at the end of the movie."
+      },
+      {
+        "sentence": "彼女は号泣しながら、友人に助けを求めた。",
+        "translation": "She cried out loud while seeking help from her friend."
+      }
+    ]
+  },
+  {
+    "word": "涙腺",
+    "type": "Noun",
+    "pronunciation": "るいせん",
+    "explanation": "涙腺 refers to the tear ducts or tear glands in the human body that are responsible for the production and drainage of tears. They play a crucial role in eye moisture and protection.",
+    "examples": [
+      {
+        "sentence": "涙腺が刺激されて、涙が出てしまった。",
+        "translation": "My tear ducts were stimulated, and tears came out."
+      },
+      {
+        "sentence": "彼女は感動して涙腺が反応した。",
+        "translation": "She was moved, and her tear ducts reacted."
+      },
+      {
+        "sentence": "涙腺の働きが正常であることは重要だ。",
+        "translation": "It is important for the tear ducts to function normally."
+      }
+    ]
+  },
+  {
+    "word": "涙腺が弱い",
+    "type": "Phrase",
+    "pronunciation": "るいせんがよわい",
+    "explanation": "涙腺が弱い refers to having weak tear ducts, which means a person is prone to crying easily or frequently. It indicates a sensitivity that leads to tears in response to various emotions or stimuli.",
+    "examples": [
+      {
+        "sentence": "彼は映画を見て、涙腺が弱いからすぐに泣いてしまった。",
+        "translation": "He watched the movie and cried right away because he has weak tear ducts."
+      },
+      {
+        "sentence": "涙腺が弱いので、感動的な話を聞くとすぐに泣いてしまう。",
+        "translation": "Since I have weak tear ducts, I cry immediately when I hear a touching story."
+      },
+      {
+        "sentence": "涙腺が弱い人は、時々ちょっとしたことで涙が出る。",
+        "translation": "People with weak tear ducts sometimes tear up over little things."
+      }
+    ]
+  },
+  {
+    "word": "〜ことから...",
+    "type": "Phrase",
+    "pronunciation": "〜ことから...",
+    "explanation": "The phrase 〜ことから... is used to indicate a reason or cause for something. It translates to 'because of...' or 'due to...' in English, often leading to a conclusion or result.",
+    "examples": [
+      {
+        "sentence": "彼が遅れたことから、会議は始まりませんでした。",
+        "translation": "The meeting did not start because he was late."
+      },
+      {
+        "sentence": "彼女の努力が認められたことから、昇進しました。",
+        "translation": "She was promoted due to her recognized efforts."
+      },
+      {
+        "sentence": "天気が悪いことから、ピクニックは中止になった。",
+        "translation": "The picnic was canceled because of the bad weather."
+      }
+    ]
+  },
+  {
+    "word": "僅か",
+    "type": "Noun, I-adjective",
+    "pronunciation": "わずか",
+    "explanation": "僅か refers to a small amount or a little bit of something. It is often used to express a minimal quantity or degree, emphasizing the insignificance or scarcity of the item in question.",
+    "examples": [
+      {
+        "sentence": "僅かに残った食料を分け合った。",
+        "translation": "We shared the little food that was left."
+      },
+      {
+        "sentence": "彼は僅かに微笑んだ。",
+        "translation": "He smiled just a little."
+      },
+      {
+        "sentence": "僅かでもいいので、手伝ってほしい。",
+        "translation": "Even a little would be helpful, so I hope you can assist me."
+      }
+    ]
+  },
+  {
+    "word": "眉毛",
+    "type": "Noun",
+    "pronunciation": "まゆげ",
+    "explanation": "眉毛 refers to the hair that grows above the eyes, commonly known as eyebrows. They play a crucial role in facial expressions and aesthetics.",
+    "examples": [
+      {
+        "sentence": "彼女は眉毛を整えるのが好きです。",
+        "translation": "She likes to groom her eyebrows."
+      },
+      {
+        "sentence": "眉毛が濃いと印象が変わります。",
+        "translation": "Thick eyebrows can change one's impression."
+      },
+      {
+        "sentence": "彼は眉毛を剃って、すっきりした顔になった。",
+        "translation": "He shaved his eyebrows and ended up with a cleaner look."
+      }
+    ]
+  }
+]

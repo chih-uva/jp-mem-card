@@ -1,0 +1,502 @@
+[
+  {
+    "word": "貯金",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ちょきん",
+    "explanation": "貯金 refers to the act of saving money, typically in a bank account. It involves setting aside a portion of income for future use or emergencies.",
+    "examples": [
+      {
+        "sentence": "彼は毎月少しずつ貯金をしています。",
+        "translation": "He saves a little bit of money every month."
+      },
+      {
+        "sentence": "旅行のために貯金を始めました。",
+        "translation": "I started saving money for a trip."
+      },
+      {
+        "sentence": "貯金が増えると安心感があります。",
+        "translation": "Having more savings gives a sense of security."
+      }
+    ]
+  },
+  {
+    "word": "最期",
+    "type": "Noun",
+    "pronunciation": "さいご",
+    "explanation": "最期 refers to the last moments or the end of a person's life. It signifies the final stage before death and is often used in contexts related to death or dying.",
+    "examples": [
+      {
+        "sentence": "彼は最期を家族と過ごした。",
+        "translation": "He spent his last moments with his family."
+      },
+      {
+        "sentence": "最期の言葉を残すことは大切だ。",
+        "translation": "Leaving last words is important."
+      },
+      {
+        "sentence": "彼女は最期まで希望を失わなかった。",
+        "translation": "She did not lose hope until her last moments."
+      }
+    ]
+  },
+  {
+    "word": "期待",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "きたい",
+    "explanation": "期待 refers to expectation or anticipation. It can be used to express hope for future events or outcomes, often associated with positive outcomes.",
+    "examples": [
+      {
+        "sentence": "彼の成功を期待しています。",
+        "translation": "I am expecting his success."
+      },
+      {
+        "sentence": "私たちは新しいプロジェクトに対して大きな期待を持っています。",
+        "translation": "We have high expectations for the new project."
+      },
+      {
+        "sentence": "期待に応えて、彼は素晴らしいパフォーマンスを見せた。",
+        "translation": "In response to the expectations, he delivered a wonderful performance."
+      }
+    ]
+  },
+  {
+    "word": "応える",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "こたえる",
+    "explanation": "応える means to respond or answer. It refers to the act of replying to a question, request, or expectation, often implying that the response meets what was asked or needed.",
+    "examples": [
+      {
+        "sentence": "彼は私の質問に応えてくれた。",
+        "translation": "He responded to my question."
+      },
+      {
+        "sentence": "期待に応えるために努力します。",
+        "translation": "I will work hard to meet your expectations."
+      },
+      {
+        "sentence": "彼女の願いに応えて、プレゼントを用意した。",
+        "translation": "In response to her wish, I prepared a present."
+      }
+    ]
+  },
+  {
+    "word": "一期一会",
+    "type": "Noun",
+    "pronunciation": "いちごいちえ",
+    "explanation": "一期一会 is a Japanese idiom that expresses the concept of cherishing each moment and encounter as it is unique and will never happen again. It emphasizes the importance of valuing each meeting and experience.",
+    "examples": [
+      {
+        "sentence": "茶道では一期一会の精神が大切にされる。",
+        "translation": "In tea ceremony, the spirit of 'ichigo ichie' is highly valued."
+      },
+      {
+        "sentence": "彼との出会いは一期一会だと思う。",
+        "translation": "I believe my encounter with him is a once-in-a-lifetime experience."
+      },
+      {
+        "sentence": "友達との時間を一期一会として楽しむべきだ。",
+        "translation": "We should enjoy our time with friends as a unique encounter."
+      }
+    ]
+  },
+  {
+    "word": "古今東西",
+    "type": "Noun",
+    "pronunciation": "ここんとうざい",
+    "explanation": "古今東西 is an expression that means 'throughout history and around the world' or 'from ancient times to the present, everywhere'. It is used to indicate the universality of something over time and space.",
+    "examples": [
+      {
+        "sentence": "古今東西の文学には多くの共通点がある。",
+        "translation": "There are many commonalities in literature from ancient times to the present, across the world."
+      },
+      {
+        "sentence": "古今東西の料理を楽しむことができるレストランです。",
+        "translation": "This restaurant offers dishes from all over the world, from ancient times to the present."
+      },
+      {
+        "sentence": "古今東西の哲学者たちの思想を学ぶことは重要だ。",
+        "translation": "It is important to study the thoughts of philosophers from all times and places."
+      }
+    ]
+  },
+  {
+    "word": "糸",
+    "type": "Noun",
+    "pronunciation": "いと",
+    "explanation": "糸 refers to thread or string, a long, thin strand of material used for sewing, weaving, or tying things together.",
+    "examples": [
+      {
+        "sentence": "この服は糸で縫われています。",
+        "translation": "This garment is sewn with thread."
+      },
+      {
+        "sentence": "彼女は糸を使って手芸を楽しんでいます。",
+        "translation": "She enjoys handicrafts using thread."
+      },
+      {
+        "sentence": "糸が絡まってしまった。",
+        "translation": "The thread got tangled."
+      }
+    ]
+  },
+  {
+    "word": "繋ぐ",
+    "type": "U-verb, Transitive",
+    "pronunciation": "つなぐ",
+    "explanation": "繋ぐ means to connect or tie together. It can refer to physically connecting objects or metaphorically linking concepts or people.",
+    "examples": [
+      {
+        "sentence": "彼はロープを使って船を岸に繋いだ。",
+        "translation": "He used a rope to tie the boat to the shore."
+      },
+      {
+        "sentence": "このプロジェクトは多くの人々を繋ぐ役割を果たしています。",
+        "translation": "This project serves to connect many people."
+      },
+      {
+        "sentence": "電話で繋いでおきます。",
+        "translation": "I will connect you via phone."
+      }
+    ]
+  },
+  {
+    "word": "約一時間",
+    "type": "Noun",
+    "pronunciation": "やくいちじかん",
+    "explanation": "約一時間 means 'about one hour' in Japanese, indicating a rough estimate of time duration.",
+    "examples": [
+      {
+        "sentence": "約一時間待ってください。",
+        "translation": "Please wait for about one hour."
+      },
+      {
+        "sentence": "会議は約一時間かかります。",
+        "translation": "The meeting will take about one hour."
+      },
+      {
+        "sentence": "ここから駅まで約一時間です。",
+        "translation": "It's about one hour from here to the station."
+      }
+    ]
+  },
+  {
+    "word": "花束",
+    "type": "Noun",
+    "pronunciation": "はなたば",
+    "explanation": "花束 refers to a bouquet of flowers, typically arranged and tied together, often given as a gift for special occasions such as birthdays, anniversaries, or to express gratitude or sympathy.",
+    "examples": [
+      {
+        "sentence": "彼は彼女に花束を贈った。",
+        "translation": "He gave her a bouquet of flowers."
+      },
+      {
+        "sentence": "結婚式では、美しい花束が飾られていた。",
+        "translation": "Beautiful bouquets of flowers were displayed at the wedding."
+      },
+      {
+        "sentence": "花束を持って病院に行った。",
+        "translation": "I brought a bouquet of flowers to the hospital."
+      }
+    ]
+  },
+  {
+    "word": "札束",
+    "type": "Noun",
+    "pronunciation": "さつたば",
+    "explanation": "札束 refers to a bundle of banknotes or cash, typically tied together. It is often used to denote a significant amount of money, usually in the context of financial transactions or wealth.",
+    "examples": [
+      {
+        "sentence": "彼は札束を持って銀行に行った。",
+        "translation": "He went to the bank with a bundle of cash."
+      },
+      {
+        "sentence": "その札束は彼にとって大金だった。",
+        "translation": "That bundle of money was a large sum for him."
+      },
+      {
+        "sentence": "札束を数えるのは楽しい。",
+        "translation": "Counting bundles of cash is enjoyable."
+      }
+    ]
+  },
+  {
+    "word": "結束",
+    "type": "Noun",
+    "pronunciation": "けっそく",
+    "explanation": "結束 refers to the act of binding or uniting things together, often used in the context of teamwork, cohesion, or gathering people for a common purpose.",
+    "examples": [
+      {
+        "sentence": "チームの結束が強まった。",
+        "translation": "The team's unity has strengthened."
+      },
+      {
+        "sentence": "結束して目標を達成しよう。",
+        "translation": "Let's unite and achieve our goals."
+      },
+      {
+        "sentence": "結束は成功の鍵です。",
+        "translation": "Unity is the key to success."
+      }
+    ]
+  },
+  {
+    "word": "必勝",
+    "type": "Noun",
+    "pronunciation": "ひっしょう",
+    "explanation": "必勝 means 'certain victory' or 'sure win.' It is often used to express a strong determination or confidence in achieving success in a competition or challenge.",
+    "examples": [
+      {
+        "sentence": "彼は必勝を目指して練習している。",
+        "translation": "He trains aiming for certain victory."
+      },
+      {
+        "sentence": "必勝のために準備を怠らない。",
+        "translation": "I will not neglect my preparations for a sure win."
+      },
+      {
+        "sentence": "この戦略は必勝をもたらすだろう。",
+        "translation": "This strategy will likely lead to certain victory."
+      }
+    ]
+  },
+  {
+    "word": "子守歌",
+    "type": "Noun",
+    "pronunciation": "こもりうた",
+    "explanation": "子守歌 refers to a lullaby, a soothing song sung to children to help them sleep. It is often characterized by gentle melodies and calming lyrics.",
+    "examples": [
+      {
+        "sentence": "母は子守歌を歌いながら赤ちゃんをあやした。",
+        "translation": "The mother rocked the baby while singing a lullaby."
+      },
+      {
+        "sentence": "子守歌は昔から伝わる文化の一部です。",
+        "translation": "Lullabies have been a part of cultural traditions for a long time."
+      },
+      {
+        "sentence": "彼女は子守歌を作るのが得意だ。",
+        "translation": "She is good at composing lullabies."
+      }
+    ]
+  },
+  {
+    "word": "留守",
+    "type": "Noun",
+    "pronunciation": "るす",
+    "explanation": "留守 refers to the state of being away from home or the absence from a place. It is often used when someone is not at home or not present at a certain location.",
+    "examples": [
+      {
+        "sentence": "彼は留守の間に友達が来た。",
+        "translation": "A friend came while he was away."
+      },
+      {
+        "sentence": "留守番を頼むことができる。",
+        "translation": "I can ask someone to watch the house."
+      },
+      {
+        "sentence": "彼女は留守の時に電話を受けた。",
+        "translation": "She answered the phone while she was away."
+      }
+    ]
+  },
+  {
+    "word": "チャイム",
+    "type": "Noun",
+    "pronunciation": "ちゃいむ",
+    "explanation": "チャイム refers to a bell or chime, often used in schools or buildings to signal the start or end of classes or events. It is an auditory signal that indicates a specific time or action.",
+    "examples": [
+      {
+        "sentence": "学校のチャイムが鳴った。",
+        "translation": "The school bell rang."
+      },
+      {
+        "sentence": "チャイムが鳴る前に教室に入ってください。",
+        "translation": "Please enter the classroom before the chime rings."
+      },
+      {
+        "sentence": "彼はチャイムの音を聞いて目を覚ました。",
+        "translation": "He woke up when he heard the sound of the chime."
+      }
+    ]
+  },
+  {
+    "word": "厳守",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "げんしゅ",
+    "explanation": "厳守 refers to the act of strictly adhering to rules, regulations, or agreements. It emphasizes the importance of compliance and the serious nature of following guidelines without deviation.",
+    "examples": [
+      {
+        "sentence": "彼は契約の条件を厳守しています。",
+        "translation": "He strictly adheres to the terms of the contract."
+      },
+      {
+        "sentence": "学校のルールを厳守することが大切です。",
+        "translation": "It is important to strictly follow the school rules."
+      },
+      {
+        "sentence": "厳守しなければならない規則があります。",
+        "translation": "There are rules that must be strictly adhered to."
+      }
+    ]
+  },
+  {
+    "word": "かなり",
+    "type": "Adverb",
+    "pronunciation": "かなり",
+    "explanation": "かなり is an adverb that means 'considerably' or 'fairly' and is used to indicate a significant degree or extent of something.",
+    "examples": [
+      {
+        "sentence": "彼はかなり上手にピアノを弾く。",
+        "translation": "He plays the piano quite well."
+      },
+      {
+        "sentence": "この問題はかなり難しい。",
+        "translation": "This problem is fairly difficult."
+      },
+      {
+        "sentence": "私はかなりの時間をそのプロジェクトに費やした。",
+        "translation": "I spent a considerable amount of time on that project."
+      }
+    ]
+  },
+  {
+    "word": "吐く",
+    "type": "U-verb, Transitive",
+    "pronunciation": "はく",
+    "explanation": "吐く means to vomit or to expel something from the stomach through the mouth. It is often used in the context of feeling sick or nauseated.",
+    "examples": [
+      {
+        "sentence": "彼は酔って吐いてしまった。",
+        "translation": "He vomited because he got drunk."
+      },
+      {
+        "sentence": "食べ過ぎて吐きそうだ。",
+        "translation": "I feel like I'm going to vomit from overeating."
+      },
+      {
+        "sentence": "その匂いで彼女は吐いてしまった。",
+        "translation": "The smell made her vomit."
+      }
+    ]
+  },
+  {
+    "word": "ひとめ",
+    "type": "Noun",
+    "pronunciation": "ひとめ",
+    "explanation": "ひとめ refers to a glance or a look from someone else, often implying the perception or judgment of others. It is commonly used to express the idea of being seen or judged by others at first sight.",
+    "examples": [
+      {
+        "sentence": "彼女はひとめで彼に恋をした。",
+        "translation": "She fell in love with him at first glance."
+      },
+      {
+        "sentence": "ひとめを気にする必要はない。",
+        "translation": "You don't need to worry about what others think."
+      },
+      {
+        "sentence": "この服はひとめで分かるほど目立つ。",
+        "translation": "This outfit is so eye-catching that it stands out at a glance."
+      }
+    ]
+  },
+  {
+    "word": "散らかる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "ちらかる",
+    "explanation": "散らかる means 'to become untidy' or 'to be scattered.' It describes a state where objects are not organized or are spread out in a disordered way.",
+    "examples": [
+      {
+        "sentence": "部屋が散らかっている。",
+        "translation": "The room is messy."
+      },
+      {
+        "sentence": "彼はいつも書類を散らかしている。",
+        "translation": "He always scatters papers around."
+      },
+      {
+        "sentence": "散らかると、探し物が見つからなくなる。",
+        "translation": "When things are scattered, it's hard to find what you're looking for."
+      }
+    ]
+  },
+  {
+    "word": "仕方がない",
+    "type": "Expression",
+    "pronunciation": "しかたがない",
+    "explanation": "仕方がない is an expression used to indicate that there is no way to deal with a situation or that something cannot be helped. It conveys a sense of resignation or acceptance of circumstances that are beyond one's control.",
+    "examples": [
+      {
+        "sentence": "雨が降っているので、仕方がない。",
+        "translation": "It's raining, so there's nothing we can do."
+      },
+      {
+        "sentence": "彼は遅れたが、仕方がないと思った。",
+        "translation": "He was late, but I thought it couldn't be helped."
+      },
+      {
+        "sentence": "ルールを守れないなら、仕方がない。",
+        "translation": "If you can't follow the rules, it can't be helped."
+      }
+    ]
+  },
+  {
+    "word": "しょうがない",
+    "type": "I-adj",
+    "pronunciation": "しょうがない",
+    "explanation": "しょうがない is an expression used to indicate that something cannot be helped or that there is no other option. It conveys a sense of resignation or acceptance of a situation that cannot be changed.",
+    "examples": [
+      {
+        "sentence": "遅れたけど、しょうがない。",
+        "translation": "I’m late, but it can't be helped."
+      },
+      {
+        "sentence": "そんなことを言われても、しょうがない。",
+        "translation": "Even if you say that, it can't be helped."
+      },
+      {
+        "sentence": "天気が悪いから、しょうがないね。",
+        "translation": "It can't be helped because the weather is bad."
+      }
+    ]
+  },
+  {
+    "word": "せっかく",
+    "type": "Adverb",
+    "pronunciation": "せっかく",
+    "explanation": "せっかく is used to express that something was done with great effort or intention, often implying that it should not be wasted or taken lightly. It can also indicate a missed opportunity or an expectation that something should be appreciated.",
+    "examples": [
+      {
+        "sentence": "せっかく来たのだから、楽しんでいってください。",
+        "translation": "Since you came all this way, please enjoy yourself."
+      },
+      {
+        "sentence": "せっかくのチャンスを逃してしまった。",
+        "translation": "I missed a great opportunity."
+      },
+      {
+        "sentence": "せっかく作った料理なのに、食べてもらえなかった。",
+        "translation": "I went through the effort of making a meal, but it wasn't eaten."
+      }
+    ]
+  },
+  {
+    "word": "公共交通機関",
+    "type": "Noun",
+    "pronunciation": "こうきょうこうつうきかん",
+    "explanation": "公共交通機関 refers to public transportation systems that provide shared transport services to the public, including buses, trains, subways, and other forms of transit. It is essential for urban mobility and reducing traffic congestion.",
+    "examples": [
+      {
+        "sentence": "公共交通機関を利用することで、環境に優しい移動ができます。",
+        "translation": "By using public transportation, you can travel in an environmentally friendly way."
+      },
+      {
+        "sentence": "彼は毎日公共交通機関で通勤しています。",
+        "translation": "He commutes every day using public transportation."
+      },
+      {
+        "sentence": "公共交通機関は都市の発展にとって重要です。",
+        "translation": "Public transportation is important for the development of cities."
+      }
+    ]
+  }
+]

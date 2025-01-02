@@ -1,0 +1,522 @@
+[
+  {
+    "word": "正式な",
+    "type": "Adjective, Na-adj",
+    "pronunciation": "せいしきな",
+    "explanation": "正式な means 'formal' or 'official' and is used to describe something that is done according to the rules or customs, often in a serious or dignified manner.",
+    "examples": [
+      {
+        "sentence": "彼は正式な招待状を受け取った。",
+        "translation": "He received a formal invitation."
+      },
+      {
+        "sentence": "この文書は正式な書類です。",
+        "translation": "This document is an official paper."
+      },
+      {
+        "sentence": "正式な会議は来週開催されます。",
+        "translation": "The formal meeting will be held next week."
+      }
+    ]
+  },
+  {
+    "word": "筆",
+    "type": "Noun",
+    "pronunciation": "ふで",
+    "explanation": "筆 refers to a brush or writing instrument, commonly used in calligraphy or painting. It can also refer to a pen or pencil in a broader context.",
+    "examples": [
+      {
+        "sentence": "彼は筆を使って美しい絵を描いた。",
+        "translation": "He painted a beautiful picture using a brush."
+      },
+      {
+        "sentence": "この筆は非常に柔らかい。",
+        "translation": "This brush is very soft."
+      },
+      {
+        "sentence": "漢字を書くために、筆を用意した。",
+        "translation": "I prepared a brush to write kanji."
+      }
+    ]
+  },
+  {
+    "word": "一式",
+    "type": "Noun",
+    "pronunciation": "いっしき",
+    "explanation": "一式 refers to a set of items or a complete set of something. It is often used to indicate that something comes as a whole package or collection, such as a set of tools, documents, or equipment.",
+    "examples": [
+      {
+        "sentence": "この一式の道具があれば、簡単に作業ができます。",
+        "translation": "With this set of tools, you can easily perform the task."
+      },
+      {
+        "sentence": "彼は料理の一式を用意しました。",
+        "translation": "He prepared a complete set of dishes."
+      },
+      {
+        "sentence": "この一式は新しいプロジェクトに必要です。",
+        "translation": "This set is necessary for the new project."
+      }
+    ]
+  },
+  {
+    "word": "書式",
+    "type": "Noun",
+    "pronunciation": "しょしき",
+    "explanation": "書式 refers to a format or layout for writing documents, such as text, reports, or forms. It encompasses the structure and presentation of written materials.",
+    "examples": [
+      {
+        "sentence": "この書式に従ってレポートを提出してください。",
+        "translation": "Please submit the report following this format."
+      },
+      {
+        "sentence": "書式を整えることは、ビジネス文書にとって重要です。",
+        "translation": "Formatting is important for business documents."
+      },
+      {
+        "sentence": "彼は書式の変更を提案した。",
+        "translation": "He suggested a change in the format."
+      }
+    ]
+  },
+  {
+    "word": "日本列島",
+    "type": "Noun",
+    "pronunciation": "にほんれっとう",
+    "explanation": "日本列島 refers to the Japanese archipelago, which consists of several thousands of islands, the four largest being Honshu, Hokkaido, Kyushu, and Shikoku. It is known for its unique geography, culture, and biodiversity.",
+    "examples": [
+      {
+        "sentence": "日本列島は多くの地震が発生する地域です。",
+        "translation": "The Japanese archipelago is a region where many earthquakes occur."
+      },
+      {
+        "sentence": "日本列島は美しい自然景観が広がっています。",
+        "translation": "The Japanese archipelago has beautiful natural landscapes."
+      },
+      {
+        "sentence": "日本列島の文化は多様性に富んでいます。",
+        "translation": "The culture of the Japanese archipelago is rich in diversity."
+      }
+    ]
+  },
+  {
+    "word": "発生する",
+    "type": "Suru-verb",
+    "pronunciation": "はっせいする",
+    "explanation": "発生する refers to the occurrence or outbreak of something, such as an event, phenomenon, or condition. It is often used in contexts like natural disasters, diseases, or situations that arise unexpectedly.",
+    "examples": [
+      {
+        "sentence": "新しい問題が発生しました。",
+        "translation": "A new problem has occurred."
+      },
+      {
+        "sentence": "地震が発生する可能性があります。",
+        "translation": "There is a possibility of an earthquake occurring."
+      },
+      {
+        "sentence": "事故が発生したため、交通が混乱しています。",
+        "translation": "Traffic is disrupted due to an accident that has occurred."
+      }
+    ]
+  },
+  {
+    "word": "祝います",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "いわいます",
+    "explanation": "祝います is the polite form of the verb 祝う (いわう), which means 'to celebrate' or 'to congratulate'. It is used to express good wishes on special occasions such as birthdays, weddings, or achievements.",
+    "examples": [
+      {
+        "sentence": "友達の誕生日を祝います。",
+        "translation": "I will celebrate my friend's birthday."
+      },
+      {
+        "sentence": "彼の昇進を祝います。",
+        "translation": "I will congratulate him on his promotion."
+      },
+      {
+        "sentence": "新年を祝います。",
+        "translation": "We celebrate the New Year."
+      }
+    ]
+  },
+  {
+    "word": "祝い",
+    "type": "Noun",
+    "pronunciation": "いわい",
+    "explanation": "祝い refers to a celebration or congratulatory event, often associated with significant occasions such as birthdays, weddings, or festivals. It signifies joy and festivity.",
+    "examples": [
+      {
+        "sentence": "友達の結婚式で祝いをしました。",
+        "translation": "We celebrated at my friend's wedding."
+      },
+      {
+        "sentence": "新年の祝いを家族と一緒にしました。",
+        "translation": "We celebrated the New Year with family."
+      },
+      {
+        "sentence": "彼の昇進を祝いに集まった。",
+        "translation": "We gathered to celebrate his promotion."
+      }
+    ]
+  },
+  {
+    "word": "ご祝儀",
+    "type": "Noun",
+    "pronunciation": "ごしゅうぎ",
+    "explanation": "ご祝儀 refers to a monetary gift given to celebrate special occasions, such as weddings or other ceremonies. It is a customary practice in Japan to present cash in a decorative envelope for such events.",
+    "examples": [
+      {
+        "sentence": "友達の結婚式にご祝儀を持っていった。",
+        "translation": "I brought a monetary gift to my friend's wedding."
+      },
+      {
+        "sentence": "ご祝儀は通常、事前に用意しておくべきです。",
+        "translation": "Monetary gifts should usually be prepared in advance."
+      },
+      {
+        "sentence": "彼はご祝儀を包むための特別な封筒を選んだ。",
+        "translation": "He chose a special envelope to wrap the monetary gift."
+      }
+    ]
+  },
+  {
+    "word": "お年玉",
+    "type": "Noun",
+    "pronunciation": "おとしだま",
+    "explanation": "お年玉 refers to a monetary gift given to children during the New Year in Japan. It is a tradition where adults give money in special envelopes to children as a gesture of good luck for the coming year.",
+    "examples": [
+      {
+        "sentence": "子供たちはお年玉を楽しみにしている。",
+        "translation": "The children are looking forward to their New Year's money."
+      },
+      {
+        "sentence": "お年玉は、毎年家族からもらいます。",
+        "translation": "I receive New Year's money from my family every year."
+      },
+      {
+        "sentence": "彼はお年玉でゲームを買った。",
+        "translation": "He bought a game with his New Year's money."
+      }
+    ]
+  },
+  {
+    "word": "見守って",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "みまもって",
+    "explanation": "見守って is the te-form of the verb 見守る, which means 'to watch over' or 'to protect'. It implies observing someone or something closely to ensure their safety or well-being.",
+    "examples": [
+      {
+        "sentence": "親は子供を見守っている。",
+        "translation": "Parents are watching over their children."
+      },
+      {
+        "sentence": "私たちは彼の成功を見守ってきた。",
+        "translation": "We have been watching over his success."
+      },
+      {
+        "sentence": "彼女はペットを見守っている。",
+        "translation": "She is watching over her pet."
+      }
+    ]
+  },
+  {
+    "word": "願書",
+    "type": "Noun",
+    "pronunciation": "がんしょ",
+    "explanation": "願書 refers to an application form or written request, often used in the context of applications for schools, scholarships, or other formal requests where one expresses a desire or intention.",
+    "examples": [
+      {
+        "sentence": "大学に入学するために願書を提出しました。",
+        "translation": "I submitted my application form to enter the university."
+      },
+      {
+        "sentence": "彼は奨学金の願書を書いています。",
+        "translation": "He is writing his scholarship application."
+      },
+      {
+        "sentence": "願書の締切は来週です。",
+        "translation": "The deadline for the application form is next week."
+      }
+    ]
+  },
+  {
+    "word": "したがって",
+    "type": "Conjunction",
+    "pronunciation": "したがって",
+    "explanation": "したがって is a conjunction meaning 'therefore' or 'consequently'. It is used to indicate a result or conclusion that follows from previous statements or facts.",
+    "examples": [
+      {
+        "sentence": "彼は遅刻した。したがって、会議には間に合わなかった。",
+        "translation": "He was late. Therefore, he couldn't make it to the meeting."
+      },
+      {
+        "sentence": "天気が悪い。したがって、ピクニックは中止だ。",
+        "translation": "The weather is bad. Consequently, the picnic is canceled."
+      },
+      {
+        "sentence": "彼女は頑張った。したがって、成功した。",
+        "translation": "She worked hard. Therefore, she succeeded."
+      }
+    ]
+  },
+  {
+    "word": "発行",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "はっこう",
+    "explanation": "発行 refers to the act of issuing or publishing something, such as a document, certificate, or publication. It is commonly used in contexts related to official documents or printed materials.",
+    "examples": [
+      {
+        "sentence": "新しい免許証が発行されました。",
+        "translation": "A new driver's license has been issued."
+      },
+      {
+        "sentence": "この雑誌は毎月発行されています。",
+        "translation": "This magazine is published every month."
+      },
+      {
+        "sentence": "会社は新しい製品のカタログを発行する予定です。",
+        "translation": "The company plans to issue a new product catalog."
+      }
+    ]
+  },
+  {
+    "word": "資金",
+    "type": "Noun",
+    "pronunciation": "しきん",
+    "explanation": "資金 refers to funds or capital that are available for investment, expenditure, or financial use. It is often used in business and finance contexts to denote the money required for various operations or projects.",
+    "examples": [
+      {
+        "sentence": "新しいプロジェクトのために資金を集めています。",
+        "translation": "We are raising funds for a new project."
+      },
+      {
+        "sentence": "資金が不足しているため、計画を進められません。",
+        "translation": "We cannot proceed with the plan due to a lack of funds."
+      },
+      {
+        "sentence": "彼は資金の管理が得意だ。",
+        "translation": "He is good at managing funds."
+      }
+    ]
+  },
+  {
+    "word": "最も",
+    "type": "Adverb",
+    "pronunciation": "もっとも",
+    "explanation": "最も is an adverb that means 'the most' or 'extremely.' It is used to indicate the highest degree or extent of something.",
+    "examples": [
+      {
+        "sentence": "彼は最も優れた選手です。",
+        "translation": "He is the most outstanding player."
+      },
+      {
+        "sentence": "これが最も重要な問題です。",
+        "translation": "This is the most important issue."
+      },
+      {
+        "sentence": "彼女は最も美しい花を選びました。",
+        "translation": "She chose the most beautiful flower."
+      }
+    ]
+  },
+  {
+    "word": "騒ぐ",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "さわぐ",
+    "explanation": "騒ぐ means to make noise or to be noisy. It can refer to people or animals creating a commotion or uproar, often in a lively or tumultuous manner.",
+    "examples": [
+      {
+        "sentence": "子供たちが公園で騒いでいる。",
+        "translation": "The children are making noise in the park."
+      },
+      {
+        "sentence": "パーティーが始まると、みんなが騒いだ。",
+        "translation": "When the party started, everyone got noisy."
+      },
+      {
+        "sentence": "彼は騒がしい場所が苦手だ。",
+        "translation": "He is not good with noisy places."
+      }
+    ]
+  },
+  {
+    "word": "末永く",
+    "type": "Adverb",
+    "pronunciation": "すえながく",
+    "explanation": "末永く means 'for a long time' or 'forever', often used to express a wish for something to continue for a long duration or to last indefinitely.",
+    "examples": [
+      {
+        "sentence": "末永く幸せに暮らしてください。",
+        "translation": "Please live happily for a long time."
+      },
+      {
+        "sentence": "末永く友達でいよう。",
+        "translation": "Let's stay friends for a long time."
+      },
+      {
+        "sentence": "末永く健康でありますように。",
+        "translation": "I hope you remain healthy for a long time."
+      }
+    ]
+  },
+  {
+    "word": "永遠",
+    "type": "Noun",
+    "pronunciation": "えいえん",
+    "explanation": "永遠 means 'eternity' or 'forever' in Japanese, referring to an infinite or unending period of time. It often conveys a sense of timelessness or permanence in various contexts, such as love, existence, or nature.",
+    "examples": [
+      {
+        "sentence": "彼らの愛は永遠だと言われている。",
+        "translation": "Their love is said to be eternal."
+      },
+      {
+        "sentence": "永遠の命を求めることは人間の本能である。",
+        "translation": "The quest for eternal life is a human instinct."
+      },
+      {
+        "sentence": "この風景は永遠に心に残るだろう。",
+        "translation": "This scenery will remain in my heart forever."
+      }
+    ]
+  },
+  {
+    "word": "出願",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しゅつがん",
+    "explanation": "出願 refers to the act of applying for something, such as a job, school admission, or a patent. It involves submitting necessary documents and requests to be considered for acceptance or approval.",
+    "examples": [
+      {
+        "sentence": "彼は大学に出願しました。",
+        "translation": "He applied to the university."
+      },
+      {
+        "sentence": "出願の締切は来週です。",
+        "translation": "The application deadline is next week."
+      },
+      {
+        "sentence": "特許の出願には多くの書類が必要です。",
+        "translation": "Applying for a patent requires a lot of documents."
+      }
+    ]
+  },
+  {
+    "word": "願書",
+    "type": "Noun",
+    "pronunciation": "がんしょ",
+    "explanation": "願書 refers to an application form or written request, typically for admission to a school or for a job. It is used to formally express one's desire or intent to apply for something.",
+    "examples": [
+      {
+        "sentence": "彼は大学に入学するための願書を提出した。",
+        "translation": "He submitted his application form to enter the university."
+      },
+      {
+        "sentence": "願書の締め切りは来週です。",
+        "translation": "The deadline for the application form is next week."
+      },
+      {
+        "sentence": "願書には必要な書類を添付する必要があります。",
+        "translation": "You need to attach the required documents to the application form."
+      }
+    ]
+  },
+  {
+    "word": "永住",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "えいじゅう",
+    "explanation": "永住 refers to the act of permanently residing in a place, often associated with immigration or settling down in a new country. It implies a long-term commitment to living in that location.",
+    "examples": [
+      {
+        "sentence": "彼はアメリカに永住することを決めた。",
+        "translation": "He decided to permanently reside in America."
+      },
+      {
+        "sentence": "日本での永住権を取得するのは難しい。",
+        "translation": "Obtaining permanent residency in Japan is difficult."
+      },
+      {
+        "sentence": "永住のための手続きは複雑だ。",
+        "translation": "The procedures for permanent residency are complicated."
+      }
+    ]
+  },
+  {
+    "word": "誓う",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "ちかう",
+    "explanation": "誓う means 'to swear' or 'to pledge'. It is used when someone makes a solemn promise or commitment, often in a formal context.",
+    "examples": [
+      {
+        "sentence": "彼は忠誠を誓った。",
+        "translation": "He swore loyalty."
+      },
+      {
+        "sentence": "私たちは友情を誓います。",
+        "translation": "We pledge our friendship."
+      },
+      {
+        "sentence": "彼女は真実を誓った。",
+        "translation": "She swore the truth."
+      }
+    ]
+  },
+  {
+    "word": "取り寄せる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "とりよせる",
+    "explanation": "取り寄せる means to order or request something to be sent or delivered from a distance. It is often used in contexts where items are ordered from a store or supplier and sent to the requester.",
+    "examples": [
+      {
+        "sentence": "本を取り寄せて、家で読んでいます。",
+        "translation": "I ordered a book and am reading it at home."
+      },
+      {
+        "sentence": "彼は海外から商品を取り寄せることが好きです。",
+        "translation": "He likes to order products from overseas."
+      },
+      {
+        "sentence": "このサイトから取り寄せた食材で料理を作ります。",
+        "translation": "I will cook with the ingredients ordered from this site."
+      }
+    ]
+  },
+  {
+    "word": "叶う",
+    "type": "Verb, U-verb",
+    "pronunciation": "かなう",
+    "explanation": "叶う means to come true or to be realized, often used in the context of wishes or dreams. It indicates that something desired has been fulfilled or achieved.",
+    "examples": [
+      {
+        "sentence": "彼の願いが叶った。",
+        "translation": "His wish came true."
+      },
+      {
+        "sentence": "夢が叶うために努力しています。",
+        "translation": "I am working hard to make my dream come true."
+      },
+      {
+        "sentence": "幸せな生活が叶うといいですね。",
+        "translation": "I hope that a happy life will be realized."
+      }
+    ]
+  },
+  {
+    "word": "熱中症",
+    "type": "Noun",
+    "pronunciation": "ねっちゅうしょう",
+    "explanation": "熱中症 refers to heat stroke or heat exhaustion, a condition caused by prolonged exposure to high temperatures, often accompanied by dehydration and other symptoms. It is a serious health risk, especially during hot weather.",
+    "examples": [
+      {
+        "sentence": "夏の間、熱中症に注意することが重要です。",
+        "translation": "It is important to be cautious of heat stroke during the summer."
+      },
+      {
+        "sentence": "彼は熱中症で倒れてしまった。",
+        "translation": "He collapsed from heat stroke."
+      },
+      {
+        "sentence": "子供たちを暑い日に外で遊ばせるときは、熱中症に気をつけなければならない。",
+        "translation": "We must be careful of heat stroke when letting the children play outside on hot days."
+      }
+    ]
+  }
+]
