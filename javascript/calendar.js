@@ -13,10 +13,14 @@ async function loadCalendarData() {
             if (!monthsByYear["example"]) monthsByYear["example"] = new Set();
         } else {
             const [month, , year] = date.split('-');
-            if (!monthsByYear[`20${year}`]) monthsByYear[`20${year}`] = new Set();
-            monthsByYear[`20${year}`].add(month);
+            const fullYear = `20${year}`; // Ensure the full year is used
+            if (!monthsByYear[fullYear]) monthsByYear[fullYear] = new Set();
+            monthsByYear[fullYear].add(month);
         }
     });
+
+    // Populate the year dropdown with the available years
+    populateYearDropdown(Object.keys(monthsByYear));
 }
 
 async function initializeCalendar() {
@@ -48,11 +52,29 @@ function populateYearDropdown(years) {
             updateMonthOptions();
         }
     });
+
+    // Automatically select the first year and update the month options
+    yearSelect.value = years[0];
+    updateMonthOptions();
 }
 
 function updateMonthOptions() {
     const selectedYear = document.getElementById('yearSelect').value;
-    populateMonthDropdown(selectedYear);
+    const monthSelect = document.getElementById('monthSelect');
+    monthSelect.innerHTML = '';
+
+    if (monthsByYear[selectedYear]) {
+        monthsByYear[selectedYear].forEach(month => {
+            const option = document.createElement('option');
+            option.value = month;
+            option.textContent = new Date(0, month - 1).toLocaleString('default', { month: 'long' });
+            monthSelect.appendChild(option);
+        });
+
+        // Automatically select the first month and update the calendar
+        monthSelect.value = [...monthsByYear[selectedYear]][0];
+        displaySelectedMonth();
+    }
 }
 
 function populateMonthDropdown(year) {
@@ -67,14 +89,16 @@ function populateMonthDropdown(year) {
             monthSelect.appendChild(option);
         });
     }
+    
+    document.getElementById('monthSelect').addEventListener('change', displaySelectedMonth);
 }
 
 function displaySelectedMonth() {
-    const selectedYear = document.getElementById('yearSelect').value.slice(-2); // Get the last two digits for year
+    const selectedYear = document.getElementById('yearSelect').value; // Use the full year
     const selectedMonth = String(document.getElementById('monthSelect').value).padStart(2, '0'); // Ensure month is two digits
 
-    const daysInMonth = new Date(`20${selectedYear}`, selectedMonth, 0).getDate();
-    const firstDay = new Date(`20${selectedYear}-${selectedMonth}-01`).getDay();
+    const daysInMonth = new Date(selectedYear, selectedMonth, 0).getDate();
+    const firstDay = new Date(`${selectedYear}-${selectedMonth}-01`).getDay();
 
     const calendarContainer = document.getElementById('calendar');
     calendarContainer.innerHTML = ''; // Clear previous calendar entries
@@ -106,11 +130,11 @@ function displaySelectedMonth() {
                 dayButton.textContent = day;
 
                 // Check if this day has vocabulary data and is marked as "studied"
-                if (datesWithVocab.includes(`${selectedMonth}-${String(day).padStart(2, '0')}-${selectedYear}`)) {
+                if (datesWithVocab.includes(`${selectedMonth}-${String(day).padStart(2, '0')}-${selectedYear.slice(-2)}`)) {
                     dayButton.classList.add('studied');
                     
                     // Add an event listener to redirect with the selected date
-                    const formattedDate = `${selectedMonth}-${String(day).padStart(2, '0')}-${selectedYear}`;
+                    const formattedDate = `${selectedMonth}-${String(day).padStart(2, '0')}-${selectedYear.slice(-2)}`;
                     dayButton.addEventListener('click', () => {
                         window.location.href = `start.html?date=${formattedDate}`;
                     });
