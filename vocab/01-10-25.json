@@ -1,0 +1,422 @@
+[
+  {
+    "word": "口を出す",
+    "type": "Verb, U-verb",
+    "pronunciation": "くちをだす",
+    "explanation": "口を出す means to interfere or to butt in, often in a conversation or discussion. It implies that someone is inserting their opinion or comments into a matter that may not concern them directly.",
+    "examples": [
+      {
+        "sentence": "彼は会議でいつも口を出す。",
+        "translation": "He always butts in during meetings."
+      },
+      {
+        "sentence": "あなたの問題に口を出すつもりはない。",
+        "translation": "I have no intention of interfering in your problem."
+      },
+      {
+        "sentence": "友達の恋愛に口を出すのはやめて。",
+        "translation": "Stop interfering in your friend's love life."
+      }
+    ]
+  },
+  {
+    "word": "ある日",
+    "type": "Noun",
+    "pronunciation": "ああるひ",
+    "explanation": "ある日 means 'one day' in Japanese. It is often used to introduce a story or an event that happened at an unspecified time in the past.",
+    "examples": [
+      {
+        "sentence": "ある日、彼は森で不思議な生き物を見つけた。",
+        "translation": "One day, he found a mysterious creature in the forest."
+      },
+      {
+        "sentence": "ある日、友達から手紙が届いた。",
+        "translation": "One day, I received a letter from a friend."
+      },
+      {
+        "sentence": "彼女はある日、突然姿を消した。",
+        "translation": "One day, she suddenly disappeared."
+      }
+    ]
+  },
+  {
+    "word": "なぞなぞ",
+    "type": "Noun",
+    "pronunciation": "なぞなぞ",
+    "explanation": "なぞなぞ refers to a riddle or puzzle, often presented in a playful manner, where one must solve a question or understand a phrase that has a hidden meaning or wordplay. It is commonly used as a form of entertainment for children.",
+    "examples": [
+      {
+        "sentence": "子供たちは公園でなぞなぞを楽しんでいる。",
+        "translation": "The children are enjoying riddles in the park."
+      },
+      {
+        "sentence": "先生は授業の始まりに面白いなぞなぞを出した。",
+        "translation": "The teacher presented an interesting riddle at the beginning of the class."
+      },
+      {
+        "sentence": "友達と一緒になぞなぞを解くのが好きだ。",
+        "translation": "I like solving riddles together with my friends."
+      }
+    ]
+  },
+  {
+    "word": "手を止める",
+    "type": "Suru-verb",
+    "pronunciation": "てをとめる",
+    "explanation": "手を止める means to stop one's hands or to cease doing something, often used when someone is interrupted or takes a break from their current activity.",
+    "examples": [
+      {
+        "sentence": "彼は考えている間、手を止めた。",
+        "translation": "He stopped his hands while he was thinking."
+      },
+      {
+        "sentence": "忙しかったが、少し手を止めて休憩した。",
+        "translation": "I was busy, but I stopped for a moment to take a break."
+      },
+      {
+        "sentence": "指示が来るまで、手を止めて待っていてください。",
+        "translation": "Please stop your hands and wait until instructions arrive."
+      }
+    ]
+  },
+  {
+    "word": "場面",
+    "type": "Noun",
+    "pronunciation": "ばめん",
+    "explanation": "場面 refers to a scene or setting in a story, play, or film. It can also denote a situation or circumstance in which events unfold.",
+    "examples": [
+      {
+        "sentence": "この場面は映画のクライマックスです。",
+        "translation": "This scene is the climax of the movie."
+      },
+      {
+        "sentence": "彼はその場面を思い出すと、涙が出てしまった。",
+        "translation": "He couldn't help but cry when he remembered that scene."
+      },
+      {
+        "sentence": "この場面ではキャラクターの感情がよく表現されています。",
+        "translation": "In this scene, the character's emotions are well expressed."
+      }
+    ]
+  },
+  {
+    "word": "経由",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "けいゆ",
+    "explanation": "経由 refers to the act of passing through or via a certain route or means, often used in the context of transportation or communication. It indicates the intermediary path taken to reach a destination.",
+    "examples": [
+      {
+        "sentence": "東京経由で大阪に行きます。",
+        "translation": "I will go to Osaka via Tokyo."
+      },
+      {
+        "sentence": "この情報は友達を経由して知りました。",
+        "translation": "I learned this information through a friend."
+      },
+      {
+        "sentence": "彼はニューヨーク経由でヨーロッパに行く予定です。",
+        "translation": "He plans to go to Europe via New York."
+      }
+    ]
+  },
+  {
+    "word": "経由",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "けいゆ",
+    "explanation": "経由 refers to the act of passing through or via a certain route or location. It is commonly used in contexts related to transportation or communication, indicating a means of reaching a destination by way of another place.",
+    "examples": [
+      {
+        "sentence": "東京経由で大阪に行きます。",
+        "translation": "I will go to Osaka via Tokyo."
+      },
+      {
+        "sentence": "このメールはニューヨーク経由で送られました。",
+        "translation": "This email was sent via New York."
+      },
+      {
+        "sentence": "彼はロンドン経由でパリに行く予定です。",
+        "translation": "He plans to go to Paris via London."
+      }
+    ]
+  },
+  {
+    "word": "由緒ある",
+    "type": "I-adjective",
+    "pronunciation": "ゆいしょある",
+    "explanation": "由緒ある describes something that has a long history or tradition, often implying that it is prestigious or significant due to its historical background.",
+    "examples": [
+      {
+        "sentence": "この城は由緒ある場所です。",
+        "translation": "This castle is a place of historical significance."
+      },
+      {
+        "sentence": "由緒ある家系に生まれました。",
+        "translation": "I was born into a prestigious family."
+      },
+      {
+        "sentence": "彼の由緒ある業績は評価されています。",
+        "translation": "His historic achievements are highly regarded."
+      }
+    ]
+  },
+  {
+    "word": "訳する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "やくする",
+    "explanation": "訳する refers to the act of translating or interpreting something from one language to another. It involves understanding the source material and conveying its meaning in the target language.",
+    "examples": [
+      {
+        "sentence": "彼は英語の文章を日本語に訳しました。",
+        "translation": "He translated the English text into Japanese."
+      },
+      {
+        "sentence": "この本を訳するのは難しい。",
+        "translation": "Translating this book is difficult."
+      },
+      {
+        "sentence": "彼女は会議の内容を逐次訳する役割を担った。",
+        "translation": "She took on the role of translating the content of the meeting consecutively."
+      }
+    ]
+  },
+  {
+    "word": "申し訳",
+    "type": "Noun",
+    "pronunciation": "もうしわけ",
+    "explanation": "申し訳 refers to an apology or an expression of regret for a mistake or inconvenience caused. It is often used in formal contexts to convey sincerity in acknowledging an error or fault.",
+    "examples": [
+      {
+        "sentence": "申し訳ありませんが、遅れました。",
+        "translation": "I apologize for being late."
+      },
+      {
+        "sentence": "彼に申し訳を言うのが難しかった。",
+        "translation": "It was difficult to express my apologies to him."
+      },
+      {
+        "sentence": "この問題について申し訳を申し上げます。",
+        "translation": "I would like to express my apologies regarding this issue."
+      }
+    ]
+  },
+  {
+    "word": "言い訳",
+    "type": "Noun",
+    "pronunciation": "いいわけ",
+    "explanation": "言い訳 refers to an excuse or justification for a fault or offense. It is often used to explain or defend one's actions, especially when they are criticized or blamed.",
+    "examples": [
+      {
+        "sentence": "彼は遅刻した理由を言い訳にした。",
+        "translation": "He used an excuse for being late."
+      },
+      {
+        "sentence": "言い訳をする前に、自分の行動を反省してください。",
+        "translation": "Before making excuses, please reflect on your actions."
+      },
+      {
+        "sentence": "彼女の言い訳は信じられなかった。",
+        "translation": "I couldn't believe her excuse."
+      }
+    ]
+  },
+  {
+    "word": "正当化",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "せいとうか",
+    "explanation": "正当化 refers to the act of justifying or legitimizing something, often used in contexts where one needs to defend an action or belief as reasonable or valid.",
+    "examples": [
+      {
+        "sentence": "彼は自分の行動を正当化しようとした。",
+        "translation": "He tried to justify his actions."
+      },
+      {
+        "sentence": "正当化のプロセスは時に難しい。",
+        "translation": "The process of justification can be difficult at times."
+      },
+      {
+        "sentence": "社会的な圧力が彼の決定を正当化した。",
+        "translation": "Social pressure justified his decision."
+      }
+    ]
+  },
+  {
+    "word": "筋道",
+    "type": "Noun",
+    "pronunciation": "すじみち",
+    "explanation": "筋道 refers to a logical sequence or reasoning, often used to describe a clear line of thought or a structured approach to solving a problem or understanding a situation.",
+    "examples": [
+      {
+        "sentence": "物事には筋道を立てて考えることが大切です。",
+        "translation": "It is important to think logically about things."
+      },
+      {
+        "sentence": "彼の説明には筋道があった。",
+        "translation": "His explanation was logical."
+      },
+      {
+        "sentence": "筋道を立てて計画を立てましょう。",
+        "translation": "Let's make a plan with a clear structure."
+      }
+    ]
+  },
+  {
+    "word": "例外",
+    "type": "Noun",
+    "pronunciation": "れいがい",
+    "explanation": "例外 refers to an exception or an instance that does not follow the general rule or pattern. It is used to indicate cases that are excluded from a general statement or principle.",
+    "examples": [
+      {
+        "sentence": "このルールには例外があります。",
+        "translation": "There are exceptions to this rule."
+      },
+      {
+        "sentence": "彼は例外的な才能を持っています。",
+        "translation": "He has exceptional talent."
+      },
+      {
+        "sentence": "例外を認めることは重要です。",
+        "translation": "It is important to acknowledge exceptions."
+      }
+    ]
+  },
+  {
+    "word": "認める",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "みとめる",
+    "explanation": "認める means to recognize, acknowledge, or admit something. It is often used when confirming the existence or validity of something or someone.",
+    "examples": [
+      {
+        "sentence": "彼の努力を認めることが大切です。",
+        "translation": "It is important to acknowledge his efforts."
+      },
+      {
+        "sentence": "彼女は自分の間違いを認めた。",
+        "translation": "She admitted her mistake."
+      },
+      {
+        "sentence": "この研究は多くの専門家に認められています。",
+        "translation": "This research is recognized by many experts."
+      }
+    ]
+  },
+  {
+    "word": "貿易",
+    "type": "Noun",
+    "pronunciation": "ぼうえき",
+    "explanation": "貿易 refers to the exchange of goods and services between countries. It includes the import and export of products and is a crucial component of international economics.",
+    "examples": [
+      {
+        "sentence": "日本は多くの国と貿易を行っている。",
+        "translation": "Japan conducts trade with many countries."
+      },
+      {
+        "sentence": "彼は貿易の専門家です。",
+        "translation": "He is an expert in trade."
+      },
+      {
+        "sentence": "貿易が国の経済に与える影響は大きい。",
+        "translation": "The impact of trade on a country's economy is significant."
+      }
+    ]
+  },
+  {
+    "word": "いい加減",
+    "type": "Na-adj",
+    "pronunciation": "いいかげん",
+    "explanation": "いい加減 is an adjective that means 'irresponsible' or 'careless'. It can also imply a sense of being 'moderate' or 'just enough' in certain contexts, often used to describe a lack of seriousness or commitment.",
+    "examples": [
+      {
+        "sentence": "彼のいい加減な態度には呆れた。",
+        "translation": "I was shocked by his irresponsible attitude."
+      },
+      {
+        "sentence": "いい加減にしなさい！",
+        "translation": "Enough already, stop being so careless!"
+      },
+      {
+        "sentence": "いい加減な仕事ではいけません。",
+        "translation": "You cannot do shoddy work."
+      }
+    ]
+  },
+  {
+    "word": "なるべく",
+    "type": "Adverb",
+    "pronunciation": "なるべく",
+    "explanation": "なるべく means 'as much as possible' or 'if possible'. It is used to express a desire or intention to do something to the greatest extent feasible.",
+    "examples": [
+      {
+        "sentence": "なるべく早く来てください。",
+        "translation": "Please come as soon as possible."
+      },
+      {
+        "sentence": "なるべく多くの人に参加してほしい。",
+        "translation": "I hope as many people as possible can participate."
+      },
+      {
+        "sentence": "なるべく静かにしてください。",
+        "translation": "Please be as quiet as possible."
+      }
+    ]
+  },
+  {
+    "word": "〜ようとする",
+    "type": "Verb (U-verb)",
+    "pronunciation": "ようとする",
+    "explanation": "〜ようとする is a grammatical structure used to indicate an attempt or intention to do something. It combines the verb 'よう' (to be like, to be about to) with 'とする' (to try or to attempt), expressing the act of trying to do something.",
+    "examples": [
+      {
+        "sentence": "彼は日本語を話そうとしています。",
+        "translation": "He is trying to speak Japanese."
+      },
+      {
+        "sentence": "私は旅行に行こうとしています。",
+        "translation": "I am trying to go on a trip."
+      },
+      {
+        "sentence": "彼女は新しい仕事を見つけようと努力しています。",
+        "translation": "She is making an effort to find a new job."
+      }
+    ]
+  },
+  {
+    "word": "〜ようにする",
+    "type": "Phrase, Suru-verb",
+    "pronunciation": "ようにする",
+    "explanation": "〜ようにする is an expression used to indicate an effort or attempt to do something or to make something happen. It implies a conscious decision to change behavior or make an effort towards a goal.",
+    "examples": [
+      {
+        "sentence": "健康のために運動をするようにしています。",
+        "translation": "I am making an effort to exercise for my health."
+      },
+      {
+        "sentence": "毎日日本語を勉強するようにしています。",
+        "translation": "I try to study Japanese every day."
+      },
+      {
+        "sentence": "遅れないようにするつもりです。",
+        "translation": "I intend to make an effort not to be late."
+      }
+    ]
+  },
+  {
+    "word": "〜ようにしている",
+    "type": "Phrase, Suru-verb",
+    "pronunciation": "ようにしている",
+    "explanation": "〜ようにしている is a construction used to express the idea of trying to do something or making an effort to achieve a certain state or condition. It emphasizes the intention or habit of doing something regularly to reach a goal.",
+    "examples": [
+      {
+        "sentence": "健康のために、毎日運動をするようにしている。",
+        "translation": "I try to exercise every day for my health."
+      },
+      {
+        "sentence": "日本語を上達させるために、毎日勉強するようにしている。",
+        "translation": "I make an effort to study every day to improve my Japanese."
+      },
+      {
+        "sentence": "時間を無駄にしないようにしている。",
+        "translation": "I try to avoid wasting time."
+      }
+    ]
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "word": "お喋りな",
+    "type": "Adjective, na-adj",
+    "pronunciation": "おしゃべりな",
+    "explanation": "お喋りな describes someone who is talkative or chatty. It is often used to refer to people who enjoy conversing and sharing stories, sometimes excessively.",
+    "examples": [
+      {
+        "sentence": "彼はお喋りな性格で、いつも誰かと話しています。",
+        "translation": "He has a talkative personality and is always talking to someone."
+      },
+      {
+        "sentence": "お喋りな友達と一緒にいると楽しいです。",
+        "translation": "It's fun to be with a talkative friend."
+      },
+      {
+        "sentence": "彼女はお喋りなだけでなく、面白い話もたくさん持っています。",
+        "translation": "Not only is she talkative, but she also has many interesting stories."
+      }
+    ]
+  },
+  {
+    "word": "利用する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "りようする",
+    "explanation": "利用する means to make use of or to utilize something. It is often used in contexts where resources, services, or opportunities are being employed for a specific purpose.",
+    "examples": [
+      {
+        "sentence": "このアプリを利用することで、仕事が効率的に進む。",
+        "translation": "By utilizing this app, work can proceed efficiently."
+      },
+      {
+        "sentence": "彼は公共交通機関を利用して通勤している。",
+        "translation": "He uses public transportation to commute."
+      },
+      {
+        "sentence": "私たちはこの情報を利用して新しいプロジェクトを始めます。",
+        "translation": "We will use this information to start a new project."
+      }
+    ]
+  },
+  {
+    "word": "耳に入る",
+    "type": "Expression, intransitive verb",
+    "pronunciation": "みみにはいる",
+    "explanation": "耳に入る is an expression that means to hear about something or to have information reach one's ears. It often implies that the information is received passively without actively seeking it out.",
+    "examples": [
+      {
+        "sentence": "その噂は耳に入った。",
+        "translation": "I heard that rumor."
+      },
+      {
+        "sentence": "彼の計画が耳に入るのが楽しみだ。",
+        "translation": "I'm looking forward to hearing about his plan."
+      },
+      {
+        "sentence": "新しい情報が耳に入ったら教えてください。",
+        "translation": "Please let me know when you hear new information."
+      }
+    ]
+  },
+  {
+    "word": "会釈する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "えしゃくする",
+    "explanation": "会釈する refers to the act of bowing slightly as a form of greeting or acknowledgment in Japanese culture. It is a polite gesture typically used in formal or respectful situations.",
+    "examples": [
+      {
+        "sentence": "彼に会ったとき、私は会釈しました。",
+        "translation": "I bowed slightly when I met him."
+      },
+      {
+        "sentence": "彼女は通り過ぎる人々に会釈する。",
+        "translation": "She bows slightly to the people passing by."
+      },
+      {
+        "sentence": "礼儀正しく会釈することは大切です。",
+        "translation": "It is important to bow politely."
+      }
+    ]
+  },
+  {
+    "word": "お彼岸",
+    "type": "Noun",
+    "pronunciation": "おひがん",
+    "explanation": "お彼岸 refers to a Buddhist tradition in Japan, occurring in spring and autumn, when people pay respects to their ancestors and visit graves. It is a time for reflection and remembrance of loved ones who have passed away.",
+    "examples": [
+      {
+        "sentence": "お彼岸には家族でお墓参りをします。",
+        "translation": "We visit the graves as a family during the equinox."
+      },
+      {
+        "sentence": "彼はお彼岸に祖父母の墓を掃除した。",
+        "translation": "He cleaned his grandparents' grave during the equinox."
+      },
+      {
+        "sentence": "お彼岸には特別な食べ物を用意します。",
+        "translation": "We prepare special foods for the equinox."
+      }
+    ]
+  },
+  {
+    "word": "無人車",
+    "type": "Noun",
+    "pronunciation": "むじんしゃ",
+    "explanation": "無人車 refers to an unmanned vehicle, such as a self-driving car or a vehicle that operates without a human driver. It highlights advancements in technology and automation in transportation.",
+    "examples": [
+      {
+        "sentence": "無人車の技術が進化しています。",
+        "translation": "The technology of unmanned vehicles is evolving."
+      },
+      {
+        "sentence": "無人車は交通事故を減らすことが期待されています。",
+        "translation": "Unmanned vehicles are expected to reduce traffic accidents."
+      },
+      {
+        "sentence": "この無人車は完全に自動運転です。",
+        "translation": "This unmanned vehicle is fully autonomous."
+      }
+    ]
+  },
+  {
+    "word": "着陸",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ちゃくりく",
+    "explanation": "着陸 refers to the act of landing, particularly in the context of aircraft returning to the ground. It is a crucial phase in aviation, marking the conclusion of a flight and the safe arrival of the aircraft at its destination.",
+    "examples": [
+      {
+        "sentence": "飛行機は無事に着陸しました。",
+        "translation": "The airplane landed safely."
+      },
+      {
+        "sentence": "着陸の際は注意が必要です。",
+        "translation": "Caution is necessary during landing."
+      },
+      {
+        "sentence": "彼は着陸の技術を磨いています。",
+        "translation": "He is honing his landing skills."
+      }
+    ]
+  },
+  {
+    "word": "上陸",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "じょうりく",
+    "explanation": "上陸 refers to the act of landing or coming ashore, especially in the context of ships or aircraft arriving on land. It can also imply the arrival of something to a new place, such as troops or goods.",
+    "examples": [
+      {
+        "sentence": "船は無事に上陸しました。",
+        "translation": "The ship landed safely."
+      },
+      {
+        "sentence": "彼らの部隊は敵の領土に上陸した。",
+        "translation": "Their troops landed on enemy territory."
+      },
+      {
+        "sentence": "新しい製品が市場に上陸する。",
+        "translation": "The new product will land in the market."
+      }
+    ]
+  },
+  {
+    "word": "南極大陸",
+    "type": "Noun",
+    "pronunciation": "なんきょくだいりく",
+    "explanation": "南極大陸 refers to Antarctica, the southernmost continent on Earth, known for its vast ice sheets and extreme cold. It is primarily covered by ice and is largely uninhabited, serving as a significant area for scientific research and wildlife observation.",
+    "examples": [
+      {
+        "sentence": "南極大陸は地球上で最も寒い場所です。",
+        "translation": "Antarctica is the coldest place on Earth."
+      },
+      {
+        "sentence": "研究者たちは南極大陸で気候変動を調査しています。",
+        "translation": "Researchers are studying climate change in Antarctica."
+      },
+      {
+        "sentence": "南極大陸には多くのペンギンが生息しています。",
+        "translation": "Many penguins inhabit Antarctica."
+      }
+    ]
+  },
+  {
+    "word": "気品",
+    "type": "Noun",
+    "pronunciation": "きひん",
+    "explanation": "気品 refers to elegance or refinement in demeanor, appearance, or behavior. It denotes a quality of gracefulness and dignity that is often associated with nobility or high social status.",
+    "examples": [
+      {
+        "sentence": "彼女は気品のある振る舞いをしている。",
+        "translation": "She has an elegant demeanor."
+      },
+      {
+        "sentence": "気品は彼女の最大の魅力です。",
+        "translation": "Elegance is her greatest charm."
+      },
+      {
+        "sentence": "このドレスは気品を感じさせる。",
+        "translation": "This dress gives off an air of elegance."
+      }
+    ]
+  },
+  {
+    "word": "下水",
+    "type": "Noun",
+    "pronunciation": "げすい",
+    "explanation": "下水 refers to wastewater or sewage, which is used water that has been contaminated and is typically discarded through drainage systems. It is essential for sanitation and environmental management.",
+    "examples": [
+      {
+        "sentence": "下水処理施設は環境保護に重要です。",
+        "translation": "Wastewater treatment facilities are important for environmental protection."
+      },
+      {
+        "sentence": "下水が溢れたため、近くの道路が閉鎖された。",
+        "translation": "The road nearby was closed due to sewage overflow."
+      },
+      {
+        "sentence": "下水の流れを改善するために新しいパイプラインが設置された。",
+        "translation": "A new pipeline was installed to improve the flow of wastewater."
+      }
+    ]
+  },
+  {
+    "word": "お祈り",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "おいのり",
+    "explanation": "お祈り refers to the act of praying or offering prayers, typically in a religious context. It can involve requesting blessings, expressing gratitude, or seeking guidance from a higher power.",
+    "examples": [
+      {
+        "sentence": "毎朝、お祈りをしています。",
+        "translation": "I pray every morning."
+      },
+      {
+        "sentence": "彼は試験の前にお祈りをした。",
+        "translation": "He prayed before the exam."
+      },
+      {
+        "sentence": "お祈りを捧げることは大切です。",
+        "translation": "Offering prayers is important."
+      }
+    ]
+  },
+  {
+    "word": "勿体無い",
+    "type": "I-adjective",
+    "pronunciation": "もったいない",
+    "explanation": "勿体無い is used to express a sense of wastefulness or regret over something that is not being used to its full potential or is being squandered. It conveys feelings of valuing resources or opportunities.",
+    "examples": [
+      {
+        "sentence": "このお菓子を捨てるのは勿体無い。",
+        "translation": "It’s wasteful to throw away this dessert."
+      },
+      {
+        "sentence": "彼の才能を活かさないのは勿体無い。",
+        "translation": "It’s a waste not to utilize his talent."
+      },
+      {
+        "sentence": "もう少し使えるのに、捨てるのは勿体無い。",
+        "translation": "It’s wasteful to throw it away when it can still be used a little more."
+      }
+    ]
+  },
+  {
+    "word": "惜しむ",
+    "type": "U-verb, Transitive",
+    "pronunciation": "おしむ",
+    "explanation": "惜しむ means to be reluctant to part with, to regret or to be sorry about something, often indicating a feeling of loss or reluctance to let go.",
+    "examples": [
+      {
+        "sentence": "彼はお金を惜しんで、旅行に行かなかった。",
+        "translation": "He was reluctant to spend money and didn't go on the trip."
+      },
+      {
+        "sentence": "青春を惜しむような気持ちになった。",
+        "translation": "I felt a sense of regret for my youth."
+      },
+      {
+        "sentence": "彼女は友達との別れを惜しんで泣いた。",
+        "translation": "She cried, regretting the farewell with her friends."
+      }
+    ]
+  }
+]

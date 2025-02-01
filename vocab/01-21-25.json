@@ -1,0 +1,202 @@
+[
+  {
+    "word": "送迎",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "そうげい",
+    "explanation": "送迎 refers to the act of picking someone up and dropping them off, typically at a specific location such as an airport or a station. It involves transportation services that facilitate travel for individuals.",
+    "examples": [
+      {
+        "sentence": "空港までの送迎を頼みました。",
+        "translation": "I requested a pick-up service to the airport."
+      },
+      {
+        "sentence": "ホテルは駅からの送迎を提供しています。",
+        "translation": "The hotel offers a pick-up service from the station."
+      },
+      {
+        "sentence": "彼は友達の送迎をするために車を運転した。",
+        "translation": "He drove to pick up his friend."
+      }
+    ]
+  },
+  {
+    "word": "定年",
+    "type": "Noun",
+    "pronunciation": "ていねん",
+    "explanation": "定年 refers to the mandatory retirement age in a company or organization, typically when an employee is expected to retire from their job.",
+    "examples": [
+      {
+        "sentence": "彼は60歳で定年を迎えた。",
+        "translation": "He reached retirement age at 60."
+      },
+      {
+        "sentence": "定年退職後、彼は旅行に行く予定だ。",
+        "translation": "After retirement, he plans to travel."
+      },
+      {
+        "sentence": "多くの会社では定年が65歳に設定されている。",
+        "translation": "In many companies, the retirement age is set at 65."
+      }
+    ]
+  },
+  {
+    "word": "禾",
+    "type": "Noun",
+    "pronunciation": "のぎ",
+    "explanation": "禾 refers to a type of plant, specifically grains such as rice, wheat, or barley. It is often associated with agriculture and the cultivation of cereal crops.",
+    "examples": [
+      {
+        "sentence": "禾は主食の一部です。",
+        "translation": "Grains are a part of the staple food."
+      },
+      {
+        "sentence": "この地域では禾が多く栽培されています。",
+        "translation": "This region cultivates a lot of grains."
+      },
+      {
+        "sentence": "禾の成長には十分な水が必要です。",
+        "translation": "The growth of grains requires sufficient water."
+      }
+    ]
+  },
+  {
+    "word": "二泊三日",
+    "type": "Noun",
+    "pronunciation": "にはくみっか",
+    "explanation": "二泊三日 refers to a trip or stay that lasts for two nights and three days. It is commonly used in travel contexts to describe the duration of a stay at a hotel or during a vacation.",
+    "examples": [
+      {
+        "sentence": "この旅行は二泊三日です。",
+        "translation": "This trip is for two nights and three days."
+      },
+      {
+        "sentence": "彼らは二泊三日で温泉に行きました。",
+        "translation": "They went to a hot spring for two nights and three days."
+      },
+      {
+        "sentence": "二泊三日のプランを考えています。",
+        "translation": "I am considering a plan for two nights and three days."
+      }
+    ]
+  },
+  {
+    "word": "風邪を移される",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "かぜをうつされる",
+    "explanation": "風邪を移される means 'to catch a cold from someone' or 'to be infected with a cold.' It describes the action of receiving a cold virus from another person.",
+    "examples": [
+      {
+        "sentence": "彼から風邪を移されてしまった。",
+        "translation": "I caught a cold from him."
+      },
+      {
+        "sentence": "風邪を移されないように気をつけてください。",
+        "translation": "Please be careful not to catch a cold from others."
+      },
+      {
+        "sentence": "友達に風邪を移されて、今日は学校を休んだ。",
+        "translation": "I caught a cold from my friend and took a day off from school."
+      }
+    ]
+  },
+  {
+    "word": "移転する",
+    "type": "Suru-verb",
+    "pronunciation": "いてんする",
+    "explanation": "移転する refers to the act of relocating or moving from one place to another, typically in the context of businesses or residences. It involves the process of changing the location of something.",
+    "examples": [
+      {
+        "sentence": "会社は新しいオフィスに移転した。",
+        "translation": "The company relocated to a new office."
+      },
+      {
+        "sentence": "彼は来月、家を移転する予定です。",
+        "translation": "He plans to move his house next month."
+      },
+      {
+        "sentence": "移転する際には、さまざまな手続きが必要です。",
+        "translation": "When relocating, various procedures are required."
+      }
+    ]
+  },
+  {
+    "word": "まるで",
+    "type": "Adverb",
+    "pronunciation": "まるで",
+    "explanation": "まるで is an adverb used to express a simile or comparison, often implying that something is just like or resembles something else, usually in a dramatic or exaggerated way.",
+    "examples": [
+      {
+        "sentence": "彼はまるで映画の主人公のようだ。",
+        "translation": "He is just like the protagonist of a movie."
+      },
+      {
+        "sentence": "その景色はまるで夢のようだった。",
+        "translation": "The scenery was just like a dream."
+      },
+      {
+        "sentence": "彼女はまるで天使のように見える。",
+        "translation": "She looks just like an angel."
+      }
+    ]
+  },
+  {
+    "word": "全く同じ",
+    "type": "Na-adj",
+    "pronunciation": "まったくおなじ",
+    "explanation": "全く同じ means 'exactly the same' or 'completely identical.' It emphasizes a total lack of difference between two or more items or concepts.",
+    "examples": [
+      {
+        "sentence": "この二つの絵は全く同じです。",
+        "translation": "These two paintings are exactly the same."
+      },
+      {
+        "sentence": "彼の意見は私の意見と全く同じだ。",
+        "translation": "His opinion is exactly the same as mine."
+      },
+      {
+        "sentence": "全く同じ状況に直面しています。",
+        "translation": "We are facing exactly the same situation."
+      }
+    ]
+  },
+  {
+    "word": "客観的",
+    "type": "Adjective, na-adj",
+    "pronunciation": "きゃっかんてき",
+    "explanation": "客観的 refers to being objective or impartial, focusing on facts rather than personal feelings or opinions. It is often used in contexts where unbiased analysis or judgment is required.",
+    "examples": [
+      {
+        "sentence": "彼の意見は客観的で信頼できる。",
+        "translation": "His opinion is objective and reliable."
+      },
+      {
+        "sentence": "客観的なデータに基づいて判断するべきだ。",
+        "translation": "We should make judgments based on objective data."
+      },
+      {
+        "sentence": "この問題を客観的に見ることが重要です。",
+        "translation": "It is important to view this issue objectively."
+      }
+    ]
+  },
+  {
+    "word": "基づく",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "もとづく",
+    "explanation": "基づく means 'to be based on' or 'to derive from'. It is used to indicate that something is founded on a certain principle, fact, or idea.",
+    "examples": [
+      {
+        "sentence": "この理論は実験に基づいている。",
+        "translation": "This theory is based on experiments."
+      },
+      {
+        "sentence": "彼の意見は経験に基づいている。",
+        "translation": "His opinion is based on experience."
+      },
+      {
+        "sentence": "報告書は最新のデータに基づいて作成された。",
+        "translation": "The report was created based on the latest data."
+      }
+    ]
+  }
+]

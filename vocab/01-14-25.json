@@ -1,0 +1,182 @@
+[
+  {
+    "word": "発覚",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "はっかく",
+    "explanation": "発覚 refers to the discovery or revelation of something, often something that was hidden or unknown. It can indicate the uncovering of facts or truths, typically in a context related to wrongdoing or secrets.",
+    "examples": [
+      {
+        "sentence": "事件の発覚は翌日だった。",
+        "translation": "The discovery of the incident was the next day."
+      },
+      {
+        "sentence": "彼の不正が発覚した。",
+        "translation": "His misconduct was revealed."
+      },
+      {
+        "sentence": "発覚した問題に対処する必要がある。",
+        "translation": "It is necessary to address the issues that have come to light."
+      }
+    ]
+  },
+  {
+    "word": "自覚",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "じかく",
+    "explanation": "自覚 refers to self-awareness or consciousness, particularly in recognizing one's own thoughts, feelings, or responsibilities. It often implies a deeper understanding of oneself and one's role in various contexts.",
+    "examples": [
+      {
+        "sentence": "彼は自覚を持って行動するようになった。",
+        "translation": "He has started to act with self-awareness."
+      },
+      {
+        "sentence": "自覚が足りないと、問題を見逃すことがある。",
+        "translation": "Lack of self-awareness can lead to overlooking problems."
+      },
+      {
+        "sentence": "自覚を持つことが成長には重要だ。",
+        "translation": "Having self-awareness is important for growth."
+      }
+    ]
+  },
+  {
+    "word": "覚ます",
+    "type": "U-verb, Transitive",
+    "pronunciation": "さます",
+    "explanation": "覚ます means 'to awaken' or 'to rouse', referring to the act of bringing someone out of sleep or consciousness. It can also imply making someone aware of something.",
+    "examples": [
+      {
+        "sentence": "彼は毎朝6時に目を覚ます。",
+        "translation": "He wakes up at 6 o'clock every morning."
+      },
+      {
+        "sentence": "友達を覚まさないでください。",
+        "translation": "Please don't wake my friend."
+      },
+      {
+        "sentence": "彼女の話で目が覚ました。",
+        "translation": "Her story made me realize."
+      }
+    ]
+  },
+  {
+    "word": "覚める",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "さめる",
+    "explanation": "覚める means 'to awaken' or 'to come to one's senses'. It is used to describe the state of waking up from sleep or regaining consciousness after a state of confusion or distraction.",
+    "examples": [
+      {
+        "sentence": "朝、目が覚めるのが遅かった。",
+        "translation": "I woke up late in the morning."
+      },
+      {
+        "sentence": "夢から覚めるのに少し時間がかかった。",
+        "translation": "It took me some time to wake up from the dream."
+      },
+      {
+        "sentence": "彼は酔いが覚めるのを待っていた。",
+        "translation": "He was waiting for the effects of the alcohol to wear off."
+      }
+    ]
+  },
+  {
+    "word": "忘年会",
+    "type": "Noun",
+    "pronunciation": "ぼうねんかい",
+    "explanation": "忘年会 refers to a year-end party in Japan where colleagues and friends gather to celebrate the end of the year, often to forget the stresses of the past year and enjoy each other's company.",
+    "examples": [
+      {
+        "sentence": "会社の忘年会は毎年12月に開催されます。",
+        "translation": "The company's year-end party is held every December."
+      },
+      {
+        "sentence": "友達と忘年会を開く予定です。",
+        "translation": "I plan to hold a year-end party with my friends."
+      },
+      {
+        "sentence": "忘年会ではお酒を飲みすぎないように気をつけています。",
+        "translation": "I try to be careful not to drink too much at the year-end party."
+      }
+    ]
+  },
+  {
+    "word": "会合",
+    "type": "Noun",
+    "pronunciation": "かいごう",
+    "explanation": "会合 refers to a meeting or gathering of people, typically for a specific purpose such as discussion, collaboration, or socializing. It can involve formal or informal settings.",
+    "examples": [
+      {
+        "sentence": "明日の会合には全員参加してください。",
+        "translation": "Please make sure everyone attends the meeting tomorrow."
+      },
+      {
+        "sentence": "会合の後に夕食を共にしました。",
+        "translation": "We had dinner together after the meeting."
+      },
+      {
+        "sentence": "この会合では新しいプロジェクトについて話し合います。",
+        "translation": "We will discuss the new project at this meeting."
+      }
+    ]
+  },
+  {
+    "word": "棒読み",
+    "type": "Noun",
+    "pronunciation": "ぼうよみ",
+    "explanation": "棒読み refers to a flat, monotone way of reading or speaking, often lacking in emotion or expression. It is commonly used to describe a style of reading that is overly mechanical or artificial.",
+    "examples": [
+      {
+        "sentence": "彼の演技は棒読みで、感情が伝わってこなかった。",
+        "translation": "His performance was flat and lacked emotional expression."
+      },
+      {
+        "sentence": "教師は生徒に棒読みをやめるように指導した。",
+        "translation": "The teacher instructed the students to stop reading in a monotone."
+      },
+      {
+        "sentence": "アニメの声優が棒読みだと、キャラクターに感情が感じられない。",
+        "translation": "If the voice acting in an anime is flat, the characters lack emotional depth."
+      }
+    ]
+  },
+  {
+    "word": "要約",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ようやく",
+    "explanation": "要約 refers to the act of summarizing or condensing information into a shorter form, capturing the main points and essential details.",
+    "examples": [
+      {
+        "sentence": "彼はその本の要約を作成した。",
+        "translation": "He created a summary of the book."
+      },
+      {
+        "sentence": "要約を読むと、内容がすぐに理解できる。",
+        "translation": "Reading the summary allows for a quick understanding of the content."
+      },
+      {
+        "sentence": "このレポートの要約を教えてください。",
+        "translation": "Please tell me the summary of this report."
+      }
+    ]
+  },
+  {
+    "word": "要注意人物",
+    "type": "Noun",
+    "pronunciation": "ようちゅういじんぶつ",
+    "explanation": "要注意人物 refers to a person who is considered suspicious or requires caution, often used in contexts like security or law enforcement. It indicates individuals who may pose a risk or have a criminal background.",
+    "examples": [
+      {
+        "sentence": "このエリアには要注意人物が多い。",
+        "translation": "There are many suspicious individuals in this area."
+      },
+      {
+        "sentence": "警察は要注意人物のリストを作成した。",
+        "translation": "The police created a list of persons of interest."
+      },
+      {
+        "sentence": "要注意人物に遭遇した場合は、すぐに通報してください。",
+        "translation": "If you encounter a suspicious person, please report it immediately."
+      }
+    ]
+  }
+]

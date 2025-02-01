@@ -1,0 +1,502 @@
+[
+  {
+    "word": "〜のもとで",
+    "type": "Noun",
+    "pronunciation": "〜のもとで",
+    "explanation": "〜のもとで means 'under the influence of' or 'under the guidance of'. It is used to indicate that someone is acting under the authority, guidance, or influence of someone or something else.",
+    "examples": [
+      {
+        "sentence": "彼は師匠のもとで学びました。",
+        "translation": "He learned under his teacher."
+      },
+      {
+        "sentence": "子どもたちは親のもとで育てられました。",
+        "translation": "The children were raised under their parents' care."
+      },
+      {
+        "sentence": "この研究は専門家のもとで行われています。",
+        "translation": "This research is being conducted under the guidance of experts."
+      }
+    ]
+  },
+  {
+    "word": "とともに",
+    "type": "Phrase",
+    "pronunciation": "とともに",
+    "explanation": "とともに is a conjunction that means 'together with' or 'along with'. It is used to indicate that two actions or states occur simultaneously or in conjunction with one another.",
+    "examples": [
+      {
+        "sentence": "彼は家族とともに旅行に行った。",
+        "translation": "He went on a trip along with his family."
+      },
+      {
+        "sentence": "技術の進歩とともに、私たちの生活は変わってきた。",
+        "translation": "Our lives have changed along with the advancement of technology."
+      },
+      {
+        "sentence": "問題とともに解決策も考えなければならない。",
+        "translation": "We must consider solutions together with the problems."
+      }
+    ]
+  },
+  {
+    "word": "通じて",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "つうじて",
+    "explanation": "通じて means 'through' or 'by means of', indicating a method or medium through which something is communicated or understood. It can also imply a connection or relation over time or space.",
+    "examples": [
+      {
+        "sentence": "彼は言葉を通じて思いを伝えた。",
+        "translation": "He conveyed his feelings through words."
+      },
+      {
+        "sentence": "この経験を通じて多くのことを学んだ。",
+        "translation": "I learned a lot through this experience."
+      },
+      {
+        "sentence": "彼女は友人を通じて新しい情報を得た。",
+        "translation": "She obtained new information through a friend."
+      }
+    ]
+  },
+  {
+    "word": "〜うえに",
+    "type": "Conjunction",
+    "pronunciation": "うえに",
+    "explanation": "〜うえに is used to connect two clauses, indicating that the second clause adds additional information or is a consequence of the first clause. It can be translated as 'in addition to' or 'on top of that.'",
+    "examples": [
+      {
+        "sentence": "彼は勉強ができるうえに、スポーツも得意です。",
+        "translation": "He is good at studying, and on top of that, he is also good at sports."
+      },
+      {
+        "sentence": "この料理は美味しいうえに、健康にも良い。",
+        "translation": "This dish is delicious, and in addition, it is good for your health."
+      },
+      {
+        "sentence": "彼女は優しいうえに、頭も良い。",
+        "translation": "She is kind, and on top of that, she is smart."
+      }
+    ]
+  },
+  {
+    "word": "とたん",
+    "type": "Noun",
+    "pronunciation": "とたん",
+    "explanation": "とたん refers to the moment or instant something happens, often used to indicate a sudden change or occurrence. It is commonly used in expressions that describe events that happen immediately after another event.",
+    "examples": [
+      {
+        "sentence": "彼が入ってきたとたん、みんなが静かになった。",
+        "translation": "The moment he entered, everyone became quiet."
+      },
+      {
+        "sentence": "雨が降り出したとたん、彼は走り出した。",
+        "translation": "As soon as it started to rain, he ran off."
+      },
+      {
+        "sentence": "彼女が電話をかけたとたん、私は驚いた。",
+        "translation": "I was surprised the moment she made the call."
+      }
+    ]
+  },
+  {
+    "word": "〜あげく",
+    "type": "Noun",
+    "pronunciation": "あげく",
+    "explanation": "〜あげく is a Japanese expression that indicates the conclusion or result after a long process or series of events, often with a negative connotation. It suggests that after many efforts or troubles, something unfavorable has occurred.",
+    "examples": [
+      {
+        "sentence": "色々考えたあげく、彼はその仕事を辞めることにした。",
+        "translation": "After much consideration, he decided to quit that job."
+      },
+      {
+        "sentence": "議論のあげく、何も決まらなかった。",
+        "translation": "After a lengthy discussion, nothing was decided."
+      },
+      {
+        "sentence": "あげくの果てに、彼女は一人になってしまった。",
+        "translation": "In the end, after everything, she ended up alone."
+      }
+    ]
+  },
+  {
+    "word": "〜までもなく",
+    "type": "Phrase",
+    "pronunciation": "までもなく",
+    "explanation": "〜までもなく is an expression used to indicate that something is obvious or does not require further explanation. It translates to 'without needing to' or 'needless to say'.",
+    "examples": [
+      {
+        "sentence": "彼の才能は、彼の実績を見れば〜までもなく明らかだ。",
+        "translation": "His talent is evident, needless to say, when you look at his achievements."
+      },
+      {
+        "sentence": "この問題の解決には時間がかかることは〜までもなくわかっている。",
+        "translation": "It is obvious that solving this problem will take time."
+      },
+      {
+        "sentence": "彼女が来ることは、彼の話を聞けば〜までもなく分かる。",
+        "translation": "It is clear that she will come, without needing to say more after hearing his story."
+      }
+    ]
+  },
+  {
+    "word": "〜ことなく",
+    "type": "Adverb",
+    "pronunciation": "ことなく",
+    "explanation": "〜ことなく is an adverbial expression that means 'without doing' or 'without the act of', often used to indicate that an action is performed without a particular condition or act being fulfilled.",
+    "examples": [
+      {
+        "sentence": "彼は一度も休むことなく働き続けた。",
+        "translation": "He continued to work without taking a break even once."
+      },
+      {
+        "sentence": "彼女は何も言うことなくその場を去った。",
+        "translation": "She left the place without saying anything."
+      },
+      {
+        "sentence": "雨が降ることなく、ピクニックを楽しんだ。",
+        "translation": "We enjoyed the picnic without any rain falling."
+      }
+    ]
+  },
+  {
+    "word": "〜わりには",
+    "type": "Adverbial expression",
+    "pronunciation": "〜わりには",
+    "explanation": "〜わりには is an expression used to indicate that something is unexpected or contrary to what one would normally expect based on a certain standard or comparison. It can be translated as 'considering' or 'for' in English, often expressing a contrast between expectations and reality.",
+    "examples": [
+      {
+        "sentence": "彼は年齢わりにはとても若く見える。",
+        "translation": "He looks very young for his age."
+      },
+      {
+        "sentence": "この料理は値段わりにはおいしい。",
+        "translation": "This dish is surprisingly good for its price."
+      },
+      {
+        "sentence": "彼女は経験わりにはすごく上手に仕事をこなす。",
+        "translation": "She handles her work very well considering her level of experience."
+      }
+    ]
+  },
+  {
+    "word": "〜ことには",
+    "type": "Phrase",
+    "pronunciation": "ことには",
+    "explanation": "〜ことには is a grammatical expression used to indicate that a certain condition or situation must be acknowledged or taken into account. It often implies that there are consequences or necessary actions that follow from this acknowledgement.",
+    "examples": [
+      {
+        "sentence": "この問題を解決することには時間がかかります。",
+        "translation": "It will take time to resolve this issue."
+      },
+      {
+        "sentence": "成功することには多くの努力が必要です。",
+        "translation": "A lot of effort is necessary to achieve success."
+      },
+      {
+        "sentence": "それを理解することには、さらに学ぶ必要があります。",
+        "translation": "To understand that, further study is necessary."
+      }
+    ]
+  },
+  {
+    "word": "〜やら〜やら",
+    "type": "Phrase",
+    "pronunciation": "やらやら",
+    "explanation": "〜やら〜やら is a Japanese phrase used to express a list of items or examples, often implying a sense of uncertainty or a non-exhaustive list. It can be translated as 'things like...' or 'such as...'.",
+    "examples": [
+      {
+        "sentence": "本やら雑誌やらが散らかっている。",
+        "translation": "Books and magazines are scattered around."
+      },
+      {
+        "sentence": "彼は仕事やら勉強やらで忙しい。",
+        "translation": "He is busy with work and study, among other things."
+      },
+      {
+        "sentence": "旅行やら買い物やら、楽しいことがいっぱいだ。",
+        "translation": "There are many fun things like traveling and shopping."
+      }
+    ]
+  },
+  {
+    "word": "逆説",
+    "type": "Noun",
+    "pronunciation": "ぎゃくせつ",
+    "explanation": "逆説 refers to a paradox or a statement that contradicts itself yet may still be true. It often highlights a situation where the outcome is contrary to what one would expect.",
+    "examples": [
+      {
+        "sentence": "この理論は逆説的な結果をもたらした。",
+        "translation": "This theory produced paradoxical results."
+      },
+      {
+        "sentence": "彼の言葉は逆説的だが、深い意味がある。",
+        "translation": "His words are paradoxical, but they have a deep meaning."
+      },
+      {
+        "sentence": "逆説を理解することで、問題の本質が見えてくる。",
+        "translation": "By understanding the paradox, the essence of the problem becomes clear."
+      }
+    ]
+  },
+  {
+    "word": "残念ながら〜",
+    "type": "Phrase",
+    "pronunciation": "ざんねんながら",
+    "explanation": "残念ながら means 'unfortunately' or 'regrettably' and is used to express disappointment or an unfavorable situation. It is often followed by a statement that conveys bad news or an undesirable outcome.",
+    "examples": [
+      {
+        "sentence": "残念ながら、会議は中止になりました。",
+        "translation": "Unfortunately, the meeting has been canceled."
+      },
+      {
+        "sentence": "残念ながら、彼は来られません。",
+        "translation": "Unfortunately, he cannot come."
+      },
+      {
+        "sentence": "残念ながら、あなたの提案は受け入れられませんでした。",
+        "translation": "Regrettably, your proposal was not accepted."
+      }
+    ]
+  },
+  {
+    "word": "ものなら",
+    "type": "Expression",
+    "pronunciation": "ものなら",
+    "explanation": "ものなら is a conditional expression used to indicate that if something is possible or feasible, then a certain action or situation could occur. It often conveys a hypothetical scenario, suggesting that if the conditions were met, the speaker would take a specific action or that a certain situation would come to pass.",
+    "examples": [
+      {
+        "sentence": "行けるものなら、すぐにでも行きたい。",
+        "translation": "If I could go, I would want to go right away."
+      },
+      {
+        "sentence": "彼が来るものなら、歓迎します。",
+        "translation": "If he were to come, we would welcome him."
+      },
+      {
+        "sentence": "できるものなら、すべてを解決したい。",
+        "translation": "If it were possible, I would like to solve everything."
+      }
+    ]
+  },
+  {
+    "word": "〜といっても",
+    "type": "Phrase",
+    "pronunciation": "〜といっても",
+    "explanation": "〜といっても is a phrase used to express that despite a statement or assumption, the reality may be different or more nuanced. It often introduces a contrast or clarification to what has been said before.",
+    "examples": [
+      {
+        "sentence": "彼はいい人だといっても、時々厳しいことを言う。",
+        "translation": "Even though he is a good person, he sometimes says harsh things."
+      },
+      {
+        "sentence": "旅行に行くといっても、近くの温泉に行くだけだ。",
+        "translation": "Even though I say I'm going on a trip, I'm just going to a nearby hot spring."
+      },
+      {
+        "sentence": "日本の食べ物は美味しいといっても、全てが好きなわけではない。",
+        "translation": "Even though I say Japanese food is delicious, it doesn't mean I like everything."
+      }
+    ]
+  },
+  {
+    "word": "ペラペラ",
+    "type": "Adjective, I-adj",
+    "pronunciation": "ぺらぺら",
+    "explanation": "ペラペラ describes a state of being fluent or speaking smoothly, often used in the context of languages. It can also refer to something that is thin or flimsy.",
+    "examples": [
+      {
+        "sentence": "彼は英語がペラペラです。",
+        "translation": "He is fluent in English."
+      },
+      {
+        "sentence": "その紙はペラペラで破れやすい。",
+        "translation": "That paper is thin and easy to tear."
+      },
+      {
+        "sentence": "彼女はペラペラと話し続けた。",
+        "translation": "She continued to talk smoothly."
+      }
+    ]
+  },
+  {
+    "word": "〜ないことには〜ない",
+    "type": "Expression",
+    "pronunciation": "〜ないことには〜ない",
+    "explanation": "The expression 〜ないことには〜ない is used to indicate that without a certain condition being fulfilled, something cannot occur. It emphasizes the necessity of a prerequisite for an outcome.",
+    "examples": [
+      {
+        "sentence": "お金がないことには、旅行には行けない。",
+        "translation": "Without money, I can't go on a trip."
+      },
+      {
+        "sentence": "勉強しないことには、試験に合格できない。",
+        "translation": "Without studying, I cannot pass the exam."
+      },
+      {
+        "sentence": "準備が整わないことには、イベントを始められない。",
+        "translation": "Without everything being prepared, we cannot start the event."
+      }
+    ]
+  },
+  {
+    "word": "〜にしろ〜にしろ",
+    "type": "Expression",
+    "pronunciation": "〜にしろ〜にしろ",
+    "explanation": "〜にしろ〜にしろ is a Japanese expression used to indicate that regardless of the options or conditions presented, something will remain true or valid. It’s often used to express acceptance of various scenarios or to emphasize that the outcome does not change based on the choice made.",
+    "examples": [
+      {
+        "sentence": "雨にしろ雪にしろ、私たちは行かなければならない。",
+        "translation": "Whether it's rain or snow, we have to go."
+      },
+      {
+        "sentence": "彼にしろ彼女にしろ、どちらでも構わない。",
+        "translation": "It doesn't matter whether it's him or her."
+      },
+      {
+        "sentence": "高いにしろ安いにしろ、品質が大切だ。",
+        "translation": "Whether it's expensive or cheap, quality is important."
+      }
+    ]
+  },
+  {
+    "word": "〜にしろ〜にしろ",
+    "type": "Phrase",
+    "pronunciation": "〜にしろ〜にしろ",
+    "explanation": "〜にしろ〜にしろ is a Japanese phrase used to express that regardless of the condition or option, the outcome remains the same. It can be translated as 'whether... or...' and is often used to present alternatives or choices.",
+    "examples": [
+      {
+        "sentence": "彼にしろ彼女にしろ、誰でも参加できます。",
+        "translation": "Whether it's him or her, anyone can participate."
+      },
+      {
+        "sentence": "雨にしろ雪にしろ、私たちは行くつもりです。",
+        "translation": "Whether it's rain or snow, we intend to go."
+      },
+      {
+        "sentence": "日本にしろアメリカにしろ、旅行は楽しい。",
+        "translation": "Whether it's Japan or America, travel is fun."
+      }
+    ]
+  },
+  {
+    "word": "〜にしても〜にしても",
+    "type": "Phrase",
+    "pronunciation": "〜にしても〜にしても",
+    "explanation": "〜にしても〜にしても is a grammatical structure used to express that regardless of the situation or condition, the result or conclusion remains the same. It is often used to indicate that both sides of a comparison or situation are equally valid or that a particular point holds true in various contexts.",
+    "examples": [
+      {
+        "sentence": "彼にしても、彼女にしても、みんな同じことを考えている。",
+        "translation": "Whether it's him or her, everyone is thinking the same thing."
+      },
+      {
+        "sentence": "雨にしても、雪にしても、私は外に出るつもりです。",
+        "translation": "Whether it's rain or snow, I intend to go outside."
+      },
+      {
+        "sentence": "お金にしても、時間にしても、準備が必要です。",
+        "translation": "Whether it's money or time, preparation is necessary."
+      }
+    ]
+  },
+  {
+    "word": "〜につけ〜につけ",
+    "type": "Expression",
+    "pronunciation": "〜につけ〜につけ",
+    "explanation": "〜につけ〜につけ is a Japanese expression used to indicate that regardless of different situations or circumstances, the same outcome or action applies. It conveys a sense of consistency or universality in the context being discussed.",
+    "examples": [
+      {
+        "sentence": "成功につけ失敗につけ、彼は常に学び続けている。",
+        "translation": "Regardless of success or failure, he continues to learn."
+      },
+      {
+        "sentence": "食事につけ会話につけ、楽しむことが大切だ。",
+        "translation": "It is important to enjoy both meals and conversations."
+      },
+      {
+        "sentence": "努力につけ結果につけ、彼女は常に自分を向上させようとしている。",
+        "translation": "Whether in effort or results, she always tries to improve herself."
+      }
+    ]
+  },
+  {
+    "word": "〜を問わず",
+    "type": "Phrase",
+    "pronunciation": "をとわず",
+    "explanation": "〜を問わず is a phrase used to indicate that something applies regardless of the conditions or categories mentioned. It conveys the idea of inclusiveness or the absence of restrictions based on certain criteria.",
+    "examples": [
+      {
+        "sentence": "年齢を問わず、誰でも参加できます。",
+        "translation": "Anyone can participate, regardless of age."
+      },
+      {
+        "sentence": "性別を問わず、全員にチャンスがあります。",
+        "translation": "There is an opportunity for everyone, regardless of gender."
+      },
+      {
+        "sentence": "場所を問わず、私たちは助け合います。",
+        "translation": "We help each other, regardless of location."
+      }
+    ]
+  },
+  {
+    "word": "てすむ",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "てすむ",
+    "explanation": "てすむ means 'to be enough' or 'to suffice'. It indicates that something meets the necessary requirements or is sufficient for a particular purpose.",
+    "examples": [
+      {
+        "sentence": "このお金で足りてすむと思います。",
+        "translation": "I think this money will be enough."
+      },
+      {
+        "sentence": "彼の説明で十分にてすんだ。",
+        "translation": "His explanation was sufficient."
+      },
+      {
+        "sentence": "あなたの助けがあれば、すぐにてすむ。",
+        "translation": "If you help, it will be settled quickly."
+      }
+    ]
+  },
+  {
+    "word": "せざる",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "せざる",
+    "explanation": "せざる is a negative form of the verb する (to do) combined with the suffix ざる, which indicates a non-doing or non-action. It expresses the idea of not doing something or avoiding an action, often used in a more formal or literary context.",
+    "examples": [
+      {
+        "sentence": "彼は約束をせざるを得なかった。",
+        "translation": "He had no choice but to break the promise."
+      },
+      {
+        "sentence": "その問題について考えざるを得ない。",
+        "translation": "I have to think about that issue."
+      },
+      {
+        "sentence": "彼女はその提案を受け入れざるを得なかった。",
+        "translation": "She had no choice but to accept that proposal."
+      }
+    ]
+  },
+  {
+    "word": "インネル",
+    "type": "Noun",
+    "pronunciation": "いんねる",
+    "explanation": "インネル refers to the inner part or interior of an object, often used in contexts relating to clothing, machinery, or structures. It denotes the inner layer or section that is not immediately visible from the outside.",
+    "examples": [
+      {
+        "sentence": "このジャケットのインネルはとても柔らかい。",
+        "translation": "The inner lining of this jacket is very soft."
+      },
+      {
+        "sentence": "機械のインネルをチェックする必要があります。",
+        "translation": "We need to check the inner parts of the machine."
+      },
+      {
+        "sentence": "家のインネルをリフォームしました。",
+        "translation": "I renovated the interior of the house."
+      }
+    ]
+  }
+]
