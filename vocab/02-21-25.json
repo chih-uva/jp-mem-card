@@ -1,0 +1,362 @@
+[
+  {
+    "word": "輸入",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ゆにゅう",
+    "explanation": "輸入 refers to the act of importing goods or products from another country. It is a key aspect of international trade and involves bringing foreign items into one's own country for sale or consumption.",
+    "examples": [
+      {
+        "sentence": "私たちは新しい製品を輸入しています。",
+        "translation": "We are importing new products."
+      },
+      {
+        "sentence": "輸入品は国内市場に影響を与える。",
+        "translation": "Imported goods affect the domestic market."
+      },
+      {
+        "sentence": "この会社は多くの食品を輸入している。",
+        "translation": "This company imports many food items."
+      }
+    ]
+  },
+  {
+    "word": "商社",
+    "type": "Noun",
+    "pronunciation": "しょうしゃ",
+    "explanation": "商社 refers to a trading company or a general trading firm in Japan that engages in the import and export of goods, as well as various business activities, including investment and logistics.",
+    "examples": [
+      {
+        "sentence": "彼は大手商社で働いています。",
+        "translation": "He works at a major trading company."
+      },
+      {
+        "sentence": "商社は国際的なビジネスを展開しています。",
+        "translation": "The trading company is expanding its international business."
+      },
+      {
+        "sentence": "多くの商社が新しい市場を開拓しています。",
+        "translation": "Many trading companies are developing new markets."
+      }
+    ]
+  },
+  {
+    "word": "言うのは簡単だけど",
+    "type": "Phrase",
+    "pronunciation": "いうのはかんたんだけど",
+    "explanation": "This phrase translates to 'It's easy to say, but...' and is often used to introduce a statement that contrasts with a previous idea, suggesting that while something may sound simple, the reality may be more complex or difficult.",
+    "examples": [
+      {
+        "sentence": "言うのは簡単だけど、実行するのは難しい。",
+        "translation": "It's easy to say, but executing it is difficult."
+      },
+      {
+        "sentence": "言うのは簡単だけど、彼の気持ちを理解するのは大変だ。",
+        "translation": "It's easy to say, but understanding his feelings is quite challenging."
+      },
+      {
+        "sentence": "言うのは簡単だけど、計画を立てるのは時間がかかる。",
+        "translation": "It's easy to say, but making a plan takes time."
+      }
+    ]
+  },
+  {
+    "word": "単位落とす",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "たんいおとす",
+    "explanation": "単位落とす refers to the act of failing to earn a credit (unit) in an educational context, often due to not meeting the requirements of a course or assignment.",
+    "examples": [
+      {
+        "sentence": "彼は今学期、単位を落としてしまった。",
+        "translation": "He failed to earn credits this semester."
+      },
+      {
+        "sentence": "単位を落とさないように頑張らなければならない。",
+        "translation": "I have to work hard not to fail any credits."
+      },
+      {
+        "sentence": "授業を欠席すると、単位を落とす可能性がある。",
+        "translation": "If you miss class, you might fail to earn credits."
+      }
+    ]
+  },
+  {
+    "word": "無休",
+    "type": "Noun",
+    "pronunciation": "むきゅう",
+    "explanation": "無休 refers to the state of being open or operating without any days off or holidays. It indicates continuous service or operation without interruption.",
+    "examples": [
+      {
+        "sentence": "このレストランは無休で営業しています。",
+        "translation": "This restaurant operates without any days off."
+      },
+      {
+        "sentence": "彼は無休で働いているので、疲れています。",
+        "translation": "He is working without any breaks, so he is tired."
+      },
+      {
+        "sentence": "無休で開いている店を探しています。",
+        "translation": "I am looking for a store that is open without any holidays."
+      }
+    ]
+  },
+  {
+    "word": "無口",
+    "type": "Noun, I-adjective",
+    "pronunciation": "むくち",
+    "explanation": "無口 refers to a person who is quiet or taciturn, often not speaking much or being reserved in conversation. It describes a characteristic of someone who does not talk a lot or is not very expressive verbally.",
+    "examples": [
+      {
+        "sentence": "彼は無口な人で、あまり話さない。",
+        "translation": "He is a quiet person and doesn't talk much."
+      },
+      {
+        "sentence": "無口な彼女が心を開くのは難しい。",
+        "translation": "It is difficult for the quiet girl to open up."
+      },
+      {
+        "sentence": "無口なのに、彼の考えは深い。",
+        "translation": "Even though he is quiet, his thoughts are profound."
+      }
+    ]
+  },
+  {
+    "word": "繩文",
+    "type": "Noun",
+    "pronunciation": "じょうぶん",
+    "explanation": "繩文 refers to a type of ancient Japanese pottery characterized by cord-marked patterns. It is associated with the Jomon period and is significant in the study of Japan's prehistoric culture.",
+    "examples": [
+      {
+        "sentence": "繩文土器は日本の歴史において重要な役割を果たした。",
+        "translation": "Jomon pottery played an important role in Japanese history."
+      },
+      {
+        "sentence": "博物館で繩文の展示を見た。",
+        "translation": "I saw an exhibition of Jomon artifacts at the museum."
+      },
+      {
+        "sentence": "彼は繩文の研究をしている考古学者です。",
+        "translation": "He is an archaeologist researching Jomon culture."
+      }
+    ]
+  },
+  {
+    "word": "全く",
+    "type": "Adverb",
+    "pronunciation": "まったく",
+    "explanation": "全く is an adverb that means 'completely' or 'entirely'. It is often used to emphasize that something is true in its entirety or to express a strong feeling, often in a negative context.",
+    "examples": [
+      {
+        "sentence": "彼は全く勉強しなかった。",
+        "translation": "He didn't study at all."
+      },
+      {
+        "sentence": "この問題は全く解決していない。",
+        "translation": "This problem is not resolved at all."
+      },
+      {
+        "sentence": "全く面白くない映画だった。",
+        "translation": "It was a completely uninteresting movie."
+      }
+    ]
+  },
+  {
+    "word": "億万長者",
+    "type": "Noun",
+    "pronunciation": "おくまんちょうじゃ",
+    "explanation": "億万長者 refers to a billionaire or a person who possesses wealth amounting to billions. The term combines '億' (oku), meaning 'hundred million', and '万長者' (manchouja), meaning 'wealthy person'.",
+    "examples": [
+      {
+        "sentence": "彼は億万長者になりたいと言っている。",
+        "translation": "He says he wants to become a billionaire."
+      },
+      {
+        "sentence": "億万長者の生活は一般人とは大きく異なる。",
+        "translation": "The lifestyle of a billionaire is vastly different from that of an ordinary person."
+      },
+      {
+        "sentence": "この億万長者は慈善活動に力を入れている。",
+        "translation": "This billionaire is committed to charitable activities."
+      }
+    ]
+  },
+  {
+    "word": "1兆円",
+    "type": "Noun",
+    "pronunciation": "いっちょうえん",
+    "explanation": "1兆円 refers to one trillion yen, a unit of currency in Japan. It is commonly used in financial contexts to denote large sums of money, especially in government budgets or economic discussions.",
+    "examples": [
+      {
+        "sentence": "日本の国の借金は1兆円を超えた。",
+        "translation": "The national debt of Japan has exceeded one trillion yen."
+      },
+      {
+        "sentence": "このプロジェクトには1兆円の予算が必要です。",
+        "translation": "This project requires a budget of one trillion yen."
+      },
+      {
+        "sentence": "1兆円の投資があれば、経済は大きく成長するだろう。",
+        "translation": "With an investment of one trillion yen, the economy is expected to grow significantly."
+      }
+    ]
+  },
+  {
+    "word": "含む",
+    "type": "U-verb, Transitive",
+    "pronunciation": "ふくむ",
+    "explanation": "含む means 'to include' or 'to contain'. It refers to the act of having something as part of a whole, or to encompass something within something else.",
+    "examples": [
+      {
+        "sentence": "この箱にはおもちゃが含まれています。",
+        "translation": "This box contains toys."
+      },
+      {
+        "sentence": "彼の意見には多くの重要なポイントが含まれている。",
+        "translation": "His opinion includes many important points."
+      },
+      {
+        "sentence": "この料理はスパイスを含む。",
+        "translation": "This dish contains spices."
+      }
+    ]
+  },
+  {
+    "word": "一兆円",
+    "type": "Noun",
+    "pronunciation": "いっちょうえん",
+    "explanation": "一兆円 refers to one trillion yen, a unit of currency in Japan. It is used to denote a very large amount of money, often in financial contexts or discussions about national budgets and economic statistics.",
+    "examples": [
+      {
+        "sentence": "日本の国家予算は一兆円を超えた。",
+        "translation": "Japan's national budget has exceeded one trillion yen."
+      },
+      {
+        "sentence": "彼が会社に投資した金額は一兆円だ。",
+        "translation": "The amount he invested in the company is one trillion yen."
+      },
+      {
+        "sentence": "一兆円の借金を抱えている国もある。",
+        "translation": "There are countries that carry a debt of one trillion yen."
+      }
+    ]
+  },
+  {
+    "word": "〜上で",
+    "type": "Expression",
+    "pronunciation": "うえで",
+    "explanation": "〜上で is a Japanese expression used to indicate that something is done after a certain condition is met or based on the context provided by the preceding clause. It is often used to show that an action is taken in consideration of something else.",
+    "examples": [
+      {
+        "sentence": "この問題を解決する上で、皆の意見が大切です。",
+        "translation": "In solving this problem, everyone's opinion is important."
+      },
+      {
+        "sentence": "健康を維持する上で、運動は欠かせません。",
+        "translation": "Exercise is essential for maintaining health."
+      },
+      {
+        "sentence": "この資料を読んだ上で、次のステップを決めましょう。",
+        "translation": "Let's decide the next steps after reading this material."
+      }
+    ]
+  },
+  {
+    "word": "予め",
+    "type": "Adverb",
+    "pronunciation": "あらかじめ",
+    "explanation": "予め means 'in advance' or 'beforehand', indicating that something is done prior to the main action or event.",
+    "examples": [
+      {
+        "sentence": "予め計画を立てておくことが重要です。",
+        "translation": "It is important to make plans in advance."
+      },
+      {
+        "sentence": "予め彼に知らせておいた。",
+        "translation": "I informed him beforehand."
+      },
+      {
+        "sentence": "この作業は予め準備が必要です。",
+        "translation": "This task requires preparation in advance."
+      }
+    ]
+  },
+  {
+    "word": "買い求め",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かいもとめ",
+    "explanation": "買い求め refers to the act of purchasing or acquiring something, often implying a search for a specific item. It is commonly used in contexts where one actively seeks out and buys goods or services.",
+    "examples": [
+      {
+        "sentence": "新しい車の買い求めを検討しています。",
+        "translation": "I am considering the purchase of a new car."
+      },
+      {
+        "sentence": "彼は本の買い求めに店を回った。",
+        "translation": "He went around the stores for the purchase of books."
+      },
+      {
+        "sentence": "オンラインでの買い求めが増えています。",
+        "translation": "The purchase of goods online is increasing."
+      }
+    ]
+  },
+  {
+    "word": "都合",
+    "type": "Noun",
+    "pronunciation": "つごう",
+    "explanation": "都合 refers to circumstances, convenience, or arrangements regarding time or situation. It is often used to discuss availability or suitability in various contexts.",
+    "examples": [
+      {
+        "sentence": "明日の都合はいかがですか？",
+        "translation": "How is your availability for tomorrow?"
+      },
+      {
+        "sentence": "彼の都合で会議は延期になった。",
+        "translation": "The meeting was postponed due to his circumstances."
+      },
+      {
+        "sentence": "都合が悪い時は遠慮なく言ってください。",
+        "translation": "Please feel free to let me know if it's inconvenient for you."
+      }
+    ]
+  },
+  {
+    "word": "兎小屋",
+    "type": "Noun",
+    "pronunciation": "うさぎごや",
+    "explanation": "兎小屋 refers to a rabbit hutch or a small shelter designed for keeping rabbits. It provides a safe and comfortable environment for the animals.",
+    "examples": [
+      {
+        "sentence": "庭に兎小屋を作りました。",
+        "translation": "I built a rabbit hutch in the garden."
+      },
+      {
+        "sentence": "兎小屋は雨から兎を守るために必要です。",
+        "translation": "A rabbit hutch is necessary to protect rabbits from the rain."
+      },
+      {
+        "sentence": "彼は兎小屋の掃除を手伝っています。",
+        "translation": "He helps clean the rabbit hutch."
+      }
+    ]
+  },
+  {
+    "word": "同ボエ",
+    "type": "Noun",
+    "pronunciation": "どうぼえ",
+    "explanation": "同ボエ refers to a common voice or the same voice, often used to describe harmony in singing or agreement in opinions.",
+    "examples": [
+      {
+        "sentence": "彼らの同ボエはとても美しい。",
+        "translation": "Their harmony is very beautiful."
+      },
+      {
+        "sentence": "会議では、同ボエが重要です。",
+        "translation": "A common voice is important in the meeting."
+      },
+      {
+        "sentence": "この曲をみんなで同ボエで歌おう。",
+        "translation": "Let's sing this song in harmony together."
+      }
+    ]
+  }
+]

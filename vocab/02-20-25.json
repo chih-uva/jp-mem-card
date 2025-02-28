@@ -1,0 +1,542 @@
+[
+  {
+    "word": "機械",
+    "type": "Noun",
+    "pronunciation": "きかい",
+    "explanation": "機械 refers to a machine or machinery, typically used in various contexts such as manufacturing, technology, and everyday devices. It signifies any mechanical device that performs a specific function or task.",
+    "examples": [
+      {
+        "sentence": "この機械は非常に効率的です。",
+        "translation": "This machine is very efficient."
+      },
+      {
+        "sentence": "工場には多くの機械があります。",
+        "translation": "There are many machines in the factory."
+      },
+      {
+        "sentence": "機械の使い方を教えてください。",
+        "translation": "Please teach me how to use the machine."
+      }
+    ]
+  },
+  {
+    "word": "おる音",
+    "type": "Noun",
+    "pronunciation": "おるおと",
+    "explanation": "おる音 refers to the sound or noise produced by 'oru', which can imply a presence or existence, often used in dialects or specific contexts in Japanese. It may not have a standard meaning in everyday language and could be context-dependent.",
+    "examples": [
+      {
+        "sentence": "彼はおる音を聞いたが、誰もいなかった。",
+        "translation": "He heard a sound but there was no one there."
+      },
+      {
+        "sentence": "おる音が気になって、振り返った。",
+        "translation": "The sound made me turn around."
+      },
+      {
+        "sentence": "そのおる音は、子供たちの遊び声だった。",
+        "translation": "The sound was the children's voices playing."
+      }
+    ]
+  },
+  {
+    "word": "ハウリング",
+    "type": "Noun",
+    "pronunciation": "はうりんぐ",
+    "explanation": "ハウリング refers to the sound phenomenon that occurs when a microphone picks up sound from a speaker, creating a feedback loop. It often results in a loud, high-pitched screeching sound and is commonly encountered in audio setups.",
+    "examples": [
+      {
+        "sentence": "コンサート中にハウリングが発生した。",
+        "translation": "A howling sound occurred during the concert."
+      },
+      {
+        "sentence": "マイクの設定を調整してハウリングを防いだ。",
+        "translation": "I adjusted the microphone settings to prevent howling."
+      },
+      {
+        "sentence": "ハウリングを避けるためには、スピーカーとマイクの距離を保つ必要がある。",
+        "translation": "To avoid howling, it's necessary to keep distance between the speaker and the microphone."
+      }
+    ]
+  },
+  {
+    "word": "危うい",
+    "type": "I-adjective",
+    "pronunciation": "あやうい",
+    "explanation": "危うい describes a state of being dangerous, risky, or precarious. It conveys the idea that something is close to a critical or harmful situation.",
+    "examples": [
+      {
+        "sentence": "その橋は危うい状態で、通行は避けたほうがいい。",
+        "translation": "That bridge is in a dangerous condition, so it's better to avoid crossing it."
+      },
+      {
+        "sentence": "彼は危うい状況に陥ってしまった。",
+        "translation": "He has fallen into a precarious situation."
+      },
+      {
+        "sentence": "危うい瞬間に、彼女は素早く対処した。",
+        "translation": "In a risky moment, she acted quickly."
+      }
+    ]
+  },
+  {
+    "word": "機をおる",
+    "type": "U-verb",
+    "pronunciation": "きをおる",
+    "explanation": "機をおる means to weave a machine or to create something intricate and complex, often referring to weaving or fabric creation. The term emphasizes the process of making something with care and precision.",
+    "examples": [
+      {
+        "sentence": "彼女は美しい布を機をおっている。",
+        "translation": "She is weaving beautiful fabric."
+      },
+      {
+        "sentence": "この伝統的な技術で機をおることができる。",
+        "translation": "You can weave using this traditional technique."
+      },
+      {
+        "sentence": "機をおるのは時間がかかる作業だ。",
+        "translation": "Weaving is a time-consuming task."
+      }
+    ]
+  },
+  {
+    "word": "機を織る",
+    "type": "U-verb",
+    "pronunciation": "はたをおる",
+    "explanation": "機を織る refers to the act of weaving cloth using a loom. It is a traditional craft that involves interlacing threads to create fabric.",
+    "examples": [
+      {
+        "sentence": "彼女は毎日機を織る仕事をしています。",
+        "translation": "She works on weaving cloth every day."
+      },
+      {
+        "sentence": "この工房では、手作りの布を機を織ることができます。",
+        "translation": "In this workshop, you can weave handmade fabric."
+      },
+      {
+        "sentence": "古代の技術で機を織ることが重要でした。",
+        "translation": "Weaving with ancient techniques was important."
+      }
+    ]
+  },
+  {
+    "word": "険しい",
+    "type": "I-adjective",
+    "pronunciation": "けわしい",
+    "explanation": "険しい describes something that is steep, rugged, or severe. It is often used to refer to mountains, paths, or situations that are difficult or dangerous.",
+    "examples": [
+      {
+        "sentence": "この山は非常に険しいです。",
+        "translation": "This mountain is very steep."
+      },
+      {
+        "sentence": "険しい道を登るのは大変だった。",
+        "translation": "Climbing the steep path was tough."
+      },
+      {
+        "sentence": "彼の険しい表情が心配を引き起こした。",
+        "translation": "His severe expression caused concern."
+      }
+    ]
+  },
+  {
+    "word": "ある物が本来備えている働き",
+    "type": "Noun",
+    "pronunciation": "あるものがほんらいそなえているはたらき",
+    "explanation": "This phrase refers to the intrinsic function or role that an object inherently possesses. It emphasizes the natural abilities or purposes that items are designed to fulfill.",
+    "examples": [
+      {
+        "sentence": "この道具は本来備えている働きがある。",
+        "translation": "This tool has an inherent function."
+      },
+      {
+        "sentence": "それぞれの動物には、本来備えている働きがある。",
+        "translation": "Each animal has an intrinsic role."
+      },
+      {
+        "sentence": "物の本来備えている働きを理解することが重要です。",
+        "translation": "It is important to understand the inherent functions of objects."
+      }
+    ]
+  },
+  {
+    "word": "文語的",
+    "type": "I-adj",
+    "pronunciation": "ぶんごてき",
+    "explanation": "文語的 refers to a style that is literary or formal, often associated with classical or written forms of the Japanese language rather than spoken language. It is used to describe language or expressions that are more refined or archaic.",
+    "examples": [
+      {
+        "sentence": "彼の文章は文語的で難解だ。",
+        "translation": "His writing is literary and difficult to understand."
+      },
+      {
+        "sentence": "文語的な表現を使うことが求められる。",
+        "translation": "It is required to use literary expressions."
+      },
+      {
+        "sentence": "この詩は文語的なスタイルで書かれている。",
+        "translation": "This poem is written in a literary style."
+      }
+    ]
+  },
+  {
+    "word": "口語的",
+    "type": "Na-adj",
+    "pronunciation": "こうごてき",
+    "explanation": "口語的 refers to something that is colloquial or conversational in nature, often used in everyday speech rather than formal writing. It describes language or expressions that are commonly used in casual conversation.",
+    "examples": [
+      {
+        "sentence": "彼の口語的な表現はとても分かりやすい。",
+        "translation": "His colloquial expressions are very easy to understand."
+      },
+      {
+        "sentence": "この文章は口語的なスタイルで書かれている。",
+        "translation": "This text is written in a colloquial style."
+      },
+      {
+        "sentence": "口語的な言い回しを使うと、相手に親しみやすくなる。",
+        "translation": "Using colloquial phrases makes it easier to relate to the other person."
+      }
+    ]
+  },
+  {
+    "word": "修道の技",
+    "type": "Noun",
+    "pronunciation": "しゅうどうのぎ",
+    "explanation": "修道の技 refers to the techniques or skills related to a discipline or practice, particularly in the context of training or spiritual practice. It emphasizes the mastery of skills through dedicated training and study.",
+    "examples": [
+      {
+        "sentence": "彼は修道の技を磨くために毎日練習している。",
+        "translation": "He practices every day to refine his skills in the discipline."
+      },
+      {
+        "sentence": "修道の技は、自己成長に不可欠である。",
+        "translation": "The techniques of the discipline are essential for personal growth."
+      },
+      {
+        "sentence": "この書籍は修道の技について詳しく説明している。",
+        "translation": "This book provides a detailed explanation of the techniques related to the discipline."
+      }
+    ]
+  },
+  {
+    "word": "手術",
+    "type": "Noun",
+    "pronunciation": "しゅじゅつ",
+    "explanation": "手術 refers to a surgical operation or procedure performed by a medical professional to treat a condition, injury, or disease. It involves invasive techniques to manipulate tissues and organs.",
+    "examples": [
+      {
+        "sentence": "彼は心臓の手術を受けた。",
+        "translation": "He underwent heart surgery."
+      },
+      {
+        "sentence": "手術は成功しました。",
+        "translation": "The surgery was successful."
+      },
+      {
+        "sentence": "手術の前に検査を受ける必要があります。",
+        "translation": "You need to undergo tests before the surgery."
+      }
+    ]
+  },
+  {
+    "word": "倒産",
+    "type": "Noun",
+    "pronunciation": "とうさん",
+    "explanation": "倒産 refers to bankruptcy or insolvency, a situation in which a company or individual is unable to pay their debts and is legally declared unable to continue operations.",
+    "examples": [
+      {
+        "sentence": "多くの企業が倒産の危機に直面している。",
+        "translation": "Many companies are facing the risk of bankruptcy."
+      },
+      {
+        "sentence": "倒産した会社の従業員は新しい仕事を探さなければならない。",
+        "translation": "Employees of the bankrupt company must look for new jobs."
+      },
+      {
+        "sentence": "この法律は倒産手続きに関するものである。",
+        "translation": "This law is related to bankruptcy procedures."
+      }
+    ]
+  },
+  {
+    "word": "貿易",
+    "type": "Noun",
+    "pronunciation": "ぼうえき",
+    "explanation": "貿易 refers to the exchange of goods and services between countries. It encompasses the import and export activities that facilitate international trade.",
+    "examples": [
+      {
+        "sentence": "日本はアメリカと貿易を行っています。",
+        "translation": "Japan conducts trade with the United States."
+      },
+      {
+        "sentence": "貿易の増加は経済成長に寄与します。",
+        "translation": "Increased trade contributes to economic growth."
+      },
+      {
+        "sentence": "彼は貿易に関する仕事をしています。",
+        "translation": "He works in a field related to trade."
+      }
+    ]
+  },
+  {
+    "word": "商う",
+    "type": "U-verb, Transitive",
+    "pronunciation": "あきなう",
+    "explanation": "商う means to deal in or to trade, typically referring to the act of engaging in commerce or selling goods. It is often used in the context of running a business or engaging in trade activities.",
+    "examples": [
+      {
+        "sentence": "彼は地元の市場で野菜を商っています。",
+        "translation": "He trades vegetables at the local market."
+      },
+      {
+        "sentence": "彼女は新しい商品を商うために店を開きました。",
+        "translation": "She opened a shop to deal in new products."
+      },
+      {
+        "sentence": "この会社は電子機器を商っています。",
+        "translation": "This company deals in electronic devices."
+      }
+    ]
+  },
+  {
+    "word": "寝坊をして危うく遅刻しそうになった",
+    "type": "Phrase",
+    "pronunciation": "ねぼうをしてあやうくちこくしそうになった",
+    "explanation": "This phrase describes a situation where someone overslept (寝坊) and almost ended up being late (遅刻しそうになった). It conveys the feeling of narrowly avoiding being late due to oversleeping.",
+    "examples": [
+      {
+        "sentence": "今朝、寝坊をして危うく遅刻しそうになった。",
+        "translation": "This morning, I overslept and almost ended up being late."
+      },
+      {
+        "sentence": "彼は寝坊をして危うく会議に遅れるところだった。",
+        "translation": "He overslept and almost missed the meeting."
+      },
+      {
+        "sentence": "寝坊をして危うくバスに乗り遅れるところだった。",
+        "translation": "I overslept and almost missed the bus."
+      }
+    ]
+  },
+  {
+    "word": "闇バイト",
+    "type": "Noun",
+    "pronunciation": "やみばいと",
+    "explanation": "闇バイト refers to illegal or unregulated side jobs, often involving activities that are not officially sanctioned or are associated with the underground economy. These jobs can include activities such as working for criminal organizations or participating in illicit trades.",
+    "examples": [
+      {
+        "sentence": "彼は闇バイトをしてお金を稼いでいる。",
+        "translation": "He is making money by doing illegal side jobs."
+      },
+      {
+        "sentence": "闇バイトは危険が伴うので注意が必要です。",
+        "translation": "Illegal side jobs come with risks, so caution is necessary."
+      },
+      {
+        "sentence": "最近、闇バイトの問題が報道されています。",
+        "translation": "Recently, the issue of illegal side jobs has been reported in the news."
+      }
+    ]
+  },
+  {
+    "word": "急勾配",
+    "type": "Noun, Adjective",
+    "pronunciation": "きゅうこうばい",
+    "explanation": "急勾配 refers to a steep slope or incline. It describes a gradient that rises sharply, often used in contexts like hills, roads, or roofs.",
+    "examples": [
+      {
+        "sentence": "この道は急勾配なので、注意が必要です。",
+        "translation": "This road is steep, so caution is required."
+      },
+      {
+        "sentence": "急勾配の山を登るのは大変だった。",
+        "translation": "Climbing the steep mountain was difficult."
+      },
+      {
+        "sentence": "急勾配の階段を上がると、眺めが良かった。",
+        "translation": "When I climbed the steep stairs, the view was great."
+      }
+    ]
+  },
+  {
+    "word": "急勾配",
+    "type": "Noun",
+    "pronunciation": "きゅうこうばい",
+    "explanation": "急勾配 refers to a steep slope or gradient. It is often used in contexts related to geography, construction, or describing the incline of a road or hill.",
+    "examples": [
+      {
+        "sentence": "この道は急勾配なので、運転に注意してください。",
+        "translation": "This road has a steep slope, so please drive carefully."
+      },
+      {
+        "sentence": "急勾配の山を登るのは大変だった。",
+        "translation": "Climbing the steep mountain was tough."
+      },
+      {
+        "sentence": "急勾配のスキー場で滑るのが好きです。",
+        "translation": "I like skiing on steep slopes."
+      }
+    ]
+  },
+  {
+    "word": "がん保険",
+    "type": "Noun",
+    "pronunciation": "がんほけん",
+    "explanation": "がん保険 refers to cancer insurance, a type of insurance that provides financial support for medical expenses related to cancer treatment. It is designed to help cover the costs of diagnosis, treatment, and recovery associated with cancer.",
+    "examples": [
+      {
+        "sentence": "がん保険に加入することを検討しています。",
+        "translation": "I am considering enrolling in cancer insurance."
+      },
+      {
+        "sentence": "このがん保険は、治療費をしっかりカバーしてくれます。",
+        "translation": "This cancer insurance covers treatment costs well."
+      },
+      {
+        "sentence": "がん保険に加入しておくと安心です。",
+        "translation": "It's reassuring to have cancer insurance."
+      }
+    ]
+  },
+  {
+    "word": "〜お供で",
+    "type": "Noun",
+    "pronunciation": "おともで",
+    "explanation": "〜お供で refers to accompanying someone or being in the company of someone. It is often used to indicate that one is going along with another person, usually for a specific purpose or event.",
+    "examples": [
+      {
+        "sentence": "彼は友達のお供で映画を見に行った。",
+        "translation": "He went to see a movie in the company of his friend."
+      },
+      {
+        "sentence": "お供で旅行に行くのは楽しい。",
+        "translation": "It's fun to travel in the company of others."
+      },
+      {
+        "sentence": "彼女は子供のお供で公園に行った。",
+        "translation": "She went to the park with the children."
+      }
+    ]
+  },
+  {
+    "word": "神技",
+    "type": "Noun",
+    "pronunciation": "しんぎ",
+    "explanation": "神技 refers to a divine or miraculous skill, often used to describe extraordinary abilities or talents in a particular field, such as sports or art.",
+    "examples": [
+      {
+        "sentence": "彼のサッカーの神技には驚かされる。",
+        "translation": "I am amazed by his divine soccer skills."
+      },
+      {
+        "sentence": "この画家は神技のような技術を持っている。",
+        "translation": "This painter has a skill that is like divine craftsmanship."
+      },
+      {
+        "sentence": "神技のような演奏に観客は感動した。",
+        "translation": "The audience was moved by the performance that was like a miraculous skill."
+      }
+    ]
+  },
+  {
+    "word": "全く",
+    "type": "Adverb",
+    "pronunciation": "まったく",
+    "explanation": "全く is used to express totality or completeness, often translated as 'completely' or 'entirely'. It can also be used to emphasize the negation of something, meaning 'not at all'.",
+    "examples": [
+      {
+        "sentence": "彼は全く興味がないと言った。",
+        "translation": "He said he has no interest at all."
+      },
+      {
+        "sentence": "全く理解できませんでした。",
+        "translation": "I completely couldn't understand."
+      },
+      {
+        "sentence": "全く問題ありません。",
+        "translation": "There is no problem at all."
+      }
+    ]
+  },
+  {
+    "word": "分類",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ぶんるい",
+    "explanation": "分類 refers to the act of classifying or categorizing items or concepts based on shared characteristics. It is often used in contexts such as science, data organization, and library science.",
+    "examples": [
+      {
+        "sentence": "資料を分類して整理しました。",
+        "translation": "I classified and organized the materials."
+      },
+      {
+        "sentence": "動物の分類は非常に重要です。",
+        "translation": "The classification of animals is very important."
+      },
+      {
+        "sentence": "彼は本をジャンルごとに分類しました。",
+        "translation": "He classified the books by genre."
+      }
+    ]
+  },
+  {
+    "word": "て初めて",
+    "type": "Phrase",
+    "pronunciation": "てはじめて",
+    "explanation": "て初めて is a grammatical expression used to indicate that something can only happen or be understood after a certain action has been completed. It emphasizes that the subsequent action or realization is contingent upon the prior one.",
+    "examples": [
+      {
+        "sentence": "日本に行って初めて、文化の違いを感じました。",
+        "translation": "It was only after going to Japan that I felt the cultural differences."
+      },
+      {
+        "sentence": "彼と話して初めて、彼の本当の気持ちがわかった。",
+        "translation": "It was only after talking to him that I understood his true feelings."
+      },
+      {
+        "sentence": "運転して初めて、運転の難しさがわかりました。",
+        "translation": "It was only after driving that I realized how difficult it is to drive."
+      }
+    ]
+  },
+  {
+    "word": "金沢",
+    "type": "Noun",
+    "pronunciation": "かなざわ",
+    "explanation": "金沢 (Kanazawa) is a city located in Ishikawa Prefecture, Japan. It is known for its historical architecture, beautiful gardens, and rich cultural heritage, including traditional crafts and cuisine.",
+    "examples": [
+      {
+        "sentence": "金沢には多くの観光名所があります。",
+        "translation": "Kanazawa has many tourist attractions."
+      },
+      {
+        "sentence": "彼は金沢に住んでいます。",
+        "translation": "He lives in Kanazawa."
+      },
+      {
+        "sentence": "金沢の兼六園はとても美しいです。",
+        "translation": "Kenroku-en in Kanazawa is very beautiful."
+      }
+    ]
+  },
+  {
+    "word": "噛む馬はしまいまで噛む",
+    "type": "Proverb",
+    "pronunciation": "かむうまはしまいまでかむ",
+    "explanation": "噛む馬はしまいまで噛む is a Japanese proverb which means that a horse that bites will continue to bite until the end. It implies that bad behavior or tendencies are likely to persist over time.",
+    "examples": [
+      {
+        "sentence": "噛む馬はしまいまで噛むという教訓から、注意深く人を選ぶべきです。",
+        "translation": "From the lesson that a horse that bites will continue to bite, one should be careful in choosing people."
+      },
+      {
+        "sentence": "この言葉は、問題のある人とは距離を置くべきだという意味でも使われる。",
+        "translation": "This saying is also used to mean that one should keep distance from problematic people."
+      },
+      {
+        "sentence": "噛む馬はしまいまで噛むを思い出して、信頼できる友達だけを選ぶことにした。",
+        "translation": "I remembered that a horse that bites will continue to bite and decided to choose only trustworthy friends."
+      }
+    ]
+  }
+]

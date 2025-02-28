@@ -1,0 +1,82 @@
+[
+  {
+    "word": "取り消す",
+    "type": "U-verb, Transitive",
+    "pronunciation": "とりけす",
+    "explanation": "取り消す means to cancel, revoke, or withdraw something. It is often used in contexts where an action, decision, or statement is undone or annulled.",
+    "examples": [
+      {
+        "sentence": "彼はその申し込みを取り消した。",
+        "translation": "He canceled that application."
+      },
+      {
+        "sentence": "約束を取り消すのは簡単ではない。",
+        "translation": "It's not easy to cancel a promise."
+      },
+      {
+        "sentence": "その命令を取り消してほしい。",
+        "translation": "I want you to revoke that order."
+      }
+    ]
+  },
+  {
+    "word": "暮れ",
+    "type": "Noun",
+    "pronunciation": "くれ",
+    "explanation": "暮れ refers to the end of the day or the dusk, as well as the end of a year or a specific period. It signifies a transitional time when daylight fades and darkness begins.",
+    "examples": [
+      {
+        "sentence": "暮れ時に散歩するのが好きです。",
+        "translation": "I like to take walks at dusk."
+      },
+      {
+        "sentence": "年の暮れには家族が集まります。",
+        "translation": "Family gathers at the end of the year."
+      },
+      {
+        "sentence": "暮れの時間は静かで落ち着きます。",
+        "translation": "The time at dusk is quiet and calming."
+      }
+    ]
+  },
+  {
+    "word": "お譲りください",
+    "type": "Phrase",
+    "pronunciation": "おゆずりください",
+    "explanation": "お譲りください is a polite request meaning 'please give (to me).' It is used when asking someone to transfer something to you, often in a context of receiving or inheriting something respectfully.",
+    "examples": [
+      {
+        "sentence": "その本をお譲りください。",
+        "translation": "Please give me that book."
+      },
+      {
+        "sentence": "この椅子をお譲りください。",
+        "translation": "Please give me this chair."
+      },
+      {
+        "sentence": "お譲りくださいと言ったが、相手は断った。",
+        "translation": "I said 'please give it to me,' but the other person refused."
+      }
+    ]
+  },
+  {
+    "word": "空っぽ",
+    "type": "Na-adjective",
+    "pronunciation": "からっぽ",
+    "explanation": "空っぽ means 'empty' or 'hollow.' It describes a state where something has no contents or is devoid of something that is usually present.",
+    "examples": [
+      {
+        "sentence": "彼の財布は空っぽだった。",
+        "translation": "His wallet was empty."
+      },
+      {
+        "sentence": "部屋は空っぽで何もなかった。",
+        "translation": "The room was empty and had nothing in it."
+      },
+      {
+        "sentence": "私の頭は空っぽで、何も思い出せなかった。",
+        "translation": "My mind was empty, and I couldn't remember anything."
+      }
+    ]
+  }
+]

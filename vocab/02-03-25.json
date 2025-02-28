@@ -1,0 +1,582 @@
+[
+  {
+    "word": "絶やす",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "たやす",
+    "explanation": "絶やす means to extinguish, to let die out, or to cause something to cease to exist. It is used in contexts where something is made to disappear or where a certain state is brought to an end.",
+    "examples": [
+      {
+        "sentence": "彼は火を絶やさないように注意した。",
+        "translation": "He made sure not to let the fire die out."
+      },
+      {
+        "sentence": "この場所では野生動物が絶やされてしまった。",
+        "translation": "Wildlife has been extinguished in this area."
+      },
+      {
+        "sentence": "彼女はその噂を絶やそうとした。",
+        "translation": "She tried to put an end to the rumor."
+      }
+    ]
+  },
+  {
+    "word": "常夏",
+    "type": "Noun",
+    "pronunciation": "とこなつ",
+    "explanation": "常夏 refers to a perpetual summer or tropical climate, typically characterized by warm temperatures year-round. It is often used to describe regions that experience little seasonal variation in weather.",
+    "examples": [
+      {
+        "sentence": "ハワイは常夏の島として知られています。",
+        "translation": "Hawaii is known as an island of eternal summer."
+      },
+      {
+        "sentence": "常夏の気候が好きです。",
+        "translation": "I love the tropical climate."
+      },
+      {
+        "sentence": "常夏の国への旅行を計画しています。",
+        "translation": "I am planning a trip to a tropical country."
+      }
+    ]
+  },
+  {
+    "word": "常識",
+    "type": "Noun",
+    "pronunciation": "じょうしき",
+    "explanation": "常識 refers to common sense or general knowledge that is widely accepted and understood in a society. It encompasses the basic understanding of social norms and behaviors that are considered appropriate in various situations.",
+    "examples": [
+      {
+        "sentence": "常識を持って行動することが大切です。",
+        "translation": "It is important to act with common sense."
+      },
+      {
+        "sentence": "彼の常識は時々疑わしい。",
+        "translation": "His common sense is sometimes questionable."
+      },
+      {
+        "sentence": "常識的な判断を下す必要があります。",
+        "translation": "It is necessary to make a reasonable judgment."
+      }
+    ]
+  },
+  {
+    "word": "無意識に",
+    "type": "Adverb",
+    "pronunciation": "むいしきに",
+    "explanation": "無意識に means 'unconsciously' or 'involuntarily'. It describes actions or behaviors that occur without conscious thought or awareness.",
+    "examples": [
+      {
+        "sentence": "彼は無意識にその言葉を口にした。",
+        "translation": "He spoke those words unconsciously."
+      },
+      {
+        "sentence": "無意識に手を動かしていた。",
+        "translation": "I was moving my hands unconsciously."
+      },
+      {
+        "sentence": "無意識に彼女を見つめていた。",
+        "translation": "I was staring at her unconsciously."
+      }
+    ]
+  },
+  {
+    "word": "仕える",
+    "type": "U-verb, Transitive",
+    "pronunciation": "つかえる",
+    "explanation": "仕える means 'to serve' or 'to work for' someone, often in a formal or respectful context. It can refer to serving a person, an organization, or a cause.",
+    "examples": [
+      {
+        "sentence": "彼は会社に仕えている。",
+        "translation": "He serves the company."
+      },
+      {
+        "sentence": "私たちは天皇に仕えることを誇りに思っている。",
+        "translation": "We take pride in serving the Emperor."
+      },
+      {
+        "sentence": "彼女は大使館で仕えている。",
+        "translation": "She works for the embassy."
+      }
+    ]
+  },
+  {
+    "word": "世間知らず",
+    "type": "Noun",
+    "pronunciation": "せけんしらず",
+    "explanation": "世間知らず refers to a person who is naive or unaware of the ways of the world, often lacking experience or knowledge about social norms or realities.",
+    "examples": [
+      {
+        "sentence": "彼は世間知らずで、いつも人に騙されてしまう。",
+        "translation": "He is naive and always gets deceived by others."
+      },
+      {
+        "sentence": "世間知らずな発言をするのはやめてください。",
+        "translation": "Please stop making naive comments."
+      },
+      {
+        "sentence": "彼女は世間知らずだから、外の世界について教えてあげる必要がある。",
+        "translation": "She is naive, so I need to teach her about the outside world."
+      }
+    ]
+  },
+  {
+    "word": "疎い",
+    "type": "i-adj",
+    "pronunciation": "うとい",
+    "explanation": "疎い describes a lack of familiarity or knowledge about something. It can refer to being ignorant or not well-versed in a particular subject or area.",
+    "examples": [
+      {
+        "sentence": "彼はこの分野に疎いです。",
+        "translation": "He is unfamiliar with this field."
+      },
+      {
+        "sentence": "私は政治に疎いので、よくわかりません。",
+        "translation": "I'm not knowledgeable about politics, so I don't understand well."
+      },
+      {
+        "sentence": "彼女はテクノロジーに疎いから、助けが必要だ。",
+        "translation": "She needs help because she is not well-versed in technology."
+      }
+    ]
+  },
+  {
+    "word": "貧乏ゆすり",
+    "type": "Noun",
+    "pronunciation": "びんぼうゆすり",
+    "explanation": "貧乏ゆすり refers to the act of shaking one's legs while sitting, often due to restlessness or nervousness. It is commonly associated with anxiety or impatience.",
+    "examples": [
+      {
+        "sentence": "彼は会議中に貧乏ゆすりをしていた。",
+        "translation": "He was shaking his legs during the meeting."
+      },
+      {
+        "sentence": "貧乏ゆすりは、落ち着かない気持ちの表れかもしれない。",
+        "translation": "Shaking one's legs might be a sign of feeling restless."
+      },
+      {
+        "sentence": "友達は貧乏ゆすりをやめるように言った。",
+        "translation": "My friend told me to stop shaking my legs."
+      }
+    ]
+  },
+  {
+    "word": "貧しい",
+    "type": "i-adj",
+    "pronunciation": "まずしい",
+    "explanation": "貧しい means 'poor' or 'impoverished', describing a state of lacking sufficient money or resources to live comfortably. It can refer to financial status or a lack of material wealth.",
+    "examples": [
+      {
+        "sentence": "彼は貧しい家庭に育った。",
+        "translation": "He grew up in a poor family."
+      },
+      {
+        "sentence": "貧しい国では教育を受けることが難しい。",
+        "translation": "In poor countries, it is difficult to receive an education."
+      },
+      {
+        "sentence": "貧しい人々を助けるための活動をしています。",
+        "translation": "I am involved in activities to help poor people."
+      }
+    ]
+  },
+  {
+    "word": "仕方",
+    "type": "Noun",
+    "pronunciation": "しかた",
+    "explanation": "仕方 refers to a method, way, or means of doing something. It can also imply acceptance of a situation, often used in phrases like '仕方がない' which means 'there's no help for it' or 'it can't be helped.'",
+    "examples": [
+      {
+        "sentence": "仕方がないので、あきらめることにしました。",
+        "translation": "Since there's nothing I can do, I've decided to give up."
+      },
+      {
+        "sentence": "新しい仕方で問題を解決しました。",
+        "translation": "I solved the problem using a new method."
+      },
+      {
+        "sentence": "その仕方ではうまくいかない。",
+        "translation": "That way won't work."
+      }
+    ]
+  },
+  {
+    "word": "NISA",
+    "type": "Noun",
+    "pronunciation": "ニーサ",
+    "explanation": "NISA stands for \"Nippon Individual Savings Account,\" which is a tax-exempt investment account in Japan designed to encourage individual savings and investment. It allows individuals to invest a certain amount of money each year without incurring taxes on the gains for a specified period.",
+    "examples": [
+      {
+        "sentence": "NISAを利用して資産を増やすことができます。",
+        "translation": "You can use NISA to increase your assets."
+      },
+      {
+        "sentence": "毎年NISAに投資をしています。",
+        "translation": "I invest in NISA every year."
+      },
+      {
+        "sentence": "NISAは日本の個人投資家にとって非常に便利な制度です。",
+        "translation": "NISA is a very convenient system for individual investors in Japan."
+      }
+    ]
+  },
+  {
+    "word": "要求",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ようきゅう",
+    "explanation": "要求 refers to a demand or request for something, often implying a necessity or an expectation that something should be provided or done.",
+    "examples": [
+      {
+        "sentence": "彼は上司に昇進の要求をした。",
+        "translation": "He made a request for a promotion to his boss."
+      },
+      {
+        "sentence": "私たちは政府に環境保護の要求をしています。",
+        "translation": "We are making demands on the government for environmental protection."
+      },
+      {
+        "sentence": "要求が通らない場合、再度交渉する必要があります。",
+        "translation": "If the demands are not met, we need to negotiate again."
+      }
+    ]
+  },
+  {
+    "word": "意識を取り戻す",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "いしきをとりもどす",
+    "explanation": "意識を取り戻す means to regain consciousness or awareness. It refers to the process of becoming aware again after a state of unconsciousness or unawareness.",
+    "examples": [
+      {
+        "sentence": "彼は事故の後、意識を取り戻した。",
+        "translation": "He regained consciousness after the accident."
+      },
+      {
+        "sentence": "彼女は長い間眠っていて、ようやく意識を取り戻した。",
+        "translation": "She had been asleep for a long time and finally regained consciousness."
+      },
+      {
+        "sentence": "医者は患者が意識を取り戻すかどうかを心配している。",
+        "translation": "The doctor is worried about whether the patient will regain consciousness."
+      }
+    ]
+  },
+  {
+    "word": "求職中",
+    "type": "Noun",
+    "pronunciation": "きゅうしょくちゅう",
+    "explanation": "求職中 refers to the state of being actively seeking employment. It describes a person who is currently looking for a job.",
+    "examples": [
+      {
+        "sentence": "彼は求職中なので、毎日求人を探しています。",
+        "translation": "He is currently looking for a job, so he searches for job listings every day."
+      },
+      {
+        "sentence": "求職中の彼女は、履歴書を何度も書き直しました。",
+        "translation": "While seeking employment, she rewrote her resume multiple times."
+      },
+      {
+        "sentence": "求職中の人々を支援するプログラムがあります。",
+        "translation": "There are programs to support people who are seeking employment."
+      }
+    ]
+  },
+  {
+    "word": "得る",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "える",
+    "explanation": "得る means 'to obtain' or 'to gain'. It is used when referring to acquiring something, whether it be knowledge, experience, or physical objects.",
+    "examples": [
+      {
+        "sentence": "彼は多くの経験を得た。",
+        "translation": "He gained a lot of experience."
+      },
+      {
+        "sentence": "新しいスキルを得るために勉強している。",
+        "translation": "I am studying to obtain new skills."
+      },
+      {
+        "sentence": "彼女はその賞を得ることができた。",
+        "translation": "She was able to obtain that award."
+      }
+    ]
+  },
+  {
+    "word": "信用",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しんよう",
+    "explanation": "信用 refers to trust or confidence in someone or something. It is often used in contexts involving reliability, credibility, or faith in a person's abilities or in financial matters.",
+    "examples": [
+      {
+        "sentence": "彼は彼女に対して信用を置いている。",
+        "translation": "He places trust in her."
+      },
+      {
+        "sentence": "信用がないとビジネスは成り立たない。",
+        "translation": "Without trust, business cannot succeed."
+      },
+      {
+        "sentence": "銀行は信用を重視している。",
+        "translation": "Banks value trust highly."
+      }
+    ]
+  },
+  {
+    "word": "用いる",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "もちいる",
+    "explanation": "用いる means to use or to make use of something. It indicates the application or utilization of a method, tool, or resource in various contexts.",
+    "examples": [
+      {
+        "sentence": "この方法を用いると、効率的に作業ができます。",
+        "translation": "If you use this method, you can work efficiently."
+      },
+      {
+        "sentence": "彼は古い道具を用いて修理をした。",
+        "translation": "He repaired it using old tools."
+      },
+      {
+        "sentence": "新しい技術を用いることで、問題を解決しました。",
+        "translation": "By using new technology, we solved the problem."
+      }
+    ]
+  },
+  {
+    "word": "お礼",
+    "type": "Noun",
+    "pronunciation": "おれい",
+    "explanation": "お礼 refers to a gesture of gratitude or thanks, often expressed through words, gifts, or actions to show appreciation for someone's help or kindness.",
+    "examples": [
+      {
+        "sentence": "彼にお礼を言った。",
+        "translation": "I thanked him."
+      },
+      {
+        "sentence": "お礼の品を贈る予定です。",
+        "translation": "I plan to give a token of appreciation."
+      },
+      {
+        "sentence": "お礼状を書かなければならない。",
+        "translation": "I have to write a thank-you note."
+      }
+    ]
+  },
+  {
+    "word": "疲労",
+    "type": "Noun",
+    "pronunciation": "ひろう",
+    "explanation": "疲労 refers to physical or mental fatigue, tiredness, or exhaustion that results from prolonged effort or stress. It indicates a state of being worn out or drained of energy.",
+    "examples": [
+      {
+        "sentence": "仕事の疲労がたまっている。",
+        "translation": "I am accumulating fatigue from work."
+      },
+      {
+        "sentence": "運動の後、疲労を感じる。",
+        "translation": "I feel fatigue after exercising."
+      },
+      {
+        "sentence": "十分な休息が疲労回復に必要です。",
+        "translation": "Adequate rest is necessary for recovery from fatigue."
+      }
+    ]
+  },
+  {
+    "word": "礼儀正しい",
+    "type": "i-adj",
+    "pronunciation": "れいぎただしい",
+    "explanation": "礼儀正しい describes a person who is polite, well-mannered, and observes social etiquette. It reflects an individual's behavior that is respectful and considerate towards others.",
+    "examples": [
+      {
+        "sentence": "彼は礼儀正しい青年です。",
+        "translation": "He is a polite young man."
+      },
+      {
+        "sentence": "礼儀正しい行動は大切です。",
+        "translation": "Polite behavior is important."
+      },
+      {
+        "sentence": "礼儀正しいことは、良い印象を与えます。",
+        "translation": "Being polite leaves a good impression."
+      }
+    ]
+  },
+  {
+    "word": "礼賛",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "れいさん",
+    "explanation": "礼賛 refers to the act of praising or honoring someone or something, often in a formal or respectful manner. It is commonly used in contexts where admiration or reverence is expressed.",
+    "examples": [
+      {
+        "sentence": "彼の業績を礼賛する記事が新聞に掲載された。",
+        "translation": "An article praising his achievements was published in the newspaper."
+      },
+      {
+        "sentence": "礼賛の演説が行われた。",
+        "translation": "A speech of praise was given."
+      },
+      {
+        "sentence": "多くの人々がその映画を礼賛している。",
+        "translation": "Many people are praising that movie."
+      }
+    ]
+  },
+  {
+    "word": "若いうちの苦労は買ってでもしろう",
+    "type": "Phrase",
+    "pronunciation": "わかいうちのくろうはかってでもしろう",
+    "explanation": "若いうちの苦労は買ってでもしろう is a Japanese proverb that translates to 'One should willingly endure hardships while young.' It emphasizes the importance of facing challenges during youth to gain experience and resilience for the future.",
+    "examples": [
+      {
+        "sentence": "若いうちの苦労は買ってでもしろうという言葉を胸に、彼は毎日努力している。",
+        "translation": "With the saying 'One should willingly endure hardships while young' in mind, he works hard every day."
+      },
+      {
+        "sentence": "若いうちの苦労は買ってでもしろうと親が教えてくれた。",
+        "translation": "My parents taught me that 'One should willingly endure hardships while young.'"
+      },
+      {
+        "sentence": "この経験は若いうちの苦労の一部だと感じている。",
+        "translation": "I feel that this experience is part of the hardships one should face while young."
+      }
+    ]
+  },
+  {
+    "word": "器官",
+    "type": "Noun",
+    "pronunciation": "きかん",
+    "explanation": "器官 refers to an organ or a part of a living organism that has a specific function. It is commonly used in biological and medical contexts to describe various structures in the body.",
+    "examples": [
+      {
+        "sentence": "心臓は血液を循環させる器官です。",
+        "translation": "The heart is an organ that circulates blood."
+      },
+      {
+        "sentence": "呼吸器官は酸素を取り入れるのに重要です。",
+        "translation": "The respiratory organs are important for taking in oxygen."
+      },
+      {
+        "sentence": "この器官は消化に関与しています。",
+        "translation": "This organ is involved in digestion."
+      }
+    ]
+  },
+  {
+    "word": "局地的",
+    "type": "Na-adj",
+    "pronunciation": "きょくちてき",
+    "explanation": "局地的 describes something that is localized or specific to a certain area. It is often used in contexts relating to weather, events, or phenomena that are confined to a particular region.",
+    "examples": [
+      {
+        "sentence": "局地的な豪雨が予想されています。",
+        "translation": "Localized heavy rain is expected."
+      },
+      {
+        "sentence": "この問題は局地的なもので、全国的には影響が少ない。",
+        "translation": "This issue is localized and has little impact nationwide."
+      },
+      {
+        "sentence": "局地的な戦闘が続いている。",
+        "translation": "Localized combat continues."
+      }
+    ]
+  },
+  {
+    "word": "心労",
+    "type": "Noun",
+    "pronunciation": "しんろう",
+    "explanation": "心労 refers to mental distress or worry, often caused by stress or anxiety. It signifies the emotional burden that can affect one's mental well-being.",
+    "examples": [
+      {
+        "sentence": "彼は心労が重なって、体調を崩してしまった。",
+        "translation": "He became ill due to the accumulation of mental distress."
+      },
+      {
+        "sentence": "心労を抱えていると、集中力が低下します。",
+        "translation": "When you are burdened with mental worries, your concentration decreases."
+      },
+      {
+        "sentence": "心労を和らげるために、趣味の時間を持つことが大切です。",
+        "translation": "It's important to have time for hobbies to alleviate mental stress."
+      }
+    ]
+  },
+  {
+    "word": "心労を和らげる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "しんろうをやわらげる",
+    "explanation": "心労を和らげる means to alleviate or ease mental stress or anxiety. It refers to actions taken to reduce emotional strain or worry.",
+    "examples": [
+      {
+        "sentence": "リラックスするために音楽を聴いて心労を和らげる。",
+        "translation": "I listen to music to ease my mental stress."
+      },
+      {
+        "sentence": "友達と話すことで心労を和らげることができる。",
+        "translation": "Talking with friends can help alleviate my mental stress."
+      },
+      {
+        "sentence": "趣味を楽しむことで心労を和らげようとしています。",
+        "translation": "I try to ease my mental stress by enjoying my hobbies."
+      }
+    ]
+  },
+  {
+    "word": "係",
+    "type": "Noun",
+    "pronunciation": "かかり",
+    "explanation": "係 refers to a person in charge or a role assigned to someone, often used in contexts such as work or events where specific duties or responsibilities are designated to individuals.",
+    "examples": [
+      {
+        "sentence": "イベントの係として働いています。",
+        "translation": "I work as a person in charge of the event."
+      },
+      {
+        "sentence": "彼は受付の係を担当しています。",
+        "translation": "He is in charge of the reception."
+      },
+      {
+        "sentence": "係の者にお尋ねください。",
+        "translation": "Please ask the person in charge."
+      }
+    ]
+  },
+  {
+    "word": "平社員",
+    "type": "Noun",
+    "pronunciation": "へいしゃいん",
+    "explanation": "平社員 refers to a regular employee or staff member in a company who does not hold a managerial position. It indicates someone at the basic level of the corporate hierarchy, often involved in routine tasks without supervisory responsibilities.",
+    "examples": [
+      {
+        "sentence": "彼は平社員として働いています。",
+        "translation": "He works as a regular employee."
+      },
+      {
+        "sentence": "平社員は会社の基盤を支える重要な役割を果たします。",
+        "translation": "Regular employees play an important role in supporting the foundation of the company."
+      },
+      {
+        "sentence": "平社員でも意見を述べることができます。",
+        "translation": "Even regular employees can express their opinions."
+      }
+    ]
+  },
+  {
+    "word": "退く",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "しりぞく",
+    "explanation": "退く means to withdraw, retire, or step back. It is used when someone moves away from a position or situation, often implying a retreat or leaving a place.",
+    "examples": [
+      {
+        "sentence": "彼は戦場から退いた。",
+        "translation": "He withdrew from the battlefield."
+      },
+      {
+        "sentence": "彼女はその問題から退くことに決めた。",
+        "translation": "She decided to step back from the issue."
+      },
+      {
+        "sentence": "私たちは後退する必要がある。",
+        "translation": "We need to retreat."
+      }
+    ]
+  }
+]

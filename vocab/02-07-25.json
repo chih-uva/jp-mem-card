@@ -1,0 +1,482 @@
+[
+  {
+    "word": "保存",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ほぞん",
+    "explanation": "保存 refers to the act of saving or preserving something, such as data, food, or cultural artifacts, to maintain its condition over time.",
+    "examples": [
+      {
+        "sentence": "データを保存するのを忘れないでください。",
+        "translation": "Please do not forget to save the data."
+      },
+      {
+        "sentence": "この食品は冷蔵庫で保存する必要があります。",
+        "translation": "This food needs to be stored in the refrigerator."
+      },
+      {
+        "sentence": "文化遺産の保存は重要です。",
+        "translation": "The preservation of cultural heritage is important."
+      }
+    ]
+  },
+  {
+    "word": "保留",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ほりゅう",
+    "explanation": "保留 refers to the act of putting something on hold or reserving it for later consideration. It is often used in contexts like phone calls, decisions, or any situation where an action is temporarily deferred.",
+    "examples": [
+      {
+        "sentence": "電話が保留になっている。",
+        "translation": "The call is on hold."
+      },
+      {
+        "sentence": "彼の提案はまだ保留のままだ。",
+        "translation": "His proposal is still on hold."
+      },
+      {
+        "sentence": "この問題は保留しておきましょう。",
+        "translation": "Let's put this issue on hold."
+      }
+    ]
+  },
+  {
+    "word": "書流",
+    "type": "Noun",
+    "pronunciation": "しょりゅう",
+    "explanation": "書流 refers to a style or school of calligraphy or writing in Japanese. It emphasizes the particular techniques and aesthetics associated with different forms of writing.",
+    "examples": [
+      {
+        "sentence": "彼は書流の達人です。",
+        "translation": "He is a master of the writing style."
+      },
+      {
+        "sentence": "この書流は古典的な技法を重んじています。",
+        "translation": "This writing style values classical techniques."
+      },
+      {
+        "sentence": "書流を学ぶために、特別なクラスに参加した。",
+        "translation": "I joined a special class to learn the writing style."
+      }
+    ]
+  },
+  {
+    "word": "お礼",
+    "type": "Noun",
+    "pronunciation": "おれい",
+    "explanation": "お礼 refers to a gesture of gratitude or appreciation, often expressed through words or gifts. It is commonly used in Japanese culture to acknowledge kindness or help provided by others.",
+    "examples": [
+      {
+        "sentence": "彼にお礼を言いました。",
+        "translation": "I thanked him."
+      },
+      {
+        "sentence": "お礼の品を贈るつもりです。",
+        "translation": "I plan to give a gift of appreciation."
+      },
+      {
+        "sentence": "お礼の手紙を書いた。",
+        "translation": "I wrote a letter of thanks."
+      }
+    ]
+  },
+  {
+    "word": "謀反",
+    "type": "Noun",
+    "pronunciation": "むほん",
+    "explanation": "謀反 refers to a rebellion or revolt, often against a ruler or authority. It signifies a planned and deliberate act of insurrection or treason.",
+    "examples": [
+      {
+        "sentence": "謀反を起こすことは、重大な罪です。",
+        "translation": "Starting a rebellion is a serious crime."
+      },
+      {
+        "sentence": "歴史の中には、いくつかの有名な謀反があります。",
+        "translation": "There are several famous rebellions in history."
+      },
+      {
+        "sentence": "彼は謀反の首謀者として捕らえられた。",
+        "translation": "He was captured as the mastermind of the rebellion."
+      }
+    ]
+  },
+  {
+    "word": "反物",
+    "type": "Noun",
+    "pronunciation": "たんもの",
+    "explanation": "反物 refers to a length of fabric that is typically used for making kimono. It is a traditional Japanese textile item, often made from silk or cotton, and is sold by the roll.",
+    "examples": [
+      {
+        "sentence": "この反物は高級な絹で作られています。",
+        "translation": "This fabric is made of high-quality silk."
+      },
+      {
+        "sentence": "彼女は新しい反物を購入しました。",
+        "translation": "She purchased a new length of fabric."
+      },
+      {
+        "sentence": "反物を使って、素晴らしい着物を作りたい。",
+        "translation": "I want to make a wonderful kimono using this fabric."
+      }
+    ]
+  },
+  {
+    "word": "共連れ",
+    "type": "Noun",
+    "pronunciation": "ともづれ",
+    "explanation": "共連れ refers to the act of accompanying someone or bringing someone along with you, often used in the context of going somewhere together with another person or a group.",
+    "examples": [
+      {
+        "sentence": "彼は友達を共連れで旅行に行った。",
+        "translation": "He went on a trip with his friend."
+      },
+      {
+        "sentence": "子供を共連れで公園に行く。",
+        "translation": "I take the children along to the park."
+      },
+      {
+        "sentence": "会議に共連れで参加してもいいですか？",
+        "translation": "Is it okay to bring someone along to the meeting?"
+      }
+    ]
+  },
+  {
+    "word": "留意",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "りゅうい",
+    "explanation": "留意 refers to the act of paying attention to or being mindful of something. It involves being aware and considerate of certain details or circumstances.",
+    "examples": [
+      {
+        "sentence": "重要な点に留意してください。",
+        "translation": "Please pay attention to the important points."
+      },
+      {
+        "sentence": "彼は細部に留意して仕事を進めた。",
+        "translation": "He proceeded with his work while being mindful of the details."
+      },
+      {
+        "sentence": "留意すべき事項がいくつかあります。",
+        "translation": "There are several matters to be mindful of."
+      }
+    ]
+  },
+  {
+    "word": "対になる",
+    "type": "U-verb",
+    "pronunciation": "ついになる",
+    "explanation": "対になる refers to the state of being paired or matched, often used to describe two things that complement or correspond to each other.",
+    "examples": [
+      {
+        "sentence": "彼と彼女は対になるカップルだ。",
+        "translation": "He and she are a matched couple."
+      },
+      {
+        "sentence": "この靴は対になるものが必要です。",
+        "translation": "These shoes need a matching pair."
+      },
+      {
+        "sentence": "色が対になるように選んでください。",
+        "translation": "Please choose colors that match each other."
+      }
+    ]
+  },
+  {
+    "word": "陰性",
+    "type": "Noun",
+    "pronunciation": "いんせい",
+    "explanation": "陰性 (いんせい) refers to a negative result, especially in the context of medical tests or diagnostics, indicating the absence of a particular condition or disease.",
+    "examples": [
+      {
+        "sentence": "その検査の結果は陰性でした。",
+        "translation": "The result of that test was negative."
+      },
+      {
+        "sentence": "彼のCOVID-19検査は陰性だった。",
+        "translation": "His COVID-19 test was negative."
+      },
+      {
+        "sentence": "陰性の結果が出て安心しました。",
+        "translation": "I was relieved to receive a negative result."
+      }
+    ]
+  },
+  {
+    "word": "廊下側",
+    "type": "Noun",
+    "pronunciation": "ろうかがわ",
+    "explanation": "廊下側 refers to the side or area adjacent to a hallway. It is often used to describe a location in relation to a corridor or passageway in a building.",
+    "examples": [
+      {
+        "sentence": "廊下側に椅子を置いてください。",
+        "translation": "Please place the chair on the hallway side."
+      },
+      {
+        "sentence": "廊下側の窓から光が差し込んでいる。",
+        "translation": "Light is streaming in from the window on the hallway side."
+      },
+      {
+        "sentence": "廊下側の部屋は静かです。",
+        "translation": "The room on the hallway side is quiet."
+      }
+    ]
+  },
+  {
+    "word": "聞くや否や",
+    "type": "Expression",
+    "pronunciation": "きくやいなや",
+    "explanation": "聞くや否や is an expression used to indicate that something happens immediately or right after something else occurs, often translating to 'as soon as' or 'no sooner than'.",
+    "examples": [
+      {
+        "sentence": "彼が到着するや否や、会議が始まった。",
+        "translation": "As soon as he arrived, the meeting started."
+      },
+      {
+        "sentence": "電話が鳴るや否や、彼は出る準備をした。",
+        "translation": "No sooner did the phone ring than he prepared to answer."
+      },
+      {
+        "sentence": "雨が降るや否や、彼らは家に逃げ込んだ。",
+        "translation": "As soon as it started to rain, they rushed into the house."
+      }
+    ]
+  },
+  {
+    "word": "別府大分",
+    "type": "Noun",
+    "pronunciation": "べっぷおおいた",
+    "explanation": "別府大分 (Beppu Ōita) refers to a city in Japan known for its hot springs and beautiful scenery, located in Ōita Prefecture. It is a popular tourist destination, particularly famous for its onsen (hot springs) and vibrant local culture.",
+    "examples": [
+      {
+        "sentence": "別府大分は温泉で有名です。",
+        "translation": "Beppu Ōita is famous for its hot springs."
+      },
+      {
+        "sentence": "彼は別府大分に旅行に行った。",
+        "translation": "He traveled to Beppu Ōita."
+      },
+      {
+        "sentence": "別府大分の観光名所を訪れました。",
+        "translation": "I visited the tourist attractions in Beppu Ōita."
+      }
+    ]
+  },
+  {
+    "word": "腐る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "くさる",
+    "explanation": "腐る refers to the process of decaying or rotting, typically used in the context of food or organic matter. It signifies the breakdown of substances due to microbial action or other forms of decomposition.",
+    "examples": [
+      {
+        "sentence": "果物が腐ってしまった。",
+        "translation": "The fruit has rotted."
+      },
+      {
+        "sentence": "古い肉は腐りやすい。",
+        "translation": "Old meat tends to decay easily."
+      },
+      {
+        "sentence": "放置された食べ物はすぐに腐る。",
+        "translation": "Food left unattended will rot quickly."
+      }
+    ]
+  },
+  {
+    "word": "無実",
+    "type": "Noun",
+    "pronunciation": "むじつ",
+    "explanation": "無実 refers to the state of being innocent or not guilty, often used in legal contexts to indicate that someone has not committed a crime.",
+    "examples": [
+      {
+        "sentence": "彼は無実だと信じています。",
+        "translation": "I believe he is innocent."
+      },
+      {
+        "sentence": "無実の罪で逮捕された人々が多い。",
+        "translation": "Many people have been arrested for crimes they did not commit."
+      },
+      {
+        "sentence": "無実を証明するために証拠を集めている。",
+        "translation": "I am gathering evidence to prove my innocence."
+      }
+    ]
+  },
+  {
+    "word": "留まる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "とどまる",
+    "explanation": "留まる means to stay, remain, or halt in a certain place or state. It is used to indicate that something or someone does not leave or moves from their current position.",
+    "examples": [
+      {
+        "sentence": "彼はその場所に留まった。",
+        "translation": "He stayed at that place."
+      },
+      {
+        "sentence": "心が留まる瞬間があった。",
+        "translation": "There was a moment that caught my heart."
+      },
+      {
+        "sentence": "この問題に留まる必要がある。",
+        "translation": "We need to remain on this issue."
+      }
+    ]
+  },
+  {
+    "word": "ゴム",
+    "type": "Noun",
+    "pronunciation": "ごむ",
+    "explanation": "ゴム refers to rubber, a flexible material often used for various products such as tires, gloves, and bands. It can be natural or synthetic and is known for its elasticity and durability.",
+    "examples": [
+      {
+        "sentence": "このゴムは非常に弾力があります。",
+        "translation": "This rubber is very elastic."
+      },
+      {
+        "sentence": "ゴムのバンドを使って、書類をまとめました。",
+        "translation": "I used a rubber band to hold the documents together."
+      },
+      {
+        "sentence": "新しいゴム製の靴を買いました。",
+        "translation": "I bought a new pair of rubber shoes."
+      }
+    ]
+  },
+  {
+    "word": "書留",
+    "type": "Noun",
+    "pronunciation": "かきとめ",
+    "explanation": "書留 refers to registered mail in Japan, which provides proof of mailing and delivery. It is a service used for important documents or items that require tracking and security during transit.",
+    "examples": [
+      {
+        "sentence": "重要な書類は書留で送ります。",
+        "translation": "I will send the important documents by registered mail."
+      },
+      {
+        "sentence": "書留は受取人のサインが必要です。",
+        "translation": "Registered mail requires the recipient's signature."
+      },
+      {
+        "sentence": "書留で送った手紙がまだ届いていない。",
+        "translation": "The letter sent by registered mail has not arrived yet."
+      }
+    ]
+  },
+  {
+    "word": "保留",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ほりゅう",
+    "explanation": "保留 refers to the act of putting something on hold or reserving it for future consideration. It is commonly used in contexts such as decision-making, telephone calls, or situations where a matter is temporarily suspended.",
+    "examples": [
+      {
+        "sentence": "その問題は保留にしておきましょう。",
+        "translation": "Let's put that issue on hold."
+      },
+      {
+        "sentence": "電話が保留になってしまった。",
+        "translation": "The call was put on hold."
+      },
+      {
+        "sentence": "彼の提案はまだ保留の状態です。",
+        "translation": "His proposal is still in a pending state."
+      }
+    ]
+  },
+  {
+    "word": "留守番",
+    "type": "Noun",
+    "pronunciation": "るすばん",
+    "explanation": "留守番 refers to the act of staying at home or watching over a place while others are away. It is often used in the context of taking care of a house or looking after someone or something in someone's absence.",
+    "examples": [
+      {
+        "sentence": "子供たちは家で留守番をしています。",
+        "translation": "The children are staying home alone."
+      },
+      {
+        "sentence": "私は友達の家で留守番を頼まれました。",
+        "translation": "I was asked to watch over my friend's house."
+      },
+      {
+        "sentence": "留守番中に大事な電話がかかってきた。",
+        "translation": "An important call came in while I was home alone."
+      }
+    ]
+  },
+  {
+    "word": "フラフラ",
+    "type": "Adjective, I-adj",
+    "pronunciation": "ふらふら",
+    "explanation": "フラフラ describes a state of being unsteady, dizzy, or swaying, often used to indicate someone who is weak or unable to stand straight, either physically or figuratively.",
+    "examples": [
+      {
+        "sentence": "彼はフラフラしていて、立っていられない。",
+        "translation": "He is swaying and cannot stand up."
+      },
+      {
+        "sentence": "長時間の運転で、彼女はフラフラしている。",
+        "translation": "After driving for a long time, she is feeling dizzy."
+      },
+      {
+        "sentence": "フラフラした気分が続いている。",
+        "translation": "I have been feeling unsteady for a while."
+      }
+    ]
+  },
+  {
+    "word": "片脱ぎ",
+    "type": "Noun",
+    "pronunciation": "かたぬぎ",
+    "explanation": "片脱ぎ refers to the act of partially undressing or removing one piece of clothing. It can imply a casual or relaxed state of dress, often associated with comfort or preparation for a specific activity.",
+    "examples": [
+      {
+        "sentence": "彼は家に帰ると、片脱ぎのままでリラックスした。",
+        "translation": "When he got home, he relaxed in a partially undressed state."
+      },
+      {
+        "sentence": "片脱ぎのスタイルは、夏の暑い日によく見られる。",
+        "translation": "The partially undressed style is often seen on hot summer days."
+      },
+      {
+        "sentence": "彼女は片脱ぎの服装でパーティーに参加した。",
+        "translation": "She attended the party in a partially undressed outfit."
+      }
+    ]
+  },
+  {
+    "word": "居眠り",
+    "type": "Noun",
+    "pronunciation": "いねむり",
+    "explanation": "居眠り refers to the act of dozing off or taking a nap while sitting, often unintentionally. It typically occurs in situations where a person is not fully engaged or is feeling tired.",
+    "examples": [
+      {
+        "sentence": "会議中に居眠りをしてしまった。",
+        "translation": "I dozed off during the meeting."
+      },
+      {
+        "sentence": "本を読みながら居眠りすることがよくある。",
+        "translation": "I often doze off while reading a book."
+      },
+      {
+        "sentence": "居眠りをしていると、時間が経つのが早い。",
+        "translation": "When I doze off, time seems to pass quickly."
+      }
+    ]
+  },
+  {
+    "word": "うろ覚え",
+    "type": "Noun",
+    "pronunciation": "うろおぼえ",
+    "explanation": "うろ覚え refers to a vague or unclear memory of something, often used when someone remembers something only partially or imperfectly.",
+    "examples": [
+      {
+        "sentence": "彼の名前はうろ覚えだけど、どこかで会ったことがある。",
+        "translation": "I have a vague memory of his name, but I feel like I've met him somewhere."
+      },
+      {
+        "sentence": "この歌の歌詞はうろ覚えで、あまり思い出せない。",
+        "translation": "I have a vague memory of the lyrics to this song, and I can't remember them well."
+      },
+      {
+        "sentence": "うろ覚えでも、試験に合格した。",
+        "translation": "Even with my vague memory, I passed the exam."
+      }
+    ]
+  }
+]

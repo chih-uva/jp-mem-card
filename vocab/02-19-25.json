@@ -1,0 +1,442 @@
+[
+  {
+    "word": "〜とは言い難い",
+    "type": "Phrase",
+    "pronunciation": "〜とはいいがたい",
+    "explanation": "〜とは言い難い is a phrase used to express that something is difficult to say or hard to describe. It implies that the speaker finds it challenging to articulate their thoughts or feelings about a particular subject.",
+    "examples": [
+      {
+        "sentence": "この問題については、簡単には答えとは言い難い。",
+        "translation": "It is difficult to say a simple answer regarding this issue."
+      },
+      {
+        "sentence": "彼の気持ちを理解するのは、言い難いことだ。",
+        "translation": "It is hard to say that I understand his feelings."
+      },
+      {
+        "sentence": "この映画を評価するのは、少し言い難い。",
+        "translation": "It is somewhat difficult to evaluate this movie."
+      }
+    ]
+  },
+  {
+    "word": "疑う",
+    "type": "U-verb, Transitive",
+    "pronunciation": "うたがう",
+    "explanation": "疑う means to doubt or suspect someone or something. It involves a feeling of uncertainty or disbelief regarding the truth or reliability of a person or situation.",
+    "examples": [
+      {
+        "sentence": "彼を疑う理由はない。",
+        "translation": "There is no reason to doubt him."
+      },
+      {
+        "sentence": "私はその情報を疑っています。",
+        "translation": "I am doubting that information."
+      },
+      {
+        "sentence": "彼女は私の言葉を疑った。",
+        "translation": "She doubted my words."
+      }
+    ]
+  },
+  {
+    "word": "けじめをつける",
+    "type": "Suru-verb",
+    "pronunciation": "けじめをつける",
+    "explanation": "けじめをつける means to draw a line or make a distinction, often in the context of differentiating between responsibilities or situations. It can imply taking responsibility or making a clear decision in a situation.",
+    "examples": [
+      {
+        "sentence": "彼は仕事とプライベートにけじめをつけている。",
+        "translation": "He makes a clear distinction between work and private life."
+      },
+      {
+        "sentence": "けじめをつけることは大切です。",
+        "translation": "It is important to draw a line."
+      },
+      {
+        "sentence": "この問題については、けじめをつける必要があります。",
+        "translation": "We need to make a clear decision on this matter."
+      }
+    ]
+  },
+  {
+    "word": "読み流す",
+    "type": "U-verb, Transitive",
+    "pronunciation": "よみながす",
+    "explanation": "読み流す means to read through something quickly or casually, often without paying close attention to the details. It implies skimming or glossing over the text.",
+    "examples": [
+      {
+        "sentence": "彼は新聞を読み流して、重要な記事だけを探した。",
+        "translation": "He skimmed through the newspaper, looking for only the important articles."
+      },
+      {
+        "sentence": "私はレポートを読み流して、要点をメモした。",
+        "translation": "I read through the report quickly and took notes on the main points."
+      },
+      {
+        "sentence": "彼女は本を読み流すのが得意だ。",
+        "translation": "She is good at skimming through books."
+      }
+    ]
+  },
+  {
+    "word": "売り上げが伸びない",
+    "type": "Phrase",
+    "pronunciation": "うりあげがのびない",
+    "explanation": "売り上げが伸びない means 'sales are not increasing' or 'sales are stagnant'. It indicates a situation where revenue or sales figures are not showing growth, often used in business contexts.",
+    "examples": [
+      {
+        "sentence": "この商品の売り上げが伸びない原因を探しています。",
+        "translation": "We are looking for the reasons why the sales of this product are not increasing."
+      },
+      {
+        "sentence": "新しい広告を出しても、売り上げが伸びない。",
+        "translation": "Even with the new advertisement, sales are not increasing."
+      },
+      {
+        "sentence": "競争が激しくなって、売り上げが伸びない状況です。",
+        "translation": "With the increased competition, the situation is such that sales are not increasing."
+      }
+    ]
+  },
+  {
+    "word": "モニタ調査",
+    "type": "Noun",
+    "pronunciation": "もにたちょうさ",
+    "explanation": "モニタ調査 refers to a type of survey or research that monitors or evaluates certain conditions, behaviors, or trends over time, often involving a specific group of participants known as 'monitors.'",
+    "examples": [
+      {
+        "sentence": "新製品のモニタ調査を行いました。",
+        "translation": "We conducted a monitor survey for the new product."
+      },
+      {
+        "sentence": "モニタ調査の結果は非常に興味深いです。",
+        "translation": "The results of the monitor survey are very interesting."
+      },
+      {
+        "sentence": "彼らはモニタ調査を通じて顧客の意見を収集しています。",
+        "translation": "They are collecting customer feedback through the monitor survey."
+      }
+    ]
+  },
+  {
+    "word": "パッとしない",
+    "type": "i-adjective",
+    "pronunciation": "ぱっとしない",
+    "explanation": "パッとしない is an i-adjective that describes something that is not impressive, dull, or lacks impact. It conveys a sense of disappointment or underwhelming quality.",
+    "examples": [
+      {
+        "sentence": "この映画はパッとしないと思った。",
+        "translation": "I thought this movie was underwhelming."
+      },
+      {
+        "sentence": "彼のプレゼンテーションはパッとしなかった。",
+        "translation": "His presentation was not impressive."
+      },
+      {
+        "sentence": "最近の天気はパッとしない日が続いている。",
+        "translation": "We've been having dull days with the recent weather."
+      }
+    ]
+  },
+  {
+    "word": "擬態語",
+    "type": "Noun",
+    "pronunciation": "ぎたいご",
+    "explanation": "擬態語 refers to onomatopoeic words that describe states or conditions, often imitating sounds, movements, or appearances. They are used in Japanese to convey a vivid image or feeling associated with a particular situation.",
+    "examples": [
+      {
+        "sentence": "彼は擬態語を使って、状況を詳しく説明した。",
+        "translation": "He used onomatopoeic words to explain the situation in detail."
+      },
+      {
+        "sentence": "擬態語は日本語の面白い特徴の一つです。",
+        "translation": "Onomatopoeic words are one of the interesting features of the Japanese language."
+      },
+      {
+        "sentence": "子供たちは擬態語を使って楽しそうに遊んでいる。",
+        "translation": "The children are playing happily using onomatopoeic words."
+      }
+    ]
+  },
+  {
+    "word": "売買",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ばいばい",
+    "explanation": "売買 refers to the act of buying and selling goods or services. It encompasses all transactions that involve an exchange of value, typically in a market context.",
+    "examples": [
+      {
+        "sentence": "彼は株の売買を始めた。",
+        "translation": "He started trading stocks."
+      },
+      {
+        "sentence": "この店では中古品の売買を行っています。",
+        "translation": "This store conducts the buying and selling of used goods."
+      },
+      {
+        "sentence": "売買契約を結ぶ前に、条件をよく確認しましょう。",
+        "translation": "Before concluding the sales contract, let's carefully check the conditions."
+      }
+    ]
+  },
+  {
+    "word": "に当たって",
+    "type": "Expression",
+    "pronunciation": "にあたって",
+    "explanation": "に当たって is a Japanese expression used to indicate a specific occasion or situation when something happens, often translated as 'upon' or 'at the time of.' It is commonly used to express that something occurs in relation to a particular event or context.",
+    "examples": [
+      {
+        "sentence": "新しいプロジェクトに当たって、チームを結成しました。",
+        "translation": "We formed a team upon starting the new project."
+      },
+      {
+        "sentence": "進学に当たって、多くの準備が必要です。",
+        "translation": "A lot of preparation is necessary at the time of advancing to higher education."
+      },
+      {
+        "sentence": "引っ越しに当たって、たくさんの荷物を整理しました。",
+        "translation": "I organized a lot of belongings upon moving."
+      }
+    ]
+  },
+  {
+    "word": "〜をもとに",
+    "type": "Phrase",
+    "pronunciation": "〜をもとに",
+    "explanation": "〜をもとに is a phrase used to indicate that something is based on or derived from something else. It is commonly used to express that an action or decision is grounded on specific information, ideas, or sources.",
+    "examples": [
+      {
+        "sentence": "この映画は実際の事件をもとにしています。",
+        "translation": "This movie is based on a true story."
+      },
+      {
+        "sentence": "彼の研究は多くのデータをもとに行われました。",
+        "translation": "His research was conducted based on a lot of data."
+      },
+      {
+        "sentence": "このレポートは最近の調査をもとに作成されました。",
+        "translation": "This report was created based on recent surveys."
+      }
+    ]
+  },
+  {
+    "word": "〜からといって",
+    "type": "Expression",
+    "pronunciation": "からといって",
+    "explanation": "〜からといって is a Japanese expression used to indicate that just because one thing is true, it does not necessarily mean that another thing is true. It is often used to express a sense of caution or to counter an assumption based on a specific condition.",
+    "examples": [
+      {
+        "sentence": "彼が忙しいからといって、手伝ってくれないわけではない。",
+        "translation": "Just because he is busy, it doesn’t mean he won’t help."
+      },
+      {
+        "sentence": "高いからといって、必ずしも良いものとは限らない。",
+        "translation": "Just because it’s expensive doesn’t necessarily mean it’s good."
+      },
+      {
+        "sentence": "彼女は学生だからといって、甘く見ないでほしい。",
+        "translation": "Please don’t underestimate her just because she’s a student."
+      }
+    ]
+  },
+  {
+    "word": "〜からには",
+    "type": "Expression",
+    "pronunciation": "〜からには",
+    "explanation": "〜からには is a grammatical expression used to indicate that since a certain condition is true, a particular action or outcome is expected to follow. It often conveys a sense of responsibility or obligation related to the condition stated before it.",
+    "examples": [
+      {
+        "sentence": "約束したからには、守らなければならない。",
+        "translation": "Since I made a promise, I must keep it."
+      },
+      {
+        "sentence": "学生であるからには、勉強はしっかりしなければならない。",
+        "translation": "Since I am a student, I have to study properly."
+      },
+      {
+        "sentence": "参加するからには、真剣に取り組むべきだ。",
+        "translation": "Since I am participating, I should take it seriously."
+      }
+    ]
+  },
+  {
+    "word": "増加",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ぞうか",
+    "explanation": "増加 refers to the increase or growth of something, often used in contexts such as population growth, sales increase, or other quantitative expansions. It indicates a rise in numbers or amounts.",
+    "examples": [
+      {
+        "sentence": "今年の売上は昨年に比べて増加した。",
+        "translation": "This year's sales increased compared to last year."
+      },
+      {
+        "sentence": "人口の増加が問題になっている。",
+        "translation": "The increase in population has become a problem."
+      },
+      {
+        "sentence": "新しい政策により、観光客の増加が期待されている。",
+        "translation": "The new policy is expected to lead to an increase in tourists."
+      }
+    ]
+  },
+  {
+    "word": "悪化",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "あっか",
+    "explanation": "悪化 refers to the process of worsening or deterioration, often used in contexts such as health, conditions, or situations. It indicates a decline in quality or state.",
+    "examples": [
+      {
+        "sentence": "彼の健康状態は悪化しています。",
+        "translation": "His health condition is worsening."
+      },
+      {
+        "sentence": "経済状況の悪化が懸念されています。",
+        "translation": "The worsening of the economic situation is a concern."
+      },
+      {
+        "sentence": "彼女の仕事のストレスが悪化した。",
+        "translation": "Her job stress has worsened."
+      }
+    ]
+  },
+  {
+    "word": "〜につけ",
+    "type": "Phrase",
+    "pronunciation": "〜につけ",
+    "explanation": "〜につけ is a grammatical expression used to indicate that regardless of the situation or condition, the same outcome or sentiment applies. It is often used to express a sense of inevitability or universality in relation to an action or feeling.",
+    "examples": [
+      {
+        "sentence": "成功につけ、失敗につけ、彼はいつも冷静です。",
+        "translation": "Regardless of success or failure, he always remains calm."
+      },
+      {
+        "sentence": "何につけ、彼女はいつも前向きです。",
+        "translation": "No matter the situation, she is always positive."
+      },
+      {
+        "sentence": "喜びにつけ、悲しみにつけ、友人がそばにいてくれる。",
+        "translation": "In joy or in sorrow, my friends are always by my side."
+      }
+    ]
+  },
+  {
+    "word": "〜おきに",
+    "type": "Phrase",
+    "pronunciation": "〜おきに",
+    "explanation": "〜おきに is a Japanese phrase used to indicate a recurring interval or frequency, meaning 'every' or 'at intervals of'. It is often used with time expressions to specify regular occurrences.",
+    "examples": [
+      {
+        "sentence": "1週間おきに会いましょう。",
+        "translation": "Let's meet every week."
+      },
+      {
+        "sentence": "2ヶ月おきに健康診断を受けます。",
+        "translation": "I have a health check-up every two months."
+      },
+      {
+        "sentence": "このイベントは年おきに開催されます。",
+        "translation": "This event is held every other year."
+      }
+    ]
+  },
+  {
+    "word": "〜をもとにして",
+    "type": "Expression",
+    "pronunciation": "〜をもとにして",
+    "explanation": "〜をもとにして is an expression used to indicate that something is based on or derived from a certain source, idea, or principle. It is often used when discussing the foundation or origin of a project, argument, or belief.",
+    "examples": [
+      {
+        "sentence": "このプロジェクトは最新の研究をもとにしている。",
+        "translation": "This project is based on the latest research."
+      },
+      {
+        "sentence": "彼の意見は経験をもとにしている。",
+        "translation": "His opinion is based on experience."
+      },
+      {
+        "sentence": "このデザインは伝統的な技術をもとにしている。",
+        "translation": "This design is based on traditional techniques."
+      }
+    ]
+  },
+  {
+    "word": "かわりに",
+    "type": "Noun",
+    "pronunciation": "かわりに",
+    "explanation": "かわりに means 'instead of' or 'in place of'. It is used to indicate substitution or replacement in a context where one thing is taken in lieu of another.",
+    "examples": [
+      {
+        "sentence": "彼はコーヒーのかわりに紅茶を飲んだ。",
+        "translation": "He drank tea instead of coffee."
+      },
+      {
+        "sentence": "この仕事のかわりに、私は別のプロジェクトを手伝う。",
+        "translation": "Instead of this job, I will help with another project."
+      },
+      {
+        "sentence": "お金のかわりに、時間を提供することができます。",
+        "translation": "I can offer time instead of money."
+      }
+    ]
+  },
+  {
+    "word": "せいか、〜",
+    "type": "Phrase",
+    "pronunciation": "せいか、〜",
+    "explanation": "せいか、〜 is a phrase used to indicate a result or outcome, often translated as 'as a result of' or 'due to'. It is typically used to explain the reason for something that follows in the sentence.",
+    "examples": [
+      {
+        "sentence": "それがうまくいったのは、彼の努力せいか。",
+        "translation": "The success of that was due to his efforts."
+      },
+      {
+        "sentence": "今日は非常に暑いせいか、みんなが外出を控えている。",
+        "translation": "It’s very hot today, so everyone is staying indoors."
+      },
+      {
+        "sentence": "彼の失敗せいか、プロジェクトは遅れている。",
+        "translation": "Due to his failure, the project is delayed."
+      }
+    ]
+  },
+  {
+    "word": "Noun+次第〜",
+    "type": "Noun phrase",
+    "pronunciation": "じだい",
+    "explanation": "The phrase 'Noun+次第' is used to indicate that the outcome or result depends on the condition or circumstances of the noun mentioned. It implies that the situation will change based on the noun's status or actions.",
+    "examples": [
+      {
+        "sentence": "天候次第で、ピクニックをするかどうか決めます。",
+        "translation": "We will decide whether to have a picnic depending on the weather."
+      },
+      {
+        "sentence": "あなたの努力次第で、成功が見えてきます。",
+        "translation": "Success depends on your efforts."
+      },
+      {
+        "sentence": "予算次第で、旅行の行き先が変わるかもしれません。",
+        "translation": "The destination of the trip may change depending on the budget."
+      }
+    ]
+  },
+  {
+    "word": "クラクラ",
+    "type": "Noun, I-adjective",
+    "pronunciation": "くらくら",
+    "explanation": "クラクラ describes a feeling of dizziness or lightheadedness, often experienced when standing up too quickly or due to fatigue. It can also refer to a sensation of spinning or being unsteady.",
+    "examples": [
+      {
+        "sentence": "立ち上がったときにクラクラした。",
+        "translation": "I felt dizzy when I stood up."
+      },
+      {
+        "sentence": "彼は熱でクラクラしている。",
+        "translation": "He is feeling lightheaded from the fever."
+      },
+      {
+        "sentence": "クラクラするので、少し休もう。",
+        "translation": "I'm feeling dizzy, so let's take a break."
+      }
+    ]
+  }
+]

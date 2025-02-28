@@ -1,0 +1,562 @@
+[
+  {
+    "word": "再発",
+    "type": "Noun",
+    "pronunciation": "さいはつ",
+    "explanation": "再発 refers to the recurrence of an illness or condition after a period of improvement or remission. It is commonly used in medical contexts to describe the return of symptoms or disease after treatment.",
+    "examples": [
+      {
+        "sentence": "彼はがんの再発を恐れている。",
+        "translation": "He is afraid of the recurrence of his cancer."
+      },
+      {
+        "sentence": "この薬は再発を防ぐために処方されています。",
+        "translation": "This medication is prescribed to prevent recurrence."
+      },
+      {
+        "sentence": "再発した場合、すぐに医者に相談してください。",
+        "translation": "If there is a recurrence, please consult a doctor immediately."
+      }
+    ]
+  },
+  {
+    "word": "呆れる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "あきれる",
+    "explanation": "呆れる means to be astonished, shocked, or flabbergasted, often due to something unexpected or ridiculous. It expresses a sense of disbelief or amazement at a situation.",
+    "examples": [
+      {
+        "sentence": "彼の無責任な態度に呆れた。",
+        "translation": "I was astonished by his irresponsible attitude."
+      },
+      {
+        "sentence": "そのニュースを聞いて呆れてしまった。",
+        "translation": "I was shocked when I heard that news."
+      },
+      {
+        "sentence": "彼女の行動には呆れるばかりだ。",
+        "translation": "I can only be amazed at her behavior."
+      }
+    ]
+  },
+  {
+    "word": "中でも",
+    "type": "Phrase",
+    "pronunciation": "なかでも",
+    "explanation": "中でも is a Japanese phrase that means 'among them' or 'especially' and is used to emphasize a particular item or group within a larger set. It highlights the significance of the mentioned subject in relation to others.",
+    "examples": [
+      {
+        "sentence": "日本の料理の中でも、寿司が特に好きです。",
+        "translation": "Among Japanese dishes, I especially like sushi."
+      },
+      {
+        "sentence": "彼女の作品の中でも、この絵が一番好きです。",
+        "translation": "Among her works, I like this painting the most."
+      },
+      {
+        "sentence": "動物の中でも、犬が一番友好的です。",
+        "translation": "Among animals, dogs are the most friendly."
+      }
+    ]
+  },
+  {
+    "word": "盛る",
+    "type": "U-verb, Transitive",
+    "pronunciation": "もる",
+    "explanation": "盛る means to pile up, to serve (food), or to increase in quantity. It is often used in the context of serving food or adding layers to something.",
+    "examples": [
+      {
+        "sentence": "彼はご飯をお皿に盛った。",
+        "translation": "He served the rice on the plate."
+      },
+      {
+        "sentence": "ケーキの上にクリームを盛ります。",
+        "translation": "I will pile cream on top of the cake."
+      },
+      {
+        "sentence": "彼女はサラダにトッピングを盛りつけた。",
+        "translation": "She added toppings to the salad."
+      }
+    ]
+  },
+  {
+    "word": "燃え盛る",
+    "type": "U-verb",
+    "pronunciation": "もえさかる",
+    "explanation": "燃え盛る refers to the action of burning fiercely or blazing. It describes a fire that is intense and vigorous, often used in a metaphorical sense to convey strong emotions or situations.",
+    "examples": [
+      {
+        "sentence": "炎が燃え盛る夜、私たちはキャンプを楽しんだ。",
+        "translation": "On the night when the flames were blazing, we enjoyed camping."
+      },
+      {
+        "sentence": "彼の情熱は彼の心の中で燃え盛っている。",
+        "translation": "His passion is burning fiercely in his heart."
+      },
+      {
+        "sentence": "燃え盛る火の前で、彼は語り始めた。",
+        "translation": "In front of the blazing fire, he began to speak."
+      }
+    ]
+  },
+  {
+    "word": "スポーツが盛んな学校",
+    "type": "Noun",
+    "pronunciation": "スポーツがさかんながっこう",
+    "explanation": "スポーツが盛んな学校 refers to a school that is active or thriving in sports, indicating that the institution has a strong emphasis on athletic programs and encourages student participation in various sports activities.",
+    "examples": [
+      {
+        "sentence": "この学校はスポーツが盛んで、毎年大会に参加しています。",
+        "translation": "This school is active in sports and participates in competitions every year."
+      },
+      {
+        "sentence": "彼はスポーツが盛んな学校で育ちました。",
+        "translation": "He grew up in a school that was active in sports."
+      },
+      {
+        "sentence": "スポーツが盛んな学校では、体育祭が盛大に行われます。",
+        "translation": "In schools that are active in sports, the sports festival is held grandly."
+      }
+    ]
+  },
+  {
+    "word": "繁盛",
+    "type": "Noun",
+    "pronunciation": "はんじょう",
+    "explanation": "繁盛 refers to prosperity or flourishing, often used to describe a business or establishment that is doing well and thriving. It conveys a sense of abundance and success in economic terms.",
+    "examples": [
+      {
+        "sentence": "この店は繁盛している。",
+        "translation": "This store is thriving."
+      },
+      {
+        "sentence": "繁盛しているレストランはいつも混んでいる。",
+        "translation": "The busy restaurant is always crowded."
+      },
+      {
+        "sentence": "彼のビジネスは最近繁盛してきた。",
+        "translation": "His business has been prospering recently."
+      }
+    ]
+  },
+  {
+    "word": "交ぜる",
+    "type": "U-verb, Transitive",
+    "pronunciation": "まぜる",
+    "explanation": "交ぜる means to mix or combine different elements together. It is used when referring to blending ingredients, combining ideas, or integrating various components.",
+    "examples": [
+      {
+        "sentence": "彼はサラダにドレッシングを交ぜた。",
+        "translation": "He mixed the dressing into the salad."
+      },
+      {
+        "sentence": "この色とこの色を交ぜると、新しい色ができる。",
+        "translation": "Mixing this color with that color creates a new color."
+      },
+      {
+        "sentence": "彼女は意見を交ぜて報告書を書いた。",
+        "translation": "She wrote the report by incorporating various opinions."
+      }
+    ]
+  },
+  {
+    "word": "交わる",
+    "type": "U-verb",
+    "pronunciation": "まじわる",
+    "explanation": "交わる means to intersect, to cross, or to associate with. It refers to the action of two or more things coming together or having a relationship with each other.",
+    "examples": [
+      {
+        "sentence": "二つの道路が交わるところにある。",
+        "translation": "There is a place where the two roads intersect."
+      },
+      {
+        "sentence": "彼らは学校で交わった友達だ。",
+        "translation": "They are friends who met at school."
+      },
+      {
+        "sentence": "文化が交わると、新しいアイデアが生まれる。",
+        "translation": "When cultures intersect, new ideas are born."
+      }
+    ]
+  },
+  {
+    "word": "交える",
+    "type": "U-verb, Transitive",
+    "pronunciation": "まじえる",
+    "explanation": "交える means to mix or to exchange. It often refers to the act of combining things or interacting with others, such as thoughts, feelings, or physical objects.",
+    "examples": [
+      {
+        "sentence": "彼は意見を交えて話をした。",
+        "translation": "He spoke by mixing in various opinions."
+      },
+      {
+        "sentence": "子供たちは遊びながら友達を交えている。",
+        "translation": "The children are mixing with friends while playing."
+      },
+      {
+        "sentence": "この料理は異なるスパイスを交えて作られています。",
+        "translation": "This dish is made by mixing different spices."
+      }
+    ]
+  },
+  {
+    "word": "混ざる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "まざる",
+    "explanation": "混ざる means 'to mix' or 'to blend' and is used when something is combined with something else, often referring to substances or elements becoming intertwined or integrated.",
+    "examples": [
+      {
+        "sentence": "砂糖が水に混ざる。",
+        "translation": "The sugar mixes with the water."
+      },
+      {
+        "sentence": "彼の声が群衆の中に混ざって聞こえた。",
+        "translation": "His voice could be heard mixed in with the crowd."
+      },
+      {
+        "sentence": "色が混ざると新しい色ができる。",
+        "translation": "When colors mix, a new color is created."
+      }
+    ]
+  },
+  {
+    "word": "混じる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "まじる",
+    "explanation": "混じる means to mix or to be mixed, indicating that things come together or blend into one another.",
+    "examples": [
+      {
+        "sentence": "砂糖が混じったコーヒーを飲みます。",
+        "translation": "I drink coffee mixed with sugar."
+      },
+      {
+        "sentence": "彼の声が混じって聞こえた。",
+        "translation": "I heard his voice mixed in."
+      },
+      {
+        "sentence": "色々な意見が混じり合って、議論になった。",
+        "translation": "Various opinions mixed together and became a discussion."
+      }
+    ]
+  },
+  {
+    "word": "掻き回す",
+    "type": "U-verb, Transitive",
+    "pronunciation": "かきまわす",
+    "explanation": "掻き回す means to stir or mix something up. It can refer to physically mixing ingredients or metaphorically stirring up emotions or thoughts.",
+    "examples": [
+      {
+        "sentence": "スープを掻き回すのを忘れないでください。",
+        "translation": "Please don't forget to stir the soup."
+      },
+      {
+        "sentence": "彼は議論を掻き回すことが好きだ。",
+        "translation": "He likes to stir up discussions."
+      },
+      {
+        "sentence": "彼女は感情を掻き回してしまった。",
+        "translation": "She ended up stirring up emotions."
+      }
+    ]
+  },
+  {
+    "word": "融点",
+    "type": "Noun",
+    "pronunciation": "ゆうてん",
+    "explanation": "融点 refers to the temperature at which a solid becomes a liquid, commonly known as the melting point. It is a critical property in chemistry and materials science that indicates the phase transition of substances.",
+    "examples": [
+      {
+        "sentence": "水の融点は0度です。",
+        "translation": "The melting point of water is 0 degrees."
+      },
+      {
+        "sentence": "この金属の融点は非常に高いです。",
+        "translation": "The melting point of this metal is very high."
+      },
+      {
+        "sentence": "融点を測定することで、材料の特性を理解できます。",
+        "translation": "By measuring the melting point, we can understand the properties of the material."
+      }
+    ]
+  },
+  {
+    "word": "溶け込む",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "とけこむ",
+    "explanation": "溶け込む means to blend in or to be absorbed into something, often used in contexts where one becomes a part of a group or environment.",
+    "examples": [
+      {
+        "sentence": "彼は新しい学校にすぐに溶け込んだ。",
+        "translation": "He blended in quickly at the new school."
+      },
+      {
+        "sentence": "この色は周りの景色に溶け込んでいる。",
+        "translation": "This color blends in with the surrounding scenery."
+      },
+      {
+        "sentence": "彼女はチームに溶け込むのが難しかった。",
+        "translation": "She found it difficult to fit in with the team."
+      }
+    ]
+  },
+  {
+    "word": "含む",
+    "type": "U-verb, Transitive",
+    "pronunciation": "ふくむ",
+    "explanation": "含む means 'to contain' or 'to include.' It refers to the act of something having another thing within it or as part of it.",
+    "examples": [
+      {
+        "sentence": "この箱にはおもちゃが含まれています。",
+        "translation": "This box contains toys."
+      },
+      {
+        "sentence": "彼の話には重要な情報が含まれている。",
+        "translation": "His story includes important information."
+      },
+      {
+        "sentence": "この飲み物はアルコールを含んでいますか？",
+        "translation": "Does this drink contain alcohol?"
+      }
+    ]
+  },
+  {
+    "word": "含める",
+    "type": "Verb, Transitive, Ru-verb",
+    "pronunciation": "ふくめる",
+    "explanation": "含める means to include or to contain something as part of a whole. It is commonly used when referring to including items, people, or concepts in a group or list.",
+    "examples": [
+      {
+        "sentence": "このリストには全ての名前が含まれています。",
+        "translation": "This list includes all the names."
+      },
+      {
+        "sentence": "彼は会議に彼女を含めることに決めた。",
+        "translation": "He decided to include her in the meeting."
+      },
+      {
+        "sentence": "税金を含めた価格を教えてください。",
+        "translation": "Please tell me the price including tax."
+      }
+    ]
+  },
+  {
+    "word": "カルシウム",
+    "type": "Noun",
+    "pronunciation": "かるしうむ",
+    "explanation": "カルシウム refers to calcium, a chemical element that is essential for living organisms, particularly in humans, where it is crucial for bone health and various cellular functions.",
+    "examples": [
+      {
+        "sentence": "カルシウムは骨を強くするために必要です。",
+        "translation": "Calcium is necessary for strengthening bones."
+      },
+      {
+        "sentence": "牛乳にはカルシウムが豊富に含まれています。",
+        "translation": "Milk is rich in calcium."
+      },
+      {
+        "sentence": "カルシウム不足は健康に悪影響を与えることがあります。",
+        "translation": "Calcium deficiency can have adverse effects on health."
+      }
+    ]
+  },
+  {
+    "word": "年越しそば",
+    "type": "Noun",
+    "pronunciation": "としこしそば",
+    "explanation": "年越しそば refers to a traditional Japanese dish of soba noodles eaten on New Year's Eve, symbolizing the crossing over from one year to the next. It is believed to bring good luck and longevity.",
+    "examples": [
+      {
+        "sentence": "大晦日に家族で年越しそばを食べました。",
+        "translation": "We ate toshikoshi soba with the family on New Year's Eve."
+      },
+      {
+        "sentence": "年越しそばは長寿の象徴です。",
+        "translation": "Toshikoshi soba is a symbol of longevity."
+      },
+      {
+        "sentence": "彼は毎年、年越しそばを自分で作ります。",
+        "translation": "He makes toshikoshi soba by himself every year."
+      }
+    ]
+  },
+  {
+    "word": "長寿の象徴",
+    "type": "Noun",
+    "pronunciation": "ちょうじゅのしょうちょう",
+    "explanation": "長寿の象徴 refers to a symbol of longevity, representing long life and good health. It is often used in cultural contexts to denote items or figures that signify a wish for long life.",
+    "examples": [
+      {
+        "sentence": "亀は長寿の象徴とされています。",
+        "translation": "The turtle is considered a symbol of longevity."
+      },
+      {
+        "sentence": "このお祝いの飾りは長寿の象徴です。",
+        "translation": "This decoration for the celebration is a symbol of longevity."
+      },
+      {
+        "sentence": "長寿の象徴として、松の木がよく使われます。",
+        "translation": "Pine trees are often used as symbols of longevity."
+      }
+    ]
+  },
+  {
+    "word": "優越感",
+    "type": "Noun",
+    "pronunciation": "ゆうえつかん",
+    "explanation": "優越感 refers to a feeling of superiority or a sense of being better than others. It is often associated with pride or confidence stemming from one's abilities or status in comparison to others.",
+    "examples": [
+      {
+        "sentence": "彼は優越感を持って人と接している。",
+        "translation": "He interacts with others with a sense of superiority."
+      },
+      {
+        "sentence": "優越感に浸るのは危険だ。",
+        "translation": "Indulging in a sense of superiority is dangerous."
+      },
+      {
+        "sentence": "その勝利は彼に優越感を与えた。",
+        "translation": "The victory gave him a sense of superiority."
+      }
+    ]
+  },
+  {
+    "word": "自負",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "じふ",
+    "explanation": "自負 refers to having pride or self-confidence in one's abilities or achievements. It indicates a sense of self-assurance regarding one's skills or accomplishments.",
+    "examples": [
+      {
+        "sentence": "彼は自分の才能に自負を持っている。",
+        "translation": "He has pride in his own talent."
+      },
+      {
+        "sentence": "自負心が強すぎると、他人との関係が悪化することがある。",
+        "translation": "Having too much pride can sometimes harm relationships with others."
+      },
+      {
+        "sentence": "自負を持って挑戦することが大切だ。",
+        "translation": "It is important to take on challenges with self-confidence."
+      }
+    ]
+  },
+  {
+    "word": "誓い",
+    "type": "Noun",
+    "pronunciation": "ちかい",
+    "explanation": "誓い refers to a vow or oath, often made to promise something important or to commit to a certain course of action. It signifies a deep commitment and is commonly used in contexts such as marriage or solemn promises.",
+    "examples": [
+      {
+        "sentence": "彼は神の前で誓いを立てた。",
+        "translation": "He made a vow before God."
+      },
+      {
+        "sentence": "私たちは永遠の愛を誓い合った。",
+        "translation": "We pledged our eternal love to each other."
+      },
+      {
+        "sentence": "誓いを守ることは非常に重要です。",
+        "translation": "It is very important to keep your vows."
+      }
+    ]
+  },
+  {
+    "word": "〜からして",
+    "type": "Phrase",
+    "pronunciation": "からして",
+    "explanation": "〜からして is a grammatical expression used to indicate that a judgment or conclusion is based on a particular starting point or evidence. It implies that the situation being discussed is derived from or influenced by the specified factor, often used to emphasize an obvious conclusion.",
+    "examples": [
+      {
+        "sentence": "彼の態度からして、彼はこのプロジェクトにあまり興味がないようだ。",
+        "translation": "Judging by his attitude, he doesn't seem very interested in this project."
+      },
+      {
+        "sentence": "その結果からして、私たちは再評価が必要だと考えます。",
+        "translation": "Based on that result, we believe that a reevaluation is necessary."
+      },
+      {
+        "sentence": "彼女の経験からして、これが最善の選択だと思います。",
+        "translation": "From her experience, I think this is the best choice."
+      }
+    ]
+  },
+  {
+    "word": "剃りる",
+    "type": "U-verb, Transitive",
+    "pronunciation": "そりる",
+    "explanation": "剃りる means to shave or to trim hair, particularly facial hair or body hair. It is commonly used in the context of grooming and personal care, indicating the act of removing hair using a razor or similar tool.",
+    "examples": [
+      {
+        "sentence": "彼は毎朝、髭を剃りるために鏡の前に立つ。",
+        "translation": "He stands in front of the mirror every morning to shave his beard."
+      },
+      {
+        "sentence": "この新しい剃り器は、肌を傷めずに髪を剃りることができる。",
+        "translation": "This new razor can shave hair without hurting the skin."
+      },
+      {
+        "sentence": "彼女は髪を短く剃りることに決めたが、その決断は簡単ではなかった。",
+        "translation": "She decided to shave her hair short, but that decision was not an easy one."
+      }
+    ]
+  },
+  {
+    "word": "ピアス",
+    "type": "Noun",
+    "pronunciation": "ぴあす",
+    "explanation": "ピアス refers to a piece of jewelry that is worn in a pierced hole in the ear or other body parts. It is often used for decorative purposes and can symbolize various cultural meanings depending on the context.",
+    "examples": [
+      {
+        "sentence": "彼女は特別なイベントのために、豪華なピアスを選びました。",
+        "translation": "She chose an extravagant pair of earrings for the special event."
+      },
+      {
+        "sentence": "最近、彼は鼻にピアスを開けることを決心しました。",
+        "translation": "Recently, he decided to get a piercing in his nose."
+      },
+      {
+        "sentence": "そのピアスは彼女の服装と非常にマッチしている。",
+        "translation": "The earrings match her outfit remarkably well."
+      }
+    ]
+  },
+  {
+    "word": "正反対",
+    "type": "Noun",
+    "pronunciation": "せいはんたい",
+    "explanation": "正反対 refers to the concept of being completely opposite or contrary to something else, often used to describe ideas, opinions, or characteristics that are fundamentally different.",
+    "examples": [
+      {
+        "sentence": "彼の意見は私の考えの正反対であり、討論は非常に興味深いものになった。",
+        "translation": "His opinion was completely opposite to my thoughts, making the discussion very interesting."
+      },
+      {
+        "sentence": "この映画のテーマは愛と憎しみの正反対を探求している。",
+        "translation": "The theme of this movie explores the complete opposites of love and hate."
+      },
+      {
+        "sentence": "私たちの性格は正反対なので、しばしば衝突が起こる。",
+        "translation": "Our personalities are completely opposite, so conflicts often arise."
+      }
+    ]
+  },
+  {
+    "word": "ブラウザ",
+    "type": "Noun",
+    "pronunciation": "ぶらうざ",
+    "explanation": "ブラウザ refers to a software application used to access and view websites on the internet. It facilitates the retrieval of information from the World Wide Web and presents it in a user-friendly manner.",
+    "examples": [
+      {
+        "sentence": "最近のブラウザは、プライバシー保護機能が強化されている。",
+        "translation": "Recent browsers have enhanced privacy protection features."
+      },
+      {
+        "sentence": "ウェブサイトを閲覧するために、最新のブラウザをインストールしました。",
+        "translation": "I installed the latest browser to browse websites."
+      },
+      {
+        "sentence": "異なるブラウザで表示されるウェブページのデザインが異なることがあります。",
+        "translation": "The design of a webpage may differ when viewed in different browsers."
+      }
+    ]
+  }
+]

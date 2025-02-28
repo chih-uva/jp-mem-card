@@ -1,0 +1,342 @@
+[
+  {
+    "word": "官",
+    "type": "Noun",
+    "pronunciation": "かん",
+    "explanation": "官 refers to an official or a government office. It signifies a role or position within a bureaucracy or government structure.",
+    "examples": [
+      {
+        "sentence": "彼は政府の官僚です。",
+        "translation": "He is a government official."
+      },
+      {
+        "sentence": "官の仕事は国の政策を実行することです。",
+        "translation": "The work of an official is to implement national policies."
+      },
+      {
+        "sentence": "多くの官が会議に出席した。",
+        "translation": "Many officials attended the meeting."
+      }
+    ]
+  },
+  {
+    "word": "警察官",
+    "type": "Noun",
+    "pronunciation": "けいさつかん",
+    "explanation": "警察官 refers to a police officer, an individual who is a member of the police force and is responsible for maintaining public order, enforcing laws, and preventing and investigating crimes.",
+    "examples": [
+      {
+        "sentence": "彼は警察官として働いています。",
+        "translation": "He works as a police officer."
+      },
+      {
+        "sentence": "警察官は市民の安全を守るために訓練を受けています。",
+        "translation": "Police officers are trained to protect the safety of citizens."
+      },
+      {
+        "sentence": "事件が発生したとき、警察官がすぐに駆けつけました。",
+        "translation": "When the incident occurred, the police officers rushed to the scene."
+      }
+    ]
+  },
+  {
+    "word": "便り",
+    "type": "Noun",
+    "pronunciation": "たより",
+    "explanation": "便り refers to news, information, or a letter. It is often used to describe communication received from someone, indicating updates or greetings.",
+    "examples": [
+      {
+        "sentence": "友達から便りが届いた。",
+        "translation": "I received news from my friend."
+      },
+      {
+        "sentence": "便りを待っています。",
+        "translation": "I am waiting for a letter."
+      },
+      {
+        "sentence": "彼からの便りはとても嬉しい。",
+        "translation": "A letter from him is very pleasing."
+      }
+    ]
+  },
+  {
+    "word": "局地的に",
+    "type": "Adverb",
+    "pronunciation": "きょくちてきに",
+    "explanation": "局地的に means 'locally' or 'regionally', referring to something that occurs in a specific area or locality rather than broadly or universally.",
+    "examples": [
+      {
+        "sentence": "局地的に大雨が降ることがあります。",
+        "translation": "Heavy rain may occur locally."
+      },
+      {
+        "sentence": "局地的に発生する問題に対処する必要があります。",
+        "translation": "We need to address problems that occur regionally."
+      },
+      {
+        "sentence": "この現象は局地的に見られる。",
+        "translation": "This phenomenon is observed locally."
+      }
+    ]
+  },
+  {
+    "word": "支配人",
+    "type": "Noun",
+    "pronunciation": "しはいにん",
+    "explanation": "支配人 refers to a manager or administrator, typically in a business or organizational context. This person is responsible for overseeing operations and making decisions within their area of authority.",
+    "examples": [
+      {
+        "sentence": "支配人は新しいスタッフを雇った。",
+        "translation": "The manager hired new staff."
+      },
+      {
+        "sentence": "ホテルの支配人は顧客の満足度を重視している。",
+        "translation": "The hotel manager prioritizes customer satisfaction."
+      },
+      {
+        "sentence": "支配人は会議で重要な決定を下した。",
+        "translation": "The manager made important decisions in the meeting."
+      }
+    ]
+  },
+  {
+    "word": "温厚な",
+    "type": "Adjective, na-adj",
+    "pronunciation": "おんこうな",
+    "explanation": "温厚な describes a person who is gentle, mild-mannered, and easygoing. It often refers to someone's temperament or personality, indicating that they are kind and approachable.",
+    "examples": [
+      {
+        "sentence": "彼は温厚な性格で、みんなに好かれている。",
+        "translation": "He has a gentle personality and is liked by everyone."
+      },
+      {
+        "sentence": "温厚な人々が集まる町です。",
+        "translation": "It is a town where gentle people gather."
+      },
+      {
+        "sentence": "温厚な態度で接すれば、相手も安心する。",
+        "translation": "If you approach with a mild manner, the other person will feel at ease."
+      }
+    ]
+  },
+  {
+    "word": "典",
+    "type": "Noun",
+    "pronunciation": "てん",
+    "explanation": "典 refers to a classic or standard example in literature, art, or culture. It can denote a model or a guide that is considered authoritative or exemplary.",
+    "examples": [
+      {
+        "sentence": "この本は古典の典です。",
+        "translation": "This book is a classic example."
+      },
+      {
+        "sentence": "彼の作品は芸術の典と言える。",
+        "translation": "His works can be said to be a standard in art."
+      },
+      {
+        "sentence": "典を学ぶことで、より深く文化を理解できる。",
+        "translation": "By studying the classics, one can understand culture more deeply."
+      }
+    ]
+  },
+  {
+    "word": "手本",
+    "type": "Noun",
+    "pronunciation": "てほん",
+    "explanation": "手本 refers to a model or example that can be used for imitation or guidance, often in the context of learning or practicing a skill.",
+    "examples": [
+      {
+        "sentence": "彼は書道の手本を見ながら練習しています。",
+        "translation": "He is practicing while looking at a model of calligraphy."
+      },
+      {
+        "sentence": "この作品は彼の手本としています。",
+        "translation": "This work serves as his model."
+      },
+      {
+        "sentence": "手本を参考にして、同じように描いてみてください。",
+        "translation": "Please try to draw in the same way by referring to the example."
+      }
+    ]
+  },
+  {
+    "word": "初任給",
+    "type": "Noun",
+    "pronunciation": "しょにんきゅう",
+    "explanation": "初任給 refers to the first salary or paycheck received by a newly employed person, typically after starting their first job. It is often a significant milestone for individuals entering the workforce.",
+    "examples": [
+      {
+        "sentence": "彼は初任給で家族にプレゼントを買った。",
+        "translation": "He bought a present for his family with his first salary."
+      },
+      {
+        "sentence": "初任給は大切な思い出です。",
+        "translation": "The first salary is a memorable experience."
+      },
+      {
+        "sentence": "多くの人が初任給を貯金することを選びます。",
+        "translation": "Many people choose to save their first salary."
+      }
+    ]
+  },
+  {
+    "word": "しんどい",
+    "type": "I-adjective",
+    "pronunciation": "しんどい",
+    "explanation": "しんどい is an i-adjective that describes a state of being tired, exhausted, or fatigued. It often conveys a sense of weariness from physical or mental effort.",
+    "examples": [
+      {
+        "sentence": "今日は仕事が多くて、すごくしんどい。",
+        "translation": "I have a lot of work today, and I'm really tired."
+      },
+      {
+        "sentence": "運動した後は、いつもしんどい。",
+        "translation": "I'm always exhausted after exercising."
+      },
+      {
+        "sentence": "長時間の旅行でしんどくなった。",
+        "translation": "I got tired from the long trip."
+      }
+    ]
+  },
+  {
+    "word": "退ける",
+    "type": "Transitive verb, Ru-verb",
+    "pronunciation": "しりぞける",
+    "explanation": "退ける means to push away, to remove, or to refuse something. It is often used in contexts where one is rejecting an idea, proposal, or person.",
+    "examples": [
+      {
+        "sentence": "彼は彼女の申し出を退けた。",
+        "translation": "He rejected her offer."
+      },
+      {
+        "sentence": "問題を退けることはできない。",
+        "translation": "We cannot ignore the problem."
+      },
+      {
+        "sentence": "その提案を退ける理由はない。",
+        "translation": "There is no reason to dismiss that proposal."
+      }
+    ]
+  },
+  {
+    "word": "継ぐ",
+    "type": "U-verb, Transitive",
+    "pronunciation": "つぐ",
+    "explanation": "継ぐ means to inherit, succeed, or continue something, such as a tradition, a business, or a role. It implies passing on or carrying forward responsibilities or characteristics from one person or generation to another.",
+    "examples": [
+      {
+        "sentence": "彼は父の仕事を継いだ。",
+        "translation": "He succeeded his father's business."
+      },
+      {
+        "sentence": "この伝統を継ぐことが大切だ。",
+        "translation": "It is important to continue this tradition."
+      },
+      {
+        "sentence": "彼女は祖母のレシピを継いでいる。",
+        "translation": "She is carrying on her grandmother's recipes."
+      }
+    ]
+  },
+  {
+    "word": "くだらない",
+    "type": "I-adjective",
+    "pronunciation": "くだらない",
+    "explanation": "くだらない means 'worthless' or 'trivial.' It is used to describe something that is not valuable or significant, often in a dismissive manner.",
+    "examples": [
+      {
+        "sentence": "この話はくだらない。",
+        "translation": "This story is worthless."
+      },
+      {
+        "sentence": "くだらないことに時間を使いたくない。",
+        "translation": "I don't want to waste time on trivial things."
+      },
+      {
+        "sentence": "彼のくだらないジョークに笑ってしまった。",
+        "translation": "I ended up laughing at his silly joke."
+      }
+    ]
+  },
+  {
+    "word": "今月いっぱい",
+    "type": "Noun",
+    "pronunciation": "こんげついっぱい",
+    "explanation": "今月いっぱい refers to the entirety of the current month, meaning until the end of the month. It emphasizes the time period that extends through the entire month without exception.",
+    "examples": [
+      {
+        "sentence": "今月いっぱいまでに申請してください。",
+        "translation": "Please submit your application by the end of this month."
+      },
+      {
+        "sentence": "今月いっぱい休暇を取ります。",
+        "translation": "I will take vacation until the end of this month."
+      },
+      {
+        "sentence": "今月いっぱいは特別割引があります。",
+        "translation": "There is a special discount until the end of this month."
+      }
+    ]
+  },
+  {
+    "word": "積み重ねる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "つみかさねる",
+    "explanation": "積み重ねる means to stack or pile up objects on top of one another. It often refers to accumulating or layering items, such as books, boxes, or experiences.",
+    "examples": [
+      {
+        "sentence": "彼は本を積み重ねるのが好きです。",
+        "translation": "He likes to stack books."
+      },
+      {
+        "sentence": "データを積み重ねることで、より正確な結果が得られる。",
+        "translation": "By accumulating data, more accurate results can be obtained."
+      },
+      {
+        "sentence": "彼女は思い出を積み重ねてきた。",
+        "translation": "She has piled up memories."
+      }
+    ]
+  },
+  {
+    "word": "積む",
+    "type": "U-verb, Transitive",
+    "pronunciation": "つむ",
+    "explanation": "積む means to stack, to pile up, or to load. It refers to the action of placing objects on top of each other or loading items onto a vehicle or structure.",
+    "examples": [
+      {
+        "sentence": "彼は本を積んでテーブルを作った。",
+        "translation": "He stacked books to make a table."
+      },
+      {
+        "sentence": "車に荷物を積むのを手伝った。",
+        "translation": "I helped load the luggage into the car."
+      },
+      {
+        "sentence": "雪が積もって道が見えなくなった。",
+        "translation": "The snow piled up and obscured the road."
+      }
+    ]
+  },
+  {
+    "word": "消極的に",
+    "type": "Adverb",
+    "pronunciation": "しょうきょくてきに",
+    "explanation": "消極的に is an adverb that means 'passively' or 'negatively,' often describing a lack of enthusiasm or active participation in a situation. It conveys a sense of reluctance or a non-aggressive approach to something.",
+    "examples": [
+      {
+        "sentence": "彼は消極的に意見を述べた。",
+        "translation": "He expressed his opinion passively."
+      },
+      {
+        "sentence": "消極的に行動することは、時には危険だ。",
+        "translation": "Acting passively can sometimes be dangerous."
+      },
+      {
+        "sentence": "彼女は消極的に参加することを選んだ。",
+        "translation": "She chose to participate in a passive manner."
+      }
+    ]
+  }
+]

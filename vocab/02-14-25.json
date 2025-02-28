@@ -1,0 +1,282 @@
+[
+  {
+    "word": "カスピ海",
+    "type": "Noun",
+    "pronunciation": "かすぴかい",
+    "explanation": "カスピ海 (Kaspikai) refers to the Caspian Sea, which is the largest enclosed inland body of water on Earth, bordered by several countries including Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan. It is classified as both a lake and a sea due to its size and salinity.",
+    "examples": [
+      {
+        "sentence": "カスピ海は多くの魚種が生息しています。",
+        "translation": "The Caspian Sea is home to many species of fish."
+      },
+      {
+        "sentence": "私はカスピ海を訪れたことがあります。",
+        "translation": "I have visited the Caspian Sea."
+      },
+      {
+        "sentence": "カスピ海の水は塩分が多いです。",
+        "translation": "The water of the Caspian Sea is highly saline."
+      }
+    ]
+  },
+  {
+    "word": "管理職",
+    "type": "Noun",
+    "pronunciation": "かんりしょく",
+    "explanation": "管理職 refers to a management position within an organization, responsible for overseeing and directing the work of others. It encompasses roles that involve leadership, decision-making, and administrative duties.",
+    "examples": [
+      {
+        "sentence": "彼は新しい管理職に就任した。",
+        "translation": "He has taken on a new management position."
+      },
+      {
+        "sentence": "管理職はチームを効果的に導く必要がある。",
+        "translation": "Managers need to effectively lead their teams."
+      },
+      {
+        "sentence": "この会社では、管理職の責任が非常に重要視されている。",
+        "translation": "In this company, the responsibilities of management positions are highly valued."
+      }
+    ]
+  },
+  {
+    "word": "旧姓",
+    "type": "Noun",
+    "pronunciation": "きゅうせい",
+    "explanation": "旧姓 refers to a person's maiden name or former surname before marriage. It is often used in legal and formal contexts.",
+    "examples": [
+      {
+        "sentence": "結婚後も彼女は旧姓を使い続けることにした。",
+        "translation": "She decided to continue using her maiden name after marriage."
+      },
+      {
+        "sentence": "書類には必ず旧姓を記入してください。",
+        "translation": "Please make sure to include your maiden name on the documents."
+      },
+      {
+        "sentence": "旧姓が記載されたパスポートを持っている。",
+        "translation": "I have a passport that shows my maiden name."
+      }
+    ]
+  },
+  {
+    "word": "昔話",
+    "type": "Noun",
+    "pronunciation": "むかしばなし",
+    "explanation": "昔話 refers to a traditional tale or folklore, often passed down through generations, that typically conveys moral lessons or cultural values. These stories are integral to Japanese culture and often feature mythical creatures, historical figures, or fantastical events.",
+    "examples": [
+      {
+        "sentence": "子供の頃、祖母から昔話を聞いていました。",
+        "translation": "When I was a child, I used to listen to old tales from my grandmother."
+      },
+      {
+        "sentence": "この昔話は日本の文化を反映しています。",
+        "translation": "This folktale reflects Japanese culture."
+      },
+      {
+        "sentence": "昔話の中には、教訓が隠されています。",
+        "translation": "There are lessons hidden within these traditional stories."
+      }
+    ]
+  },
+  {
+    "word": "管",
+    "type": "Noun",
+    "pronunciation": "くだ",
+    "explanation": "管 refers to a tube or pipe, often used for conveying fluids or gases. It can also refer to a channel or conduit in a more abstract sense.",
+    "examples": [
+      {
+        "sentence": "水道管が破裂した。",
+        "translation": "The water pipe has burst."
+      },
+      {
+        "sentence": "彼は気管支の病気を患っている。",
+        "translation": "He suffers from a bronchial disease."
+      },
+      {
+        "sentence": "この管は空気を運ぶために使われる。",
+        "translation": "This tube is used to carry air."
+      }
+    ]
+  },
+  {
+    "word": "現れる",
+    "type": "Verb, U-verb, Intransitive",
+    "pronunciation": "あらわれる",
+    "explanation": "現れる means 'to appear' or 'to come into view'. It is used when something becomes visible or manifests itself in a certain place or situation.",
+    "examples": [
+      {
+        "sentence": "彼は突然現れた。",
+        "translation": "He appeared suddenly."
+      },
+      {
+        "sentence": "新しい星が夜空に現れた。",
+        "translation": "A new star appeared in the night sky."
+      },
+      {
+        "sentence": "問題が現れたとき、すぐに対処しなければならない。",
+        "translation": "When problems appear, we must address them immediately."
+      }
+    ]
+  },
+  {
+    "word": "現す",
+    "type": "U-verb, Transitive",
+    "pronunciation": "あらわす",
+    "explanation": "現す means to reveal, to show, or to express something. It is used when something is made visible or apparent, often referring to emotions, thoughts, or appearances.",
+    "examples": [
+      {
+        "sentence": "彼は自分の気持ちを言葉で現した。",
+        "translation": "He expressed his feelings in words."
+      },
+      {
+        "sentence": "この絵は彼の内面的な世界を現している。",
+        "translation": "This painting reveals his inner world."
+      },
+      {
+        "sentence": "彼女の笑顔は喜びを現している。",
+        "translation": "Her smile shows her joy."
+      }
+    ]
+  },
+  {
+    "word": "ないはず",
+    "type": "Phrase",
+    "pronunciation": "ないはず",
+    "explanation": "ないはず is a phrase used to express the speaker's belief or assumption that something should not be the case, indicating a strong sense of expectation regarding the negation of a situation or fact.",
+    "examples": [
+      {
+        "sentence": "彼はもう来ないはずです。",
+        "translation": "He should not be coming anymore."
+      },
+      {
+        "sentence": "そんなことはないはずだ。",
+        "translation": "That should not be the case."
+      },
+      {
+        "sentence": "彼女はその話を知っているはずだ。",
+        "translation": "She should know about that story."
+      }
+    ]
+  },
+  {
+    "word": "現在",
+    "type": "Noun",
+    "pronunciation": "げんざい",
+    "explanation": "現在 refers to the present time or the current situation. It signifies the moment that is happening now, as opposed to the past or future.",
+    "examples": [
+      {
+        "sentence": "現在、私は日本に住んでいます。",
+        "translation": "Currently, I live in Japan."
+      },
+      {
+        "sentence": "現在の状況を考慮する必要があります。",
+        "translation": "We need to consider the current situation."
+      },
+      {
+        "sentence": "彼は現在、大学で勉強しています。",
+        "translation": "He is currently studying at university."
+      }
+    ]
+  },
+  {
+    "word": "家柄",
+    "type": "Noun",
+    "pronunciation": "いえがら",
+    "explanation": "家柄 refers to a person's family background or lineage, often implying the social status or reputation of that family. It is commonly used to discuss the heritage and the traditional values associated with a particular family.",
+    "examples": [
+      {
+        "sentence": "彼は名門の家柄に生まれた。",
+        "translation": "He was born into a prestigious family."
+      },
+      {
+        "sentence": "家柄を重視する人も多い。",
+        "translation": "Many people place importance on family background."
+      },
+      {
+        "sentence": "その家柄には長い歴史がある。",
+        "translation": "That family has a long history."
+      }
+    ]
+  },
+  {
+    "word": "旧家",
+    "type": "Noun",
+    "pronunciation": "きゅうか",
+    "explanation": "旧家 refers to an old family home or ancestral house, often implying historical significance or a long lineage associated with the property.",
+    "examples": [
+      {
+        "sentence": "彼は旧家に住んでいる。",
+        "translation": "He lives in an old family home."
+      },
+      {
+        "sentence": "この地域には多くの旧家が残っている。",
+        "translation": "There are many old family homes remaining in this area."
+      },
+      {
+        "sentence": "旧家を訪れると、歴史を感じることができる。",
+        "translation": "When visiting the old family home, you can feel the history."
+      }
+    ]
+  },
+  {
+    "word": "食べされる",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "たべされる",
+    "explanation": "食べされる is the passive form of the verb 食べる (to eat), indicating that the subject is the receiver of the action of eating. It implies that someone is being eaten by someone else, which is not a common usage in everyday language but may be encountered in specific contexts or literary works.",
+    "examples": [
+      {
+        "sentence": "彼は皆に食べされることを恐れている。",
+        "translation": "He is afraid of being eaten by everyone."
+      },
+      {
+        "sentence": "その動物は捕食者に食べされる。",
+        "translation": "That animal is eaten by predators."
+      },
+      {
+        "sentence": "食べされる夢を見た。",
+        "translation": "I had a dream of being eaten."
+      }
+    ]
+  },
+  {
+    "word": "〜つつある",
+    "type": "Verb, Auxiliary Verb",
+    "pronunciation": "つつある",
+    "explanation": "〜つつある is an auxiliary verb used to indicate that an action is currently in progress. It is often attached to the -masu form of a verb, conveying a sense of continuity in the action being described.",
+    "examples": [
+      {
+        "sentence": "彼は勉強をしつつある。",
+        "translation": "He is currently studying."
+      },
+      {
+        "sentence": "経済は回復しつつある。",
+        "translation": "The economy is recovering."
+      },
+      {
+        "sentence": "私たちは問題を解決しつつある。",
+        "translation": "We are in the process of solving the problem."
+      }
+    ]
+  },
+  {
+    "word": "〜つつ",
+    "type": "Conjunction",
+    "pronunciation": "つつ",
+    "explanation": "〜つつ is a conjunction used to indicate that two actions are occurring at the same time, often translating to 'while' or 'during.' It expresses a simultaneous action or state of being.",
+    "examples": [
+      {
+        "sentence": "彼は勉強しつつ、音楽を聴いている。",
+        "translation": "He is studying while listening to music."
+      },
+      {
+        "sentence": "仕事をしつつ、休憩も取ります。",
+        "translation": "I will take breaks while working."
+      },
+      {
+        "sentence": "彼女は料理を作りつつ、テレビを見ている。",
+        "translation": "She is watching TV while cooking."
+      }
+    ]
+  }
+]

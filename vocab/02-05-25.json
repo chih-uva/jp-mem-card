@@ -1,0 +1,522 @@
+[
+  {
+    "word": "有意義",
+    "type": "Na-adj",
+    "pronunciation": "ゆういぎ",
+    "explanation": "有意義 means 'meaningful' or 'significant.' It describes something that has a purpose or value, often in a positive context, indicating that it contributes positively to an experience or situation.",
+    "examples": [
+      {
+        "sentence": "このプロジェクトは有意義な経験でした。",
+        "translation": "This project was a meaningful experience."
+      },
+      {
+        "sentence": "有意義な時間を過ごすことが大切です。",
+        "translation": "It is important to spend meaningful time."
+      },
+      {
+        "sentence": "彼の意見は非常に有意義だと思います。",
+        "translation": "I think his opinion is very meaningful."
+      }
+    ]
+  },
+  {
+    "word": "腹を立てる",
+    "type": "U-verb, Transitive",
+    "pronunciation": "はらをたてる",
+    "explanation": "腹を立てる means 'to get angry' or 'to become angry'. It is used to express a state of anger that someone experiences due to a specific reason or action.",
+    "examples": [
+      {
+        "sentence": "彼はそのニュースを聞いて腹を立てた。",
+        "translation": "He became angry upon hearing the news."
+      },
+      {
+        "sentence": "その言葉に腹を立てないでください。",
+        "translation": "Please don't get angry at those words."
+      },
+      {
+        "sentence": "彼女は彼の無礼に腹を立てていた。",
+        "translation": "She was angry about his rudeness."
+      }
+    ]
+  },
+  {
+    "word": "しつこく聞く",
+    "type": "Verb",
+    "pronunciation": "しつこくきく",
+    "explanation": "しつこく聞く refers to the act of persistently or insistently asking questions or inquiring about something, often to the point of being bothersome. It implies a determination to get an answer, regardless of how many times one has to ask.",
+    "examples": [
+      {
+        "sentence": "彼はしつこく聞くので、みんなはうんざりしている。",
+        "translation": "He keeps asking persistently, so everyone is fed up."
+      },
+      {
+        "sentence": "しつこく聞いても、彼女は答えなかった。",
+        "translation": "Even after asking persistently, she did not answer."
+      },
+      {
+        "sentence": "その件についてしつこく聞くのはやめてください。",
+        "translation": "Please stop asking persistently about that matter."
+      }
+    ]
+  },
+  {
+    "word": "聞くもん",
+    "type": "Verb, U-verb",
+    "pronunciation": "きくもん",
+    "explanation": "聞くもん is an informal or colloquial way to express the verb 'to listen' or 'to hear'. It can imply an emphasis on listening to something, often used in casual conversation.",
+    "examples": [
+      {
+        "sentence": "音楽を聞くもんが大好きです。",
+        "translation": "I really love listening to music."
+      },
+      {
+        "sentence": "彼の話を聞くもんは面白い。",
+        "translation": "Listening to his stories is interesting."
+      },
+      {
+        "sentence": "ニュースを聞くもんは重要です。",
+        "translation": "Listening to the news is important."
+      }
+    ]
+  },
+  {
+    "word": "居眠り",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "いねむり",
+    "explanation": "居眠り refers to the act of dozing off or taking a nap, typically in a sitting position. It can be seen as a casual or unintentional form of sleep.",
+    "examples": [
+      {
+        "sentence": "授業中に居眠りをしてしまった。",
+        "translation": "I dozed off during the class."
+      },
+      {
+        "sentence": "彼は会議中に居眠りしていた。",
+        "translation": "He was dozing off during the meeting."
+      },
+      {
+        "sentence": "居眠りは健康に良くないと言われている。",
+        "translation": "It is said that dozing off is not good for health."
+      }
+    ]
+  },
+  {
+    "word": "〜ところへ, 〜ところに, 〜ところを",
+    "type": "Phrase",
+    "pronunciation": "〜ところへ, 〜ところに, 〜ところを",
+    "explanation": "These phrases indicate a location or context. '〜ところへ' typically means 'to the place of...', '〜ところに' means 'at the place of...', and '〜ところを' implies 'at the point of...' or 'when...'. They are often used to indicate the timing or location of an action.",
+    "examples": [
+      {
+        "sentence": "彼が来るところへ、家族が待っていた。",
+        "translation": "The family was waiting at the place where he was coming."
+      },
+      {
+        "sentence": "今、勉強しているところに友達が来た。",
+        "translation": "A friend came while I was studying."
+      },
+      {
+        "sentence": "仕事をしているところを見られた。",
+        "translation": "I was seen at the point of doing my work."
+      }
+    ]
+  },
+  {
+    "word": "て以来",
+    "type": "Phrase",
+    "pronunciation": "ていらい",
+    "explanation": "て以来 is a grammatical expression used to indicate that an action has continued from a certain point in the past until now. It often follows the te-form of a verb to show that since that action occurred, another action or state has persisted.",
+    "examples": [
+      {
+        "sentence": "彼は大学を卒業して以来、ずっと東京に住んでいます。",
+        "translation": "He has been living in Tokyo since he graduated from university."
+      },
+      {
+        "sentence": "仕事を始めて以来、忙しくなった。",
+        "translation": "I have been busy since I started working."
+      },
+      {
+        "sentence": "日本に来て以来、日本文化に興味を持つようになった。",
+        "translation": "Since coming to Japan, I have become interested in Japanese culture."
+      }
+    ]
+  },
+  {
+    "word": "埃だらけ",
+    "type": "Noun",
+    "pronunciation": "あいだらけ",
+    "explanation": "埃だらけ refers to something that is covered in dust or dirt. It is used to describe a state of being very dirty or unclean due to the accumulation of dust.",
+    "examples": [
+      {
+        "sentence": "部屋は埃だらけだった。",
+        "translation": "The room was covered in dust."
+      },
+      {
+        "sentence": "彼の靴は埃だらけになってしまった。",
+        "translation": "His shoes became covered in dust."
+      },
+      {
+        "sentence": "この本は長い間放置されていたので、埃だらけだ。",
+        "translation": "This book has been left untouched for a long time, so it's covered in dust."
+      }
+    ]
+  },
+  {
+    "word": "ガチ",
+    "type": "Noun, I-adjective",
+    "pronunciation": "がち",
+    "explanation": "ガチ is a slang term that means serious or genuine. It is often used to describe something that is done with full commitment or sincerity, particularly in informal contexts such as gaming, sports, or daily conversation.",
+    "examples": [
+      {
+        "sentence": "彼はガチで勝ちに行くつもりだ。",
+        "translation": "He is seriously planning to win."
+      },
+      {
+        "sentence": "このイベントはガチな競争になるだろう。",
+        "translation": "This event will be a serious competition."
+      },
+      {
+        "sentence": "彼女はガチで料理が上手だ。",
+        "translation": "She is genuinely good at cooking."
+      }
+    ]
+  },
+  {
+    "word": "名詞＋ガチ",
+    "type": "Noun, Adjective",
+    "pronunciation": "めいし＋がち",
+    "explanation": "名詞＋ガチ is a colloquial expression used to describe something that is heavily associated with or likely to happen in relation to a noun. It conveys a sense of seriousness or earnestness regarding the noun it modifies.",
+    "examples": [
+      {
+        "sentence": "彼は仕事ガチの人です。",
+        "translation": "He is someone who is serious about work."
+      },
+      {
+        "sentence": "この料理は辛いガチです。",
+        "translation": "This dish is seriously spicy."
+      },
+      {
+        "sentence": "彼女は恋愛ガチのタイプだ。",
+        "translation": "She is the type to take love seriously."
+      }
+    ]
+  },
+  {
+    "word": "動詞（マス形）＋ガチ",
+    "type": "Noun",
+    "pronunciation": "どうし（マスけい）＋ガチ",
+    "explanation": "動詞（マス形）＋ガチ is a colloquial expression used to indicate that something is likely to happen or has a strong tendency to occur based on the action of the verb in its masu form. It conveys a sense of inevitability or strong likelihood, often in informal contexts.",
+    "examples": [
+      {
+        "sentence": "彼は勉強しがちだから、友達と遊びに行くのは難しい。",
+        "translation": "He tends to study a lot, so it's hard for him to go out with friends."
+      },
+      {
+        "sentence": "雨が降りがちの季節です。",
+        "translation": "It's a season when it tends to rain."
+      },
+      {
+        "sentence": "彼女は遅刻しがちなので、いつも早めに出発する。",
+        "translation": "She tends to be late, so I always leave early."
+      }
+    ]
+  },
+  {
+    "word": "気味",
+    "type": "Noun",
+    "pronunciation": "ぎみ",
+    "explanation": "気味 refers to a feeling, sensation, or impression, often used to express a nuance of unease or discomfort about something. It can indicate a tendency or a hint of a particular quality.",
+    "examples": [
+      {
+        "sentence": "彼は最近元気がない気味だ。",
+        "translation": "He seems to be lacking energy lately."
+      },
+      {
+        "sentence": "この食べ物は少し甘い気味がする。",
+        "translation": "This food has a bit of a sweet taste."
+      },
+      {
+        "sentence": "その話には怪しい気味がある。",
+        "translation": "There is a suspicious feeling about that story."
+      }
+    ]
+  },
+  {
+    "word": "突き当たり",
+    "type": "Noun",
+    "pronunciation": "つきあたり",
+    "explanation": "突き当たり refers to the end of a street or path where it meets something, often indicating a dead end or a point where one must turn. It signifies a physical location rather than an action or state.",
+    "examples": [
+      {
+        "sentence": "この道をまっすぐ行くと突き当たりがあります。",
+        "translation": "If you go straight down this road, there is a dead end."
+      },
+      {
+        "sentence": "突き当たりを左に曲がってください。",
+        "translation": "Please turn left at the end of the street."
+      },
+      {
+        "sentence": "突き当たりの家が彼の家です。",
+        "translation": "The house at the end of the street is his."
+      }
+    ]
+  },
+  {
+    "word": "長引く",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "ながびく",
+    "explanation": "長引く means to be prolonged or to take longer than expected. It is often used in the context of events, situations, or illnesses that extend beyond the usual duration.",
+    "examples": [
+      {
+        "sentence": "会議が長引いてしまった。",
+        "translation": "The meeting ended up being prolonged."
+      },
+      {
+        "sentence": "風邪が長引いて、なかなか治らない。",
+        "translation": "My cold has been dragging on, and it won't heal easily."
+      },
+      {
+        "sentence": "このプロジェクトは長引く可能性がある。",
+        "translation": "This project has the potential to drag on."
+      }
+    ]
+  },
+  {
+    "word": "躓く",
+    "type": "Verb, U-verb",
+    "pronunciation": "つまずく",
+    "explanation": "躓く means to stumble or trip, usually while walking. It refers to losing balance due to an obstacle or uneven surface.",
+    "examples": [
+      {
+        "sentence": "彼は石につまずいて転んだ。",
+        "translation": "He stumbled over a stone and fell."
+      },
+      {
+        "sentence": "歩いているときに躓くことはよくある。",
+        "translation": "It's common to stumble while walking."
+      },
+      {
+        "sentence": "注意して歩かないと、すぐに躓いてしまう。",
+        "translation": "If you're not careful while walking, you'll stumble easily."
+      }
+    ]
+  },
+  {
+    "word": "素人",
+    "type": "Noun",
+    "pronunciation": "しろうと",
+    "explanation": "素人 refers to a person who is not a professional or expert in a particular field, often used to describe someone who is an amateur or a novice in a specific area or activity.",
+    "examples": [
+      {
+        "sentence": "彼は素人ですが、絵を描くのが好きです。",
+        "translation": "He is an amateur, but he loves to paint."
+      },
+      {
+        "sentence": "素人のサッカー選手たちが試合をしています。",
+        "translation": "Amateur soccer players are having a match."
+      },
+      {
+        "sentence": "素人でもできる簡単なレシピです。",
+        "translation": "This is an easy recipe that even a beginner can follow."
+      }
+    ]
+  },
+  {
+    "word": "玄人",
+    "type": "Noun",
+    "pronunciation": "くろうと",
+    "explanation": "玄人 refers to an expert or a professional in a particular field, often implying a high level of skill or experience. It can be used to describe someone who is knowledgeable in arts, crafts, or other specialized areas.",
+    "examples": [
+      {
+        "sentence": "彼は音楽の玄人です。",
+        "translation": "He is an expert in music."
+      },
+      {
+        "sentence": "この店には玄人が集まる。",
+        "translation": "This shop attracts professionals."
+      },
+      {
+        "sentence": "玄人の意見を聞くことが重要です。",
+        "translation": "It is important to listen to the opinions of experts."
+      }
+    ]
+  },
+  {
+    "word": "巫山戯る",
+    "type": "U-verb",
+    "pronunciation": "ふさんぎる",
+    "explanation": "巫山戯る refers to the act of joking or playing around, often in a frivolous or mocking manner. It can imply a lack of seriousness or an intention to tease.",
+    "examples": [
+      {
+        "sentence": "彼はいつも巫山戯ってばかりいる。",
+        "translation": "He is always just joking around."
+      },
+      {
+        "sentence": "そんな巫山戯りはやめて、真面目に話そう。",
+        "translation": "Stop that joking and let's talk seriously."
+      },
+      {
+        "sentence": "彼女の巫山戯りは時々うざい。",
+        "translation": "Her joking around can be annoying at times."
+      }
+    ]
+  },
+  {
+    "word": "ふざける",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "ふざける",
+    "explanation": "ふざける means to joke, to fool around, or to play around. It is often used to describe behavior that is playful or not serious, sometimes inappropriately so.",
+    "examples": [
+      {
+        "sentence": "彼はいつもふざけてばかりいる。",
+        "translation": "He is always fooling around."
+      },
+      {
+        "sentence": "授業中にふざけてはいけない。",
+        "translation": "You should not joke around during class."
+      },
+      {
+        "sentence": "友達とふざけて遊んでいた。",
+        "translation": "I was playing around with my friends."
+      }
+    ]
+  },
+  {
+    "word": "カンニング",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かんにんぐ",
+    "explanation": "カンニング refers to the act of cheating, especially in an academic context, such as looking at someone else's answers during a test. It is generally considered dishonest and unethical.",
+    "examples": [
+      {
+        "sentence": "彼は試験中にカンニングをした。",
+        "translation": "He cheated during the exam."
+      },
+      {
+        "sentence": "カンニングが発覚したら、ペナルティがある。",
+        "translation": "If cheating is discovered, there will be penalties."
+      },
+      {
+        "sentence": "カンニングをすることは、学ぶ機会を失うことだ。",
+        "translation": "Cheating means losing the opportunity to learn."
+      }
+    ]
+  },
+  {
+    "word": "果たして〜だろうか",
+    "type": "Phrase",
+    "pronunciation": "はたして〜だろうか",
+    "explanation": "果たして〜だろうか is an expression used to question the truth or reality of something, often translated as 'I wonder if it is really the case that...'. It conveys a sense of curiosity or skepticism about the situation being discussed.",
+    "examples": [
+      {
+        "sentence": "果たして彼は本当にそこにいるのだろうか？",
+        "translation": "I wonder if he is really there?"
+      },
+      {
+        "sentence": "果たしてこの方法が効果的だろうか。",
+        "translation": "I wonder if this method is really effective."
+      },
+      {
+        "sentence": "果たして彼女は約束を守るのだろうか。",
+        "translation": "I wonder if she will really keep her promise."
+      }
+    ]
+  },
+  {
+    "word": "当番",
+    "type": "Noun",
+    "pronunciation": "とうばん",
+    "explanation": "当番 refers to a duty or a turn in a rotation, often related to responsibilities assigned to individuals within a group or organization. It signifies the person who is responsible for a specific task at a particular time.",
+    "examples": [
+      {
+        "sentence": "今日は私の当番です。",
+        "translation": "Today is my turn."
+      },
+      {
+        "sentence": "彼は毎週末、掃除の当番をしています。",
+        "translation": "He is on cleaning duty every weekend."
+      },
+      {
+        "sentence": "当番が終わったら、次の人に引き継いでください。",
+        "translation": "Please hand over to the next person after your duty is done."
+      }
+    ]
+  },
+  {
+    "word": "説得",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "せっとく",
+    "explanation": "説得 refers to the act of persuading or convincing someone to do something or to accept a particular viewpoint. It involves reasoning and arguments to influence someone's opinion or decision.",
+    "examples": [
+      {
+        "sentence": "彼は私を説得してその映画を見に行かせた。",
+        "translation": "He convinced me to go see that movie."
+      },
+      {
+        "sentence": "説得するのは簡単ではない。",
+        "translation": "It is not easy to persuade someone."
+      },
+      {
+        "sentence": "彼女の説得が成功した。",
+        "translation": "Her persuasion was successful."
+      }
+    ]
+  },
+  {
+    "word": "かまいません",
+    "type": "Phrase",
+    "pronunciation": "かまいません",
+    "explanation": "かまいません is a polite expression that means 'it doesn't matter' or 'it's okay.' It is used to indicate that something is not a problem or that one is indifferent to a situation.",
+    "examples": [
+      {
+        "sentence": "遅れてもかまいません。",
+        "translation": "It's okay if you're late."
+      },
+      {
+        "sentence": "お金がなくてもかまいません。",
+        "translation": "It doesn't matter if you don't have money."
+      },
+      {
+        "sentence": "どんな結果になってもかまいません。",
+        "translation": "I don't mind what the result is."
+      }
+    ]
+  },
+  {
+    "word": "いずれ",
+    "type": "Noun",
+    "pronunciation": "いずれ",
+    "explanation": "いずれ refers to 'sometime', 'eventually', or 'one of these days'. It is often used to indicate an uncertain future time or to imply that something will happen at an unspecified time.",
+    "examples": [
+      {
+        "sentence": "いずれまた会いましょう。",
+        "translation": "Let's meet again sometime."
+      },
+      {
+        "sentence": "いずれその問題は解決するでしょう。",
+        "translation": "That issue will eventually be resolved."
+      },
+      {
+        "sentence": "いずれは自分の店を持ちたい。",
+        "translation": "I want to have my own store someday."
+      }
+    ]
+  },
+  {
+    "word": "草臥れた",
+    "type": "I-adjective",
+    "pronunciation": "くたびれた",
+    "explanation": "草臥れた describes a state of being tired or worn out, often due to physical exertion or fatigue. It conveys a sense of exhaustion or being overworked.",
+    "examples": [
+      {
+        "sentence": "今日は一日中働いて、草臥れた。",
+        "translation": "I worked all day today and I'm worn out."
+      },
+      {
+        "sentence": "旅行の後はいつも草臥れた気分になる。",
+        "translation": "I always feel tired after a trip."
+      },
+      {
+        "sentence": "彼は草臥れた様子でソファに座った。",
+        "translation": "He sat on the sofa looking worn out."
+      }
+    ]
+  }
+]

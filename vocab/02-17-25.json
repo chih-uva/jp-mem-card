@@ -1,0 +1,442 @@
+[
+  {
+    "word": "過ぎ去った",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "すぎさった",
+    "explanation": "過ぎ去った is the past tense of 過ぎ去る (すぎさる), which means 'to pass by' or 'to elapse'. It describes something that has already passed or gone away, often referring to time or events.",
+    "examples": [
+      {
+        "sentence": "時間が過ぎ去った後、彼は静かに考えた。",
+        "translation": "After time had passed, he quietly reflected."
+      },
+      {
+        "sentence": "楽しい思い出が過ぎ去った。",
+        "translation": "The joyful memories have passed."
+      },
+      {
+        "sentence": "嵐は過ぎ去ったが、影響は残った。",
+        "translation": "The storm has passed, but the effects remain."
+      }
+    ]
+  },
+  {
+    "word": "大昔",
+    "type": "Noun",
+    "pronunciation": "おおむかし",
+    "explanation": "大昔 refers to a very long time ago or ancient times, often implying a historical context that is far removed from the present.",
+    "examples": [
+      {
+        "sentence": "大昔の人々は狩りをして生活していた。",
+        "translation": "People in ancient times lived by hunting."
+      },
+      {
+        "sentence": "大昔の出来事について学ぶのが好きです。",
+        "translation": "I enjoy learning about events from ancient times."
+      },
+      {
+        "sentence": "この石器は大昔に作られたものです。",
+        "translation": "This stone tool was made a long time ago."
+      }
+    ]
+  },
+  {
+    "word": "浦島太郎",
+    "type": "Noun",
+    "pronunciation": "うらしま たろう",
+    "explanation": "浦島太郎 is a famous character from Japanese folklore who is known for his adventures under the sea, particularly involving a magical turtle and the Dragon Palace (竜宮城). He represents themes of time, loss, and the consequences of one's actions.",
+    "examples": [
+      {
+        "sentence": "浦島太郎の話は日本の伝説の中で非常に有名です。",
+        "translation": "The story of Urashima Taro is very famous in Japanese legends."
+      },
+      {
+        "sentence": "子供の頃、浦島太郎の物語を読んだことがあります。",
+        "translation": "I read the story of Urashima Taro when I was a child."
+      },
+      {
+        "sentence": "浦島太郎は、海の中での美しい冒険を経験しました。",
+        "translation": "Urashima Taro experienced beautiful adventures under the sea."
+      }
+    ]
+  },
+  {
+    "word": "竜宮城",
+    "type": "Noun",
+    "pronunciation": "りゅうぐうじょう",
+    "explanation": "竜宮城 (りゅうぐうじょう) refers to the mythical underwater palace of the Dragon King in Japanese folklore. It is often depicted as a beautiful, ethereal place where time flows differently and is associated with various legends, particularly those related to the tale of Urashima Taro.",
+    "examples": [
+      {
+        "sentence": "竜宮城には美しい海の生き物が住んでいる。",
+        "translation": "Beautiful sea creatures live in the Dragon King's palace."
+      },
+      {
+        "sentence": "彼は竜宮城での冒険を夢見ている。",
+        "translation": "He dreams of adventures in the Dragon King's palace."
+      },
+      {
+        "sentence": "竜宮城は日本の伝説において重要な場所です。",
+        "translation": "The Dragon King's palace is an important place in Japanese legends."
+      }
+    ]
+  },
+  {
+    "word": "もったいない",
+    "type": "I-adjective",
+    "pronunciation": "もったいない",
+    "explanation": "もったいない is an adjective that expresses a sense of wastefulness or regret over something that is not being used to its full potential. It is often used to convey that something should be appreciated or utilized more effectively.",
+    "examples": [
+      {
+        "sentence": "食べ残しはもったいない。",
+        "translation": "Leaving food uneaten is wasteful."
+      },
+      {
+        "sentence": "その才能をもったいないと思います。",
+        "translation": "I think it's a waste not to use that talent."
+      },
+      {
+        "sentence": "捨てるにはもったいない物がたくさんある。",
+        "translation": "There are many things that are too good to throw away."
+      }
+    ]
+  },
+  {
+    "word": "会費",
+    "type": "Noun",
+    "pronunciation": "かいひ",
+    "explanation": "会費 refers to the membership fee or dues that are paid to participate in a club, organization, or event. It is typically required for the maintenance and activities of the group.",
+    "examples": [
+      {
+        "sentence": "このクラブの会費は毎年支払わなければならない。",
+        "translation": "The membership fee for this club must be paid every year."
+      },
+      {
+        "sentence": "会費が高いので、参加をためらっています。",
+        "translation": "I'm hesitant to participate because the membership fee is high."
+      },
+      {
+        "sentence": "彼は会費を払うことを忘れた。",
+        "translation": "He forgot to pay the membership fee."
+      }
+    ]
+  },
+  {
+    "word": "次第",
+    "type": "Noun, Adverb",
+    "pronunciation": "しだい",
+    "explanation": "次第 refers to the order, sequence, or condition of things. It can also mean 'depending on' or 'as soon as' in certain contexts, indicating that something is contingent upon something else.",
+    "examples": [
+      {
+        "sentence": "状況次第で計画を変更することがあります。",
+        "translation": "Depending on the situation, we may change our plans."
+      },
+      {
+        "sentence": "準備ができ次第、出発します。",
+        "translation": "We will depart as soon as we are ready."
+      },
+      {
+        "sentence": "彼の返事次第では、行くかどうか決めます。",
+        "translation": "I will decide whether to go depending on his reply."
+      }
+    ]
+  },
+  {
+    "word": "目次",
+    "type": "Noun",
+    "pronunciation": "もくじ",
+    "explanation": "目次 refers to a table of contents, typically found at the beginning of a book or document, listing the chapters or sections along with their corresponding page numbers. It helps readers navigate through the material easily.",
+    "examples": [
+      {
+        "sentence": "本の目次を見て、興味のある章を選びました。",
+        "translation": "I looked at the table of contents of the book and chose a chapter that interested me."
+      },
+      {
+        "sentence": "目次があると、必要な情報をすぐに見つけることができます。",
+        "translation": "Having a table of contents allows you to find the information you need quickly."
+      },
+      {
+        "sentence": "レポートの目次を作成するのを忘れないでください。",
+        "translation": "Don't forget to create a table of contents for the report."
+      }
+    ]
+  },
+  {
+    "word": "むだ遣いをやめて切りつめること",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "むだづかいをやめてきりつめること",
+    "explanation": "むだ遣いをやめて切りつめること refers to the act of stopping wasteful spending and cutting back on expenses. It emphasizes the importance of financial responsibility and frugality.",
+    "examples": [
+      {
+        "sentence": "彼はむだ遣いをやめて切りつめることを決意した。",
+        "translation": "He decided to stop wasteful spending and cut back on expenses."
+      },
+      {
+        "sentence": "むだ遣いをやめて切りつめることは、貯金にとって重要だ。",
+        "translation": "Stopping wasteful spending and cutting back is important for saving money."
+      },
+      {
+        "sentence": "私たちはむだ遣いをやめて切りつめることが必要です。",
+        "translation": "We need to stop wasteful spending and cut back."
+      }
+    ]
+  },
+  {
+    "word": "費やす",
+    "type": "Verb, Suru-verb, Transitive",
+    "pronunciation": "ついやす",
+    "explanation": "費やす means to spend or to use up resources such as time, money, or effort. It implies a deliberate allocation of something valuable towards a particular purpose or activity.",
+    "examples": [
+      {
+        "sentence": "彼は趣味に多くの時間を費やしている。",
+        "translation": "He spends a lot of time on his hobbies."
+      },
+      {
+        "sentence": "プロジェクトに予算を費やす必要があります。",
+        "translation": "It is necessary to spend the budget on the project."
+      },
+      {
+        "sentence": "彼女は旅行にお金を費やした。",
+        "translation": "She spent money on traveling."
+      }
+    ]
+  },
+  {
+    "word": "税関",
+    "type": "Noun",
+    "pronunciation": "ぜいかん",
+    "explanation": "税関 refers to customs, the government agency that regulates the flow of goods in and out of a country, including the collection of duties and taxes on imports and exports.",
+    "examples": [
+      {
+        "sentence": "空港の税関を通過する必要があります。",
+        "translation": "You need to pass through customs at the airport."
+      },
+      {
+        "sentence": "税関で荷物が検査された。",
+        "translation": "My luggage was inspected at customs."
+      },
+      {
+        "sentence": "海外からの品物は税関で確認されます。",
+        "translation": "Items from overseas are checked at customs."
+      }
+    ]
+  },
+  {
+    "word": "十露盤",
+    "type": "Noun",
+    "pronunciation": "じゅうろばん",
+    "explanation": "十露盤 (じゅうろばん) refers to a traditional Japanese instrument used for measuring the amount of rainwater collected. It is a simple yet effective tool, often made of metal or ceramic, with a graduated scale for reading the water level.",
+    "examples": [
+      {
+        "sentence": "十露盤を使って、雨の量を測定しました。",
+        "translation": "I used the rain gauge to measure the amount of rain."
+      },
+      {
+        "sentence": "農家は十露盤を設置して、降水量を記録しています。",
+        "translation": "Farmers set up rain gauges to record the rainfall."
+      },
+      {
+        "sentence": "この十露盤は、昔から使われているものです。",
+        "translation": "This rain gauge has been used since ancient times."
+      }
+    ]
+  },
+  {
+    "word": "供える",
+    "type": "Verb, u-verb, Transitive",
+    "pronunciation": "そなえる",
+    "explanation": "供える means to offer or present something, often in a ceremonial context, such as offering food or items to the spirits of the deceased or during religious rituals.",
+    "examples": [
+      {
+        "sentence": "彼は仏壇に花を供えた。",
+        "translation": "He offered flowers at the altar."
+      },
+      {
+        "sentence": "私たちは祖先に感謝の気持ちを込めて食べ物を供えた。",
+        "translation": "We offered food to our ancestors with gratitude."
+      },
+      {
+        "sentence": "祭りのために神様に酒を供えます。",
+        "translation": "We offer sake to the gods for the festival."
+      }
+    ]
+  },
+  {
+    "word": "税別",
+    "type": "Noun",
+    "pronunciation": "ぜいべつ",
+    "explanation": "税別 refers to a price that does not include tax (shibuya). It is commonly used in pricing to indicate that the stated amount is exclusive of consumption tax, which is added separately.",
+    "examples": [
+      {
+        "sentence": "この商品は税別価格です。",
+        "translation": "This product is priced excluding tax."
+      },
+      {
+        "sentence": "税別での表示は顧客にとって重要です。",
+        "translation": "Displaying prices excluding tax is important for customers."
+      },
+      {
+        "sentence": "税別の料金は、実際の支払い額に影響します。",
+        "translation": "The tax-excluded price affects the actual amount to be paid."
+      }
+    ]
+  },
+  {
+    "word": "首相",
+    "type": "Noun",
+    "pronunciation": "しゅしょう",
+    "explanation": "首相 (shushou) refers to the prime minister, the head of government in Japan. The prime minister is responsible for running the government and making important decisions regarding national policy.",
+    "examples": [
+      {
+        "sentence": "日本の首相は国民の信任を受けている。",
+        "translation": "The Prime Minister of Japan has the trust of the people."
+      },
+      {
+        "sentence": "首相は国際会議に出席する予定です。",
+        "translation": "The Prime Minister is scheduled to attend the international conference."
+      },
+      {
+        "sentence": "新しい首相が選ばれました。",
+        "translation": "A new Prime Minister has been elected."
+      }
+    ]
+  },
+  {
+    "word": "〜つつある",
+    "type": "Verb, U-verb",
+    "pronunciation": "つつある",
+    "explanation": "〜つつある is a grammatical structure used in Japanese to indicate that an action is currently in progress or continuing to happen. It is often used to describe ongoing states or actions that are being carried out over time.",
+    "examples": [
+      {
+        "sentence": "彼は勉強を続けつつある。",
+        "translation": "He is continuing to study."
+      },
+      {
+        "sentence": "環境問題について考えつつある。",
+        "translation": "I am thinking about environmental issues."
+      },
+      {
+        "sentence": "私たちは改善を進めつつある。",
+        "translation": "We are progressing in making improvements."
+      }
+    ]
+  },
+  {
+    "word": "締めくくる",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "しめくくる",
+    "explanation": "締めくくる means to conclude or wrap up something, such as a speech, event, or piece of writing. It involves bringing something to a close or finalizing it.",
+    "examples": [
+      {
+        "sentence": "彼は会議を締めくくるためのスピーチを準備した。",
+        "translation": "He prepared a speech to conclude the meeting."
+      },
+      {
+        "sentence": "この章で物語を締めくくります。",
+        "translation": "We will wrap up the story in this chapter."
+      },
+      {
+        "sentence": "彼女はプロジェクトを締めくくるのが得意だ。",
+        "translation": "She is good at concluding projects."
+      }
+    ]
+  },
+  {
+    "word": "漕ぎ",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "こぎ",
+    "explanation": "漕ぎ refers to the act of rowing or paddling, commonly associated with operating a boat or kayak. It involves the use of oars or paddles to propel a watercraft forward.",
+    "examples": [
+      {
+        "sentence": "彼はボートを漕ぐのが得意です。",
+        "translation": "He is good at rowing a boat."
+      },
+      {
+        "sentence": "漕ぎを始める前に、ライフジャケットを着なければなりません。",
+        "translation": "You must wear a life jacket before starting to row."
+      },
+      {
+        "sentence": "湖で漕ぎを楽しむのはとてもリラックスできます。",
+        "translation": "Enjoying rowing on the lake is very relaxing."
+      }
+    ]
+  },
+  {
+    "word": "〜最中だ",
+    "type": "Expression",
+    "pronunciation": "さいちゅうだ",
+    "explanation": "〜最中だ is used to indicate that someone is in the midst of doing something. It emphasizes that an action is currently ongoing at the moment being referred to.",
+    "examples": [
+      {
+        "sentence": "今、勉強している最中だ。",
+        "translation": "I am in the middle of studying right now."
+      },
+      {
+        "sentence": "彼は食事の最中に電話がかかってきた。",
+        "translation": "He received a call while he was in the middle of a meal."
+      },
+      {
+        "sentence": "映画を見ている最中に寝てしまった。",
+        "translation": "I fell asleep while I was watching a movie."
+      }
+    ]
+  },
+  {
+    "word": "売ってしまいたい",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "うってしまいたい",
+    "explanation": "売ってしまいたい is a phrase that expresses the desire to sell something completely or thoroughly. It combines the verb 売る (to sell) with the auxiliary verb しまう, which indicates completion or finality, and はい (want to).",
+    "examples": [
+      {
+        "sentence": "私はこの古い車を売ってしまいたい。",
+        "translation": "I want to completely sell this old car."
+      },
+      {
+        "sentence": "彼はその本を売ってしまいたいと思っている。",
+        "translation": "He is thinking that he wants to sell that book completely."
+      },
+      {
+        "sentence": "彼女は服を整理して、不要なものを売ってしまいたい。",
+        "translation": "She wants to sort her clothes and sell the unnecessary ones completely."
+      }
+    ]
+  },
+  {
+    "word": "猫に小判",
+    "type": "Noun",
+    "pronunciation": "ねこにこばん",
+    "explanation": "猫に小判 is a Japanese idiom that translates to 'a gold coin to a cat,' meaning giving something valuable to someone who doesn't appreciate it. It conveys the idea of offering something precious to someone who cannot use or understand its value.",
+    "examples": [
+      {
+        "sentence": "彼に高級な時計をあげても、猫に小判だよ。",
+        "translation": "Giving him an expensive watch is like giving a gold coin to a cat."
+      },
+      {
+        "sentence": "この本は彼には合わないから、猫に小判だ。",
+        "translation": "This book doesn't suit him, so it's like a gold coin to a cat."
+      },
+      {
+        "sentence": "彼女に高級料理を振る舞っても、猫に小判だと思った。",
+        "translation": "I thought serving her gourmet food was like giving a gold coin to a cat."
+      }
+    ]
+  },
+  {
+    "word": "猫の手も借りたいほどだ",
+    "type": "Phrase",
+    "pronunciation": "ねこのてもかりたいほどだ",
+    "explanation": "猫の手も借りたいほどだ is a Japanese expression that means being extremely busy or overwhelmed, to the point where one would even accept help from a cat. It emphasizes the speaker's need for assistance in a light-hearted manner.",
+    "examples": [
+      {
+        "sentence": "今週は仕事が忙しくて、猫の手も借りたいほどだ。",
+        "translation": "This week is so busy that I would even accept help from a cat."
+      },
+      {
+        "sentence": "彼は試験勉強で猫の手も借りたいほどの忙しさだ。",
+        "translation": "He is so busy studying for exams that he would even accept help from a cat."
+      },
+      {
+        "sentence": "このプロジェクトの締切が迫っていて、猫の手も借りたいほどの状況だ。",
+        "translation": "The deadline for this project is approaching, and I am in a situation where I would even accept help from a cat."
+      }
+    ]
+  }
+]

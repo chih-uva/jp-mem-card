@@ -1,0 +1,182 @@
+[
+  {
+    "word": "配る",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "くばる",
+    "explanation": "配る means to distribute or hand out something to others. It is often used in the context of distributing materials, information, or items to a group of people.",
+    "examples": [
+      {
+        "sentence": "先生はプリントを配りました。",
+        "translation": "The teacher distributed the handouts."
+      },
+      {
+        "sentence": "彼はチラシを配るのが得意です。",
+        "translation": "He is good at handing out flyers."
+      },
+      {
+        "sentence": "友達にお菓子を配りました。",
+        "translation": "I handed out snacks to my friends."
+      }
+    ]
+  },
+  {
+    "word": "贈答品",
+    "type": "Noun",
+    "pronunciation": "ぞうとうひん",
+    "explanation": "贈答品 refers to gifts or presents that are given to others, often in the context of expressing gratitude, congratulations, or sympathy. These items are typically exchanged during special occasions or ceremonies.",
+    "examples": [
+      {
+        "sentence": "結婚式ではたくさんの贈答品が贈られました。",
+        "translation": "Many gifts were given at the wedding."
+      },
+      {
+        "sentence": "彼は昇進のお祝いに贈答品を用意しました。",
+        "translation": "He prepared gifts to celebrate the promotion."
+      },
+      {
+        "sentence": "友達の出産のお祝いに贈答品を選びました。",
+        "translation": "I chose a gift to celebrate my friend's childbirth."
+      }
+    ]
+  },
+  {
+    "word": "渡る",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "わたる",
+    "explanation": "渡る means 'to cross' or 'to pass over', typically used in the context of crossing a street, river, or other boundaries. It indicates movement from one side to another.",
+    "examples": [
+      {
+        "sentence": "彼は橋を渡った。",
+        "translation": "He crossed the bridge."
+      },
+      {
+        "sentence": "信号が青の時に渡ります。",
+        "translation": "I will cross when the signal is green."
+      },
+      {
+        "sentence": "川を渡るのは危険です。",
+        "translation": "It is dangerous to cross the river."
+      }
+    ]
+  },
+  {
+    "word": "気を配る",
+    "type": "Suru-verb",
+    "pronunciation": "きをくばる",
+    "explanation": "気を配る means to be attentive, to be mindful, or to pay attention to someone's needs or feelings. It involves being considerate and showing care for others in various situations.",
+    "examples": [
+      {
+        "sentence": "彼はいつも周りの人に気を配っている。",
+        "translation": "He is always attentive to the people around him."
+      },
+      {
+        "sentence": "気を配らないと、友達を傷つけてしまうかもしれない。",
+        "translation": "If you are not mindful, you might hurt your friends."
+      },
+      {
+        "sentence": "会議中、彼女は参加者の反応に気を配っていた。",
+        "translation": "During the meeting, she was paying attention to the participants' reactions."
+      }
+    ]
+  },
+  {
+    "word": "届ける",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "とどける",
+    "explanation": "届ける means 'to deliver' or 'to send'. It is used when something is being sent to someone or when one is making something known to someone.",
+    "examples": [
+      {
+        "sentence": "彼は手紙を届けました。",
+        "translation": "He delivered the letter."
+      },
+      {
+        "sentence": "この荷物は明日届けられます。",
+        "translation": "This package will be delivered tomorrow."
+      },
+      {
+        "sentence": "重要な情報を届ける必要があります。",
+        "translation": "I need to deliver important information."
+      }
+    ]
+  },
+  {
+    "word": "送り届ける",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "おくりとどける",
+    "explanation": "送り届ける means to deliver something to someone or to send someone to a destination. It emphasizes the act of delivering or seeing someone off to a specified location.",
+    "examples": [
+      {
+        "sentence": "彼は友達を駅まで送り届けた。",
+        "translation": "He delivered his friend to the station."
+      },
+      {
+        "sentence": "荷物を送り届けるのを手伝ってくれますか？",
+        "translation": "Can you help me deliver the package?"
+      },
+      {
+        "sentence": "彼女は毎日子供を学校に送り届ける。",
+        "translation": "She delivers her child to school every day."
+      }
+    ]
+  },
+  {
+    "word": "〜届け",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "とどけ",
+    "explanation": "〜届け refers to the act of delivering or sending something, often used in the context of delivering documents, packages, or messages. It emphasizes the action of ensuring that something reaches its intended recipient.",
+    "examples": [
+      {
+        "sentence": "郵便局で荷物を届けます。",
+        "translation": "I will deliver the package at the post office."
+      },
+      {
+        "sentence": "彼は毎朝、新聞を届けます。",
+        "translation": "He delivers the newspaper every morning."
+      },
+      {
+        "sentence": "この書類は急いで届ける必要があります。",
+        "translation": "This document needs to be delivered urgently."
+      }
+    ]
+  },
+  {
+    "word": "手招き",
+    "type": "Noun",
+    "pronunciation": "てまねき",
+    "explanation": "手招き refers to the gesture of beckoning someone with a hand signal, often to invite them over or to indicate that they should come closer.",
+    "examples": [
+      {
+        "sentence": "彼は手招きして私を呼んだ。",
+        "translation": "He beckoned me over."
+      },
+      {
+        "sentence": "手招きで子供たちを集めた。",
+        "translation": "I gathered the children with a hand signal."
+      },
+      {
+        "sentence": "彼女は手招きで友達を招待した。",
+        "translation": "She invited her friend over with a beckoning gesture."
+      }
+    ]
+  },
+  {
+    "word": "招待状",
+    "type": "Noun",
+    "pronunciation": "しょうたいじょう",
+    "explanation": "招待状 refers to an invitation letter or card sent to invite someone to an event, such as a party, wedding, or gathering. It typically includes details about the event, such as the date, time, location, and any specific instructions for the guests.",
+    "examples": [
+      {
+        "sentence": "友達に結婚式の招待状を送りました。",
+        "translation": "I sent an invitation to my friend for the wedding."
+      },
+      {
+        "sentence": "招待状には RSVP の記入をお願いしています。",
+        "translation": "The invitation asks for an RSVP."
+      },
+      {
+        "sentence": "彼はパーティーの招待状を受け取った。",
+        "translation": "He received the invitation to the party."
+      }
+    ]
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "word": "日給",
+    "type": "Noun",
+    "pronunciation": "にっきゅう",
+    "explanation": "日給 refers to a daily wage or daily pay, typically used in the context of hourly jobs or temporary work where payment is made on a daily basis.",
+    "examples": [
+      {
+        "sentence": "彼は日給で働いている。",
+        "translation": "He works for a daily wage."
+      },
+      {
+        "sentence": "日給が高い仕事を探しています。",
+        "translation": "I am looking for a job with a high daily pay."
+      },
+      {
+        "sentence": "このアルバイトは日給です。",
+        "translation": "This part-time job pays daily."
+      }
+    ]
+  },
+  {
+    "word": "月給",
+    "type": "Noun",
+    "pronunciation": "げっきゅう",
+    "explanation": "月給 refers to a monthly salary or wage that employees receive. It is a fixed amount paid to employees on a regular monthly basis, often used in the context of full-time employment.",
+    "examples": [
+      {
+        "sentence": "彼の月給は高いです。",
+        "translation": "His monthly salary is high."
+      },
+      {
+        "sentence": "月給が支払われるのは毎月の初めです。",
+        "translation": "The monthly salary is paid at the beginning of each month."
+      },
+      {
+        "sentence": "彼女は月給の増額を要求しました。",
+        "translation": "She requested an increase in her monthly salary."
+      }
+    ]
+  },
+  {
+    "word": "収まる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "おさまる",
+    "explanation": "収まる refers to the state of being contained, settled, or fitting into a space. It can describe physical objects fitting into a container or metaphorically refer to situations resolving themselves.",
+    "examples": [
+      {
+        "sentence": "箱に本が収まる。",
+        "translation": "The books fit into the box."
+      },
+      {
+        "sentence": "問題が収まった。",
+        "translation": "The problem has been resolved."
+      },
+      {
+        "sentence": "彼の気持ちが収まらない。",
+        "translation": "His feelings are unsettled."
+      }
+    ]
+  },
+  {
+    "word": "扱い",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "あつかい",
+    "explanation": "扱い refers to the handling or treatment of something or someone. It involves the manner in which someone or something is dealt with or managed.",
+    "examples": [
+      {
+        "sentence": "彼の扱いには注意が必要です。",
+        "translation": "Care is needed in handling him."
+      },
+      {
+        "sentence": "この商品は丁寧な扱いが求められます。",
+        "translation": "This product requires careful handling."
+      },
+      {
+        "sentence": "彼女は子供の扱いが上手です。",
+        "translation": "She is good at handling children."
+      }
+    ]
+  },
+  {
+    "word": "扱う",
+    "type": "Verb, U-verb, Transitive",
+    "pronunciation": "あつかう",
+    "explanation": "扱う means to handle, deal with, or treat something. It refers to the management or manipulation of objects, situations, or people, often requiring skill or care.",
+    "examples": [
+      {
+        "sentence": "この機械は簡単に扱えます。",
+        "translation": "This machine is easy to handle."
+      },
+      {
+        "sentence": "彼は子供たちを上手に扱うことができる。",
+        "translation": "He can handle children well."
+      },
+      {
+        "sentence": "この問題をどう扱うか考えています。",
+        "translation": "I am thinking about how to deal with this issue."
+      }
+    ]
+  },
+  {
+    "word": "写真に収める",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "しゃしんにおさめる",
+    "explanation": "写真に収める means to capture or include something in a photograph. It refers to the act of taking a picture of a subject, often with the intent of preserving a moment or memory.",
+    "examples": [
+      {
+        "sentence": "彼は美しい風景を写真に収めた。",
+        "translation": "He captured the beautiful scenery in a photograph."
+      },
+      {
+        "sentence": "私たちは家族の思い出を写真に収める。",
+        "translation": "We capture family memories in photographs."
+      },
+      {
+        "sentence": "その瞬間を写真に収めることができて嬉しい。",
+        "translation": "I'm glad I was able to capture that moment in a photograph."
+      }
+    ]
+  },
+  {
+    "word": "収集",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "しゅうしゅう",
+    "explanation": "収集 refers to the act of collecting or gathering items, such as data, objects, or information. It implies a systematic approach to acquiring various things over time.",
+    "examples": [
+      {
+        "sentence": "彼は古いコインの収集をしています。",
+        "translation": "He is collecting old coins."
+      },
+      {
+        "sentence": "データの収集は調査の重要な部分です。",
+        "translation": "Data collection is an important part of the research."
+      },
+      {
+        "sentence": "彼女の趣味は切手の収集です。",
+        "translation": "Her hobby is collecting stamps."
+      }
+    ]
+  },
+  {
+    "word": "FX",
+    "type": "Noun",
+    "pronunciation": "エフエックス",
+    "explanation": "FX refers to foreign exchange, which is the market for trading currencies. It involves the buying and selling of different currencies and is one of the largest financial markets in the world.",
+    "examples": [
+      {
+        "sentence": "FX市場は非常に流動的です。",
+        "translation": "The FX market is very liquid."
+      },
+      {
+        "sentence": "彼はFX取引を始めたばかりです。",
+        "translation": "He has just started trading FX."
+      },
+      {
+        "sentence": "FXの分析にはテクニカルとファンダメンタルの両方が必要です。",
+        "translation": "FX analysis requires both technical and fundamental analysis."
+      }
+    ]
+  },
+  {
+    "word": "支出",
+    "type": "Noun",
+    "pronunciation": "ししゅつ",
+    "explanation": "支出 refers to the act of spending money or expenses incurred by an individual or organization. It encompasses all forms of expenditure, including daily expenses, bills, and other financial outflows.",
+    "examples": [
+      {
+        "sentence": "今月の支出が予算を超えました。",
+        "translation": "This month's expenses exceeded the budget."
+      },
+      {
+        "sentence": "彼は旅行の支出を計画しています。",
+        "translation": "He is planning the expenses for the trip."
+      },
+      {
+        "sentence": "支出を抑えるために、無駄遣いを減らす必要があります。",
+        "translation": "To reduce expenses, we need to cut down on unnecessary spending."
+      }
+    ]
+  },
+  {
+    "word": "支配人",
+    "type": "Noun",
+    "pronunciation": "しはいにん",
+    "explanation": "支配人 refers to a manager or person in charge, typically in a business or organization. This term is commonly used in contexts such as hotels, restaurants, or other establishments where there is a need for oversight and management.",
+    "examples": [
+      {
+        "sentence": "ホテルの支配人はお客様を迎える準備をしています。",
+        "translation": "The hotel manager is preparing to welcome the guests."
+      },
+      {
+        "sentence": "支配人は新しいスタッフのトレーニングを行った。",
+        "translation": "The manager conducted training for the new staff."
+      },
+      {
+        "sentence": "彼はそのレストランの支配人として働いている。",
+        "translation": "He works as the manager of that restaurant."
+      }
+    ]
+  },
+  {
+    "word": "議事録",
+    "type": "Noun",
+    "pronunciation": "ぎじろく",
+    "explanation": "議事録 refers to the official record or minutes of a meeting, which documents the discussions, decisions, and actions taken during that meeting. It serves as a reference for participants and stakeholders.",
+    "examples": [
+      {
+        "sentence": "会議の議事録を作成しました。",
+        "translation": "I prepared the minutes of the meeting."
+      },
+      {
+        "sentence": "議事録は後で確認できます。",
+        "translation": "The minutes can be reviewed later."
+      },
+      {
+        "sentence": "議事録を取ることは重要です。",
+        "translation": "Taking minutes is important."
+      }
+    ]
+  },
+  {
+    "word": "経費",
+    "type": "Noun",
+    "pronunciation": "けいひ",
+    "explanation": "経費 refers to expenses or costs incurred in the course of business operations or other activities. It includes various types of expenditures necessary for running a company or project.",
+    "examples": [
+      {
+        "sentence": "プロジェクトの経費を管理する必要があります。",
+        "translation": "We need to manage the project's expenses."
+      },
+      {
+        "sentence": "経費削減は企業の重要な課題です。",
+        "translation": "Cost reduction is an important issue for companies."
+      },
+      {
+        "sentence": "旅行の経費は会社が負担します。",
+        "translation": "The company will cover the travel expenses."
+      }
+    ]
+  },
+  {
+    "word": "賛同",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "さんどう",
+    "explanation": "賛同 refers to the act of agreeing with or supporting someone's opinion, idea, or proposal. It signifies a positive response to a suggestion or viewpoint.",
+    "examples": [
+      {
+        "sentence": "彼の提案に賛同しました。",
+        "translation": "I agreed with his proposal."
+      },
+      {
+        "sentence": "多くの人がその意見に賛同している。",
+        "translation": "Many people support that opinion."
+      },
+      {
+        "sentence": "彼女の考えに賛同する必要がある。",
+        "translation": "We need to agree with her idea."
+      }
+    ]
+  },
+  {
+    "word": "右辺",
+    "type": "Noun",
+    "pronunciation": "うへん",
+    "explanation": "右辺 refers to the right side of an equation or expression in mathematics. It is used to denote the part of the equation that appears to the right of the equal sign.",
+    "examples": [
+      {
+        "sentence": "この方程式の右辺は3x + 2です。",
+        "translation": "The right side of this equation is 3x + 2."
+      },
+      {
+        "sentence": "右辺を整理する必要があります。",
+        "translation": "We need to simplify the right side."
+      },
+      {
+        "sentence": "左辺と右辺が等しいことを確認してください。",
+        "translation": "Please confirm that the left side and the right side are equal."
+      }
+    ]
+  },
+  {
+    "word": "左辺",
+    "type": "Noun",
+    "pronunciation": "さへん",
+    "explanation": "左辺 refers to the left-hand side of an equation or expression in mathematics. It is commonly used in mathematical contexts to denote the part of an equation that appears to the left of the equality sign.",
+    "examples": [
+      {
+        "sentence": "この方程式の左辺を計算してください。",
+        "translation": "Please calculate the left-hand side of this equation."
+      },
+      {
+        "sentence": "左辺と右辺が等しい場合、方程式は成立します。",
+        "translation": "If the left-hand side and the right-hand side are equal, the equation holds true."
+      },
+      {
+        "sentence": "左辺に変数を置くことで、解を求めやすくなる。",
+        "translation": "By placing the variable on the left-hand side, it becomes easier to find the solution."
+      }
+    ]
+  },
+  {
+    "word": "温厚な",
+    "type": "Adjective, Na-adj",
+    "pronunciation": "おんこうな",
+    "explanation": "温厚な describes a person who is gentle, mild-mannered, and easygoing. It conveys a sense of calmness and kindness in their demeanor, making them approachable and pleasant to be around.",
+    "examples": [
+      {
+        "sentence": "彼は温厚な性格で、誰とでも仲良くなれる。",
+        "translation": "He has a gentle personality and can get along with anyone."
+      },
+      {
+        "sentence": "温厚な人々がこの町を特別な場所にしている。",
+        "translation": "The gentle people make this town a special place."
+      },
+      {
+        "sentence": "温厚な態度で問題を解決することが大切だ。",
+        "translation": "It is important to solve problems with a mild-mannered attitude."
+      }
+    ]
+  },
+  {
+    "word": "好かれる",
+    "type": "Verb, Ru-verb, Intransitive",
+    "pronunciation": "すかれる",
+    "explanation": "好かれる is the passive form of the verb 好く (すく), which means 'to be liked' or 'to be favored'. It indicates that someone is liked by others.",
+    "examples": [
+      {
+        "sentence": "彼はみんなに好かれています。",
+        "translation": "He is liked by everyone."
+      },
+      {
+        "sentence": "彼女はその映画に好かれている。",
+        "translation": "She is favored by that movie."
+      },
+      {
+        "sentence": "彼の優しさが多くの人に好かれています。",
+        "translation": "His kindness is liked by many people."
+      }
+    ]
+  },
+  {
+    "word": "対になる",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "たいになる",
+    "explanation": "対になる refers to the state of being paired or matched with something else. It indicates that two items or concepts are complementary or corresponding to each other.",
+    "examples": [
+      {
+        "sentence": "この二つの作品は対になっています。",
+        "translation": "These two pieces are paired with each other."
+      },
+      {
+        "sentence": "彼と彼女はいつも対になるように行動します。",
+        "translation": "He and she always act in a way that complements each other."
+      },
+      {
+        "sentence": "色と形が対になるデザインが魅力的です。",
+        "translation": "A design where color and shape complement each other is attractive."
+      }
+    ]
+  },
+  {
+    "word": "議員",
+    "type": "Noun",
+    "pronunciation": "ぎいん",
+    "explanation": "議員 refers to a member of a legislative body, such as a parliament or city council, who is elected to represent the people and participate in the creation and passing of laws.",
+    "examples": [
+      {
+        "sentence": "彼は新しい議員として初めての会議に出席した。",
+        "translation": "He attended his first meeting as a new member of the legislature."
+      },
+      {
+        "sentence": "議員は市民の声を代弁する役割があります。",
+        "translation": "Members of the legislature have the role of representing the voices of the citizens."
+      },
+      {
+        "sentence": "議員の選挙は来月に行われる予定です。",
+        "translation": "The election for members of the legislature is scheduled for next month."
+      }
+    ]
+  },
+  {
+    "word": "自画自賛",
+    "type": "Noun",
+    "pronunciation": "じがじさん",
+    "explanation": "自画自賛 refers to the act of praising oneself or one's own work, often implying self-satisfaction or self-promotion. It can carry a connotation of arrogance or lack of humility.",
+    "examples": [
+      {
+        "sentence": "彼は自画自賛が好きなタイプだ。",
+        "translation": "He is the type who loves to praise himself."
+      },
+      {
+        "sentence": "自画自賛は時に周囲の反感を買うことがある。",
+        "translation": "Self-praise can sometimes lead to resentment from others."
+      },
+      {
+        "sentence": "彼女の自画自賛は、彼女の努力を反映している。",
+        "translation": "Her self-praise reflects her efforts."
+      }
+    ]
+  },
+  {
+    "word": "可決",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "かけつ",
+    "explanation": "可決 refers to the act of approval or resolution, especially in a legislative or formal context. It indicates that a proposal or motion has been accepted or passed by a vote.",
+    "examples": [
+      {
+        "sentence": "その法案は可決されました。",
+        "translation": "The bill has been approved."
+      },
+      {
+        "sentence": "委員会は提案を可決しました。",
+        "translation": "The committee approved the proposal."
+      },
+      {
+        "sentence": "可決に必要な票数は十分でした。",
+        "translation": "The number of votes needed for approval was sufficient."
+      }
+    ]
+  },
+  {
+    "word": "法案",
+    "type": "Noun",
+    "pronunciation": "ほうあん",
+    "explanation": "法案 refers to a bill or draft of a law that is proposed for discussion and approval in a legislative body. It represents a formal proposal to create, amend, or repeal laws.",
+    "examples": [
+      {
+        "sentence": "新しい法案が国会で審議されています。",
+        "translation": "A new bill is being discussed in the National Diet."
+      },
+      {
+        "sentence": "法案が通過するためには、議会の多数の支持が必要です。",
+        "translation": "In order for a bill to pass, it needs the support of a majority in the parliament."
+      },
+      {
+        "sentence": "彼はその法案に強く反対しています。",
+        "translation": "He strongly opposes that bill."
+      }
+    ]
+  },
+  {
+    "word": "通過",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "つうか",
+    "explanation": "通過 refers to the act of passing through or going past something, often used in contexts like transportation or processes where something moves from one place to another without stopping.",
+    "examples": [
+      {
+        "sentence": "電車が駅を通過しました。",
+        "translation": "The train passed through the station."
+      },
+      {
+        "sentence": "この書類は審査を通過する必要があります。",
+        "translation": "This document needs to pass through the review."
+      },
+      {
+        "sentence": "彼は試験を無事に通過した。",
+        "translation": "He successfully passed the exam."
+      }
+    ]
+  },
+  {
+    "word": "出来事",
+    "type": "Noun",
+    "pronunciation": "できごと",
+    "explanation": "出来事 refers to an event or occurrence, often something notable or significant that has happened. It can encompass a wide range of incidents, from everyday happenings to historical events.",
+    "examples": [
+      {
+        "sentence": "先週、面白い出来事がありました。",
+        "translation": "There was an interesting event last week."
+      },
+      {
+        "sentence": "その出来事は多くの人に影響を与えました。",
+        "translation": "That event had an impact on many people."
+      },
+      {
+        "sentence": "出来事を記録することは重要です。",
+        "translation": "It is important to record events."
+      }
+    ]
+  },
+  {
+    "word": "公的",
+    "type": "Noun, Adjective (na-adj)",
+    "pronunciation": "こうてき",
+    "explanation": "公的 refers to something that is public or official, related to the state or government. It is often used to describe actions, institutions, or matters that pertain to the public sphere.",
+    "examples": [
+      {
+        "sentence": "公的な機関がこの問題に対処しています。",
+        "translation": "The public institution is addressing this issue."
+      },
+      {
+        "sentence": "彼は公的な場でスピーチをしました。",
+        "translation": "He gave a speech in a public setting."
+      },
+      {
+        "sentence": "公的サービスは市民にとって重要です。",
+        "translation": "Public services are important for citizens."
+      }
+    ]
+  },
+  {
+    "word": "来日",
+    "type": "Noun",
+    "pronunciation": "らいにち",
+    "explanation": "来日 refers to the act of coming to Japan, typically used in the context of someone visiting Japan from another country for a short period. It can also denote the arrival of notable figures or guests.",
+    "examples": [
+      {
+        "sentence": "彼は来日したときに観光を楽しんだ。",
+        "translation": "He enjoyed sightseeing when he came to Japan."
+      },
+      {
+        "sentence": "来日計画を立てています。",
+        "translation": "I am making plans for my visit to Japan."
+      },
+      {
+        "sentence": "多くの外国人が来日して日本文化を学んでいる。",
+        "translation": "Many foreigners come to Japan to learn about Japanese culture."
+      }
+    ]
+  },
+  {
+    "word": "〜に際して",
+    "type": "Expression",
+    "pronunciation": "にさいして",
+    "explanation": "〜に際して is a phrase used to indicate a situation or occasion during which something occurs. It often implies that something is being done in relation to an event or circumstance.",
+    "examples": [
+      {
+        "sentence": "新しいプロジェクトに際して、チームを再編成する必要があります。",
+        "translation": "We need to reorganize the team in relation to the new project."
+      },
+      {
+        "sentence": "旅行に際して、いくつかの準備をしなければならない。",
+        "translation": "I have to make some preparations in relation to the trip."
+      },
+      {
+        "sentence": "卒業式に際して、特別なスピーチが用意されている。",
+        "translation": "A special speech is prepared for the occasion of the graduation ceremony."
+      }
+    ]
+  },
+  {
+    "word": "〜にあたって",
+    "type": "Expression",
+    "pronunciation": "にあたって",
+    "explanation": "〜にあたって is a phrase used to indicate a situation or occasion when something happens or is done, often implying that it is a suitable or pertinent time to take action or make a decision.",
+    "examples": [
+      {
+        "sentence": "新しいプロジェクトにあたって、チーム全員で話し合った。",
+        "translation": "In light of the new project, the entire team discussed."
+      },
+      {
+        "sentence": "卒業式にあたって、感謝の気持ちを述べたい。",
+        "translation": "I would like to express my gratitude on the occasion of the graduation ceremony."
+      },
+      {
+        "sentence": "旅行にあたって、必要なものをリストアップした。",
+        "translation": "Before the trip, I made a list of necessary items."
+      }
+    ]
+  },
+  {
+    "word": "申し上げる",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "もうしあげる",
+    "explanation": "申し上げる is a humble expression meaning 'to say' or 'to tell.' It is used to convey respect and politeness when addressing someone of higher status or in formal situations.",
+    "examples": [
+      {
+        "sentence": "お礼を申し上げます。",
+        "translation": "I would like to express my gratitude."
+      },
+      {
+        "sentence": "彼に事情を申し上げました。",
+        "translation": "I explained the circumstances to him."
+      },
+      {
+        "sentence": "この件について申し上げることがあります。",
+        "translation": "I have something to say regarding this matter."
+      }
+    ]
+  },
+  {
+    "word": "慌てちゃダメ",
+    "type": "Phrase",
+    "pronunciation": "あわてちゃだめ",
+    "explanation": "慌てちゃダメ is a colloquial expression meaning 'don't panic' or 'don't rush.' It suggests that one should remain calm and not act hastily in a situation.",
+    "examples": [
+      {
+        "sentence": "試験中は慌てちゃダメだよ。",
+        "translation": "You shouldn't panic during the exam."
+      },
+      {
+        "sentence": "何があっても慌てちゃダメ。",
+        "translation": "No matter what happens, don't rush."
+      },
+      {
+        "sentence": "事故が起きたときは慌てちゃダメだ。",
+        "translation": "When an accident happens, you mustn't panic."
+      }
+    ]
+  },
+  {
+    "word": "目眩",
+    "type": "Noun",
+    "pronunciation": "めまい",
+    "explanation": "目眩 refers to a sensation of spinning or dizziness, often caused by various medical conditions or sudden movements. It can make a person feel unsteady or disoriented.",
+    "examples": [
+      {
+        "sentence": "彼は目眩がして倒れそうになった。",
+        "translation": "He felt dizzy and almost collapsed."
+      },
+      {
+        "sentence": "目眩がする時は、ゆっくり座って休むべきだ。",
+        "translation": "When you feel dizzy, you should sit down slowly and rest."
+      },
+      {
+        "sentence": "高所にいると目眩がすることがある。",
+        "translation": "Sometimes I feel dizzy when I'm at a high altitude."
+      }
+    ]
+  },
+  {
+    "word": "ビビット",
+    "type": "Noun",
+    "pronunciation": "びびっと",
+    "explanation": "ビビット is a loanword from English meaning 'vivid' or 'bright', often used to describe colors or appearances that are striking and eye-catching.",
+    "examples": [
+      {
+        "sentence": "この色はとてもビビットで目を引く。",
+        "translation": "This color is very vivid and eye-catching."
+      },
+      {
+        "sentence": "彼女のビビットな服装はパーティーで注目を集めた。",
+        "translation": "Her vivid outfit attracted attention at the party."
+      },
+      {
+        "sentence": "ビビットなデザインは、商品の売上を上げるのに役立つ。",
+        "translation": "A vivid design helps to boost product sales."
+      }
+    ]
+  },
+  {
+    "word": "いきなり",
+    "type": "Adverb",
+    "pronunciation": "いきなり",
+    "explanation": "いきなり is an adverb meaning 'suddenly' or 'abruptly'. It describes an action that occurs unexpectedly or without warning, often used to indicate a sudden change or event.",
+    "examples": [
+      {
+        "sentence": "彼はいきなり部屋に入ってきた。",
+        "translation": "He suddenly entered the room."
+      },
+      {
+        "sentence": "いきなり大きな声で叫んだ。",
+        "translation": "He suddenly shouted in a loud voice."
+      },
+      {
+        "sentence": "いきなりの雨に驚いた。",
+        "translation": "I was surprised by the sudden rain."
+      }
+    ]
+  },
+  {
+    "word": "〜(か)と思ったら",
+    "type": "Expression",
+    "pronunciation": "〜(か)とおもったら",
+    "explanation": "The expression 〜(か)と思ったら is used to convey surprise or realization about a situation that has changed suddenly or unexpectedly. It often follows a statement describing a prior belief or expectation before revealing a contrasting fact.",
+    "examples": [
+      {
+        "sentence": "彼は来ないと思ったら、突然現れた。",
+        "translation": "I thought he wasn't coming, but then he suddenly appeared."
+      },
+      {
+        "sentence": "雨が止んだかと思ったら、また降り始めた。",
+        "translation": "I thought the rain had stopped, but it started again."
+      },
+      {
+        "sentence": "試験が簡単だと思ったら、問題が難しかった。",
+        "translation": "I thought the exam would be easy, but the questions were difficult."
+      }
+    ]
+  },
+  {
+    "word": "〜か〜ないかうちに",
+    "type": "Expression",
+    "pronunciation": "かないかうちに",
+    "explanation": "〜か〜ないかうちに is a Japanese grammatical expression used to indicate that one action occurs immediately after another action, often highlighting the quick succession of events. It typically conveys a sense of surprise or the unexpected nature of the following action.",
+    "examples": [
+      {
+        "sentence": "彼が部屋に入ったか入らないかうちに、電話が鳴った。",
+        "translation": "Just as he entered the room, the phone rang."
+      },
+      {
+        "sentence": "雨が降り出したか降り出さないかうちに、彼は傘を持って出かけた。",
+        "translation": "Just as it started to rain, he went out with an umbrella."
+      },
+      {
+        "sentence": "彼女が笑ったか笑わないかうちに、みんなも笑い出した。",
+        "translation": "As soon as she laughed, everyone else started laughing too."
+      }
+    ]
+  },
+  {
+    "word": "ビンボゆすり",
+    "type": "Noun",
+    "pronunciation": "びんぼゆすり",
+    "explanation": "ビンボゆすり refers to the act of shaking down or extorting money from someone, often in a coercive manner. It typically implies a form of pressure or intimidation to obtain funds from another person.",
+    "examples": [
+      {
+        "sentence": "彼はビンボゆすりをしていたので、警察に捕まった。",
+        "translation": "He was extorting money, so he was caught by the police."
+      },
+      {
+        "sentence": "ビンボゆすりに遭ったら、すぐに助けを求めてください。",
+        "translation": "If you encounter extortion, please seek help immediately."
+      },
+      {
+        "sentence": "その町ではビンボゆすりが問題になっている。",
+        "translation": "Extortion has become a problem in that town."
+      }
+    ]
+  }
+]

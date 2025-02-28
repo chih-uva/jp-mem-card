@@ -1,0 +1,302 @@
+[
+  {
+    "word": "満ちる",
+    "type": "Verb, Ru-verb",
+    "pronunciation": "みちる",
+    "explanation": "満ちる means 'to be full' or 'to be filled'. It describes a state where something is completely occupied or overflowing, often used in contexts like emotions, water, or time.",
+    "examples": [
+      {
+        "sentence": "湖が雨で満ちている。",
+        "translation": "The lake is full due to the rain."
+      },
+      {
+        "sentence": "彼の心は喜びで満ちている。",
+        "translation": "His heart is filled with joy."
+      },
+      {
+        "sentence": "空は星で満ちていた。",
+        "translation": "The sky was filled with stars."
+      }
+    ]
+  },
+  {
+    "word": "満たす",
+    "type": "U-verb, Transitive",
+    "pronunciation": "みたす",
+    "explanation": "満たす means to fill or satisfy. It is often used in contexts where something is filled up or when a condition or requirement is fulfilled.",
+    "examples": [
+      {
+        "sentence": "彼はその要求を満たすために努力した。",
+        "translation": "He worked hard to meet that requirement."
+      },
+      {
+        "sentence": "ボトルを水で満たしてください。",
+        "translation": "Please fill the bottle with water."
+      },
+      {
+        "sentence": "彼女の笑顔は私の心を満たす。",
+        "translation": "Her smile fills my heart."
+      }
+    ]
+  },
+  {
+    "word": "満たされない頭の奥",
+    "type": "Noun",
+    "pronunciation": "みたされないあたまのおく",
+    "explanation": "満たされない頭の奥 refers to a state of a mind that feels unfulfilled or unsatisfied. It suggests a deeper, perhaps philosophical or emotional, emptiness or longing within one's thoughts or consciousness.",
+    "examples": [
+      {
+        "sentence": "彼は満たされない頭の奥で、人生の意味を考え続けている。",
+        "translation": "He continues to ponder the meaning of life in the depths of his unfulfilled mind."
+      },
+      {
+        "sentence": "満たされない頭の奥が、彼女を新しい挑戦へと駆り立てた。",
+        "translation": "The unfulfilled depths of her mind drove her to seek new challenges."
+      },
+      {
+        "sentence": "満たされない頭の奥から、創造的なアイデアが生まれることもある。",
+        "translation": "Sometimes, creative ideas emerge from the unfulfilled depths of the mind."
+      }
+    ]
+  },
+  {
+    "word": "熱気に満ちている",
+    "type": "Phrase",
+    "pronunciation": "ねっきにみちている",
+    "explanation": "熱気に満ちている means to be filled with heat or warmth, often referring to an atmosphere that is lively, enthusiastic, or charged with excitement.",
+    "examples": [
+      {
+        "sentence": "会場は熱気に満ちている。",
+        "translation": "The venue is filled with excitement."
+      },
+      {
+        "sentence": "彼のスピーチは熱気に満ちていた。",
+        "translation": "His speech was filled with passion."
+      },
+      {
+        "sentence": "イベントは熱気に満ちていて、参加者が興奮していた。",
+        "translation": "The event was filled with energy, and the participants were excited."
+      }
+    ]
+  },
+  {
+    "word": "やる気",
+    "type": "Noun",
+    "pronunciation": "やるき",
+    "explanation": "やる気 refers to the motivation or willingness to do something. It signifies a person's mindset or enthusiasm towards a task or goal.",
+    "examples": [
+      {
+        "sentence": "彼は新しいプロジェクトにやる気を出している。",
+        "translation": "He is motivated for the new project."
+      },
+      {
+        "sentence": "やる気がないと、仕事が進まない。",
+        "translation": "Without motivation, work doesn't progress."
+      },
+      {
+        "sentence": "やる気を持って取り組むことが大切です。",
+        "translation": "It's important to approach things with motivation."
+      }
+    ]
+  },
+  {
+    "word": "やる気満々",
+    "type": "Noun",
+    "pronunciation": "やるきまんまん",
+    "explanation": "やる気満々 refers to a strong motivation or enthusiasm to do something. It conveys a sense of eagerness and readiness to take on challenges or tasks with a positive attitude.",
+    "examples": [
+      {
+        "sentence": "彼は新しいプロジェクトにやる気満々だ。",
+        "translation": "He is full of enthusiasm for the new project."
+      },
+      {
+        "sentence": "やる気満々の学生たちが集まった。",
+        "translation": "Enthusiastic students gathered together."
+      },
+      {
+        "sentence": "やる気満々で仕事を始めた。",
+        "translation": "I started working with great motivation."
+      }
+    ]
+  },
+  {
+    "word": "ごちゃごちゃ",
+    "type": "Noun",
+    "pronunciation": "ごちゃごちゃ",
+    "explanation": "ごちゃごちゃ refers to a state of confusion, messiness, or disorder. It describes a situation where things are mixed up or jumbled together, often leading to a lack of clarity or organization.",
+    "examples": [
+      {
+        "sentence": "部屋がごちゃごちゃしている。",
+        "translation": "The room is messy."
+      },
+      {
+        "sentence": "彼の説明はごちゃごちゃしていて、わかりにくかった。",
+        "translation": "His explanation was confusing and hard to understand."
+      },
+      {
+        "sentence": "ごちゃごちゃした考えを整理する必要がある。",
+        "translation": "I need to organize my mixed-up thoughts."
+      }
+    ]
+  },
+  {
+    "word": "非常識",
+    "type": "Noun, I-adj",
+    "pronunciation": "ひじょうしき",
+    "explanation": "非常識 refers to a lack of common sense or being unreasonable. It describes behavior or ideas that are considered absurd or not in line with societal norms.",
+    "examples": [
+      {
+        "sentence": "彼の非常識な行動にみんな驚いた。",
+        "translation": "Everyone was surprised by his unreasonable behavior."
+      },
+      {
+        "sentence": "非常識な発言をする人は信頼できない。",
+        "translation": "A person who makes unreasonable statements cannot be trusted."
+      },
+      {
+        "sentence": "非常識な考え方を改めるべきだ。",
+        "translation": "We should change our unreasonable way of thinking."
+      }
+    ]
+  },
+  {
+    "word": "指摘する",
+    "type": "Suru-verb, Transitive",
+    "pronunciation": "してきする",
+    "explanation": "指摘する means to point out or indicate something, often referring to a mistake or an issue that needs attention. It is commonly used in contexts where someone brings attention to a problem or provides clarification.",
+    "examples": [
+      {
+        "sentence": "彼は私の誤りを指摘してくれた。",
+        "translation": "He pointed out my mistake."
+      },
+      {
+        "sentence": "先生が間違いを指摘した。",
+        "translation": "The teacher pointed out the errors."
+      },
+      {
+        "sentence": "この問題を指摘することが重要です。",
+        "translation": "It is important to point out this issue."
+      }
+    ]
+  },
+  {
+    "word": "批判",
+    "type": "Noun, Suru-verb",
+    "pronunciation": "ひはん",
+    "explanation": "批判 refers to the act of criticism or critique, often involving the evaluation of something's merits or faults. It can be used in various contexts, including art, literature, and social issues.",
+    "examples": [
+      {
+        "sentence": "彼の批判は非常に鋭い。",
+        "translation": "His criticism is very sharp."
+      },
+      {
+        "sentence": "この映画は多くの批判を受けた。",
+        "translation": "This movie received a lot of criticism."
+      },
+      {
+        "sentence": "彼女は自分の意見を批判することを恐れない。",
+        "translation": "She is not afraid to criticize her own opinions."
+      }
+    ]
+  },
+  {
+    "word": "責める",
+    "type": "Verb, Ru-verb, Transitive",
+    "pronunciation": "せめる",
+    "explanation": "責める means to blame, accuse, or reproach someone for something. It indicates holding someone responsible for a fault or error, often in a critical manner.",
+    "examples": [
+      {
+        "sentence": "彼は私を責める理由がない。",
+        "translation": "He has no reason to blame me."
+      },
+      {
+        "sentence": "彼女は自分の失敗を責めている。",
+        "translation": "She is blaming herself for her mistakes."
+      },
+      {
+        "sentence": "友達を責めるのは簡単だが、理解することが大切だ。",
+        "translation": "It's easy to blame a friend, but it's important to understand."
+      }
+    ]
+  },
+  {
+    "word": "兆す",
+    "type": "U-verb, Intransitive",
+    "pronunciation": "きざす",
+    "explanation": "兆す means to indicate or to be a sign of something, often used to refer to the emergence of a feeling or situation. It suggests the beginning or appearance of something.",
+    "examples": [
+      {
+        "sentence": "新しい時代が兆している。",
+        "translation": "A new era is beginning to emerge."
+      },
+      {
+        "sentence": "彼の言葉は希望が兆す瞬間だった。",
+        "translation": "His words were the moment when hope began to emerge."
+      },
+      {
+        "sentence": "春の訪れが兆し始めた。",
+        "translation": "The signs of spring's arrival have started to appear."
+      }
+    ]
+  },
+  {
+    "word": "ほんの小さな兆し",
+    "type": "Noun",
+    "pronunciation": "ほんのちいさなきざし",
+    "explanation": "ほんの小さな兆し refers to a very small sign or indication, suggesting a faint or subtle hint of something to come. It can be used in various contexts to describe early signs of change or development.",
+    "examples": [
+      {
+        "sentence": "彼の表情にはほんの小さな兆しが見えた。",
+        "translation": "A very small sign was visible in his expression."
+      },
+      {
+        "sentence": "経済の回復にはほんの小さな兆しがある。",
+        "translation": "There are very faint signs of economic recovery."
+      },
+      {
+        "sentence": "彼女の言葉にはほんの小さな兆しがあった。",
+        "translation": "There were very small signs in her words."
+      }
+    ]
+  },
+  {
+    "word": "〜て以来",
+    "type": "Phrase",
+    "pronunciation": "ていらい",
+    "explanation": "〜て以来 is a grammatical structure used to indicate that something has been the case since a certain point in time. It emphasizes the duration of time that has passed since that event or action occurred.",
+    "examples": [
+      {
+        "sentence": "日本に来て以来、ずっとここに住んでいます。",
+        "translation": "I have been living here since I came to Japan."
+      },
+      {
+        "sentence": "彼に会って以来、彼のことをずっと考えています。",
+        "translation": "I have been thinking about him since I met him."
+      },
+      {
+        "sentence": "雨が降って以来、涼しくなりました。",
+        "translation": "It has become cooler since it started raining."
+      }
+    ]
+  },
+  {
+    "word": "てからでなければ",
+    "type": "Phrase",
+    "pronunciation": "てからでなければ",
+    "explanation": "てからでなければ is a Japanese phrase used to indicate that something can only happen after a certain action has been completed. It emphasizes the conditional nature of the subsequent action based on the completion of the preceding one.",
+    "examples": [
+      {
+        "sentence": "宿題を終えてからでなければ、遊びに行けません。",
+        "translation": "I can't go out to play unless I finish my homework."
+      },
+      {
+        "sentence": "食事をしてからでなければ、映画を見に行きません。",
+        "translation": "I won't go to see a movie unless I have eaten."
+      },
+      {
+        "sentence": "運動をしてからでなければ、テレビを見ません。",
+        "translation": "I won't watch TV unless I have exercised."
+      }
+    ]
+  }
+]
